@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'latex/main.blg'
+[48] biber:340> INFO - === mié sep 16, 2026, 13:20:48
+[58] Biber.pm:419> INFO - Reading 'latex/main.bcf'
+[101] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[102] Biber.pm:979> INFO - Found 2 citekeys in bib section 1
+[102] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[118] Biber.pm:4419> INFO - Processing section 1
+[124] Biber.pm:4610> INFO - Looking for bibtex file './referencias/ref-l-DUEK.bib' for section 1
+[124] bibtex.pm:1713> INFO - LaTeX decoding ...
+[126] bibtex.pm:1519> INFO - Found BibTeX data source './referencias/ref-l-DUEK.bib'
+[152] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[152] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[152] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[157] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[157] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[157] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[159] bbl.pm:660> INFO - Writing 'latex/main.bbl' with encoding 'UTF-8'
+[160] bbl.pm:763> INFO - Output to latex/main.bbl

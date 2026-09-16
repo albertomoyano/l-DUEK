@@ -1,0 +1,92 @@
+%%GB:MAIN:1
+% ============================================================
+% main.tex — GENERADO POR gbpublisher
+% ------------------------------------------------------------
+% ARCHIVO DECLARATIVO. NO CONTIENE TEXTO DEL LIBRO: SOLO
+% DECLARA QUÉ SE COMPILA Y EN QUÉ ORDEN.
+%
+% LA LISTA DE PIEZAS SALE DE LA BASE, NO DE UN LISTADO DE LA
+% CARPETA. UN CANÓNICO QUE ESTÉ EN jats/ Y NO
+% ESTÉ DECLARADO EN EL PROYECTO NO ENTRA.
+%
+% LOS MARCADORES %%GB: SON CONTRATO CON LOS SCRIPTS EXTERNOS
+% DE PERSONALIZACIÓN, NO COMENTARIOS DECORATIVOS. %%GB:MAIN:1
+% ES LA VERSIÓN DEL FORMATO: UN SCRIPT QUE ENTIENDE LA 1 Y
+% ENCUENTRA UNA 2 DEBE FRENAR EN VEZ DE HACER UN REEMPLAZO A
+% MEDIAS.
+%
+% ESTE ARCHIVO Y TODO LO QUE DECLARA SON AUTÓNOMOS: LLEVANDO
+% LA CARPETA DEL PROYECTO A OTRA MÁQUINA CON TeX Live COMPLETO,
+% Y SIN gbpublisher, COMPILA. NINGUNA RUTA ABSOLUTA, NINGÚN
+% PAQUETE FUERA DE TeX Live, NINGÚN --shell-escape.
+% ============================================================
+
+\documentclass[twoside,openright]{book}
+
+%%GB:PREAMBULO:INICIO
+\input{preambulo-proyecto}
+\input{preambulo-contrato}
+\input{preambulo-estetica}
+\input{preambulo-hyperref}
+%%GB:PREAMBULO:FIN
+
+\gbRequiereContrato{1}
+
+%%GB:SELECCION:INICIO
+% PARA COMPILAR UNA SOLA PIEZA, DESCOMENTAR Y EDITAR.
+% ATENCIÓN: CON \includeonly LA PAGINACIÓN Y LAS REFERENCIAS
+% CRUZADAS SALEN DE LOS .aux EXISTENTES. SI EL LIBRO NUNCA SE
+% COMPILÓ ENTERO, LOS NÚMEROS ESTÁN MAL.
+% \includeonly{}
+%%GB:SELECCION:FIN
+
+%%GB:MODO:INICIO
+% COMPILACIÓN RÁPIDA SIN TOCAR EL PREÁMBULO.
+% \setkeys{Gin}{draft}
+% \overfullrule=5pt
+%%GB:MODO:FIN
+
+\begin{document}
+
+% ============================================================
+% CONTADORES EN PRELIMINARES Y POSLIMINARES
+% ------------------------------------------------------------
+% EN ESAS ZONAS \chapter NO EJECUTA \refstepcounter{chapter},
+% QUE ES LO ÚNICO QUE REINICIA section, footnote, figure, table
+% Y equation. SIN LOS AJUSTES DE ABAJO, UNA SECCIÓN DE
+% PRELIMINARES SALE «0.1», UNA DE POSLIMINARES CONTINÚA «1.3»,
+% LA NOTA DE LA SEGUNDA PIEZA ARRANCA EN 2 Y UNA FIGURA DE
+% POSLIMINARES SALE «Figura 1.2». ES CÓMO ESTÁ ESCRITA LA CLASE
+% book, NO UN ERROR DEL GENERADOR.
+% ============================================================
+
+%%GB:FRONT:INICIO
+\frontmatter
+\setcounter{secnumdepth}{0}
+\gbContadoresSinCapitulo
+\gbHojasCortesia
+\tableofcontents
+\setcounter{footnote}{0}
+\include{c-fm-10-INTRODUCCION}
+%%GB:FRONT:FIN
+
+%%GB:BODY:INICIO
+\mainmatter
+\setcounter{secnumdepth}{3}
+\include{c-bm-10-CODA}
+%%GB:BODY:FIN
+
+%%GB:BACK:INICIO
+\backmatter
+\setcounter{secnumdepth}{0}
+\gbContadoresSinCapitulo
+\setcounter{footnote}{0}
+\include{c-bm-11-CV-AUTORES}
+\gbIndice{Índice de autoras y autores del aparato bibliográfico}{names}
+
+\begin{gbcolofon}
+\gbTextoColofon
+\end{gbcolofon}
+%%GB:BACK:FIN
+
+\end{document}

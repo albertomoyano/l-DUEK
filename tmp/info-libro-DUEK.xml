@@ -1,0 +1,45 @@
+<info xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Un tiempo diferente</title>
+  <subtitle>Vida cotidiana y pandemia</subtitle>
+  <biblioid class="isbn" role="print">978-950-793-487-2</biblioid>
+  <othercredit class="other" otherclass="compiler">
+    <personname>
+      <firstname>Marina</firstname>
+      <surname>Moguillansky</surname>
+    </personname>
+    <uri type="orcid">https://orcid.org/0000-0002-8873-1136</uri>
+  </othercredit>
+  <othercredit class="other" otherclass="compiler">
+    <personname>
+      <firstname>Carolina</firstname>
+      <surname>Duek</surname>
+    </personname>
+    <uri type="orcid">https://orcid.org/0000-0002-3103-0363</uri>
+  </othercredit>
+  <publisher>
+    <publishername>Ediciones Imago Mundi</publishername>
+    <address>
+      <city>Buenos Aires</city>
+      <country>Argentina</country>
+      <email>info@edicionesimagomundi.com</email>
+    </address>
+  </publisher>
+  <biblioset relation="series">
+    <title>Bitácora Argentina</title>
+    <titleabbrev>BA</titleabbrev>
+  </biblioset>
+  <pubdate role="completa">2026-10-01</pubdate>
+  <pubdate>2026</pubdate>
+  <bibliomisc role="mes-publicacion">Octubre</bibliomisc>
+  <bibliomisc role="tipo-libro">compilacion</bibliomisc>
+  <bibliomisc role="estado-publicacion">en_preparacion</bibliomisc>
+  <subjectset scheme="area-conocimiento">
+    <subject><subjectterm>Ciencias sociales</subjectterm></subject>
+  </subjectset>
+  <subjectset scheme="disciplina">
+    <subject><subjectterm>Sociología</subjectterm></subject>
+  </subjectset>
+  <bibliomisc role="tipo-acceso">abierto</bibliomisc>
+  <bibliomisc role="repo-produccion-privado">yes</bibliomisc>
+  <bibliomisc role="csl-style">apa.csl</bibliomisc>
+</info>

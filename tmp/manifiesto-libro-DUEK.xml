@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifiesto-libro>
+  <libro
+    id_libro="3"
+    id_proyecto="26"
+    nombre_archivo_madre="DUEK"
+    idioma_principal="es"
+    lugar_bibliografia="por_capitulo"
+    info_libro="tmp/info-libro-DUEK.xml"/>
+  <capitulos>
+    <capitulo
+      path="jats/c-fm-10-INTRODUCCION.xml"
+      nombre_archivo="fm-10-INTRODUCCION"
+      id_capitulo="21"
+      tipo_capitulo="introduccion"/>
+    <capitulo
+      path="jats/c-bm-10-CODA.xml"
+      nombre_archivo="bm-10-CODA"
+      id_capitulo="22"
+      tipo_capitulo="otro"/>
+    <capitulo
+      path="jats/c-bm-11-CV-AUTORES.xml"
+      nombre_archivo="bm-11-CV-AUTORES"
+      id_capitulo="23"
+      tipo_capitulo="sobre_autores"/>
+    <capitulo
+      path="jats/c-bm-20-indice-autores.xml"
+      nombre_archivo="bm-20-indice-autores"
+      id_capitulo="24"
+      tipo_capitulo="indice_autores"/>
+  </capitulos>
+</manifiesto-libro>

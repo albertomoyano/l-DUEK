@@ -1,0 +1,21 @@
+concepto	valor
+archivo_origen	cap02.docx
+sha256_origen	9463e234daae4aa29acebac5c69e979f7251a65a5a207b2a7878aa99457a6459
+destino	articulos/a-02-CAP02.md
+version_pandoc	3.1.3
+version_filtro	1.0
+fecha	2026-09-16T16:46:50-0300
+cambios_insertados	0
+cambios_borrados	0
+comentarios	0
+subrayado	0
+resaltado	0
+versalitas	0
+guion_blando	0
+espacio_duro	0
+salto_linea_a_parrafo	0
+salto_linea_a_espacio	0
+imagenes	0
+imagen_no_embebida	0
+estilo:Cuerpo	168
+estilo:Por omisión	1

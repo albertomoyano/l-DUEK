@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Referencias</title>
+    <biblioentry xml:id="bib-4166-HELLER1977" pubwork="book">
+      <author>
+        <personname>
+          <surname>Heller</surname>
+          <firstname>Agnes</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Sociología de la vida cotidiana</citetitle>
+      <publisher>
+        <publishername>Península</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>1977</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4167-RAPLEY2014" pubwork="book">
+      <author>
+        <personname>
+          <surname>Rapley</surname>
+          <firstname>Tim</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Los análisis de conversación de discurso y de documentos en investigación cualitativa</citetitle>
+      <publisher>
+        <publishername>Ediciones Morata</publishername>
+        <address><city>Madrid</city></address>
+      </publisher>
+      <pubdate>2014</pubdate>
+    </biblioentry>
+</bibliography>

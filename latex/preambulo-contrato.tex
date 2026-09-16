@@ -1,0 +1,429 @@
+% ============================================================
+% preambulo-contrato.tex
+% ------------------------------------------------------------
+% CONTRATO VERSIÓN 1
+% ------------------------------------------------------------
+% DEFINE TODO LO QUE docbook-to-latex.xsl PUEDE EMITIR EN LOS
+% FRAGMENTOS DE CAPÍTULO. ES LA CAPA QUE UNA EDITORIAL
+% CONSERVA CUANDO REEMPLAZA LA ESTÉTICA: SI FALTA UNA DE
+% ESTAS DEFINICIONES, EL LIBRO NO COMPILA; SI ESTÁ DEFINIDA
+% DISTINTO, COMPILA Y SALE MAL.
+%
+% CUANDO SE AGREGUE VOCABULARIO NUEVO, SUBIR LA VERSIÓN DEL
+% CONTRATO. EL main.tex DECLARA LA QUE NECESITA Y ESTA CAPA
+% LA VERIFICA: ASÍ UN PREÁMBULO VIEJO FRENA EN LA PRIMERA
+% LÍNEA CON UN MENSAJE ÚTIL, EN VEZ DE DAR UN
+% "Undefined control sequence" EN LA PÁGINA 140.
+% ------------------------------------------------------------
+% DEPENDE DE preambulo-proyecto.tex, QUE VA ANTES.
+% ============================================================
+
+\def\gbContratoVersion{1}
+
+% ============================================================
+% \gbRequiereContrato{N}
+% PROPÓSITO : EL main.tex DECLARA QUÉ VERSIÓN NECESITA.
+% PARÁMETRO : N — versión requerida
+% ============================================================
+\newcommand{\gbRequiereContrato}[1]{%
+  \ifnum#1>\gbContratoVersion\relax
+    \PackageError{gbpublisher}{%
+      Este preambulo implementa el contrato \gbContratoVersion\space
+      y el libro requiere el #1}{%
+      Actualizar preambulo-contrato.tex.}%
+  \fi}
+
+% ============================================================
+% HOJAS DE CORTESÍA
+% ------------------------------------------------------------
+% Dos páginas en blanco al inicio —una hoja— que todo libro
+% lleva. Entran en la paginación: son i y ii, y el sumario
+% empieza en iii.
+%
+% \hbox{} ES IMPRESCINDIBLE: UNA PÁGINA SIN NINGÚN MATERIAL NO
+% SE EMITE, ASÍ QUE UN \newpage SOBRE UNA PÁGINA VACÍA NO
+% PRODUCE NADA Y EL CONTADOR NO AVANZA. LA CAJA VACÍA DA EL
+% MÍNIMO DE CONTENIDO QUE OBLIGA A COMPONERLA.
+%
+% \thispagestyle{empty} LES QUITA EL FOLIO: SE CUENTAN PERO NO
+% SE IMPRIME EL NÚMERO.
+% ============================================================
+\newcommand{\gbHojasCortesia}{%
+	\thispagestyle{empty}\hbox{}\newpage
+	\thispagestyle{empty}\hbox{}\newpage}
+
+% ============================================================
+% ENCABEZADO DE PIEZA GENERADA
+% ------------------------------------------------------------
+% Para las piezas sin cuerpo que llevan título propio. El título
+% sale de capitulos.titulo_capitulo, que es donde el editor lo
+% escribe, y no del preámbulo.
+%
+% \markboth actualiza el folio corrido, que \chapter* no toca.
+% ============================================================
+\newcommand{\gbEncabezadoPieza}[1]{%
+	\chapter*{#1}%
+	\addcontentsline{toc}{chapter}{#1}%
+	\markboth{\MakeUppercase{#1}}{\MakeUppercase{#1}}}
+
+% ============================================================
+% ÍNDICE CON SU ENCABEZADO
+% ------------------------------------------------------------
+% \printindex HACE UN \clearpage INTERNO AUNQUE EL ÍNDICE SE
+% DECLARE CON title={}. SIN NEUTRALIZARLO, EL ENCABEZADO QUEDA
+% SOLO EN UNA PÁGINA Y LA LISTA EMPIEZA EN LA SIGUIENTE.
+%
+% EL \let VA DENTRO DE UN GRUPO: FUERA DE ÉL \clearpage TIENE QUE
+% SEGUIR FUNCIONANDO, Y EL COLOFÓN QUE VIENE DESPUÉS LO NECESITA.
+% ============================================================
+\newcommand{\gbIndice}[2]{%
+	\gbEncabezadoPieza{#1}%
+	\begingroup
+	\let\clearpage\relax
+	\raggedright
+	\small
+	\printindex[#2]%
+	\endgroup}
+
+% ============================================================
+% 1. PAQUETES QUE EL CONTRATO NECESITA
+% ------------------------------------------------------------
+% SOLO LO QUE HACE FALTA PARA QUE UN FRAGMENTO COMPILE. LA
+% ESTÉTICA CARGA LO SUYO APARTE. TODOS ESTÁN EN TeX Live Y
+% NINGUNO PIDE --shell-escape.
+% ============================================================
+\usepackage{etoolbox}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{listings}
+\usepackage{ragged2e}
+\usepackage{xcolor}
+\usepackage[most]{tcolorbox}
+
+% ------------------------------------------------------------
+% IDIOMA
+% ------------------------------------------------------------
+% babel VA EN EL CONTRATO Y NO EN LA ESTÉTICA, POR DOS RAZONES.
+% LA PRIMERA ES DE ORDEN: biblatex PIDE CARGARSE DESPUÉS DE
+% babel Y csquotes, Y LA ESTÉTICA VA DESPUÉS DE ESTA CAPA.
+% LA SEGUNDA ES DE FONDO: EL IDIOMA DECIDE LAS COMILLAS QUE
+% PRODUCE \enquote, LA PARTICIÓN DE PALABRAS Y LAS CADENAS DE
+% LA BIBLIOGRAFÍA. SON GARANTÍAS DEL CONTRATO, NO DECISIONES
+% DE DISEÑO: UNA EDITORIAL QUE REEMPLAZA LA ESTÉTICA NO DEBE
+% PODER CAMBIAR EL IDIOMA DEL LIBRO.
+\usepackage[\gbidiomas]{babel}
+\frenchspacing
+
+% COMILLAS SEGÚN EL IDIOMA ACTIVO: EN ESPAÑOL DA « ».
+% EL XSLT EMITE \enquote Y NUNCA COMILLAS LITERALES.
+\usepackage[autostyle=true]{csquotes}
+
+
+% ============================================================
+% 3. BIBLIOGRAFÍA
+% ------------------------------------------------------------
+% EL ARCHIVO biblatex-<estandar>-config.tex ES RESPONSABLE DE
+% CARGAR biblatex CON EL ESTILO QUE CORRESPONDA. SON NUESTROS
+% ARCHIVOS, VIAJAN EN EL PAQUETE Y SE COPIAN AL PROYECTO: NO
+% SE DEPENDE DE NINGÚN ESTILO REGISTRADO EN TeX Live.
+%
+% LA RAMA bibtex (vancouver) NO ESTÁ IMPLEMENTADA. EL XSLT
+% CORTA ANTES DE GENERAR SI EL ESTILO LA REQUIERE.
+% ============================================================
+\input{cita-\estandar-config.tex}
+
+% ============================================================
+% Índice de autores del aparato bibliográfico
+% ------------------------------------------------------------
+% Lo llena biblatex: con indexing=true en el estilo, cada nombre
+% citado y cada nombre de la bibliografía se indexan solos. El
+% editor no escribe ningún \index.
+%
+% esindex ORDENA LOS APELLIDOS COMPUESTOS CASTELLANOS COMO
+% CORRESPONDE: «de la Torre» SE ALFABETIZA POR Torre PERO SE
+% IMPRIME CON LA PARTÍCULA. SIN ÉL, EL ORDEN POR OMISIÓN LOS
+% MANDA A LA D.
+%
+% VA EN EL CONTRATO PORQUE ES LO QUE HACE QUE LA PIEZA
+% indice_autores_bibliografia DIGA LA VERDAD. EL \makeindex ES
+% DISEÑO Y VA EN LA ESTÉTICA.
+% ============================================================
+\usepackage{esindex}
+\DeclareIndexNameFormat{default}{%
+	\usebibmacro{index:name}{\esindex[names]}
+	{\namepartfamily}
+	{\namepartgiven}
+	{\namepartprefix}
+	{\namepartsuffix}}
+
+% ============================================================
+% 4. PÁGINAS Y SALTOS
+% ============================================================
+
+% ------------------------------------------------------------
+% \gbclearrecto — SALTA A LA PRÓXIMA PÁGINA IMPAR
+% \gbclearverso — SALTA A LA PRÓXIMA PÁGINA PAR
+% ------------------------------------------------------------
+% LA PÁGINA DE RELLENO LLEVA \hbox{} PORQUE UNA PÁGINA SIN
+% CONTENIDO NO SE EMITE. NO SE USA UN CARÁCTER BLANCO: ESO
+% DEJA TEXTO EXTRAÍBLE EN EL PDF, QUE APARECE AL COPIAR, EN
+% pdftotext Y EN UN LECTOR DE PANTALLA.
+% EL CONTADOR SIGUE CORRIENDO: SOLO SE OCULTA EL FOLIO.
+% ------------------------------------------------------------
+\makeatletter
+\newcommand{\gbclearrecto}{%
+  \clearpage
+  \ifodd\c@page\else
+    \thispagestyle{empty}\hbox{}\newpage
+  \fi}
+\newcommand{\gbclearverso}{%
+  \clearpage
+  \ifodd\c@page
+    \thispagestyle{empty}\hbox{}\newpage
+  \fi}
+% LA BLANCA QUE GENERA \cleardoublepage SALE, POR OMISIÓN, CON
+% EL FOLIO Y EL ENCABEZADO CORRIENTES. ESTE PARCHE LA DEJA
+% VACÍA, QUE ES LO QUE SE ESPERA DE UNA PÁGINA EN BLANCO.
+\renewcommand{\cleardoublepage}{\gbclearrecto}
+\makeatother
+
+% ------------------------------------------------------------
+% gbpaginaespecial / gbpaginaimagen
+% ------------------------------------------------------------
+% PIEZAS SUELTAS DE PRELIMINARES: UNA DEDICATORIA, UN
+% RECORDATORIO, UNA FOTO A PÁGINA ENTERA. VAN EN RECTO, SIN
+% FOLIO NI ENCABEZADO, Y SU VUELTA QUEDA EN BLANCO. NO LLEVAN
+% \chapter Y NO ENTRAN AL ÍNDICE.
+% LA DE IMAGEN ROMPE LA CAJA DE TEXTO; LA OTRA LA RESPETA.
+% ------------------------------------------------------------
+\newenvironment{gbpaginaespecial}
+  {\gbclearrecto\thispagestyle{empty}\begin{center}}
+  {\end{center}\gbclearrecto}
+
+\newenvironment{gbpaginaimagen}
+  {\gbclearrecto\thispagestyle{empty}%
+   \begingroup\centering\setlength{\parindent}{0pt}}
+  {\par\endgroup\gbclearrecto}
+
+% ------------------------------------------------------------
+% gbcolofon
+% ------------------------------------------------------------
+% VA EN VERSO. NO PUEDE SER UN \chapter*: EN LA CLASE book,
+% \chapter FUERZA EL RECTO PORQUE @openright ESTÁ ACTIVO, Y
+% CUALQUIER SALTO PREVIO QUEDA ANULADO.
+% ------------------------------------------------------------
+\newenvironment{gbcolofon}
+  {\gbclearverso\thispagestyle{empty}\justifying}
+  {\clearpage}
+
+% ============================================================
+% 5. ESTRUCTURA
+% ============================================================
+
+% ------------------------------------------------------------
+% \gbContadoresSinCapitulo
+% ------------------------------------------------------------
+% SE LLAMA UNA VEZ AL ENTRAR EN PRELIMINARES Y UNA VEZ AL
+% ENTRAR EN POSLIMINARES. NO POR PIEZA.
+%
+% EN ESAS DOS ZONAS \chapter NO EJECUTA \refstepcounter{chapter}
+% (book.cls, \@chapter, RAMA \if@mainmatter). ESE COMANDO ES LO
+% ÚNICO QUE INCREMENTA EL CONTADOR DE CAPÍTULO Y, A LA VEZ,
+% REINICIA LOS QUE DEPENDEN DE ÉL: section, footnote, figure,
+% table Y equation. SI NO CORRE, NO PASA NINGUNA DE LAS DOS.
+%
+% LLEVAR chapter A CERO ACTIVA LA GUARDA \ifnum \c@chapter>\z@
+% DE \thefigure, \thetable Y \theequation, QUE OMITE EL PREFIJO.
+% SIN ESTO, UNA FIGURA DE POSLIMINARES SALE "Figura 1.2", CON
+% EL NÚMERO DEL ÚLTIMO CAPÍTULO DEL CUERPO. VERIFICADO.
+%
+% LAS FIGURAS Y TABLAS NO SE REINICIAN POR PIEZA A PROPÓSITO:
+% EN PRELIMINARES LA NUMERACIÓN CORRIDA (1, 2, 3) ES LA CORRECTA
+% Y REINICIAR PRODUCIRÍA DOS "Figura 1" CON \label EN COLISIÓN.
+% LAS NOTAS AL PIE SÍ VAN POR PIEZA: \thefootnote ES ARÁBIGO
+% PELADO Y NO HAY PREFIJO QUE COLISIONE.
+% ------------------------------------------------------------
+\newcommand{\gbContadoresSinCapitulo}{%
+  \setcounter{chapter}{0}%
+  \setcounter{section}{0}%
+  \setcounter{figure}{0}%
+  \setcounter{table}{0}%
+  \setcounter{equation}{0}%
+}
+
+% ------------------------------------------------------------
+% \gbPiezaSinNumerar
+% ------------------------------------------------------------
+% PARA UNA PIEZA SIN NUMERAR QUE VA EN LA ZONA DE CUERPO. EL
+% CASO TÍPICO SON LAS CONCLUSIONES, QUE DEBEN PRECEDER A
+% \appendix PARA QUE LOS APÉNDICES NUMEREN CON LETRA.
+%
+% COMO ESAS PIEZAS SE EMITEN CON \chapter*, NO CORRE
+% \refstepcounter{chapter} Y NO SE REINICIA NADA: SU PRIMERA
+% NOTA AL PIE ARRANCA DONDE LA DEJÓ EL CAPÍTULO ANTERIOR.
+% VERIFICADO.
+%
+% NO SE TOCA EL CONTADOR DE CAPÍTULO: EL APÉNDICE POSTERIOR LO
+% NECESITA INTACTO, Y \appendix YA LO LLEVA A CERO POR SU
+% CUENTA. TAMPOCO SE TOCAN figure NI table: ESAS PIEZAS NO
+% LLEVAN NI CUADROS NI FIGURAS.
+% ------------------------------------------------------------
+% TAMBIÉN APAGA LA NUMERACIÓN DE SECCIONES. SIN ESO, LA
+% PRIMERA SECCIÓN DE LAS CONCLUSIONES SALE "1.1", QUE COLISIONA
+% CON LA SECCIÓN 1.1 REAL DEL CAPÍTULO 1: \thesection ES
+% \thechapter.\arabic{section} Y EL CONTADOR DE CAPÍTULO SIGUE
+% EN 1. VERIFICADO EN EL SUMARIO.
+% LA ZONA DE APÉNDICES LA VUELVE A ENCENDER.
+\newcommand{\gbPiezaSinNumerar}{%
+  \setcounter{footnote}{0}%
+  \setcounter{section}{0}%
+  \setcounter{secnumdepth}{0}%
+}
+
+% ------------------------------------------------------------
+% \gbParte{título}{subtítulo}
+% ------------------------------------------------------------
+% LAS PARTES NO SON ARCHIVOS: SON METADATOS DE partes_libro Y
+% LAS EMITE GAMBAS EN EL main.tex. NO LLEVAN TEXTO PROPIO.
+% EL SUBTÍTULO PUEDE VENIR VACÍO. AL ÍNDICE VA SOLO EL TÍTULO.
+% ------------------------------------------------------------
+\newcommand{\gbParte}[2]{%
+  \part[#1]{#1%
+    \ifstrempty{#2}{}{\\[0.4em]{\normalsize\mdseries\itshape #2}}%
+  }}
+
+% ------------------------------------------------------------
+% \gbCapitulo{título}{subtítulo}
+% ------------------------------------------------------------
+% EQUIVALENTE PARA CAPÍTULOS CON SUBTÍTULO.
+% ------------------------------------------------------------
+\newcommand{\gbCapitulo}[2]{%
+  \chapter[#1]{#1%
+    \ifstrempty{#2}{}{\\[0.3em]{\normalsize\mdseries\itshape #2}}%
+  }}
+
+% ============================================================
+% 6. BLOQUES
+% ============================================================
+
+% CITA EN BLOQUE CON ATRIBUCIÓN OPCIONAL.
+% NO ES UN EPÍGRAFE: DOCBOOK LOS DISTINGUE Y EL XSLT TAMBIÉN.
+\newenvironment{gbcita}
+  {\begin{quote}\small}
+  {\end{quote}}
+\newcommand{\gbatribucion}[1]{\par\vspace{2pt}\hfill\textup{\small#1}\par}
+
+% EPÍGRAFE. LA ATRIBUCIÓN PUEDE SER UNA CITA BIBLIOGRÁFICA:
+% EL XSLT RESUELVE UN <biblioref> DE ADENTRO A \textcite.
+\newcommand{\gbepigrafe}[2]{%
+  \par\vspace{0.5em}%
+  \begin{flushright}%
+  \begin{minipage}{0.72\linewidth}%
+    \small\itshape #1\par
+    \vspace{2pt}\raggedleft\upshape\footnotesize #2\par
+  \end{minipage}%
+  \end{flushright}%
+  \vspace{0.8em}\par}
+
+% RECUADRO LATERAL. UN ARGUMENTO: info | supplementary.
+\newenvironment{gbsidebar}[1]
+  {\begin{tcolorbox}[colback=black!4,colframe=black!4,
+     boxrule=0pt,arc=2pt,left=6pt,right=6pt,top=4pt,bottom=4pt,
+     before skip=6pt,after skip=6pt]\small\sffamily}
+  {\end{tcolorbox}}
+
+% VERSO. EL XSLT YA EMITE \\ ENTRE LÍNEAS.
+\newenvironment{gbverso}
+  {\begin{verse}\itshape}
+  {\end{verse}}
+
+% PARLAMENTO Y LOCUTOR. DOCBOOK 5.2 BASE NO TIENE dialogue NI
+% drama: EL CANÓNICO USA para role="speech" CON
+% emphasis role="speaker" (RC-DB-04).
+\newenvironment{gbparlamento}
+  {\par\begingroup\setlength{\parindent}{0pt}\hangindent=1.2em\hangafter=1}
+  {\par\endgroup}
+\newcommand{\gblocutor}[1]{\textsc{\MakeLowercase{#1}}\quad}
+
+% ============================================================
+% 7. LLAMADAS DE ATENCIÓN
+% ============================================================
+% CADA LLAMADA DE ATENCIÓN ES UN tcolorbox CON TÍTULO FIJO.
+% NO SE USA UN .style DE pgfkeys PARAMETRIZADO: EL #1 DE UN
+% \newcommand DENTRO DE UN .style LO CONSUME pgfkeys Y DA
+% "You already have nine parameters", QUE NO DICE NADA SOBRE
+% LA CAUSA. CON UN ENTORNO POR CLASE EL PROBLEMA NO EXISTE.
+\tcbset{gbadmon/.style={
+  colback=black!3, colframe=black!25,
+  boxrule=0.4pt, arc=1pt,
+  left=6pt, right=6pt, top=4pt, bottom=4pt,
+  before skip=6pt, after skip=6pt,
+  fonttitle=\bfseries\sffamily\small}}
+
+\newenvironment{gbnota}
+  {\begin{tcolorbox}[gbadmon,title={Nota}]\small}{\end{tcolorbox}}
+\newenvironment{gbconsejo}
+  {\begin{tcolorbox}[gbadmon,title={Sugerencia}]\small}{\end{tcolorbox}}
+\newenvironment{gbadvertencia}
+  {\begin{tcolorbox}[gbadmon,title={Advertencia}]\small}{\end{tcolorbox}}
+\newenvironment{gbimportante}
+  {\begin{tcolorbox}[gbadmon,title={Importante}]\small}{\end{tcolorbox}}
+\newenvironment{gbprecaucion}
+  {\begin{tcolorbox}[gbadmon,title={Precaución}]\small}{\end{tcolorbox}}
+
+% ============================================================
+% 8. CÓDIGO
+% ------------------------------------------------------------
+% listings Y NO minted: minted EXIGE --shell-escape Y Pygments,
+% Y ESO ROMPE LA AUTONOMÍA DEL PROYECTO EN OTRA MÁQUINA.
+% ============================================================
+\lstset{
+  basicstyle=\ttfamily\footnotesize,
+  breaklines=true,
+  columns=fullflexible,
+  frame=none,
+  showstringspaces=false,
+  extendedchars=true,
+  inputencoding=utf8
+}
+
+% ============================================================
+% 9. COLOFÓN
+% ------------------------------------------------------------
+% LAS FUENTES Y LA VERSIÓN SON VALORES, NO TEXTO ESCRITO. SI
+% UNA EDITORIAL REEMPLAZA LA ESTÉTICA Y CAMBIA LAS FUENTES,
+% EL COLOFÓN SIGUE DICIENDO LA VERDAD SIN QUE NADIE SE
+% ACUERDE DE EDITARLO.
+% LA FECHA ES LA DE PUBLICACIÓN Y NO LA DEL DÍA: UNA MARCA DE
+% TIEMPO HARÍA QUE CADA COMPILACIÓN PRODUJERA UN DIFF AUNQUE
+% NADA HUBIERA CAMBIADO.
+% ============================================================
+% SI LA ESTÉTICA NO LAS DECLARA, EL COLOFÓN LO DICE EN VEZ DE DAR UN
+% "Undefined control sequence" QUE NO EXPLICA NADA.
+\providecommand{\gbfuentetexto}{(sin declarar)}
+\providecommand{\gbfuentetitulos}{(sin declarar)}
+\providecommand{\gbversion}{(sin version)}
+
+% EL RECUADRO SE DEFINE COMO ESTILO Y NO EN LÍNEA: ASÍ UNA EDITORIAL
+% QUE QUIERA OTRO ASPECTO REDEFINE gbcolofoncaja SIN TOCAR EL TEXTO,
+% QUE ES LO QUE EL CONTRATO GARANTIZA.
+\tcbset{gbcolofoncaja/.style={
+  colback=black!7,
+  colframe=black!50,
+  boxrule=0.7pt,
+  arc=3mm,
+  left=8pt, right=8pt, top=8pt, bottom=8pt,
+  boxsep=0pt}}
+
+\newcommand{\gbTextoColofon}{%
+  \begin{tcolorbox}[gbcolofoncaja]
+    La composición tipográfica de este libro se realizó con
+    gbpublisher versión~\gbversion, bajo un modelo de fuente única que
+    garantiza la trazabilidad entre el original y cada una de sus
+    salidas (HTML, ePub y PDF). Las familias tipográficas utilizadas son
+    \gbfuentetexto\ para el texto e \gbfuentetitulos\ para los
+    títulos. El proyecto se encuentra disponible en
+    \url{https://github.com/albertomoyano/gbpublisher}.
+  \end{tcolorbox}}
+

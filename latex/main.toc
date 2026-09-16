@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Introducción}{\es@scroman {v}}{chapter*.2}%
+\contentsline {section}{¿Qué sabemos sobre la pandemia y sus efectos en la vida cotidiana?}{\es@scroman {vi}}{section*.3}%
+\contentsline {section}{El método biográfico, la vida cotidiana y las experiencias de la pandemia}{\es@scroman {x}}{section*.4}%
+\contentsline {section}{El recorrido de este libro}{\es@scroman {xv}}{section*.5}%
+\contentsline {chapter}{Coda}{1}{chapter*.6}%
+\contentsline {chapter}{Sobre las autoras y los autores}{5}{chapter*.7}%
+\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{7}{chapter*.8}%
+\contentsfinish 

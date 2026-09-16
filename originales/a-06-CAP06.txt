@@ -1,0 +1,21 @@
+concepto	valor
+archivo_origen	cap06.docx
+sha256_origen	e005041d2d8501645dd30bf73800b33121f32f3e0da9bb1554a21b1fab5b2ce8
+destino	articulos/a-06-CAP06.md
+version_pandoc	3.1.3
+version_filtro	1.0
+fecha	2026-09-16T17:19:51-0300
+cambios_insertados	0
+cambios_borrados	0
+comentarios	0
+subrayado	0
+resaltado	2
+versalitas	0
+guion_blando	0
+espacio_duro	0
+salto_linea_a_parrafo	0
+salto_linea_a_espacio	0
+imagenes	0
+imagen_no_embebida	0
+estilo:Annotation Text	2
+estilo:Plain Text	13
