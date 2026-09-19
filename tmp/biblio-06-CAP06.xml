@@ -1,0 +1,317 @@
+<bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Referencias</title>
+    <biblioentry xml:id="bib-4205-HEID2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Heid</surname>
+          <firstname>Alison</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Cartwright</surname>
+          <firstname>Francine</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Wilson-Genderson</surname>
+          <firstname>Maureen</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Pruchno</surname>
+          <firstname>Rachel</firstname>
+        </personname>
+      </author>
+      <title>Challenges Experienced by Older People During the Initial Months of the COVID-19 Pandemic</title>
+      <citetitle pubwork="journal">Gerontologist</citetitle>
+      <pubdate>2021</pubdate>
+      <volumenum>61</volumenum>
+      <issuenum>1</issuenum>
+      <artpagenums>48-58</artpagenums>
+      <biblioid class="doi">10.1093/geront/gnaa138</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4168-CUNZOLO2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Cunzolo</surname>
+          <firstname>Virginia</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Rada Schultze</surname>
+          <firstname>Fernando</firstname>
+        </personname>
+      </author>
+      <title>El «riesgo» de envejecer: La salud de las personas mayores en un año de pandemia</title>
+      <citetitle pubwork="journal">Territorios. Revista de Trabajo Social</citetitle>
+      <pubdate>2021</pubdate>
+      <volumenum>V</volumenum>
+      <issuenum>5</issuenum>
+      <artpagenums>33-50</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4206-VENTURIELLO2023" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Venturiello</surname>
+          <firstname>María Pía</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Cirino</surname>
+          <firstname>Estefanía</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Palermo</surname>
+          <firstname>María Cecilia</firstname>
+        </personname>
+      </author>
+      <title>Políticas sociales y cuidados para personas mayores y personas con discapacidad en Argentina (2016-2023)</title>
+      <citetitle pubwork="book">Vejeces en pandemia y pospandemia: políticas sociales, cuidados y calidad de vida</citetitle>
+      <publisher>
+        <publishername>La bicicleta ediciones</publishername>
+      </publisher>
+      <pubdate>2023</pubdate>
+      <artpagenums>19-37</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4207-AGUIRRECUNS2018" pubwork="book">
+      <author>
+        <personname>
+          <surname>Aguirre Cuns</surname>
+          <firstname>Rosario</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Scavino Solari</surname>
+          <firstname>Sol</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Vejeces de las mujeres: Desafíos para la igualdad de género y la justicia social en Uruguay</citetitle>
+      <publisher>
+        <publishername>Doble clic Editoras</publishername>
+      </publisher>
+      <pubdate>2018</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4169-CERRI2016" pubwork="article">
+      <author>
+        <personname>
+          <surname>Cerri</surname>
+          <firstname>Chiara</firstname>
+        </personname>
+      </author>
+      <title>Dependencia y autonomía: una aproximación antropológica desde el cuidado de los mayores</title>
+      <citetitle pubwork="journal">Athenea Digital</citetitle>
+      <pubdate>2016</pubdate>
+      <volumenum>15</volumenum>
+      <issuenum>2</issuenum>
+      <artpagenums>Athenea Digital</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4203-SMITH2007" pubwork="article">
+      <author>
+        <personname>
+          <surname>Smith</surname>
+          <firstname>James</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Braunack-Mayer</surname>
+          <firstname>Annette</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Wittert</surname>
+          <firstname>Gary</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Warin</surname>
+          <firstname>Megan</firstname>
+        </personname>
+      </author>
+      <title>«{I}&apos;ve been independent for so damn long!»: Independence, masculinity and aging in a help seeking context</title>
+      <citetitle pubwork="journal">Journal of Aging Studies</citetitle>
+      <pubdate>2007</pubdate>
+      <issuenum>21</issuenum>
+      <artpagenums>325-335</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4174-BATTHYANY2021" pubwork="book">
+      <author>
+        <personname>
+          <surname>Batthyány</surname>
+          <firstname>Karina</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Políticas del cuidado</citetitle>
+      <publisher>
+        <publishername>CLACSO</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4204-VEGASOLIS2017" pubwork="article">
+      <author>
+        <personname>
+          <surname>Vega-Solís</surname>
+          <firstname>Cristina</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Martínez-Buján</surname>
+          <firstname>Raquel</firstname>
+        </personname>
+      </author>
+      <title>Explorando el lugar de lo comunitario en los estudios de género sobre sostenibilidad, reproducción y cuidados</title>
+      <citetitle pubwork="journal">QuAderns-e</citetitle>
+      <pubdate>2017</pubdate>
+      <volumenum>22</volumenum>
+      <issuenum>2</issuenum>
+      <artpagenums>65-81</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4202-BONIOLO2024" pubwork="article">
+      <author>
+        <personname>
+          <surname>Boniolo</surname>
+          <firstname>Paula</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Ojeda</surname>
+          <firstname>Bárbara</firstname>
+        </personname>
+      </author>
+      <title>Pandemia y vida cotidiana: las cargas de cuidado según las clases sociales y el género en Argentina</title>
+      <citetitle pubwork="journal">De Prácticas y Discursos</citetitle>
+      <pubdate>2024</pubdate>
+      <volumenum>13</volumenum>
+      <issuenum>22</issuenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4173-LOPEZ2009" pubwork="book">
+      <othercredit class="other" otherclass="compiler">
+        <personname>
+          <surname>López</surname>
+          <firstname>Elsa</firstname>
+        </personname>
+      </othercredit>
+      <othercredit class="other" otherclass="compiler">
+        <personname>
+          <surname>Findling</surname>
+          <firstname>Liliana</firstname>
+        </personname>
+      </othercredit>
+      <citetitle pubwork="book">Salud, familias y vínculos: el mundo de los adultos mayores</citetitle>
+      <publisher>
+        <publishername>EUDEBA</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2009</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4210-MOGUILLANSKY2024" pubwork="article">
+      <author>
+        <personname>
+          <surname>Moguillansky</surname>
+          <firstname>Marina</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Duek</surname>
+          <firstname>Carolina</firstname>
+        </personname>
+      </author>
+      <title>La crisis de cuidados en primera persona. Un estudio con mujeres cuidadoras de sectores populares del Área Metropolitana de Buenos Aires (AMBA), Argentina</title>
+      <citetitle pubwork="journal">Interface</citetitle>
+      <pubdate>2024</pubdate>
+      <issuenum>28</issuenum>
+      <bibliomisc role="elocation">e230256</bibliomisc>
+    </biblioentry>
+    <biblioentry xml:id="bib-4172-IACUB2017" pubwork="book">
+      <author>
+        <personname>
+          <surname>Iacub</surname>
+          <firstname>Ricardo</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">¿Es posible ser varón en la vejez?</citetitle>
+      <publisher>
+        <publishername>Red Latinoamericana de Gerontología</publishername>
+      </publisher>
+      <pubdate>2017</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4208-ARBER2003" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Arber</surname>
+          <firstname>Sarah</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Davidson Kate</surname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Ginn</surname>
+          <firstname>Jay</firstname>
+        </personname>
+      </author>
+      <title>Changing approaches to gender and later life</title>
+      <citetitle pubwork="book">Gender and ageing: Changing Roles and Relationships</citetitle>
+      <publisher>
+        <publishername>Open University Press</publishername>
+      </publisher>
+      <pubdate>2003</pubdate>
+      <artpagenums>1-14</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4209-BOYD2007" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Boyd</surname>
+          <firstname>Danah</firstname>
+        </personname>
+      </author>
+      <title>Why Youth (Heart) Social Network Sites: The Role of Networked Publics in Teenage Social Life</title>
+      <citetitle pubwork="book">Youth, Identity and Digital Media</citetitle>
+      <publisher>
+        <publishername>MIT Press</publishername>
+      </publisher>
+      <pubdate>2007</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4170-ALGRANTI2010" pubwork="book">
+      <author>
+        <personname>
+          <surname>Algranti</surname>
+          <firstname>Joaquín</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Política y religión en los márgenes. Nuevas formas de participación social de las mega-iglesias evangélicas en la Argentina</citetitle>
+      <publisher>
+        <publishername>CICCUS</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2010</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4171-BORRELLI2022" pubwork="webpage">
+      <author>
+        <personname>
+          <surname>Borrelli</surname>
+          <firstname>Sergio</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="webpage">El práctico de puerto: una profesión indispensable</citetitle>
+      <pubdate>2022</pubdate>
+      <bibliosource><link xlink:href="https://camaradepracticaje.com.ar/nota/103-El-practico-de-puerto-una-profesion-indispensable">https://camaradepracticaje.com.ar/nota/103-El-practico-de-puerto-una-profesion-indispensable</link></bibliosource>
+    </biblioentry>
+</bibliography>

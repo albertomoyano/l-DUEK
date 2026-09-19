@@ -1,0 +1,33 @@
+<bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Referencias</title>
+    <biblioentry xml:id="bib-4195-MARGULIS2001" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Margulis</surname>
+          <firstname>Mario</firstname>
+        </personname>
+      </author>
+      <title>Juventud: una aproximación conceptual</title>
+      <citetitle pubwork="book">Adolescencia y Juventud en América Latina</citetitle>
+      <publisher>
+        <publishername>Libro Universitario Regional</publishername>
+        <address><city>San José de Costa Rica</city></address>
+      </publisher>
+      <pubdate>2001</pubdate>
+      <artpagenums>41-56</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4194-BRACCHI2016" pubwork="article">
+      <author>
+        <personname>
+          <surname>Bracchi</surname>
+          <firstname>Claudia</firstname>
+        </personname>
+      </author>
+      <title>Descifrando el oficio de ser estudiantes universitarios: entre la desigualdad, la fragmentación y las trayectorias educativas diversificadas</title>
+      <citetitle pubwork="journal">Trayectorias universitarias</citetitle>
+      <pubdate>2016</pubdate>
+      <volumenum>2</volumenum>
+      <issuenum>3</issuenum>
+      <artpagenums>3-14</artpagenums>
+    </biblioentry>
+</bibliography>

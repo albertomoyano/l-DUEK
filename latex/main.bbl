@@ -19,6 +19,325 @@
 
 \refsection{1}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{4178-ALVAREZ2022}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b584ea502eb7fe85c74ca1e6e6deeaa9}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={Beatriz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7fa059b834ddab523a48f0cba1c9e1f}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Ayelén},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27807024d7cd1badbb501bd5ba43f4fd}{%
+           family={Reche},
+           familyi={R\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{6d386702bf95359a2951bdf74fb7418c}
+      \strng{fullhash}{520156a67f8c0ccf10089fb5061ad1f8}
+      \strng{bibnamehash}{520156a67f8c0ccf10089fb5061ad1f8}
+      \strng{authorbibnamehash}{520156a67f8c0ccf10089fb5061ad1f8}
+      \strng{authornamehash}{6d386702bf95359a2951bdf74fb7418c}
+      \strng{authorfullhash}{520156a67f8c0ccf10089fb5061ad1f8}
+      \field{sortinit}{Á}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
+      \field{langid}{spanish}
+      \field{title}{Empresas y hogares en crisis. Una exploración estadística de los efectos socioeconómicos del covid-19 en Argentina}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4175-ARFUCH2002}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4910b8c6a6fbcb96b6b1f726996a4564}{%
+           family={Arfuch},
+           familyi={A\bibinitperiod},
+           given={Loenor},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Fondo de Cultura Económica}%
+      }
+      \strng{namehash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{fullhash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{bibnamehash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{authorbibnamehash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{authornamehash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{authorfullhash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{El espacio biográfico. Dilemas de la subjetividad contemporánea}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4176-AVERETT2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b39fd4b5fa20dafebc694ffd1bda8f44}{%
+           family={Averett},
+           familyi={A\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{fullhash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{bibnamehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{authorbibnamehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{authornamehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{authorfullhash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AERA Open}
+      \field{langid}{spanish}
+      \field{number}{7}
+      \field{title}{Remote Learning, COVID-19, and Children With Disabilities}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1177/23328584211058471
+      \endverb
+    \endentry
+    \entry{4177-BALSA2023}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf1106ea9b3e8b4fc33b581843b7a848}{%
+           family={Balsa},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Javier},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {CLACSO}%
+      }
+      \strng{namehash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{fullhash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{bibnamehash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{authorbibnamehash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{authornamehash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{authorfullhash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{PISAC COVID-19. La sociedad argentina en la pospandemia}
+      \field{langid}{spanish}
+      \field{title}{Identidades, experiencias y discursos sociales en conflicto en torno a la pandemia y la pospandemia}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4179-CASTELLS1998}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81719c25e6cbcfe23d2c4486745ca6ac}{%
+           family={Castells},
+           familyi={C\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Alianza}%
+      }
+      \strng{namehash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{fullhash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{bibnamehash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{authorbibnamehash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{authornamehash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{authorfullhash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La era de la información, realidades y reflexiones sobre la globalización}
+      \field{year}{1998}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4180-CHARMAZ2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3c9bd4aaacaf53157da4a32e6315404a}{%
+           family={Charmaz},
+           familyi={C\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Londres}%
+      }
+      \list{publisher}{1}{%
+        {Sage}%
+      }
+      \strng{namehash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{fullhash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{bibnamehash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{authorbibnamehash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{authornamehash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{authorfullhash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Constructing grounded theory. A practical guide through qualitative analysis}
+      \field{year}{2006}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4185-CLEMENCEAU2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3a2022eaa9abc6be214fec32fbc353ba}{%
+           family={Clemenceau},
+           familyi={C\bibinitperiod},
+           given={Lautaro},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce6a64f1f3fae9332b7bec30842019d4}{%
+           family={Fernández\bibnamedelima Melián},
+           familyi={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={María\bibnamedelima Clara},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec0665211f8b4471c54d54c41f9aaeb3}{%
+           family={{de la Fuente}},
+           familyi={d\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b86f20c6628ab68b9e31d870f5983e85}
+      \strng{fullhash}{bc6ce79e27adfa9f374d115634c1f035}
+      \strng{bibnamehash}{bc6ce79e27adfa9f374d115634c1f035}
+      \strng{authorbibnamehash}{bc6ce79e27adfa9f374d115634c1f035}
+      \strng{authornamehash}{b86f20c6628ab68b9e31d870f5983e85}
+      \strng{authorfullhash}{bc6ce79e27adfa9f374d115634c1f035}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Documentos de Jóvenes Investigadores}
+      \field{journaltitleaddon}{Instituto de Investigaciones Gino Germani}
+      \field{langid}{spanish}
+      \field{number}{44}
+      \field{title}{Análisis de esquemas de clasificación social basados en la ocupación desde una perspectiva teórico-metodológica comparada}
+      \field{year}{2016}
+    \endentry
+    \entry{4181-DALLE2022}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=586eb2e9b9f3db5f608ae7b192b6e791}{%
+           family={Dalle},
+           familyi={D\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Ediciones Imago Mundi}%
+      }
+      \strng{namehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{fullhash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{bibnamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{editorbibnamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{editornamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{editorfullhash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{editortype}{compiler}
+      \field{langid}{spanish}
+      \field{title}{Estructura social de Argentina en tiempos de pandemia}
+      \field{volumes}{2}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4184-GUBERN1987}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=68822d1b690eeb0ebd26e064df5aec25}{%
+           family={Gubern},
+           familyi={G\bibinitperiod},
+           given={Román},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {FUNDESCO}%
+      }
+      \strng{namehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{fullhash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{bibnamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authorbibnamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authornamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authorfullhash}{68822d1b690eeb0ebd26e064df5aec25}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{El simio informatizado}
+      \field{year}{1987}
+      \field{dateera}{ce}
+    \endentry
     \entry{4166-HELLER1977}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=59884bc2150ef3ef11c14af83ca02b4e}{%
@@ -52,6 +371,145 @@
       \field{year}{1977}
       \field{dateera}{ce}
     \endentry
+    \entry{4182-HEREDIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{fullhash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{bibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorbibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authornamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorfullhash}{f6f8701bb82693b456936952b8d0811c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4183-MARCUS2023}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=855b900081a87a0bde4e762d6bc0ed1a}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Juliana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Teseo}%
+      }
+      \strng{namehash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{fullhash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{bibnamehash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{editorbibnamehash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{editornamehash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{editorfullhash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{editortype}{coordinator}
+      \field{langid}{spanish}
+      \field{title}{Ciudad confinada. Experiencias urbanas durante la pandemia de COVID-19}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4186-MECCIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03ab33111ddf99e90bc2c532865fc39b}{%
+           family={Meccia},
+           familyi={M\bibinitperiod},
+           given={Ernesto},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {EUDEBA}%
+      }
+      \strng{namehash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{fullhash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{bibnamehash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{authorbibnamehash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{authornamehash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{authorfullhash}{03ab33111ddf99e90bc2c532865fc39b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Biografías y sociedad. Métodos y perspectivas}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4187-MITCHELSTEIN2022}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=471a9af253494bceecbc02d783fa911d}{%
+           family={Mitchelstein},
+           familyi={M\bibinitperiod},
+           given={Eugenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de842bc91714e8cd53abb1514b7cceff}{%
+           family={Boczkowski},
+           familyi={B\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{fullhash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{bibnamehash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{authorbibnamehash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{authornamehash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{authorfullhash}{72481ef5d12577e8965840a7eee13d57}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{El entorno digital. Breve manual para entender cómo vivimos, aprendemos, trabajamos y pasamos el tiempo libre hoy}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
     \entry{4167-RAPLEY2014}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c74a74ab830c9bd41caaf635d4220849}{%
@@ -83,10 +541,365 @@
       \field{langid}{spa}
       \field{title}{Los análisis de conversación de discurso y de documentos en investigación cualitativa}
       \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4188-SEGURA2024}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f05377dc5b927090c35c339d96ff2c2}{%
+           family={Segura},
+           familyi={S\bibinitperiod},
+           given={Ramiro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{2}{%
+        {Buenos Aires}%
+        {San Pablo}%
+      }
+      \list{publisher}{2}{%
+        {CLACSO}%
+        {Mecila}%
+      }
+      \strng{namehash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{fullhash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{bibnamehash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{authorbibnamehash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{authornamehash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{authorfullhash}{1f05377dc5b927090c35c339d96ff2c2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Escrituras de la posglobal en América Latina. Futuros especulativos entre colapso y convivialidad}
+      \field{langid}{spanish}
+      \field{title}{Pandemia, imaginación geográfica y futuros urbanos en la Argentina}
+      \field{year}{2024}
       \field{dateera}{ce}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{4178-ALVAREZ2022}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b584ea502eb7fe85c74ca1e6e6deeaa9}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={Beatriz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7fa059b834ddab523a48f0cba1c9e1f}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Ayelén},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27807024d7cd1badbb501bd5ba43f4fd}{%
+           family={Reche},
+           familyi={R\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{6d386702bf95359a2951bdf74fb7418c}
+      \strng{fullhash}{520156a67f8c0ccf10089fb5061ad1f8}
+      \strng{bibnamehash}{520156a67f8c0ccf10089fb5061ad1f8}
+      \strng{authorbibnamehash}{520156a67f8c0ccf10089fb5061ad1f8}
+      \strng{authornamehash}{6d386702bf95359a2951bdf74fb7418c}
+      \strng{authorfullhash}{520156a67f8c0ccf10089fb5061ad1f8}
+      \field{sortinit}{Á}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
+      \field{langid}{spanish}
+      \field{title}{Empresas y hogares en crisis. Una exploración estadística de los efectos socioeconómicos del covid-19 en Argentina}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4175-ARFUCH2002}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4910b8c6a6fbcb96b6b1f726996a4564}{%
+           family={Arfuch},
+           familyi={A\bibinitperiod},
+           given={Loenor},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Fondo de Cultura Económica}%
+      }
+      \strng{namehash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{fullhash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{bibnamehash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{authorbibnamehash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{authornamehash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \strng{authorfullhash}{4910b8c6a6fbcb96b6b1f726996a4564}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{El espacio biográfico. Dilemas de la subjetividad contemporánea}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4176-AVERETT2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b39fd4b5fa20dafebc694ffd1bda8f44}{%
+           family={Averett},
+           familyi={A\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{fullhash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{bibnamehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{authorbibnamehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{authornamehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{authorfullhash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AERA Open}
+      \field{langid}{spanish}
+      \field{number}{7}
+      \field{title}{Remote Learning, COVID-19, and Children With Disabilities}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1177/23328584211058471
+      \endverb
+    \endentry
+    \entry{4177-BALSA2023}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf1106ea9b3e8b4fc33b581843b7a848}{%
+           family={Balsa},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Javier},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {CLACSO}%
+      }
+      \strng{namehash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{fullhash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{bibnamehash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{authorbibnamehash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{authornamehash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \strng{authorfullhash}{bf1106ea9b3e8b4fc33b581843b7a848}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{PISAC COVID-19. La sociedad argentina en la pospandemia}
+      \field{langid}{spanish}
+      \field{title}{Identidades, experiencias y discursos sociales en conflicto en torno a la pandemia y la pospandemia}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4179-CASTELLS1998}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81719c25e6cbcfe23d2c4486745ca6ac}{%
+           family={Castells},
+           familyi={C\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Alianza}%
+      }
+      \strng{namehash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{fullhash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{bibnamehash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{authorbibnamehash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{authornamehash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \strng{authorfullhash}{81719c25e6cbcfe23d2c4486745ca6ac}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La era de la información, realidades y reflexiones sobre la globalización}
+      \field{year}{1998}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4180-CHARMAZ2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3c9bd4aaacaf53157da4a32e6315404a}{%
+           family={Charmaz},
+           familyi={C\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Londres}%
+      }
+      \list{publisher}{1}{%
+        {Sage}%
+      }
+      \strng{namehash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{fullhash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{bibnamehash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{authorbibnamehash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{authornamehash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \strng{authorfullhash}{3c9bd4aaacaf53157da4a32e6315404a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Constructing grounded theory. A practical guide through qualitative analysis}
+      \field{year}{2006}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4185-CLEMENCEAU2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3a2022eaa9abc6be214fec32fbc353ba}{%
+           family={Clemenceau},
+           familyi={C\bibinitperiod},
+           given={Lautaro},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce6a64f1f3fae9332b7bec30842019d4}{%
+           family={Fernández\bibnamedelima Melián},
+           familyi={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={María\bibnamedelima Clara},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec0665211f8b4471c54d54c41f9aaeb3}{%
+           family={{de la Fuente}},
+           familyi={d\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b86f20c6628ab68b9e31d870f5983e85}
+      \strng{fullhash}{bc6ce79e27adfa9f374d115634c1f035}
+      \strng{bibnamehash}{bc6ce79e27adfa9f374d115634c1f035}
+      \strng{authorbibnamehash}{bc6ce79e27adfa9f374d115634c1f035}
+      \strng{authornamehash}{b86f20c6628ab68b9e31d870f5983e85}
+      \strng{authorfullhash}{bc6ce79e27adfa9f374d115634c1f035}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Documentos de Jóvenes Investigadores}
+      \field{journaltitleaddon}{Instituto de Investigaciones Gino Germani}
+      \field{langid}{spanish}
+      \field{number}{44}
+      \field{title}{Análisis de esquemas de clasificación social basados en la ocupación desde una perspectiva teórico-metodológica comparada}
+      \field{year}{2016}
+    \endentry
+    \entry{4181-DALLE2022}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=586eb2e9b9f3db5f608ae7b192b6e791}{%
+           family={Dalle},
+           familyi={D\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Ediciones Imago Mundi}%
+      }
+      \strng{namehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{fullhash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{bibnamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{editorbibnamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{editornamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{editorfullhash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{editortype}{compiler}
+      \field{langid}{spanish}
+      \field{title}{Estructura social de Argentina en tiempos de pandemia}
+      \field{volumes}{2}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4184-GUBERN1987}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=68822d1b690eeb0ebd26e064df5aec25}{%
+           family={Gubern},
+           familyi={G\bibinitperiod},
+           given={Román},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {FUNDESCO}%
+      }
+      \strng{namehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{fullhash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{bibnamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authorbibnamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authornamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authorfullhash}{68822d1b690eeb0ebd26e064df5aec25}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{El simio informatizado}
+      \field{year}{1987}
+      \field{dateera}{ce}
+    \endentry
     \entry{4166-HELLER1977}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=59884bc2150ef3ef11c14af83ca02b4e}{%
@@ -118,6 +931,145 @@
       \field{langid}{spanish}
       \field{title}{Sociología de la vida cotidiana}
       \field{year}{1977}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4182-HEREDIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{fullhash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{bibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorbibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authornamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorfullhash}{f6f8701bb82693b456936952b8d0811c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4183-MARCUS2023}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=855b900081a87a0bde4e762d6bc0ed1a}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Juliana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Teseo}%
+      }
+      \strng{namehash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{fullhash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{bibnamehash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{editorbibnamehash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{editornamehash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \strng{editorfullhash}{855b900081a87a0bde4e762d6bc0ed1a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{editortype}{coordinator}
+      \field{langid}{spanish}
+      \field{title}{Ciudad confinada. Experiencias urbanas durante la pandemia de COVID-19}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4186-MECCIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03ab33111ddf99e90bc2c532865fc39b}{%
+           family={Meccia},
+           familyi={M\bibinitperiod},
+           given={Ernesto},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {EUDEBA}%
+      }
+      \strng{namehash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{fullhash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{bibnamehash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{authorbibnamehash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{authornamehash}{03ab33111ddf99e90bc2c532865fc39b}
+      \strng{authorfullhash}{03ab33111ddf99e90bc2c532865fc39b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Biografías y sociedad. Métodos y perspectivas}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4187-MITCHELSTEIN2022}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=471a9af253494bceecbc02d783fa911d}{%
+           family={Mitchelstein},
+           familyi={M\bibinitperiod},
+           given={Eugenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de842bc91714e8cd53abb1514b7cceff}{%
+           family={Boczkowski},
+           familyi={B\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{fullhash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{bibnamehash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{authorbibnamehash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{authornamehash}{72481ef5d12577e8965840a7eee13d57}
+      \strng{authorfullhash}{72481ef5d12577e8965840a7eee13d57}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{El entorno digital. Breve manual para entender cómo vivimos, aprendemos, trabajamos y pasamos el tiempo libre hoy}
+      \field{year}{2022}
       \field{dateera}{ce}
     \endentry
     \entry{4167-RAPLEY2014}{book}{}
@@ -152,6 +1104,2153 @@
       \field{title}{Los análisis de conversación de discurso y de documentos en investigación cualitativa}
       \field{year}{2014}
       \field{dateera}{ce}
+    \endentry
+    \entry{4188-SEGURA2024}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f05377dc5b927090c35c339d96ff2c2}{%
+           family={Segura},
+           familyi={S\bibinitperiod},
+           given={Ramiro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{2}{%
+        {Buenos Aires}%
+        {San Pablo}%
+      }
+      \list{publisher}{2}{%
+        {CLACSO}%
+        {Mecila}%
+      }
+      \strng{namehash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{fullhash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{bibnamehash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{authorbibnamehash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{authornamehash}{1f05377dc5b927090c35c339d96ff2c2}
+      \strng{authorfullhash}{1f05377dc5b927090c35c339d96ff2c2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Escrituras de la posglobal en América Latina. Futuros especulativos entre colapso y convivialidad}
+      \field{langid}{spanish}
+      \field{title}{Pandemia, imaginación geográfica y futuros urbanos en la Argentina}
+      \field{year}{2024}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{4189-ACEVEDO2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35191edcd804da3286cd257cd87b4aa2}{%
+           family={Acevedo},
+           familyi={A\bibinitperiod},
+           given={Ivonne},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{fullhash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{bibnamehash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{authorbibnamehash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{authornamehash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{authorfullhash}{35191edcd804da3286cd257cd87b4aa2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista CEPAL}
+      \field{langid}{spanish}
+      \field{number}{140}
+      \field{title}{Informalidad en los tiempos del COVID-19 en América Latina: implicaciones y opciones de amortiguamiento}
+      \field{year}{2021}
+    \endentry
+    \entry{4192-ANDERETESCHWAL2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf17c17e80a8c1e7cbe4bb0d7c680f54}{%
+           family={Anderete\bibnamedelima Schwal},
+           familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{fullhash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{bibnamehash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{authorbibnamehash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{authornamehash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{authorfullhash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Andina de Educación}
+      \field{langid}{spanish}
+      \field{number}{1}
+      \field{title}{Las desigualdades educativas durante la pandemia en la educación primaria de Argentina}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{pages}{5\bibrangedash 10}
+      \range{pages}{6}
+    \endentry
+    \entry{4190-CAGGIANO2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b469386635ea13ace9bcb56ca45bcab1}{%
+           family={Caggiano},
+           familyi={C\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f05377dc5b927090c35c339d96ff2c2}{%
+           family={Segura},
+           familyi={S\bibinitperiod},
+           given={Ramiro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{fullhash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{bibnamehash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{authorbibnamehash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{authornamehash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{authorfullhash}{6fb1624fe53652cd09f201f374a4831d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ciudadanías. Revista De Políticas Sociales Urbanas}
+      \field{langid}{spanish}
+      \field{number}{8}
+      \field{title}{La casa como proceso. Aislamiento y experiencia urbana durante la pandemia a través de la fotografía}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://revistas.untref.edu.ar/index.php/ciudadanias/article/view/1125
+      \endverb
+      \verb{url}
+      \verb http://revistas.untref.edu.ar/index.php/ciudadanias/article/view/1125
+      \endverb
+    \endentry
+    \entry{4191-CARDINAUX2020}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=abf9962c8ed4c198b8b47f1870d8511f}{%
+           family={Cardinaux},
+           familyi={C\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=44870f2ef0010b2fff53b49139176c7b}{%
+           family={Bohoslavsky},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Pablo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Biblos}%
+      }
+      \strng{namehash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{fullhash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{bibnamehash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{authorbibnamehash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{authornamehash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{authorfullhash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{editorbibnamehash}{44870f2ef0010b2fff53b49139176c7b}
+      \strng{editornamehash}{44870f2ef0010b2fff53b49139176c7b}
+      \strng{editorfullhash}{44870f2ef0010b2fff53b49139176c7b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{COVID-19 y derechos humanos: la pandemia de la desigualdad}
+      \field{langid}{spanish}
+      \field{title}{El derecho a la educación atravesado por COVID-19}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4196-CHAVES2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=679ddb9403293d221ccbd8627cfc34fd}{%
+           family={Chaves},
+           familyi={C\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{fullhash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{bibnamehash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{authorbibnamehash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{authornamehash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{authorfullhash}{679ddb9403293d221ccbd8627cfc34fd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Papeles de trabajo}
+      \field{langid}{spanish}
+      \field{number}{5}
+      \field{title}{Investigaciones sobre juventudes en la Argentina: estado del arte en ciencias sociales 1983-2006}
+      \field{year}{2009}
+    \endentry
+    \entry{4197-DUSSEL2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d27f5cf02ecc69e0f026e0f3a9a5182c}{%
+           family={Dussel},
+           familyi={D\bibinitperiod},
+           given={Inés},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{fullhash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{bibnamehash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{authorbibnamehash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{authornamehash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{authorfullhash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Praxis Educativa}
+      \field{langid}{spanish}
+      \field{number}{15}
+      \field{title}{La escuela en la pandemia. Reflexiones sobre lo escolar en tiempos dislocados}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb https://www.redalyc.org/articulo.oa?id=89462860086
+      \endverb
+      \verb{url}
+      \verb https://www.redalyc.org/articulo.oa?id=89462860086
+      \endverb
+    \endentry
+    \entry{4198-FAILLA2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35a6cc5db9dd06c3eb41aabc01a3db4b}{%
+           family={Failla},
+           familyi={F\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{fullhash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{bibnamehash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{authorbibnamehash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{authornamehash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{authorfullhash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Controversias en psicoanálisis de niños y adolescentes}
+      \field{langid}{spanish}
+      \field{title}{La cuarentena no fue grupo. Notas sobre clínica de adolescentes en pandemia}
+      \field{year}{2021}
+      \field{pages}{10\bibrangedash 18}
+      \range{pages}{9}
+    \endentry
+    \entry{4199-GARDINER1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=46fd76e2530480ec9bfa56769fa4cd6d}{%
+           family={Gardiner},
+           familyi={G\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Londres}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan Press}%
+      }
+      \strng{namehash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{fullhash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{bibnamehash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{authorbibnamehash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{authornamehash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{authorfullhash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Gender, Care and Economics}
+      \field{year}{1997}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4201-GIDDENS1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=db288cbcfcd09a90f94155cbe2edbe09}{%
+           family={Giddens},
+           familyi={G\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Península}%
+      }
+      \strng{namehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{fullhash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{bibnamehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authorbibnamehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authornamehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authorfullhash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Modernidad e identidad del yo. El yo y la sociedad en la época contemporánea}
+      \field{year}{1997}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4200-HAIDT2024}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ad5db1a3e5b2a00eb7b9f09db549ab6}{%
+           family={Haidt},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Nueva York}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Random House}%
+      }
+      \strng{namehash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{fullhash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{bibnamehash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{authorbibnamehash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{authornamehash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{authorfullhash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La generación ansiosa: cómo el gran recableado de la infancia está provocando una epidemia de enfermedades mentales}
+      \field{year}{2024}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4193-HEREDIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{fullhash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{bibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorbibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authornamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorfullhash}{f6f8701bb82693b456936952b8d0811c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Qué pudo y qué no pudo el Estado. Frente a la emergencia de COVID-19 y después}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{4189-ACEVEDO2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35191edcd804da3286cd257cd87b4aa2}{%
+           family={Acevedo},
+           familyi={A\bibinitperiod},
+           given={Ivonne},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{fullhash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{bibnamehash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{authorbibnamehash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{authornamehash}{35191edcd804da3286cd257cd87b4aa2}
+      \strng{authorfullhash}{35191edcd804da3286cd257cd87b4aa2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista CEPAL}
+      \field{langid}{spanish}
+      \field{number}{140}
+      \field{title}{Informalidad en los tiempos del COVID-19 en América Latina: implicaciones y opciones de amortiguamiento}
+      \field{year}{2021}
+    \endentry
+    \entry{4192-ANDERETESCHWAL2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf17c17e80a8c1e7cbe4bb0d7c680f54}{%
+           family={Anderete\bibnamedelima Schwal},
+           familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Mariano},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{fullhash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{bibnamehash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{authorbibnamehash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{authornamehash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \strng{authorfullhash}{cf17c17e80a8c1e7cbe4bb0d7c680f54}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Andina de Educación}
+      \field{langid}{spanish}
+      \field{number}{1}
+      \field{title}{Las desigualdades educativas durante la pandemia en la educación primaria de Argentina}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{pages}{5\bibrangedash 10}
+      \range{pages}{6}
+    \endentry
+    \entry{4190-CAGGIANO2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b469386635ea13ace9bcb56ca45bcab1}{%
+           family={Caggiano},
+           familyi={C\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f05377dc5b927090c35c339d96ff2c2}{%
+           family={Segura},
+           familyi={S\bibinitperiod},
+           given={Ramiro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{fullhash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{bibnamehash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{authorbibnamehash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{authornamehash}{6fb1624fe53652cd09f201f374a4831d}
+      \strng{authorfullhash}{6fb1624fe53652cd09f201f374a4831d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ciudadanías. Revista De Políticas Sociales Urbanas}
+      \field{langid}{spanish}
+      \field{number}{8}
+      \field{title}{La casa como proceso. Aislamiento y experiencia urbana durante la pandemia a través de la fotografía}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://revistas.untref.edu.ar/index.php/ciudadanias/article/view/1125
+      \endverb
+      \verb{url}
+      \verb http://revistas.untref.edu.ar/index.php/ciudadanias/article/view/1125
+      \endverb
+    \endentry
+    \entry{4191-CARDINAUX2020}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=abf9962c8ed4c198b8b47f1870d8511f}{%
+           family={Cardinaux},
+           familyi={C\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=44870f2ef0010b2fff53b49139176c7b}{%
+           family={Bohoslavsky},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Pablo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Biblos}%
+      }
+      \strng{namehash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{fullhash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{bibnamehash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{authorbibnamehash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{authornamehash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{authorfullhash}{abf9962c8ed4c198b8b47f1870d8511f}
+      \strng{editorbibnamehash}{44870f2ef0010b2fff53b49139176c7b}
+      \strng{editornamehash}{44870f2ef0010b2fff53b49139176c7b}
+      \strng{editorfullhash}{44870f2ef0010b2fff53b49139176c7b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{COVID-19 y derechos humanos: la pandemia de la desigualdad}
+      \field{langid}{spanish}
+      \field{title}{El derecho a la educación atravesado por COVID-19}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4196-CHAVES2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=679ddb9403293d221ccbd8627cfc34fd}{%
+           family={Chaves},
+           familyi={C\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{fullhash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{bibnamehash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{authorbibnamehash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{authornamehash}{679ddb9403293d221ccbd8627cfc34fd}
+      \strng{authorfullhash}{679ddb9403293d221ccbd8627cfc34fd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Papeles de trabajo}
+      \field{langid}{spanish}
+      \field{number}{5}
+      \field{title}{Investigaciones sobre juventudes en la Argentina: estado del arte en ciencias sociales 1983-2006}
+      \field{year}{2009}
+    \endentry
+    \entry{4197-DUSSEL2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d27f5cf02ecc69e0f026e0f3a9a5182c}{%
+           family={Dussel},
+           familyi={D\bibinitperiod},
+           given={Inés},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{fullhash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{bibnamehash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{authorbibnamehash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{authornamehash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \strng{authorfullhash}{d27f5cf02ecc69e0f026e0f3a9a5182c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Praxis Educativa}
+      \field{langid}{spanish}
+      \field{number}{15}
+      \field{title}{La escuela en la pandemia. Reflexiones sobre lo escolar en tiempos dislocados}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb https://www.redalyc.org/articulo.oa?id=89462860086
+      \endverb
+      \verb{url}
+      \verb https://www.redalyc.org/articulo.oa?id=89462860086
+      \endverb
+    \endentry
+    \entry{4198-FAILLA2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35a6cc5db9dd06c3eb41aabc01a3db4b}{%
+           family={Failla},
+           familyi={F\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{fullhash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{bibnamehash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{authorbibnamehash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{authornamehash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \strng{authorfullhash}{35a6cc5db9dd06c3eb41aabc01a3db4b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Controversias en psicoanálisis de niños y adolescentes}
+      \field{langid}{spanish}
+      \field{title}{La cuarentena no fue grupo. Notas sobre clínica de adolescentes en pandemia}
+      \field{year}{2021}
+      \field{pages}{10\bibrangedash 18}
+      \range{pages}{9}
+    \endentry
+    \entry{4199-GARDINER1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=46fd76e2530480ec9bfa56769fa4cd6d}{%
+           family={Gardiner},
+           familyi={G\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Londres}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan Press}%
+      }
+      \strng{namehash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{fullhash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{bibnamehash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{authorbibnamehash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{authornamehash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \strng{authorfullhash}{46fd76e2530480ec9bfa56769fa4cd6d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Gender, Care and Economics}
+      \field{year}{1997}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4201-GIDDENS1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=db288cbcfcd09a90f94155cbe2edbe09}{%
+           family={Giddens},
+           familyi={G\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Península}%
+      }
+      \strng{namehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{fullhash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{bibnamehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authorbibnamehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authornamehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authorfullhash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Modernidad e identidad del yo. El yo y la sociedad en la época contemporánea}
+      \field{year}{1997}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4200-HAIDT2024}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ad5db1a3e5b2a00eb7b9f09db549ab6}{%
+           family={Haidt},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Nueva York}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Random House}%
+      }
+      \strng{namehash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{fullhash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{bibnamehash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{authorbibnamehash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{authornamehash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \strng{authorfullhash}{4ad5db1a3e5b2a00eb7b9f09db549ab6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La generación ansiosa: cómo el gran recableado de la infancia está provocando una epidemia de enfermedades mentales}
+      \field{year}{2024}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4193-HEREDIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{fullhash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{bibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorbibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authornamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorfullhash}{f6f8701bb82693b456936952b8d0811c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Qué pudo y qué no pudo el Estado. Frente a la emergencia de COVID-19 y después}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{4194-BRACCHI2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a90c97d027e276387900327800c542dd}{%
+           family={Bracchi},
+           familyi={B\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a90c97d027e276387900327800c542dd}
+      \strng{fullhash}{a90c97d027e276387900327800c542dd}
+      \strng{bibnamehash}{a90c97d027e276387900327800c542dd}
+      \strng{authorbibnamehash}{a90c97d027e276387900327800c542dd}
+      \strng{authornamehash}{a90c97d027e276387900327800c542dd}
+      \strng{authorfullhash}{a90c97d027e276387900327800c542dd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trayectorias universitarias}
+      \field{langid}{spanish}
+      \field{number}{3}
+      \field{title}{Descifrando el oficio de ser estudiantes universitarios: entre la desigualdad, la fragmentación y las trayectorias educativas diversificadas}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{pages}{3\bibrangedash 14}
+      \range{pages}{12}
+    \endentry
+    \entry{4195-MARGULIS2001}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5578d48753030a72bdbab52c7d3d4616}{%
+           family={Margulis},
+           familyi={M\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San José de Costa Rica}%
+      }
+      \list{publisher}{1}{%
+        {Libro Universitario Regional}%
+      }
+      \strng{namehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{fullhash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{bibnamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authorbibnamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authornamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authorfullhash}{5578d48753030a72bdbab52c7d3d4616}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Adolescencia y Juventud en América Latina}
+      \field{langid}{spanish}
+      \field{title}{Juventud: una aproximación conceptual}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{41\bibrangedash 56}
+      \range{pages}{16}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{4194-BRACCHI2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a90c97d027e276387900327800c542dd}{%
+           family={Bracchi},
+           familyi={B\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a90c97d027e276387900327800c542dd}
+      \strng{fullhash}{a90c97d027e276387900327800c542dd}
+      \strng{bibnamehash}{a90c97d027e276387900327800c542dd}
+      \strng{authorbibnamehash}{a90c97d027e276387900327800c542dd}
+      \strng{authornamehash}{a90c97d027e276387900327800c542dd}
+      \strng{authorfullhash}{a90c97d027e276387900327800c542dd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trayectorias universitarias}
+      \field{langid}{spanish}
+      \field{number}{3}
+      \field{title}{Descifrando el oficio de ser estudiantes universitarios: entre la desigualdad, la fragmentación y las trayectorias educativas diversificadas}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{pages}{3\bibrangedash 14}
+      \range{pages}{12}
+    \endentry
+    \entry{4195-MARGULIS2001}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5578d48753030a72bdbab52c7d3d4616}{%
+           family={Margulis},
+           familyi={M\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San José de Costa Rica}%
+      }
+      \list{publisher}{1}{%
+        {Libro Universitario Regional}%
+      }
+      \strng{namehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{fullhash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{bibnamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authorbibnamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authornamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authorfullhash}{5578d48753030a72bdbab52c7d3d4616}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Adolescencia y Juventud en América Latina}
+      \field{langid}{spanish}
+      \field{title}{Juventud: una aproximación conceptual}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{41\bibrangedash 56}
+      \range{pages}{16}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{4}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{4207-AGUIRRECUNS2018}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7ce6fe2ab988a211648cbb9457e143fa}{%
+           family={Aguirre\bibnamedelima Cuns},
+           familyi={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Rosario},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=325eccdc9181e5e2ca57ad67b37bb60f}{%
+           family={Scavino\bibnamedelima Solari},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Sol},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Doble clic Editoras}%
+      }
+      \strng{namehash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{fullhash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{bibnamehash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{authorbibnamehash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{authornamehash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{authorfullhash}{dc80014bdd38f53123164c4491c61e17}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Vejeces de las mujeres: Desafíos para la igualdad de género y la justicia social en Uruguay}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4170-ALGRANTI2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6181065cc559ca85beba34a42367b7e9}{%
+           family={Algranti},
+           familyi={A\bibinitperiod},
+           given={Joaquín},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {CICCUS}%
+      }
+      \strng{namehash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{fullhash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{bibnamehash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{authorbibnamehash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{authornamehash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{authorfullhash}{6181065cc559ca85beba34a42367b7e9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Política y religión en los márgenes. Nuevas formas de participación social de las mega-iglesias evangélicas en la Argentina}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4208-ARBER2003}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=054f12c852bfdb9aeccaba12e7395b5b}{%
+           family={Arber},
+           familyi={A\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcc898a5389824d8b318865e09175335}{%
+           family={Kate},
+           familyi={K\bibinitperiod},
+           given={Davidson},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c651ca6d83faec9844548bdc857fdd0d}{%
+           family={Ginn},
+           familyi={G\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Open University Press}%
+      }
+      \strng{namehash}{cbbd02dd1a9422abdb5e714e830a650b}
+      \strng{fullhash}{2fa03bfa6381771131af00d1714f1429}
+      \strng{bibnamehash}{2fa03bfa6381771131af00d1714f1429}
+      \strng{authorbibnamehash}{2fa03bfa6381771131af00d1714f1429}
+      \strng{authornamehash}{cbbd02dd1a9422abdb5e714e830a650b}
+      \strng{authorfullhash}{2fa03bfa6381771131af00d1714f1429}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Gender and ageing: Changing Roles and Relationships}
+      \field{langid}{english}
+      \field{title}{Changing approaches to gender and later life}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+    \endentry
+    \entry{4174-BATTHYANY2021}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e55a8507587c17cc3f9186f92962381b}{%
+           family={Batthyány},
+           familyi={B\bibinitperiod},
+           given={Karina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {CLACSO}%
+      }
+      \strng{namehash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{fullhash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{bibnamehash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{authorbibnamehash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{authornamehash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{authorfullhash}{e55a8507587c17cc3f9186f92962381b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Políticas del cuidado}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4202-BONIOLO2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0bc0b60e2cc1be39d2c10b1184613b16}{%
+           family={Boniolo},
+           familyi={B\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=556f7734fd5386055bb196e8650aff1a}{%
+           family={Ojeda},
+           familyi={O\bibinitperiod},
+           given={Bárbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{fullhash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{bibnamehash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{authorbibnamehash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{authornamehash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{authorfullhash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{De Prácticas y Discursos}
+      \field{langid}{spanish}
+      \field{number}{22}
+      \field{title}{Pandemia y vida cotidiana: las cargas de cuidado según las clases sociales y el género en Argentina}
+      \field{volume}{13}
+      \field{year}{2024}
+    \endentry
+    \entry{4171-BORRELLI2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2acea728a80a44f02736904fd5e133eb}{%
+           family={Borrelli},
+           familyi={B\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{fullhash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{bibnamehash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{authorbibnamehash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{authornamehash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{authorfullhash}{2acea728a80a44f02736904fd5e133eb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{langid}{spanish}
+      \field{month}{10}
+      \field{title}{El práctico de puerto: una profesión indispensable}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://camaradepracticaje.com.ar/nota/103-El-practico-de-puerto-una-profesion-indispensable
+      \endverb
+      \verb{url}
+      \verb https://camaradepracticaje.com.ar/nota/103-El-practico-de-puerto-una-profesion-indispensable
+      \endverb
+    \endentry
+    \entry{4209-BOYD2007}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa83546a4ffeaf9a6253c84cd1f620a1}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Danah},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{fullhash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{bibnamehash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{authorbibnamehash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{authornamehash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{authorfullhash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Youth, Identity and Digital Media}
+      \field{langid}{english}
+      \field{title}{Why Youth (Heart) Social Network Sites: The Role of Networked Publics in Teenage Social Life}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4169-CERRI2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38b4f807b059f3b08fe11712d2716d2f}{%
+           family={Cerri},
+           familyi={C\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{fullhash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{bibnamehash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{authorbibnamehash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{authornamehash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{authorfullhash}{38b4f807b059f3b08fe11712d2716d2f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Athenea Digital}
+      \field{langid}{spanish}
+      \field{number}{2}
+      \field{title}{Dependencia y autonomía: una aproximación antropológica desde el cuidado de los mayores}
+      \field{volume}{15}
+      \field{year}{2016}
+      \field{pages}{Athenea Digital}
+      \range{pages}{-1}
+    \endentry
+    \entry{4168-CUNZOLO2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=24f66505c6c04ea38c7d39c9eb877aba}{%
+           family={Cunzolo},
+           familyi={C\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c6563233f9163a2da12ae2f263b08fd}{%
+           family={Rada\bibnamedelima Schultze},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{fullhash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{bibnamehash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{authorbibnamehash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{authornamehash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{authorfullhash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Territorios. Revista de Trabajo Social}
+      \field{langid}{spanish}
+      \field{number}{5}
+      \field{title}{El «riesgo» de envejecer: La salud de las personas mayores en un año de pandemia}
+      \field{volume}{V}
+      \field{year}{2021}
+      \field{pages}{33\bibrangedash 50}
+      \range{pages}{18}
+    \endentry
+    \entry{4205-HEID2021}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f1698a05a2c91fb0869ec997dd993941}{%
+           family={Heid},
+           familyi={H\bibinitperiod},
+           given={Alison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01254b0240b42fbc67ef6d8a1a82b9a2}{%
+           family={Cartwright},
+           familyi={C\bibinitperiod},
+           given={Francine},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52e7f51b5932d3295e517042ac24fbeb}{%
+           family={Wilson-Genderson},
+           familyi={W\bibinithyphendelim G\bibinitperiod},
+           given={Maureen},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f2cebc4775f5a8a64f5206b8d2d3106}{%
+           family={Pruchno},
+           familyi={P\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {48-58}%
+      }
+      \strng{namehash}{7cf6dc64063cdff528099733d4ecae42}
+      \strng{fullhash}{ae083f8dea2643296fdfb48112171172}
+      \strng{bibnamehash}{ae083f8dea2643296fdfb48112171172}
+      \strng{authorbibnamehash}{ae083f8dea2643296fdfb48112171172}
+      \strng{authornamehash}{7cf6dc64063cdff528099733d4ecae42}
+      \strng{authorfullhash}{ae083f8dea2643296fdfb48112171172}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gerontologist}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Challenges Experienced by Older People During the Initial Months of the COVID-19 Pandemic}
+      \field{volume}{61}
+      \field{year}{2021}
+      \field{pages}{48\bibrangedash 58}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1093/geront/gnaa138
+      \endverb
+    \endentry
+    \entry{4172-IACUB2017}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f6742cd44d58944f34ea6b3b4f40baa}{%
+           family={Iacub},
+           familyi={I\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Red Latinoamericana de Gerontología}%
+      }
+      \strng{namehash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{fullhash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{bibnamehash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{authorbibnamehash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{authornamehash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{authorfullhash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{¿Es posible ser varón en la vejez?}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4173-LOPEZ2009}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=10d4dec9d414856a92293d748c93e241}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Elsa},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1323542c6217cb14cd8f470a43f3467}{%
+           family={Findling},
+           familyi={F\bibinitperiod},
+           given={Liliana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {EUDEBA}%
+      }
+      \strng{namehash}{50937299d9962d377d48cf23602a1583}
+      \strng{fullhash}{50937299d9962d377d48cf23602a1583}
+      \strng{bibnamehash}{50937299d9962d377d48cf23602a1583}
+      \strng{editorbibnamehash}{50937299d9962d377d48cf23602a1583}
+      \strng{editornamehash}{50937299d9962d377d48cf23602a1583}
+      \strng{editorfullhash}{50937299d9962d377d48cf23602a1583}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{editortype}{compiler}
+      \field{langid}{spanish}
+      \field{title}{Salud, familias y vínculos: el mundo de los adultos mayores}
+      \field{year}{2009}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4210-MOGUILLANSKY2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=29f623ef03e42fc480debad2e2ad3f2b}{%
+           family={Moguillansky},
+           familyi={M\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c14cc480709e5ce48914fd7913d5ef86}{%
+           family={Duek},
+           familyi={D\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{fullhash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{bibnamehash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{authorbibnamehash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{authornamehash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{authorfullhash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{e230256}
+      \field{journaltitle}{Interface}
+      \field{langid}{spanish}
+      \field{number}{28}
+      \field{title}{La crisis de cuidados en primera persona. Un estudio con mujeres cuidadoras de sectores populares del Área Metropolitana de Buenos Aires (AMBA), Argentina}
+      \field{year}{2024}
+    \endentry
+    \entry{4203-SMITH2007}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=26a8b4a95216218b2dfc1460f6d4c494}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9dacf26574611b229cdfc0148a32d33}{%
+           family={Braunack-Mayer},
+           familyi={B\bibinithyphendelim M\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67685692d2ecce471f6e18283e2287de}{%
+           family={Wittert},
+           familyi={W\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efba66de62810ac259b16651ceab1171}{%
+           family={Warin},
+           familyi={W\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56c30bee6eb4459ecb000cd6fb751fc3}
+      \strng{fullhash}{fbb6e2e65eb6607293120ed7e728eb99}
+      \strng{bibnamehash}{fbb6e2e65eb6607293120ed7e728eb99}
+      \strng{authorbibnamehash}{fbb6e2e65eb6607293120ed7e728eb99}
+      \strng{authornamehash}{56c30bee6eb4459ecb000cd6fb751fc3}
+      \strng{authorfullhash}{fbb6e2e65eb6607293120ed7e728eb99}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Aging Studies}
+      \field{langid}{english}
+      \field{number}{21}
+      \field{title}{«{I}'ve been independent for so damn long!»: Independence, masculinity and aging in a help seeking context}
+      \field{year}{2007}
+      \field{pages}{325\bibrangedash 335}
+      \range{pages}{11}
+    \endentry
+    \entry{4204-VEGASOLIS2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9af62a667770a42a51e217e8fdf9eec1}{%
+           family={Vega-Solís},
+           familyi={V\bibinithyphendelim S\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0ba5b7f82d38c99afd11e6ad25ff3a2}{%
+           family={Martínez-Buján},
+           familyi={M\bibinithyphendelim B\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{fullhash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{bibnamehash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{authorbibnamehash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{authornamehash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{authorfullhash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{QuAderns-e}
+      \field{langid}{spanish}
+      \field{number}{2}
+      \field{title}{Explorando el lugar de lo comunitario en los estudios de género sobre sostenibilidad, reproducción y cuidados}
+      \field{volume}{22}
+      \field{year}{2017}
+      \field{pages}{65\bibrangedash 81}
+      \range{pages}{17}
+    \endentry
+    \entry{4206-VENTURIELLO2023}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1c1062559796c594eda780e74b0de38e}{%
+           family={Venturiello},
+           familyi={V\bibinitperiod},
+           given={María\bibnamedelima Pía},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ad724e4795f426f37b378e67c053dd5}{%
+           family={Cirino},
+           familyi={C\bibinitperiod},
+           given={Estefanía},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=040b4fee0d9dae9f56e0575014961cea}{%
+           family={Palermo},
+           familyi={P\bibinitperiod},
+           given={María\bibnamedelima Cecilia},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {La bicicleta ediciones}%
+      }
+      \strng{namehash}{7f29e813b1abcfa4ed8894ae9253450d}
+      \strng{fullhash}{12e48d2c8d80ebfc3af356dbfe850592}
+      \strng{bibnamehash}{12e48d2c8d80ebfc3af356dbfe850592}
+      \strng{authorbibnamehash}{12e48d2c8d80ebfc3af356dbfe850592}
+      \strng{authornamehash}{7f29e813b1abcfa4ed8894ae9253450d}
+      \strng{authorfullhash}{12e48d2c8d80ebfc3af356dbfe850592}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Vejeces en pandemia y pospandemia: políticas sociales, cuidados y calidad de vida}
+      \field{langid}{spanish}
+      \field{title}{Políticas sociales y cuidados para personas mayores y personas con discapacidad en Argentina (2016-2023)}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{19\bibrangedash 37}
+      \range{pages}{19}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{4207-AGUIRRECUNS2018}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7ce6fe2ab988a211648cbb9457e143fa}{%
+           family={Aguirre\bibnamedelima Cuns},
+           familyi={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Rosario},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=325eccdc9181e5e2ca57ad67b37bb60f}{%
+           family={Scavino\bibnamedelima Solari},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Sol},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Doble clic Editoras}%
+      }
+      \strng{namehash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{fullhash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{bibnamehash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{authorbibnamehash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{authornamehash}{dc80014bdd38f53123164c4491c61e17}
+      \strng{authorfullhash}{dc80014bdd38f53123164c4491c61e17}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Vejeces de las mujeres: Desafíos para la igualdad de género y la justicia social en Uruguay}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4170-ALGRANTI2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6181065cc559ca85beba34a42367b7e9}{%
+           family={Algranti},
+           familyi={A\bibinitperiod},
+           given={Joaquín},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {CICCUS}%
+      }
+      \strng{namehash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{fullhash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{bibnamehash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{authorbibnamehash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{authornamehash}{6181065cc559ca85beba34a42367b7e9}
+      \strng{authorfullhash}{6181065cc559ca85beba34a42367b7e9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Política y religión en los márgenes. Nuevas formas de participación social de las mega-iglesias evangélicas en la Argentina}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4208-ARBER2003}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=054f12c852bfdb9aeccaba12e7395b5b}{%
+           family={Arber},
+           familyi={A\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcc898a5389824d8b318865e09175335}{%
+           family={Kate},
+           familyi={K\bibinitperiod},
+           given={Davidson},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c651ca6d83faec9844548bdc857fdd0d}{%
+           family={Ginn},
+           familyi={G\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Open University Press}%
+      }
+      \strng{namehash}{cbbd02dd1a9422abdb5e714e830a650b}
+      \strng{fullhash}{2fa03bfa6381771131af00d1714f1429}
+      \strng{bibnamehash}{2fa03bfa6381771131af00d1714f1429}
+      \strng{authorbibnamehash}{2fa03bfa6381771131af00d1714f1429}
+      \strng{authornamehash}{cbbd02dd1a9422abdb5e714e830a650b}
+      \strng{authorfullhash}{2fa03bfa6381771131af00d1714f1429}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Gender and ageing: Changing Roles and Relationships}
+      \field{langid}{english}
+      \field{title}{Changing approaches to gender and later life}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+    \endentry
+    \entry{4174-BATTHYANY2021}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e55a8507587c17cc3f9186f92962381b}{%
+           family={Batthyány},
+           familyi={B\bibinitperiod},
+           given={Karina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {CLACSO}%
+      }
+      \strng{namehash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{fullhash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{bibnamehash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{authorbibnamehash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{authornamehash}{e55a8507587c17cc3f9186f92962381b}
+      \strng{authorfullhash}{e55a8507587c17cc3f9186f92962381b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Políticas del cuidado}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4202-BONIOLO2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0bc0b60e2cc1be39d2c10b1184613b16}{%
+           family={Boniolo},
+           familyi={B\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=556f7734fd5386055bb196e8650aff1a}{%
+           family={Ojeda},
+           familyi={O\bibinitperiod},
+           given={Bárbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{fullhash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{bibnamehash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{authorbibnamehash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{authornamehash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \strng{authorfullhash}{7bf82c3d9e5fcbc98e371d68f67ec68f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{De Prácticas y Discursos}
+      \field{langid}{spanish}
+      \field{number}{22}
+      \field{title}{Pandemia y vida cotidiana: las cargas de cuidado según las clases sociales y el género en Argentina}
+      \field{volume}{13}
+      \field{year}{2024}
+    \endentry
+    \entry{4171-BORRELLI2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2acea728a80a44f02736904fd5e133eb}{%
+           family={Borrelli},
+           familyi={B\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{fullhash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{bibnamehash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{authorbibnamehash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{authornamehash}{2acea728a80a44f02736904fd5e133eb}
+      \strng{authorfullhash}{2acea728a80a44f02736904fd5e133eb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{langid}{spanish}
+      \field{month}{10}
+      \field{title}{El práctico de puerto: una profesión indispensable}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://camaradepracticaje.com.ar/nota/103-El-practico-de-puerto-una-profesion-indispensable
+      \endverb
+      \verb{url}
+      \verb https://camaradepracticaje.com.ar/nota/103-El-practico-de-puerto-una-profesion-indispensable
+      \endverb
+    \endentry
+    \entry{4209-BOYD2007}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa83546a4ffeaf9a6253c84cd1f620a1}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Danah},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{fullhash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{bibnamehash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{authorbibnamehash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{authornamehash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \strng{authorfullhash}{aa83546a4ffeaf9a6253c84cd1f620a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Youth, Identity and Digital Media}
+      \field{langid}{english}
+      \field{title}{Why Youth (Heart) Social Network Sites: The Role of Networked Publics in Teenage Social Life}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4169-CERRI2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38b4f807b059f3b08fe11712d2716d2f}{%
+           family={Cerri},
+           familyi={C\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{fullhash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{bibnamehash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{authorbibnamehash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{authornamehash}{38b4f807b059f3b08fe11712d2716d2f}
+      \strng{authorfullhash}{38b4f807b059f3b08fe11712d2716d2f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Athenea Digital}
+      \field{langid}{spanish}
+      \field{number}{2}
+      \field{title}{Dependencia y autonomía: una aproximación antropológica desde el cuidado de los mayores}
+      \field{volume}{15}
+      \field{year}{2016}
+      \field{pages}{Athenea Digital}
+      \range{pages}{-1}
+    \endentry
+    \entry{4168-CUNZOLO2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=24f66505c6c04ea38c7d39c9eb877aba}{%
+           family={Cunzolo},
+           familyi={C\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c6563233f9163a2da12ae2f263b08fd}{%
+           family={Rada\bibnamedelima Schultze},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{fullhash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{bibnamehash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{authorbibnamehash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{authornamehash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \strng{authorfullhash}{2fbea2cc8c2649b135238e2457b5c54d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Territorios. Revista de Trabajo Social}
+      \field{langid}{spanish}
+      \field{number}{5}
+      \field{title}{El «riesgo» de envejecer: La salud de las personas mayores en un año de pandemia}
+      \field{volume}{V}
+      \field{year}{2021}
+      \field{pages}{33\bibrangedash 50}
+      \range{pages}{18}
+    \endentry
+    \entry{4205-HEID2021}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f1698a05a2c91fb0869ec997dd993941}{%
+           family={Heid},
+           familyi={H\bibinitperiod},
+           given={Alison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01254b0240b42fbc67ef6d8a1a82b9a2}{%
+           family={Cartwright},
+           familyi={C\bibinitperiod},
+           given={Francine},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52e7f51b5932d3295e517042ac24fbeb}{%
+           family={Wilson-Genderson},
+           familyi={W\bibinithyphendelim G\bibinitperiod},
+           given={Maureen},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f2cebc4775f5a8a64f5206b8d2d3106}{%
+           family={Pruchno},
+           familyi={P\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {48-58}%
+      }
+      \strng{namehash}{7cf6dc64063cdff528099733d4ecae42}
+      \strng{fullhash}{ae083f8dea2643296fdfb48112171172}
+      \strng{bibnamehash}{ae083f8dea2643296fdfb48112171172}
+      \strng{authorbibnamehash}{ae083f8dea2643296fdfb48112171172}
+      \strng{authornamehash}{7cf6dc64063cdff528099733d4ecae42}
+      \strng{authorfullhash}{ae083f8dea2643296fdfb48112171172}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gerontologist}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Challenges Experienced by Older People During the Initial Months of the COVID-19 Pandemic}
+      \field{volume}{61}
+      \field{year}{2021}
+      \field{pages}{48\bibrangedash 58}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1093/geront/gnaa138
+      \endverb
+    \endentry
+    \entry{4172-IACUB2017}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f6742cd44d58944f34ea6b3b4f40baa}{%
+           family={Iacub},
+           familyi={I\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Red Latinoamericana de Gerontología}%
+      }
+      \strng{namehash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{fullhash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{bibnamehash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{authorbibnamehash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{authornamehash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \strng{authorfullhash}{8f6742cd44d58944f34ea6b3b4f40baa}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{¿Es posible ser varón en la vejez?}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4173-LOPEZ2009}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=10d4dec9d414856a92293d748c93e241}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Elsa},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1323542c6217cb14cd8f470a43f3467}{%
+           family={Findling},
+           familyi={F\bibinitperiod},
+           given={Liliana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {EUDEBA}%
+      }
+      \strng{namehash}{50937299d9962d377d48cf23602a1583}
+      \strng{fullhash}{50937299d9962d377d48cf23602a1583}
+      \strng{bibnamehash}{50937299d9962d377d48cf23602a1583}
+      \strng{editorbibnamehash}{50937299d9962d377d48cf23602a1583}
+      \strng{editornamehash}{50937299d9962d377d48cf23602a1583}
+      \strng{editorfullhash}{50937299d9962d377d48cf23602a1583}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{editortype}{compiler}
+      \field{langid}{spanish}
+      \field{title}{Salud, familias y vínculos: el mundo de los adultos mayores}
+      \field{year}{2009}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4210-MOGUILLANSKY2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=29f623ef03e42fc480debad2e2ad3f2b}{%
+           family={Moguillansky},
+           familyi={M\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c14cc480709e5ce48914fd7913d5ef86}{%
+           family={Duek},
+           familyi={D\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{fullhash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{bibnamehash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{authorbibnamehash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{authornamehash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \strng{authorfullhash}{547a53c5c5afc7bba55fc90f79c61bd6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{e230256}
+      \field{journaltitle}{Interface}
+      \field{langid}{spanish}
+      \field{number}{28}
+      \field{title}{La crisis de cuidados en primera persona. Un estudio con mujeres cuidadoras de sectores populares del Área Metropolitana de Buenos Aires (AMBA), Argentina}
+      \field{year}{2024}
+    \endentry
+    \entry{4203-SMITH2007}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=26a8b4a95216218b2dfc1460f6d4c494}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9dacf26574611b229cdfc0148a32d33}{%
+           family={Braunack-Mayer},
+           familyi={B\bibinithyphendelim M\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67685692d2ecce471f6e18283e2287de}{%
+           family={Wittert},
+           familyi={W\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efba66de62810ac259b16651ceab1171}{%
+           family={Warin},
+           familyi={W\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56c30bee6eb4459ecb000cd6fb751fc3}
+      \strng{fullhash}{fbb6e2e65eb6607293120ed7e728eb99}
+      \strng{bibnamehash}{fbb6e2e65eb6607293120ed7e728eb99}
+      \strng{authorbibnamehash}{fbb6e2e65eb6607293120ed7e728eb99}
+      \strng{authornamehash}{56c30bee6eb4459ecb000cd6fb751fc3}
+      \strng{authorfullhash}{fbb6e2e65eb6607293120ed7e728eb99}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Aging Studies}
+      \field{langid}{english}
+      \field{number}{21}
+      \field{title}{«{I}'ve been independent for so damn long!»: Independence, masculinity and aging in a help seeking context}
+      \field{year}{2007}
+      \field{pages}{325\bibrangedash 335}
+      \range{pages}{11}
+    \endentry
+    \entry{4204-VEGASOLIS2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9af62a667770a42a51e217e8fdf9eec1}{%
+           family={Vega-Solís},
+           familyi={V\bibinithyphendelim S\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0ba5b7f82d38c99afd11e6ad25ff3a2}{%
+           family={Martínez-Buján},
+           familyi={M\bibinithyphendelim B\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{fullhash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{bibnamehash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{authorbibnamehash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{authornamehash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \strng{authorfullhash}{bb6c9b60dde4f35f3cc4aa8721f0edfb}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{QuAderns-e}
+      \field{langid}{spanish}
+      \field{number}{2}
+      \field{title}{Explorando el lugar de lo comunitario en los estudios de género sobre sostenibilidad, reproducción y cuidados}
+      \field{volume}{22}
+      \field{year}{2017}
+      \field{pages}{65\bibrangedash 81}
+      \range{pages}{17}
+    \endentry
+    \entry{4206-VENTURIELLO2023}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1c1062559796c594eda780e74b0de38e}{%
+           family={Venturiello},
+           familyi={V\bibinitperiod},
+           given={María\bibnamedelima Pía},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ad724e4795f426f37b378e67c053dd5}{%
+           family={Cirino},
+           familyi={C\bibinitperiod},
+           given={Estefanía},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=040b4fee0d9dae9f56e0575014961cea}{%
+           family={Palermo},
+           familyi={P\bibinitperiod},
+           given={María\bibnamedelima Cecilia},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {La bicicleta ediciones}%
+      }
+      \strng{namehash}{7f29e813b1abcfa4ed8894ae9253450d}
+      \strng{fullhash}{12e48d2c8d80ebfc3af356dbfe850592}
+      \strng{bibnamehash}{12e48d2c8d80ebfc3af356dbfe850592}
+      \strng{authorbibnamehash}{12e48d2c8d80ebfc3af356dbfe850592}
+      \strng{authornamehash}{7f29e813b1abcfa4ed8894ae9253450d}
+      \strng{authorfullhash}{12e48d2c8d80ebfc3af356dbfe850592}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Vejeces en pandemia y pospandemia: políticas sociales, cuidados y calidad de vida}
+      \field{langid}{spanish}
+      \field{title}{Políticas sociales y cuidados para personas mayores y personas con discapacidad en Argentina (2016-2023)}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{19\bibrangedash 37}
+      \range{pages}{19}
     \endentry
   \enddatalist
 \endrefsection

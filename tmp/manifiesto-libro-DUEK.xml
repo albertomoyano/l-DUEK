@@ -14,6 +14,36 @@
       id_capitulo="21"
       tipo_capitulo="introduccion"/>
     <capitulo
+      path="jats/c-a-01-CAP01.xml"
+      nombre_archivo="a-01-CAP01"
+      id_capitulo="26"
+      tipo_capitulo="capitulo"/>
+    <capitulo
+      path="jats/c-a-02-CAP02.xml"
+      nombre_archivo="a-02-CAP02"
+      id_capitulo="27"
+      tipo_capitulo="capitulo"/>
+    <capitulo
+      path="jats/c-a-03-CAP03.xml"
+      nombre_archivo="a-03-CAP03"
+      id_capitulo="25"
+      tipo_capitulo="capitulo"/>
+    <capitulo
+      path="jats/c-a-04-CAP04.xml"
+      nombre_archivo="a-04-CAP04"
+      id_capitulo="28"
+      tipo_capitulo="capitulo"/>
+    <capitulo
+      path="jats/c-a-05-CAP05.xml"
+      nombre_archivo="a-05-CAP05"
+      id_capitulo="29"
+      tipo_capitulo="capitulo"/>
+    <capitulo
+      path="jats/c-a-06-CAP06.xml"
+      nombre_archivo="a-06-CAP06"
+      id_capitulo="30"
+      tipo_capitulo="capitulo"/>
+    <capitulo
       path="jats/c-bm-10-CODA.xml"
       nombre_archivo="bm-10-CODA"
       id_capitulo="22"

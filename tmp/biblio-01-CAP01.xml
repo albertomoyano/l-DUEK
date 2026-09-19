@@ -1,0 +1,164 @@
+<bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Referencias</title>
+    <biblioentry xml:id="bib-4196-CHAVES2009" pubwork="article">
+      <author>
+        <personname>
+          <surname>Chaves</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <title>Investigaciones sobre juventudes en la Argentina: estado del arte en ciencias sociales 1983-2006</title>
+      <citetitle pubwork="journal">Papeles de trabajo</citetitle>
+      <pubdate>2009</pubdate>
+      <issuenum>5</issuenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4198-FAILLA2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Failla</surname>
+          <firstname>Hugo</firstname>
+        </personname>
+      </author>
+      <title>La cuarentena no fue grupo. Notas sobre clínica de adolescentes en pandemia</title>
+      <citetitle pubwork="journal">Controversias en psicoanálisis de niños y adolescentes</citetitle>
+      <pubdate>2021</pubdate>
+      <artpagenums>10-18</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4191-CARDINAUX2020" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Cardinaux</surname>
+          <firstname>Nancy</firstname>
+        </personname>
+      </author>
+      <editor>
+        <personname>
+          <surname>Bohoslavsky</surname>
+          <firstname>Juan Pablo</firstname>
+        </personname>
+      </editor>
+      <title>El derecho a la educación atravesado por COVID-19</title>
+      <citetitle pubwork="book">COVID-19 y derechos humanos: la pandemia de la desigualdad</citetitle>
+      <publisher>
+        <publishername>Biblos</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2020</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4197-DUSSEL2020" pubwork="article">
+      <author>
+        <personname>
+          <surname>Dussel</surname>
+          <firstname>Inés</firstname>
+        </personname>
+      </author>
+      <title>La escuela en la pandemia. Reflexiones sobre lo escolar en tiempos dislocados</title>
+      <citetitle pubwork="journal">Praxis Educativa</citetitle>
+      <pubdate>2020</pubdate>
+      <issuenum>15</issuenum>
+      <artpagenums>1-16</artpagenums>
+      <bibliosource><link xlink:href="2023-05-22">2023-05-22</link></bibliosource>
+      <bibliomisc role="urldate">2023-05-22</bibliomisc>
+    </biblioentry>
+    <biblioentry xml:id="bib-4201-GIDDENS1997" pubwork="book">
+      <author>
+        <personname>
+          <surname>Giddens</surname>
+          <firstname>Anthony</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Modernidad e identidad del yo. El yo y la sociedad en la época contemporánea</citetitle>
+      <publisher>
+        <publishername>Península</publishername>
+        <address><city>Barcelona</city></address>
+      </publisher>
+      <pubdate>1997</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4200-HAIDT2024" pubwork="book">
+      <author>
+        <personname>
+          <surname>Haidt</surname>
+          <firstname>Jonathan</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">La generación ansiosa: cómo el gran recableado de la infancia está provocando una epidemia de enfermedades mentales</citetitle>
+      <publisher>
+        <publishername>Penguin Random House</publishername>
+        <address><city>Nueva York</city></address>
+      </publisher>
+      <pubdate>2024</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4199-GARDINER1997" pubwork="book">
+      <author>
+        <personname>
+          <surname>Gardiner</surname>
+          <firstname>Jean</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Gender, Care and Economics</citetitle>
+      <publisher>
+        <publishername>Macmillan Press</publishername>
+        <address><city>Londres</city></address>
+      </publisher>
+      <pubdate>1997</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4190-CAGGIANO2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Caggiano</surname>
+          <firstname>Sergio</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Segura</surname>
+          <firstname>Ramiro</firstname>
+        </personname>
+      </author>
+      <title>La casa como proceso. Aislamiento y experiencia urbana durante la pandemia a través de la fotografía</title>
+      <citetitle pubwork="journal">Ciudadanías. Revista De Políticas Sociales Urbanas</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>8</issuenum>
+      <bibliosource><link xlink:href="http://revistas.untref.edu.ar/index.php/ciudadanias/article/view/1125">http://revistas.untref.edu.ar/index.php/ciudadanias/article/view/1125</link></bibliosource>
+    </biblioentry>
+    <biblioentry xml:id="bib-4189-ACEVEDO2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Acevedo</surname>
+          <firstname>Ivonne</firstname>
+        </personname>
+      </author>
+      <title>Informalidad en los tiempos del COVID-19 en América Latina: implicaciones y opciones de amortiguamiento</title>
+      <citetitle pubwork="journal">Revista CEPAL</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>140</issuenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4192-ANDERETESCHWAL2020" pubwork="article">
+      <author>
+        <personname>
+          <surname>Anderete Schwal</surname>
+          <firstname>Mariano</firstname>
+        </personname>
+      </author>
+      <title>Las desigualdades educativas durante la pandemia en la educación primaria de Argentina</title>
+      <citetitle pubwork="journal">Revista Andina de Educación</citetitle>
+      <pubdate>2020</pubdate>
+      <volumenum>4</volumenum>
+      <issuenum>1</issuenum>
+      <artpagenums>5-10</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4193-HEREDIA2022" pubwork="book">
+      <author>
+        <personname>
+          <surname>Heredia</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Qué pudo y qué no pudo el Estado. Frente a la emergencia de COVID-19 y después</citetitle>
+      <publisher>
+        <publishername>Siglo XXI</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+    </biblioentry>
+</bibliography>

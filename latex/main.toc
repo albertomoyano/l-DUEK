@@ -1,9 +1,54 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{Introducción}{\es@scroman {v}}{chapter*.2}%
-\contentsline {section}{¿Qué sabemos sobre la pandemia y sus efectos en la vida cotidiana?}{\es@scroman {vi}}{section*.3}%
-\contentsline {section}{El método biográfico, la vida cotidiana y las experiencias de la pandemia}{\es@scroman {x}}{section*.4}%
-\contentsline {section}{El recorrido de este libro}{\es@scroman {xv}}{section*.5}%
-\contentsline {chapter}{Coda}{1}{chapter*.6}%
-\contentsline {chapter}{Sobre las autoras y los autores}{5}{chapter*.7}%
-\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{7}{chapter*.8}%
+\contentsline {chapter}{Introducción}{V}{chapter*.2}%
+\contentsline {section}{¿Qué sabemos sobre la pandemia y sus efectos en la vida cotidiana?}{VI}{section*.3}%
+\contentsline {section}{El método biográfico, la vida cotidiana y las experiencias de la pandemia}{X}{section*.4}%
+\contentsline {section}{El recorrido de este libro}{XIV}{section*.5}%
+\contentsline {chapter}{\numberline {1}Pantallas apagadas y una difícil convivencia: los y las adolescentes}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introducción}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Juventudes y pandemia: desafíos contemporáneos}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Cada relato, un universo: los perfiles de nuestros entrevistados}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Nuevas configuraciones escolares: la escuela dentro de la casa}{5}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Rutinas alteradas: cambios en el sueño y el impacto del sedentarismo en los y las adolescentes}{9}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Cambios en las prácticas de cuidado durante la pandemia}{12}{section.1.6}%
+\contentsline {section}{\numberline {1.7}El hogar como refugio: desafíos de volver al mundo exterior}{14}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Conclusiones}{17}{section.1.8}%
+\contentsline {chapter}{\numberline {2}Trabajar, estudiar y cuidar en pandemia: experiencias de tres jóvenes en el AMBA}{21}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Presentación}{21}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Antecedentes}{22}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Tres jóvenes en pandemia}{23}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}«No tenía un lugar donde desahogarme»}{24}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}«Siento que el nivel de aislamiento total del 2020 me sirvió como para enfocar»}{28}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}«Para mí fue virtualidad igual desorden»}{32}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Conclusiones}{38}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Aislados y desorganizados. Los efectos de la desafiliación social en familias de sectores populares durante la pandemia}{41}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introducción}{41}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Todo lo sólido se desorganiza con el aire}{43}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Entender o no entender, esa es la cuestión}{49}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Conclusión}{52}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Todos juntos, todo el día, todos los días: maternidad, trabajo y espacios domésticos}{57}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introducción}{57}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Hogar, casa, núcleo, centro: todos, todo el tiempo en el mismo lugar}{58}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Una historia, un sujeto: las experiencias de la pandemia en primera persona}{61}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Eva, el cuidado, la preocupación económica y el trabajo desde el living de su casa}{61}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Sabrina y el aprendizaje de plataformas para multiplicar el trabajo}{65}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Helena, entre la maternidad sin respiro y la búsqueda de espacios propios}{68}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}En común}{72}{section.4.4}%
+\contentsline {chapter}{\numberline {5}¿Todo sigue igual? La pandemia para los trabajadores esenciales}{75}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción}{75}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Trabajo, desigualdad y riesgos en pandemia}{76}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Los trabajadores esenciales: historias de vida}{78}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Muerte y riesgo: la historia de Gabriel, farmacéutico clínico}{79}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}El sector alimentos y la sobrecarga de trabajo: la historia de Diego}{81}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}La higiene urbana y el trabajo como elección: la historia de Horacio}{84}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Contrapunto acerca de las experiencias de los trabajadores esenciales}{86}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Cuidar y descuidar: las personas mayores como grupo de riesgo}{91}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introducción}{91}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Riesgo, autonomía y cuidados: claves para pensar el nuevo contexto}{92}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Elvira: acompañarse a través de ventanas}{96}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Aníbal: de pérdidas irremplazables y ganancias inesperadas}{100}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Carlos: el aislamiento como oportunidad para descubrir mundos}{104}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Reflexiones finales}{109}{section.6.3}%
+\contentsline {chapter}{Coda}{113}{chapter*.6}%
+\contentsline {chapter}{Sobre las autoras y los autores}{117}{chapter*.7}%
+\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{119}{chapter*.8}%
 \contentsfinish 
