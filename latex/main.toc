@@ -33,22 +33,22 @@
 \contentsline {subsection}{\numberline {4.3.2}Sabrina y el aprendizaje de plataformas para multiplicar el trabajo}{67}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Helena, entre la maternidad sin respiro y la búsqueda de espacios propios}{70}{subsection.4.3.3}%
 \contentsline {section}{\numberline {4.4}En común}{74}{section.4.4}%
-\contentsline {chapter}{\numberline {5}¿Todo sigue igual? La pandemia para los trabajadores esenciales}{77}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introducción}{77}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Trabajo, desigualdad y riesgos en pandemia}{78}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Los trabajadores esenciales: historias de vida}{80}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Muerte y riesgo: la historia de Gabriel, farmacéutico clínico}{81}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}El sector alimentos y la sobrecarga de trabajo: la historia de Diego}{83}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}La higiene urbana y el trabajo como elección: la historia de Horacio}{86}{subsection.5.3.3}%
-\contentsline {section}{\numberline {5.4}Contrapunto acerca de las experiencias de los trabajadores esenciales}{88}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Cuidar y descuidar: las personas mayores como grupo de riesgo}{93}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Introducción}{93}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Riesgo, autonomía y cuidados: claves para pensar el nuevo contexto}{94}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Elvira: acompañarse a través de ventanas}{98}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Aníbal: de pérdidas irremplazables y ganancias inesperadas}{102}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Carlos: el aislamiento como oportunidad para descubrir mundos}{106}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}Reflexiones finales}{111}{section.6.3}%
-\contentsline {chapter}{Coda}{117}{chapter*.6}%
-\contentsline {chapter}{Sobre las autoras y los autores}{121}{chapter*.7}%
-\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{123}{chapter*.8}%
+\contentsline {chapter}{\numberline {5}¿Todo sigue igual? La pandemia para los trabajadores esenciales}{79}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción}{79}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Trabajo, desigualdad y riesgos en pandemia}{80}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Los trabajadores esenciales: historias de vida}{82}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Muerte y riesgo: la historia de Gabriel, farmacéutico clínico}{83}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}El sector alimentos y la sobrecarga de trabajo: la historia de Diego}{85}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}La higiene urbana y el trabajo como elección: la historia de Horacio}{88}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Contrapunto acerca de las experiencias de los trabajadores esenciales}{90}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Cuidar y descuidar: las personas mayores como grupo de riesgo}{95}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introducción}{95}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Riesgo, autonomía y cuidados: claves para pensar el nuevo contexto}{96}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Elvira: acompañarse a través de ventanas}{100}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Aníbal: de pérdidas irremplazables y ganancias inesperadas}{104}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Carlos: el aislamiento como oportunidad para descubrir mundos}{108}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Reflexiones finales}{113}{section.6.3}%
+\contentsline {chapter}{Coda}{119}{chapter*.6}%
+\contentsline {chapter}{Sobre las autoras y los autores}{123}{chapter*.7}%
+\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{125}{chapter*.8}%
 \contentsfinish 

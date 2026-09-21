@@ -1,1 +1,137 @@
-<bibliography xmlns="http://docbook.org/ns/docbook"/>
+<bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Referencias</title>
+    <biblioentry xml:id="bib-4246-CHAVEZMOLINA2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Chávez Molina</surname>
+          <firstname>Eduardo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Rodríguez de la Fuente</surname>
+          <firstname>José</firstname>
+        </personname>
+      </author>
+      <title>Pobreza en tiempos de pandemia. Un abordaje desde la estructura de clases ocupacionales</title>
+      <citetitle pubwork="book">Estructura social de Argentina en tiempos de pandemia. Efectos de la doble crisis y la recomposición social en disputa</citetitle>
+      <publisher>
+        <publishername>Ediciones Imago Mundi</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <volumenum>1</volumenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4255-SAUTU2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Sautú</surname>
+          <firstname>Ruth</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Carrascosa</surname>
+          <firstname>Joaquín</firstname>
+        </personname>
+      </author>
+      <title>La vulnerabilidad del hogar frente a situaciones de riesgo social</title>
+      <citetitle pubwork="book">Efectos de la doble crisis y recomposición social en disputa</citetitle>
+      <citetitle pubwork="set">Estructura social de Argentina en tiempos de pandemia</citetitle>
+      <publisher>
+        <publishername>Ediciones Imago Mundi</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <volumenum>1</volumenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4254-ORTALE2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Ortale</surname>
+          <firstname>María Susana</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Santos</surname>
+          <firstname>Javier</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Ravazzoli</surname>
+          <firstname>Juliana</firstname>
+        </personname>
+      </author>
+      <title>Efectos del Aislamiento Social, Preventivo y Obligatorio en la alimentación infantil. Estudio en hogares de La Plata, Berisso y Ensenada (Pcia de Buenos Aires, Argentina)</title>
+      <citetitle pubwork="journal">Cuestiones De Sociología</citetitle>
+      <pubdate>2022</pubdate>
+      <issuenum>26</issuenum>
+      <bibliomisc role="elocation">e134</bibliomisc>
+      <biblioid class="doi">10.24215/23468904e134</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4252-BENZA2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Benza</surname>
+          <firstname>Gabriela</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Dalle</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Maceira</surname>
+          <firstname>Verónica</firstname>
+        </personname>
+      </author>
+      <title>Estructura de clases de Argentina (2015-2021): efectos de la doble crisis prepandemia y pandemia en el empleo, los ingresos y los gastos de los hogares</title>
+      <citetitle pubwork="book">Efectos de la doble crisis y recomposición social en disputa</citetitle>
+      <citetitle pubwork="set">Estructura social de Argentina en tiempos de pandemia</citetitle>
+      <publisher>
+        <publishername>Ediciones Imago Mundi</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <volumenum>1</volumenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4253-BENZA2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Benza</surname>
+          <firstname>Gabriela</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Kessler</surname>
+          <firstname>Gabriel</firstname>
+        </personname>
+      </author>
+      <title>El impacto de la pandemia en América Latina: retrocesos sociales e incremento de las desigualdades</title>
+      <citetitle pubwork="journal">Lavboratorio</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>31</issuenum>
+      <artpagenums>12-33</artpagenums>
+      <bibliosource><link xlink:href="https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.17672/pr.17672.pdf">https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.17672/pr.17672.pdf</link></bibliosource>
+    </biblioentry>
+    <biblioentry xml:id="bib-4182-HEREDIA2022" pubwork="book">
+      <author>
+        <personname>
+          <surname>Heredia</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después</citetitle>
+      <publisher>
+        <publishername>Siglo XXI</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+    </biblioentry>
+</bibliography>

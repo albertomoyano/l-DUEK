@@ -32,6 +32,36 @@
       <pubdate>2020</pubdate>
       <bibliosource><link xlink:href="https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad">https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad</link></bibliosource>
     </biblioentry>
+    <biblioentry xml:id="bib-4262-DUEK2020" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Duek</surname>
+          <firstname>Carolina</firstname>
+        </personname>
+      </author>
+      <title>Educación, virtualidad y consumos culturales</title>
+      <citetitle pubwork="book">Diálogos de la postpandemia</citetitle>
+      <publisher>
+        <publishername>Fundación Medifé</publishername>
+      </publisher>
+      <pubdate>2020</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4261-ALMADA2023" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Almada</surname>
+          <firstname>Luciana</firstname>
+        </personname>
+      </author>
+      <othercredit class="other" otherclass="etal" role="author"><orgname>et al.</orgname></othercredit>
+      <title>Desgarradora «Dulce clandestinidad». Narrativas sobre la vida cotidiana en pandemia en espacios-cuerpos precarios de la provincia de Córdoba. Una perspectiva teórico-política feminista desde los sures</title>
+      <citetitle pubwork="book">Narrar la pandemia desde los feminismos del sur del sur. Vida cotidiana, violencia(s), cuidados</citetitle>
+      <publisher>
+        <publishername>SB</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2023</pubdate>
+    </biblioentry>
     <biblioentry xml:id="bib-4182-HEREDIA2022" pubwork="book">
       <author>
         <personname>
@@ -59,6 +89,26 @@
         <address><city>Madrid</city></address>
       </publisher>
       <pubdate>1987</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4256-SEGURA2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Segura</surname>
+          <firstname>Ramiro</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Pinedo</surname>
+          <firstname>Jerónimo</firstname>
+        </personname>
+      </author>
+      <title>Espacialidad, temporalidad, situacionalidad. Tres preguntas sobre la experiencia de la pandemia en/desde la ciudad de La Plata</title>
+      <citetitle pubwork="journal">Cuestiones de Sociología</citetitle>
+      <pubdate>2022</pubdate>
+      <issuenum>26</issuenum>
+      <bibliomisc role="elocation">e130</bibliomisc>
+      <biblioid class="doi">10.24215/23468904e130</biblioid>
     </biblioentry>
     <biblioentry xml:id="bib-4225-HARVEY1977" pubwork="book">
       <author>
@@ -101,5 +151,142 @@
         <address><city>Buenos Aires</city></address>
       </publisher>
       <pubdate>2003</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4263-BATTHYANY2020" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Batthyány</surname>
+          <firstname>Karina</firstname>
+        </personname>
+      </author>
+      <title>Introducción</title>
+      <citetitle pubwork="book">Miradas latinoamericanas a los cuidados</citetitle>
+      <publisher>
+        <publishername>CLACSO</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2020</pubdate>
+      <artpagenums>11-52</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4257-MENESESMEDINA2023" pubwork="article">
+      <author>
+        <personname>
+          <surname>Meneses Medina</surname>
+          <firstname>Paula</firstname>
+        </personname>
+      </author>
+      <title>Aproximaciones al trabajo de cuidados de las mujeres durante la pandemia del COVID-19</title>
+      <citetitle pubwork="journal">Hallazgos</citetitle>
+      <pubdate>2023</pubdate>
+      <volumenum>20</volumenum>
+      <issuenum>40</issuenum>
+      <artpagenums>299-331</artpagenums>
+      <biblioid class="doi">10.15332/2422409X.9265</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4258-PEREYRA2023" pubwork="article">
+      <author>
+        <personname>
+          <surname>Pereyra</surname>
+          <firstname>Javier</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Santillan Pizarro</surname>
+          <firstname>María Marta</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Molinatti</surname>
+          <firstname>Florencia</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Acosta</surname>
+          <firstname>Laura</firstname>
+        </personname>
+      </author>
+      <title>Efectos asimétricos de la pandemia por Covid-19 en la calidad de vida de los hogares. El caso de la ciudad de Córdoba, Argentina</title>
+      <citetitle pubwork="journal">Población \&amp; Sociedad</citetitle>
+      <pubdate>2023</pubdate>
+      <volumenum>30</volumenum>
+      <issuenum>1</issuenum>
+      <artpagenums>104-137</artpagenums>
+      <biblioid class="doi">10.19137/pys-2023-300105</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4210-MOGUILLANSKY2024" pubwork="article">
+      <author>
+        <personname>
+          <surname>Moguillansky</surname>
+          <firstname>Marina</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Duek</surname>
+          <firstname>Carolina</firstname>
+        </personname>
+      </author>
+      <title>La crisis de cuidados en primera persona. Un estudio con mujeres cuidadoras de sectores populares del Área Metropolitana de Buenos Aires (AMBA), Argentina</title>
+      <citetitle pubwork="journal">Interface</citetitle>
+      <pubdate>2024</pubdate>
+      <issuenum>28</issuenum>
+      <bibliomisc role="elocation">e230256</bibliomisc>
+    </biblioentry>
+    <biblioentry xml:id="bib-4259-SALVIA2021" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Salvia</surname>
+          <firstname>Agustín</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Zurita</surname>
+          <firstname>Carlos</firstname>
+        </personname>
+      </author>
+      <title>Presentación</title>
+      <citetitle pubwork="book">La pandemia y el mercado de trabajo en la Argentina: ingresos, seguridad alimentaria y políticas públicas</citetitle>
+      <publisher>
+        <publishername>Subsecretaría de Cultura de la Provincia de Santiago del Estero</publishername>
+        <address><city>Santiago del Estero</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4260-JACOVKIS2021" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Jacovkis</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Masello</surname>
+          <firstname>Diego</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Granovsky</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Oliva</surname>
+          <firstname>Miguel</firstname>
+        </personname>
+      </author>
+      <title>La pandemia desnuda nuestros problemas más estructurales: Un análisis de los impactos del COVID-19 en el mercado de trabajo argentino</title>
+      <citetitle pubwork="book">La pandemia y el mercado de trabajo en la Argentina: ingresos, seguridad alimentaria y políticas públicas</citetitle>
+      <publisher>
+        <publishername>Subsecretaría de Cultura de la Provincia de Santiago del Estero</publishername>
+        <address><city>Santiago del Estero</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
     </biblioentry>
 </bibliography>

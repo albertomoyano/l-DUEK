@@ -1416,4 +1416,387 @@
       <issuenum>33</issuenum>
       <artpagenums>229-259</artpagenums>
     </biblioentry>
+    <biblioentry xml:id="bib-4246-CHAVEZMOLINA2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Chávez Molina</surname>
+          <firstname>Eduardo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Rodríguez de la Fuente</surname>
+          <firstname>José</firstname>
+        </personname>
+      </author>
+      <title>Pobreza en tiempos de pandemia. Un abordaje desde la estructura de clases ocupacionales</title>
+      <citetitle pubwork="book">Estructura social de Argentina en tiempos de pandemia. Efectos de la doble crisis y la recomposición social en disputa</citetitle>
+      <publisher>
+        <publishername>Ediciones Imago Mundi</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <volumenum>1</volumenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4247-CHAVES2005" pubwork="article">
+      <author>
+        <personname>
+          <surname>Chaves</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <title>Juventud negada y negativizada: representaciones y formaciones discursivas vigentes en la Argentina contemporánea</title>
+      <citetitle pubwork="journal">Última década</citetitle>
+      <pubdate>2005</pubdate>
+      <issuenum>23</issuenum>
+      <artpagenums>9-32</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4248-CHAVES2010" pubwork="book">
+      <author>
+        <personname>
+          <surname>Chaves</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Jóvenes, territorios y complicidades. Una antropología de la juventud urbana</citetitle>
+      <publisher>
+        <publishername>Espacio Editorial</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2010</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4249-DALLE2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Dalle</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Carrascosa</surname>
+          <firstname>Joaquín</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Herrera Jurado</surname>
+          <firstname>Bryam</firstname>
+        </personname>
+      </author>
+      <title>Desigualdad de clase acumulativa e interseccional. Nudos de reproducción intergeneracional de la pobreza y canales de ascenso social</title>
+      <citetitle pubwork="book">Estructura social de Argentina en tiempos de pandemia. Efectos de la doble crisis y la recomposición social en disputa</citetitle>
+      <publisher>
+        <publishername>Ediciones Imago Mundi</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <volumenum>1</volumenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4250-MACCHIAROLA2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Macchiarola</surname>
+          <firstname>Viviana</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Pizzolitto</surname>
+          <firstname>Ana Lucía</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Pugliese Solivellas</surname>
+          <firstname>Verónica</firstname>
+        </personname>
+      </author>
+      <title>Impactos de la pandemia en la universidad pública: la mirada de los estudiantes</title>
+      <citetitle pubwork="journal">Revista IRICE</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>40</issuenum>
+      <biblioid class="doi">10.35305/revistairice.vi40.1391</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4251-KAPLAN2021" pubwork="book">
+      <editor role="direction">
+        <personname>
+          <surname>Kaplan</surname>
+          <firstname>Carina</firstname>
+        </personname>
+      </editor>
+      <citetitle pubwork="book">Informe de primeros resultados de la encuesta sobre emociones y escolarización en tiempos de pandemia, desde la perspectiva estudiantil</citetitle>
+      <publisher>
+        <publishername>Universidad de Buenos Aires</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
+      <bibliosource><link xlink:href="https://iice.institutos.filo.uba.ar/transformaciones-sociales-subjetividad-y-procesos-educativos-0">https://iice.institutos.filo.uba.ar/transformaciones-sociales-subjetividad-y-procesos-educativos-0</link></bibliosource>
+    </biblioentry>
+    <biblioentry xml:id="bib-4252-BENZA2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Benza</surname>
+          <firstname>Gabriela</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Dalle</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Maceira</surname>
+          <firstname>Verónica</firstname>
+        </personname>
+      </author>
+      <title>Estructura de clases de Argentina (2015-2021): efectos de la doble crisis prepandemia y pandemia en el empleo, los ingresos y los gastos de los hogares</title>
+      <citetitle pubwork="book">Efectos de la doble crisis y recomposición social en disputa</citetitle>
+      <citetitle pubwork="set">Estructura social de Argentina en tiempos de pandemia</citetitle>
+      <publisher>
+        <publishername>Ediciones Imago Mundi</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <volumenum>1</volumenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4253-BENZA2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Benza</surname>
+          <firstname>Gabriela</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Kessler</surname>
+          <firstname>Gabriel</firstname>
+        </personname>
+      </author>
+      <title>El impacto de la pandemia en América Latina: retrocesos sociales e incremento de las desigualdades</title>
+      <citetitle pubwork="journal">Lavboratorio</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>31</issuenum>
+      <artpagenums>12-33</artpagenums>
+      <bibliosource><link xlink:href="https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.17672/pr.17672.pdf">https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.17672/pr.17672.pdf</link></bibliosource>
+    </biblioentry>
+    <biblioentry xml:id="bib-4254-ORTALE2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Ortale</surname>
+          <firstname>María Susana</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Santos</surname>
+          <firstname>Javier</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Ravazzoli</surname>
+          <firstname>Juliana</firstname>
+        </personname>
+      </author>
+      <title>Efectos del Aislamiento Social, Preventivo y Obligatorio en la alimentación infantil. Estudio en hogares de La Plata, Berisso y Ensenada (Pcia de Buenos Aires, Argentina)</title>
+      <citetitle pubwork="journal">Cuestiones De Sociología</citetitle>
+      <pubdate>2022</pubdate>
+      <issuenum>26</issuenum>
+      <bibliomisc role="elocation">e134</bibliomisc>
+      <biblioid class="doi">10.24215/23468904e134</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4255-SAUTU2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Sautú</surname>
+          <firstname>Ruth</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Carrascosa</surname>
+          <firstname>Joaquín</firstname>
+        </personname>
+      </author>
+      <title>La vulnerabilidad del hogar frente a situaciones de riesgo social</title>
+      <citetitle pubwork="book">Efectos de la doble crisis y recomposición social en disputa</citetitle>
+      <citetitle pubwork="set">Estructura social de Argentina en tiempos de pandemia</citetitle>
+      <publisher>
+        <publishername>Ediciones Imago Mundi</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <volumenum>1</volumenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4256-SEGURA2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Segura</surname>
+          <firstname>Ramiro</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Pinedo</surname>
+          <firstname>Jerónimo</firstname>
+        </personname>
+      </author>
+      <title>Espacialidad, temporalidad, situacionalidad. Tres preguntas sobre la experiencia de la pandemia en/desde la ciudad de La Plata</title>
+      <citetitle pubwork="journal">Cuestiones de Sociología</citetitle>
+      <pubdate>2022</pubdate>
+      <issuenum>26</issuenum>
+      <bibliomisc role="elocation">e130</bibliomisc>
+      <biblioid class="doi">10.24215/23468904e130</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4257-MENESESMEDINA2023" pubwork="article">
+      <author>
+        <personname>
+          <surname>Meneses Medina</surname>
+          <firstname>Paula</firstname>
+        </personname>
+      </author>
+      <title>Aproximaciones al trabajo de cuidados de las mujeres durante la pandemia del COVID-19</title>
+      <citetitle pubwork="journal">Hallazgos</citetitle>
+      <pubdate>2023</pubdate>
+      <volumenum>20</volumenum>
+      <issuenum>40</issuenum>
+      <artpagenums>299-331</artpagenums>
+      <biblioid class="doi">10.15332/2422409X.9265</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4258-PEREYRA2023" pubwork="article">
+      <author>
+        <personname>
+          <surname>Pereyra</surname>
+          <firstname>Javier</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Santillan Pizarro</surname>
+          <firstname>María Marta</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Molinatti</surname>
+          <firstname>Florencia</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Acosta</surname>
+          <firstname>Laura</firstname>
+        </personname>
+      </author>
+      <title>Efectos asimétricos de la pandemia por Covid-19 en la calidad de vida de los hogares. El caso de la ciudad de Córdoba, Argentina</title>
+      <citetitle pubwork="journal">Población \&amp; Sociedad</citetitle>
+      <pubdate>2023</pubdate>
+      <volumenum>30</volumenum>
+      <issuenum>1</issuenum>
+      <artpagenums>104-137</artpagenums>
+      <biblioid class="doi">10.19137/pys-2023-300105</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4259-SALVIA2021" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Salvia</surname>
+          <firstname>Agustín</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Zurita</surname>
+          <firstname>Carlos</firstname>
+        </personname>
+      </author>
+      <title>Presentación</title>
+      <citetitle pubwork="book">La pandemia y el mercado de trabajo en la Argentina: ingresos, seguridad alimentaria y políticas públicas</citetitle>
+      <publisher>
+        <publishername>Subsecretaría de Cultura de la Provincia de Santiago del Estero</publishername>
+        <address><city>Santiago del Estero</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4260-JACOVKIS2021" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Jacovkis</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Masello</surname>
+          <firstname>Diego</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Granovsky</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Oliva</surname>
+          <firstname>Miguel</firstname>
+        </personname>
+      </author>
+      <title>La pandemia desnuda nuestros problemas más estructurales: Un análisis de los impactos del COVID-19 en el mercado de trabajo argentino</title>
+      <citetitle pubwork="book">La pandemia y el mercado de trabajo en la Argentina: ingresos, seguridad alimentaria y políticas públicas</citetitle>
+      <publisher>
+        <publishername>Subsecretaría de Cultura de la Provincia de Santiago del Estero</publishername>
+        <address><city>Santiago del Estero</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4261-ALMADA2023" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Almada</surname>
+          <firstname>Luciana</firstname>
+        </personname>
+      </author>
+      <othercredit class="other" otherclass="etal" role="author"><orgname>et al.</orgname></othercredit>
+      <title>Desgarradora «Dulce clandestinidad». Narrativas sobre la vida cotidiana en pandemia en espacios-cuerpos precarios de la provincia de Córdoba. Una perspectiva teórico-política feminista desde los sures</title>
+      <citetitle pubwork="book">Narrar la pandemia desde los feminismos del sur del sur. Vida cotidiana, violencia(s), cuidados</citetitle>
+      <publisher>
+        <publishername>SB</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2023</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4262-DUEK2020" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Duek</surname>
+          <firstname>Carolina</firstname>
+        </personname>
+      </author>
+      <title>Educación, virtualidad y consumos culturales</title>
+      <citetitle pubwork="book">Diálogos de la postpandemia</citetitle>
+      <publisher>
+        <publishername>Fundación Medifé</publishername>
+      </publisher>
+      <pubdate>2020</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4263-BATTHYANY2020" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Batthyány</surname>
+          <firstname>Karina</firstname>
+        </personname>
+      </author>
+      <title>Introducción</title>
+      <citetitle pubwork="book">Miradas latinoamericanas a los cuidados</citetitle>
+      <publisher>
+        <publishername>CLACSO</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2020</pubdate>
+      <artpagenums>11-52</artpagenums>
+    </biblioentry>
 </bibliography>

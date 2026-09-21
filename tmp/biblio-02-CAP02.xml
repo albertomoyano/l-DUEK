@@ -1,5 +1,18 @@
 <bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
   <title>Referencias</title>
+    <biblioentry xml:id="bib-4247-CHAVES2005" pubwork="article">
+      <author>
+        <personname>
+          <surname>Chaves</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <title>Juventud negada y negativizada: representaciones y formaciones discursivas vigentes en la Argentina contemporánea</title>
+      <citetitle pubwork="journal">Última década</citetitle>
+      <pubdate>2005</pubdate>
+      <issuenum>23</issuenum>
+      <artpagenums>9-32</artpagenums>
+    </biblioentry>
     <biblioentry xml:id="bib-4195-MARGULIS2001" pubwork="chapter">
       <author>
         <personname>
@@ -30,6 +43,20 @@
       </publisher>
       <pubdate>2000</pubdate>
     </biblioentry>
+    <biblioentry xml:id="bib-4248-CHAVES2010" pubwork="book">
+      <author>
+        <personname>
+          <surname>Chaves</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Jóvenes, territorios y complicidades. Una antropología de la juventud urbana</citetitle>
+      <publisher>
+        <publishername>Espacio Editorial</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2010</pubdate>
+    </biblioentry>
     <biblioentry xml:id="bib-4238-NAVARRO2022" pubwork="chapter">
       <author>
         <personname>
@@ -52,6 +79,21 @@
       <pubdate>2022</pubdate>
       <artpagenums>7-18</artpagenums>
     </biblioentry>
+    <biblioentry xml:id="bib-4251-KAPLAN2021" pubwork="book">
+      <editor role="direction">
+        <personname>
+          <surname>Kaplan</surname>
+          <firstname>Carina</firstname>
+        </personname>
+      </editor>
+      <citetitle pubwork="book">Informe de primeros resultados de la encuesta sobre emociones y escolarización en tiempos de pandemia, desde la perspectiva estudiantil</citetitle>
+      <publisher>
+        <publishername>Universidad de Buenos Aires</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
+      <bibliosource><link xlink:href="https://iice.institutos.filo.uba.ar/transformaciones-sociales-subjetividad-y-procesos-educativos-0">https://iice.institutos.filo.uba.ar/transformaciones-sociales-subjetividad-y-procesos-educativos-0</link></bibliosource>
+    </biblioentry>
     <biblioentry xml:id="bib-4241-MARTUCCELLI2021" pubwork="article">
       <author>
         <personname>
@@ -66,6 +108,56 @@
       <issuenum>246</issuenum>
       <artpagenums>1-16</artpagenums>
       <biblioid class="doi">10.1387/pceic.21916</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4249-DALLE2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Dalle</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Carrascosa</surname>
+          <firstname>Joaquín</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Herrera Jurado</surname>
+          <firstname>Bryam</firstname>
+        </personname>
+      </author>
+      <title>Desigualdad de clase acumulativa e interseccional. Nudos de reproducción intergeneracional de la pobreza y canales de ascenso social</title>
+      <citetitle pubwork="book">Estructura social de Argentina en tiempos de pandemia. Efectos de la doble crisis y la recomposición social en disputa</citetitle>
+      <publisher>
+        <publishername>Ediciones Imago Mundi</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <volumenum>1</volumenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4246-CHAVEZMOLINA2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Chávez Molina</surname>
+          <firstname>Eduardo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Rodríguez de la Fuente</surname>
+          <firstname>José</firstname>
+        </personname>
+      </author>
+      <title>Pobreza en tiempos de pandemia. Un abordaje desde la estructura de clases ocupacionales</title>
+      <citetitle pubwork="book">Estructura social de Argentina en tiempos de pandemia. Efectos de la doble crisis y la recomposición social en disputa</citetitle>
+      <publisher>
+        <publishername>Ediciones Imago Mundi</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <volumenum>1</volumenum>
     </biblioentry>
     <biblioentry xml:id="bib-4185-CLEMENCEAU2016" pubwork="article">
       <author>
@@ -322,5 +414,30 @@
       <citetitle pubwork="webpage">La diferencia entre la enseñanza remota de emergencia y el aprendizaje en línea</citetitle>
       <pubdate>2020</pubdate>
       <bibliosource><link xlink:href="https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning">https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning</link></bibliosource>
+    </biblioentry>
+    <biblioentry xml:id="bib-4250-MACCHIAROLA2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Macchiarola</surname>
+          <firstname>Viviana</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Pizzolitto</surname>
+          <firstname>Ana Lucía</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Pugliese Solivellas</surname>
+          <firstname>Verónica</firstname>
+        </personname>
+      </author>
+      <title>Impactos de la pandemia en la universidad pública: la mirada de los estudiantes</title>
+      <citetitle pubwork="journal">Revista IRICE</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>40</issuenum>
+      <biblioid class="doi">10.35305/revistairice.vi40.1391</biblioid>
     </biblioentry>
 </bibliography>

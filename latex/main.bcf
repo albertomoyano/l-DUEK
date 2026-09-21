@@ -3126,19 +3126,35 @@
   </bcf:bibdata>
   <bcf:section number="3">
     <bcf:citekey order="1" intorder="1">4239-MARTIN2023</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">4195-MARGULIS2001</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">4227-REGUILLO2000</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">4238-NAVARRO2022</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">4238-NAVARRO2022</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">4194-BRACCHI2016</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">4236-SIMONETTI2024</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">4240-MORAN2021</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">4240-MORAN2021</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">4238-NAVARRO2022</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">4243-HODGES2020</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">4250-MACCHIAROLA2021</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">4247-CHAVES2005</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">4195-MARGULIS2001</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">4227-REGUILLO2000</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">4248-CHAVES2010</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">4238-NAVARRO2022</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">4238-NAVARRO2022</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">4251-KAPLAN2021</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">4241-MARTUCCELLI2021</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">4249-DALLE2022</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">4246-CHAVEZMOLINA2022</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">4242-MARTUCCELLI2012</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">4194-BRACCHI2016</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">4236-SIMONETTI2024</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">4245-LEMUS2024</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">4240-MORAN2021</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">4244-KRICHESKY2021</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">4245-LEMUS2024</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">4240-MORAN2021</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">4244-KRICHESKY2021</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">4238-NAVARRO2022</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3148,13 +3164,16 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">./referencias/ref-l-DUEK.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="4">
-    <bcf:citekey order="1" intorder="1">4222-SIBILIA2008</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">4224-CANEVARO2020</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">4182-HEREDIA2022</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">4184-GUBERN1987</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">4225-HARVEY1977</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">4223-ARZA2020</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">4221-WAINERMAN2003</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">4246-CHAVEZMOLINA2022</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">4255-SAUTU2022</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">4254-ORTALE2022</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">4252-BENZA2022</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">4253-BENZA2021</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">4252-BENZA2022</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">4252-BENZA2022</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">4253-BENZA2021</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">4252-BENZA2022</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">4182-HEREDIA2022</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3164,6 +3183,31 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">./referencias/ref-l-DUEK.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="5">
+    <bcf:citekey order="1" intorder="1">4222-SIBILIA2008</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">4224-CANEVARO2020</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">4262-DUEK2020</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">4261-ALMADA2023</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">4182-HEREDIA2022</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">4184-GUBERN1987</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">4256-SEGURA2022</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">4225-HARVEY1977</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">4223-ARZA2020</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">4221-WAINERMAN2003</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">4263-BATTHYANY2020</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">4257-MENESESMEDINA2023</bcf:citekey>
+    <bcf:citekey order="12" intorder="2">4258-PEREYRA2023</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">4210-MOGUILLANSKY2024</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">4259-SALVIA2021</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">4260-JACOVKIS2021</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 6 -->
+  <bcf:bibdata section="6">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">./referencias/ref-l-DUEK.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="6">
     <bcf:citekey order="1" intorder="1">4219-DALLE2021</bcf:citekey>
     <bcf:citekey order="2" intorder="1">4182-HEREDIA2022</bcf:citekey>
     <bcf:citekey order="3" intorder="1">4218-CASTEL1995</bcf:citekey>
@@ -3174,11 +3218,11 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 6 -->
-  <bcf:bibdata section="6">
+  <!-- SECTION 7 -->
+  <bcf:bibdata section="7">
     <bcf:datasource type="file" datatype="bibtex" glob="false">./referencias/ref-l-DUEK.bib</bcf:datasource>
   </bcf:bibdata>
-  <bcf:section number="6">
+  <bcf:section number="7">
     <bcf:citekey order="1" intorder="1">4205-HEID2021</bcf:citekey>
     <bcf:citekey order="2" intorder="1">4211-CIRINO2022</bcf:citekey>
     <bcf:citekey order="3" intorder="1">4215-MINISTERIO2021</bcf:citekey>
@@ -3368,6 +3412,24 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="6"
+                name="apa/global//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="7"
+                name="apa/apasortcite//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="apasortcite"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="7"
                 name="apa/global//global/global"
                 type="entry"
                 sortingtemplatename="apa"
