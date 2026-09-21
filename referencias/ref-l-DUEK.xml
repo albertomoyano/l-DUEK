@@ -1152,4 +1152,29 @@
       <citetitle pubwork="other">Emociones, sociabilidad y espacio doméstico: adolescentes y adultos mayores durante la pandemia del Covid-19</citetitle>
       <pubdate>2022</pubdate>
     </biblioentry>
+    <biblioentry xml:id="bib-4234-SAP2020" pubwork="book">
+      <author>
+        <personname>
+          <surname>SAP</surname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Sociedad Argentina de Pediatría. Percepciones y Sentimientos de Niños Argentinos frente a la Cuarentena COVID-19. Resultados Preliminares</citetitle>
+      <pubdate>2020</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4235-PEREZMARTIRENA2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Pérez Martirena</surname>
+          <firstname>Sofía</firstname>
+        </personname>
+      </author>
+      <title>«Mañana hay que salir de nuevo»: experiencias de trabajadores de plataforma de reparto de La Plata en contexto de pandemia</title>
+      <citetitle pubwork="book">Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA</citetitle>
+      <publisher>
+        <publishername>RGC Libros</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <artpagenums>69-98</artpagenums>
+    </biblioentry>
 </bibliography>

@@ -16,6 +16,36 @@
       <pubdate>2001</pubdate>
       <artpagenums>41-56</artpagenums>
     </biblioentry>
+    <biblioentry xml:id="bib-4227-REGUILLO2000" pubwork="book">
+      <author>
+        <personname>
+          <surname>Reguillo</surname>
+          <firstname>Roxana</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Emergencia de culturas juveniles. Estrategias del desencanto</citetitle>
+      <publisher>
+        <publishername>Grupo Editorial Norma</publishername>
+        <address><city>Bogotá</city></address>
+      </publisher>
+      <pubdate>2000</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4235-PEREZMARTIRENA2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Pérez Martirena</surname>
+          <firstname>Sofía</firstname>
+        </personname>
+      </author>
+      <title>«Mañana hay que salir de nuevo»: experiencias de trabajadores de plataforma de reparto de La Plata en contexto de pandemia</title>
+      <citetitle pubwork="book">Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA</citetitle>
+      <publisher>
+        <publishername>RGC Libros</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <artpagenums>69-98</artpagenums>
+    </biblioentry>
     <biblioentry xml:id="bib-4194-BRACCHI2016" pubwork="article">
       <author>
         <personname>

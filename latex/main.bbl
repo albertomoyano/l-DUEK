@@ -1727,6 +1727,30 @@
       \field{year}{2000}
       \field{dateera}{ce}
     \endentry
+    \entry{4234-SAP2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
+           family={SAP},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{fullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{bibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Sociedad Argentina de Pediatría. Percepciones y Sentimientos de Niños Argentinos frente a la Cuarentena COVID-19. Resultados Preliminares}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
     \entry{4230-SIMONI2022}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d7b0dc79462df5e9218a127e477c0fe2}{%
@@ -2422,6 +2446,30 @@
       \field{year}{2000}
       \field{dateera}{ce}
     \endentry
+    \entry{4234-SAP2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
+           family={SAP},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{fullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{bibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Sociedad Argentina de Pediatría. Percepciones y Sentimientos de Niños Argentinos frente a la Cuarentena COVID-19. Resultados Preliminares}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
     \entry{4230-SIMONI2022}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d7b0dc79462df5e9218a127e477c0fe2}{%
@@ -2606,6 +2654,75 @@
       \field{pages}{41\bibrangedash 56}
       \range{pages}{16}
     \endentry
+    \entry{4235-PEREZMARTIRENA2022}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c09edb4776b1b02224372b90cdb7d7ff}{%
+           family={Pérez\bibnamedelima Martirena},
+           familyi={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Sofía},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {RGC Libros}%
+      }
+      \strng{namehash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{fullhash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{bibnamehash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{authorbibnamehash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{authornamehash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{authorfullhash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA}
+      \field{langid}{spanish}
+      \field{title}{«Mañana hay que salir de nuevo»: experiencias de trabajadores de plataforma de reparto de La Plata en contexto de pandemia}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{69\bibrangedash 98}
+      \range{pages}{30}
+    \endentry
+    \entry{4227-REGUILLO2000}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c349c1ffa02bdb642aea35b1b134600}{%
+           family={Reguillo},
+           familyi={R\bibinitperiod},
+           given={Roxana},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bogotá}%
+      }
+      \list{publisher}{1}{%
+        {Grupo Editorial Norma}%
+      }
+      \strng{namehash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{fullhash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{bibnamehash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{authorbibnamehash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{authornamehash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{authorfullhash}{1c349c1ffa02bdb642aea35b1b134600}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Emergencia de culturas juveniles. Estrategias del desencanto}
+      \field{year}{2000}
+      \field{dateera}{ce}
+    \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
     \entry{4194-BRACCHI2016}{article}{}
@@ -2674,6 +2791,75 @@
       \field{dateera}{ce}
       \field{pages}{41\bibrangedash 56}
       \range{pages}{16}
+    \endentry
+    \entry{4235-PEREZMARTIRENA2022}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c09edb4776b1b02224372b90cdb7d7ff}{%
+           family={Pérez\bibnamedelima Martirena},
+           familyi={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Sofía},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {RGC Libros}%
+      }
+      \strng{namehash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{fullhash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{bibnamehash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{authorbibnamehash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{authornamehash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \strng{authorfullhash}{c09edb4776b1b02224372b90cdb7d7ff}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA}
+      \field{langid}{spanish}
+      \field{title}{«Mañana hay que salir de nuevo»: experiencias de trabajadores de plataforma de reparto de La Plata en contexto de pandemia}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{69\bibrangedash 98}
+      \range{pages}{30}
+    \endentry
+    \entry{4227-REGUILLO2000}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c349c1ffa02bdb642aea35b1b134600}{%
+           family={Reguillo},
+           familyi={R\bibinitperiod},
+           given={Roxana},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bogotá}%
+      }
+      \list{publisher}{1}{%
+        {Grupo Editorial Norma}%
+      }
+      \strng{namehash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{fullhash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{bibnamehash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{authorbibnamehash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{authornamehash}{1c349c1ffa02bdb642aea35b1b134600}
+      \strng{authorfullhash}{1c349c1ffa02bdb642aea35b1b134600}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Emergencia de culturas juveniles. Estrategias del desencanto}
+      \field{year}{2000}
+      \field{dateera}{ce}
     \endentry
   \enddatalist
 \endrefsection

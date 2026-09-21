@@ -54,6 +54,15 @@
       </publisher>
       <pubdate>2000</pubdate>
     </biblioentry>
+    <biblioentry xml:id="bib-4234-SAP2020" pubwork="book">
+      <author>
+        <personname>
+          <surname>SAP</surname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Sociedad Argentina de Pediatría. Percepciones y Sentimientos de Niños Argentinos frente a la Cuarentena COVID-19. Resultados Preliminares</citetitle>
+      <pubdate>2020</pubdate>
+    </biblioentry>
     <biblioentry xml:id="bib-4198-FAILLA2021" pubwork="article">
       <author>
         <personname>

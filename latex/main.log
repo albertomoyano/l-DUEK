@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.1.29)  21 SEP 2026 12:01
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.1.29)  21 SEP 2026 12:18
  restricted system commands enabled.
 **latex/main.tex
 (/home/alberto/00_Produccion/Duek/latex/main.tex
@@ -2232,10 +2232,10 @@ LaTeX Info: Redefining \% on input line 22.
  [2]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 11.79993pt on input line 25.
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
  [3]
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
@@ -2989,17 +2989,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52188 strings out of 476553
- 4447594,2848258 words of node,token memory allocated
- 3773132 words of node memory still in use:
-   2608 hlist, 4 vlist, 995 rule, 10 ins, 55797 disc, 1105 local_par, 65 math, 6
-0192 glue, 30030 kern, 3116 penalty, 610 margin_kern, 350420 glyph, 14932 attrib
-ute, 3444 glue_spec, 7504 attribute_list, 428 write, 118 pdf_literal, 685 pdf_st
-art_link, 707 pdf_end_link, 19 pdf_dest, 399 pdf_action, 2222 pdf_colorstack nod
+ 52211 strings out of 476553
+ 4447628,2848258 words of node,token memory allocated
+ 3782011 words of node memory still in use:
+   2624 hlist, 4 vlist, 995 rule, 10 ins, 55903 disc, 1112 local_par, 65 math, 6
+0314 glue, 30079 kern, 3136 penalty, 614 margin_kern, 351108 glyph, 15238 attrib
+ute, 3464 glue_spec, 7657 attribute_list, 444 write, 118 pdf_literal, 704 pdf_st
+art_link, 726 pdf_end_link, 19 pdf_dest, 410 pdf_action, 2266 pdf_colorstack nod
 es
-   avail lists: 1:6,2:70,3:327,4:594,5:208,6:171,7:3331,8:92,9:608,10:28,11:237
- 72656 multiletter control sequences out of 65536+600000
- 82 fonts using 24443043 bytes
+   avail lists: 1:4,2:70,3:354,4:636,5:217,6:177,7:3532,8:92,9:641,10:29,11:252
+ 72676 multiletter control sequences out of 65536+600000
+ 82 fonts using 24443111 bytes
  113i,7n,125p,2113b,4196s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Ital
 ic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Lib
@@ -3008,10 +3008,10 @@ tinus-fonts/LibertinusSerif-Italic.otf></usr/share/texlive/texmf-dist/fonts/open
 type/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/texmf-dist/f
 onts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/share/te
 xlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf>
-Output written on main.pdf (142 pages, 553264 bytes).
+Output written on main.pdf (142 pages, 555204 bytes).
 
-PDF statistics: 1464 PDF objects out of 1728 (max. 8388607)
- 1121 compressed objects within 12 object streams
- 277 named destinations out of 1000 (max. 131072)
+PDF statistics: 1480 PDF objects out of 1728 (max. 8388607)
+ 1137 compressed objects within 12 object streams
+ 280 named destinations out of 1000 (max. 131072)
  581 words of extra memory for PDF output out of 10000 (max. 100000000)
 
