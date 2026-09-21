@@ -1081,4 +1081,75 @@
       <issuenum>13</issuenum>
       <artpagenums>64-91</artpagenums>
     </biblioentry>
+    <biblioentry xml:id="bib-4231-TUNON2021" pubwork="webpage">
+      <author>
+        <personname>
+          <surname>Tuñón</surname>
+          <firstname>Ianina</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="webpage">Nuevos retrocesos en las oportunidades de desarrollo de la infancia y adolescencia. Tendencias antes y durante la pandemia de COVID-19</citetitle>
+      <pubdate>2021</pubdate>
+      <bibliosource><link xlink:href="https://repositorio.uca.edu.ar/handle/123456789/12060">https://repositorio.uca.edu.ar/handle/123456789/12060</link></bibliosource>
+    </biblioentry>
+    <biblioentry xml:id="bib-4232-TUNON2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Tuñón</surname>
+          <firstname>Ianina</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Farinola</surname>
+          <firstname>Martín</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Laíño</surname>
+          <firstname>Fernando</firstname>
+        </personname>
+      </author>
+      <title>Cambios en actividad física extraescolar y conductas sedentarias con pantallas en niños/as y adolescentes argentinos durante las restricciones por COVID-19</title>
+      <citetitle pubwork="journal">Revista de Salud Pública</citetitle>
+      <pubdate>2022</pubdate>
+      <volumenum>XXVII</volumenum>
+      <issuenum>11</issuenum>
+      <artpagenums>61-87</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4233-MOGUILLANSKY2022" pubwork="other" otherpubwork="inproceedings">
+      <author>
+        <personname>
+          <surname>Moguillansky</surname>
+          <firstname>Marina</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Simonetti</surname>
+          <firstname>Paula</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Salas Tonello</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Papez</surname>
+          <firstname>Boris</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Peralta</surname>
+          <firstname>Brenda</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="other">Emociones, sociabilidad y espacio doméstico: adolescentes y adultos mayores durante la pandemia del Covid-19</citetitle>
+      <pubdate>2022</pubdate>
+    </biblioentry>
 </bibliography>

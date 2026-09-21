@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.1.29)  21 SEP 2026 09:35
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.1.29)  21 SEP 2026 12:01
  restricted system commands enabled.
 **latex/main.tex
 (/home/alberto/00_Produccion/Duek/latex/main.tex
@@ -2230,94 +2230,96 @@ LaTeX Info: Redefining \% on input line 22.
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
  [2]
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 11.79993pt on input line 25.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
  [3]
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
  [4]
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
  [5]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 8.8293pt on input line 54.
+(Font)              scaled to size 8.8293pt on input line 55.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 8.72781pt on input line 57.
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
+(Font)              scaled to size 8.72781pt on input line 58.
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
  [6]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 8.8293pt on input line 83.
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
+(Font)              scaled to size 8.8293pt on input line 84.
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
  [7]
-LaTeX Info: Redefining \. on input line 104.
-LaTeX Info: Redefining \% on input line 104.
-LaTeX Info: Redefining \. on input line 104.
-LaTeX Info: Redefining \% on input line 104.
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
  [8]
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
  [9]
-LaTeX Info: Redefining \. on input line 127.
-LaTeX Info: Redefining \% on input line 127.
-LaTeX Info: Redefining \. on input line 127.
-LaTeX Info: Redefining \% on input line 127.
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
  [10]
-LaTeX Info: Redefining \. on input line 146.
-LaTeX Info: Redefining \% on input line 146.
-LaTeX Info: Redefining \. on input line 146.
-LaTeX Info: Redefining \% on input line 146.
+LaTeX Info: Redefining \. on input line 147.
+LaTeX Info: Redefining \% on input line 147.
+LaTeX Info: Redefining \. on input line 147.
+LaTeX Info: Redefining \% on input line 147.
  [11]
-LaTeX Info: Redefining \. on input line 161.
-LaTeX Info: Redefining \% on input line 161.
-LaTeX Info: Redefining \. on input line 161.
-LaTeX Info: Redefining \% on input line 161.
+LaTeX Info: Redefining \. on input line 162.
+LaTeX Info: Redefining \% on input line 162.
+LaTeX Info: Redefining \. on input line 162.
+LaTeX Info: Redefining \% on input line 162.
  [12]
-LaTeX Info: Redefining \. on input line 174.
-LaTeX Info: Redefining \% on input line 174.
-LaTeX Info: Redefining \. on input line 174.
-LaTeX Info: Redefining \% on input line 174.
+LaTeX Info: Redefining \. on input line 175.
+LaTeX Info: Redefining \% on input line 175.
+LaTeX Info: Redefining \. on input line 175.
+LaTeX Info: Redefining \% on input line 175.
  [13]
-LaTeX Info: Redefining \. on input line 183.
-LaTeX Info: Redefining \% on input line 183.
-LaTeX Info: Redefining \. on input line 183.
-LaTeX Info: Redefining \% on input line 183.
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
  [14]
-LaTeX Info: Redefining \. on input line 196.
-LaTeX Info: Redefining \% on input line 196.
-LaTeX Info: Redefining \. on input line 196.
-LaTeX Info: Redefining \% on input line 196.
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
  [15]
-LaTeX Info: Redefining \. on input line 216.
-LaTeX Info: Redefining \% on input line 216.
-LaTeX Info: Redefining \. on input line 216.
-LaTeX Info: Redefining \% on input line 216.
+LaTeX Info: Redefining \. on input line 217.
+LaTeX Info: Redefining \% on input line 217.
+LaTeX Info: Redefining \. on input line 217.
+LaTeX Info: Redefining \% on input line 217.
  [16]
-LaTeX Info: Redefining \. on input line 222.
-LaTeX Info: Redefining \% on input line 222.
-LaTeX Info: Redefining \. on input line 222.
-LaTeX Info: Redefining \% on input line 222.
+LaTeX Info: Redefining \. on input line 223.
+LaTeX Info: Redefining \% on input line 223.
+LaTeX Info: Redefining \. on input line 223.
+LaTeX Info: Redefining \% on input line 223.
  [17]
-LaTeX Info: Redefining \. on input line 225.
-LaTeX Info: Redefining \% on input line 225.
-LaTeX Info: Redefining \. on input line 225.
-LaTeX Info: Redefining \% on input line 225.
+LaTeX Info: Redefining \. on input line 226.
+LaTeX Info: Redefining \% on input line 226.
+LaTeX Info: Redefining \. on input line 226.
+LaTeX Info: Redefining \% on input line 226.
 
 [18]
-Package biblatex Info: Reference section=0 on input line 226.
+Package biblatex Info: Reference section=0 on input line 227.
 )
 LaTeX Info: Redefining \. on input line 79.
 LaTeX Info: Redefining \% on input line 79.
@@ -2913,8 +2915,6 @@ LaTeX Info: Redefining \% on input line 91.
 
 (/home/alberto/00_Produccion/Duek/latex/c-bm-11-CV-AUTORES.tex
 Package biblatex Info: Resetting trackers on input line 2.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 5.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
 LaTeX Info: Redefining \. on input line 16.
@@ -2937,10 +2937,10 @@ Package biblatex Info: Resetting trackers on input line 102.
 Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 10.61993pt on input line 8.
-LaTeX Info: Redefining \. on input line 100.
-LaTeX Info: Redefining \% on input line 100.
-LaTeX Info: Redefining \. on input line 100.
-LaTeX Info: Redefining \% on input line 100.
+LaTeX Info: Redefining \. on input line 99.
+LaTeX Info: Redefining \% on input line 99.
+LaTeX Info: Redefining \. on input line 99.
+LaTeX Info: Redefining \% on input line 99.
  [121
 
 
@@ -2989,29 +2989,29 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52127 strings out of 476553
- 4447560,2848258 words of node,token memory allocated
- 3741817 words of node memory still in use:
-   2528 hlist, 4 vlist, 995 rule, 10 ins, 55470 disc, 1064 local_par, 62 math, 5
-9691 glue, 29902 kern, 2972 penalty, 597 margin_kern, 348047 glyph, 13930 attrib
-ute, 3344 glue_spec, 7003 attribute_list, 370 write, 118 pdf_literal, 611 pdf_st
-art_link, 632 pdf_end_link, 19 pdf_dest, 356 pdf_action, 2057 pdf_colorstack nod
+ 52188 strings out of 476553
+ 4447594,2848258 words of node,token memory allocated
+ 3773132 words of node memory still in use:
+   2608 hlist, 4 vlist, 995 rule, 10 ins, 55797 disc, 1105 local_par, 65 math, 6
+0192 glue, 30030 kern, 3116 penalty, 610 margin_kern, 350420 glyph, 14932 attrib
+ute, 3444 glue_spec, 7504 attribute_list, 428 write, 118 pdf_literal, 685 pdf_st
+art_link, 707 pdf_end_link, 19 pdf_dest, 399 pdf_action, 2222 pdf_colorstack nod
 es
-   avail lists: 1:6,2:70,3:171,4:402,5:136,6:120,7:1945,8:92,9:413,10:28,11:116
- 72603 multiletter control sequences out of 65536+600000
+   avail lists: 1:6,2:70,3:327,4:594,5:208,6:171,7:3331,8:92,9:608,10:28,11:237
+ 72656 multiletter control sequences out of 65536+600000
  82 fonts using 24443043 bytes
  113i,7n,125p,2113b,4196s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
-Serif-Bold.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSan
-sCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/liber
+</usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Ital
+ic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Lib
+ertinusSerif-Bold.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/liber
 tinus-fonts/LibertinusSerif-Italic.otf></usr/share/texlive/texmf-dist/fonts/open
 type/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/texmf-dist/f
 onts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/share/te
 xlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf>
-Output written on main.pdf (142 pages, 547161 bytes).
+Output written on main.pdf (142 pages, 553264 bytes).
 
-PDF statistics: 1407 PDF objects out of 1440 (max. 8388607)
- 1065 compressed objects within 11 object streams
- 269 named destinations out of 1000 (max. 131072)
+PDF statistics: 1464 PDF objects out of 1728 (max. 8388607)
+ 1121 compressed objects within 12 object streams
+ 277 named destinations out of 1000 (max. 131072)
  581 words of extra memory for PDF output out of 10000 (max. 100000000)
 

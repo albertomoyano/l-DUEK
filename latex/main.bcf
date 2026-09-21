@@ -3091,19 +3091,30 @@
   </bcf:bibdata>
   <bcf:section number="2">
     <bcf:citekey order="1" intorder="1">4196-CHAVES2009</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">4196-CHAVES2009</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">4198-FAILLA2021</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">4191-CARDINAUX2020</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">4197-DUSSEL2020</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">4197-DUSSEL2020</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">4226-ANDURRESTI2008</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">4196-CHAVES2009</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">4227-REGUILLO2000</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">4198-FAILLA2021</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">4191-CARDINAUX2020</bcf:citekey>
     <bcf:citekey order="7" intorder="1">4197-DUSSEL2020</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">4201-GIDDENS1997</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">4200-HAIDT2024</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">4199-GARDINER1997</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">4190-CAGGIANO2021</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">4189-ACEVEDO2021</bcf:citekey>
-    <bcf:citekey order="12" intorder="2">4192-ANDERETESCHWAL2020</bcf:citekey>
-    <bcf:citekey order="12" intorder="3">4182-HEREDIA2022</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">4233-MOGUILLANSKY2022</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">4197-DUSSEL2020</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">4197-DUSSEL2020</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">4201-GIDDENS1997</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">4230-SIMONI2022</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">4230-SIMONI2022</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">4200-HAIDT2024</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">4232-TUNON2022</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">4233-MOGUILLANSKY2022</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">4231-TUNON2021</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">4199-GARDINER1997</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">4228-HOCHSCHILD2008</bcf:citekey>
+    <bcf:citekey order="19" intorder="2">4229-PAUTASSI2013</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">4190-CAGGIANO2021</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">4233-MOGUILLANSKY2022</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">4189-ACEVEDO2021</bcf:citekey>
+    <bcf:citekey order="22" intorder="2">4192-ANDERETESCHWAL2020</bcf:citekey>
+    <bcf:citekey order="22" intorder="3">4182-HEREDIA2022</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

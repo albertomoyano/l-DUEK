@@ -61,6 +61,7 @@
   \lettergroup{F}
   \item Fachal, María Noel, \hyperpage{89}
   \item Failla, Hugo, \hyperpage{3}, \hyperpage{18}
+  \item Farinola, Martín, \hyperpage{19}
   \item Fernández Melián, María Clara, \hyperpage{XVII}
   \item Findling, Liliana, \hyperpage{95}, \hyperpage{112}
   \item Flores, Ayelén, \hyperpage{XVII}
@@ -82,6 +83,7 @@
   \item Heid, Alison, \hyperpage{91}, \hyperpage{92}, \hyperpage{112}
   \item Heller, Agnes, \hyperpage{X}, \hyperpage{XVII}
   \item Heredia, Mariana, \hyperpage{17}, \hyperpage{19}, \hyperpage{59}, \hyperpage{74}, \hyperpage{75}, \hyperpage{89}, \hyperpage{VIII}, \hyperpage{XVII}
+  \item Hochschild, Arlie, \hyperpage{14}, \hyperpage{19}
 
   \indexspace
 
@@ -96,6 +98,7 @@
   \indexspace
 
   \lettergroup{L}
+  \item Laíño, Fernando, \hyperpage{19}
   \item Lehner, Paula, \hyperpage{112}
   \item López, Elsa, \hyperpage{95}, \hyperpage{112}
   \item Lube Guizardi, Menara, \hyperpage{103}, \hyperpage{112}
@@ -104,12 +107,12 @@
 
   \lettergroup{M}
   \item Marcus, Juliana, \hyperpage{VIII}, \hyperpage{XVII}
-  \item Margulis, Mario, \hyperpage{22}, \hyperpage{40}
+  \item Margulis, Mario, \hyperpage{2}, \hyperpage{19}, \hyperpage{22}, \hyperpage{40}
   \item Martínez-Buján, Raquel, \hyperpage{94}, \hyperpage{95}, \hyperpage{112}
   \item Meccia, Ernesto, \hyperpage{XII}, \hyperpage{XVII}
   \item Ministerio de Salud, \hyperpage{92}, \hyperpage{112}
   \item Mitchelstein, Eugenia, \hyperpage{X}, \hyperpage{XVII}
-  \item Moguillansky, Marina, \hyperpage{95}, \hyperpage{109}, \hyperpage{112}
+  \item Moguillansky, Marina, \hyperpage{7}, \hyperpage{14}, \hyperpage{16}, \hyperpage{19}, \hyperpage{95}, \hyperpage{109}, \hyperpage{112}
 
   \indexspace
 
@@ -119,7 +122,11 @@
   \indexspace
 
   \lettergroup{P}
+  \item Páez, María Florencia, \hyperpage{9}, \hyperpage{10}, \hyperpage{19}
   \item Palermo, María Cecilia, \hyperpage{112}
+  \item Papez, Boris, \hyperpage{19}
+  \item Pautassi, Laura, \hyperpage{14}, \hyperpage{19}
+  \item Peralta, Brenda, \hyperpage{19}
   \item Pruchno, Rachel, \hyperpage{112}
 
   \indexspace
@@ -128,6 +135,7 @@
   \item Rada Schultze, Fernando, \hyperpage{93}, \hyperpage{112}
   \item Rapley, Tim, \hyperpage{XII}, \hyperpage{XVII}
   \item Reche, Federico, \hyperpage{XVII}
+  \item Reguillo, Roxana, \hyperpage{3}, \hyperpage{19}
   \item Rico, María Nieves, \hyperpage{95}, \hyperpage{112}
   \item Robert, Castel., \hyperpage{76}, \hyperpage{77}, \hyperpage{89}
   \item Robes, Claudia, \hyperpage{95}, \hyperpage{112}
@@ -136,12 +144,25 @@
   \indexspace
 
   \lettergroup{S}
+  \item Salas Tonello, Pablo, \hyperpage{19}
   \item Salvia, Agustín, \hyperpage{76}, \hyperpage{89}
   \item Scavino Solari, Sol, \hyperpage{94}, \hyperpage{111}
   \item Segura, Ramiro, \hyperpage{15}, \hyperpage{18}, \hyperpage{IX}, \hyperpage{XVIII}
   \item Sibilia, Paula, \hyperpage{58}, \hyperpage{74}
+  \item Simonetti, Paula, \hyperpage{19}
+  \item Simoni, Laura, \hyperpage{9}, \hyperpage{10}, \hyperpage{19}
   \item Smith, James, \hyperpage{94}, \hyperpage{112}
   \item Stolkiner, Alicia, \hyperpage{95}, \hyperpage{111}
+
+  \indexspace
+
+  \lettergroup{T}
+  \item Tuñón, Ianina, \hyperpage{12}, \hyperpage{14}, \hyperpage{19}
+
+  \indexspace
+
+  \lettergroup{U}
+  \item Urresti, Marcelo, \hyperpage{2}, \hyperpage{19}
 
   \indexspace
 
@@ -156,5 +177,10 @@
   \item Warin, Megan, \hyperpage{112}
   \item Wilson-Genderson, Maureen, \hyperpage{112}
   \item Wittert, Gary, \hyperpage{112}
+
+  \indexspace
+
+  \lettergroup{Z}
+  \item Zibecchi, Claudia, \hyperpage{14}, \hyperpage{19}
 
 \end{theindex}
