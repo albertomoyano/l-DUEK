@@ -20,35 +20,35 @@
 \contentsline {subsection}{\numberline {2.3.2}Siento que el nivel de aislamiento total del 2020 me sirvió como para enfocar}{28}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Para mí fue virtualidad igual desorden}{32}{subsection.2.3.3}%
 \contentsline {section}{\numberline {2.4}Conclusiones}{38}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Aislados y desorganizados. Los efectos de la desafiliación social en familias de sectores populares durante la pandemia}{41}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introducción}{41}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Todo lo sólido se desorganiza con el aire}{43}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Entender o no entender, esa es la cuestión}{49}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Conclusión}{52}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Todos juntos, todo el día, todos los días: maternidad, trabajo y espacios domésticos}{57}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introducción}{57}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Hogar, casa, núcleo, centro: todos, todo el tiempo en el mismo lugar}{58}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Una historia, un sujeto: las experiencias de la pandemia en primera persona}{61}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Eva, el cuidado, la preocupación económica y el trabajo desde el living de su casa}{61}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Sabrina y el aprendizaje de plataformas para multiplicar el trabajo}{65}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Helena, entre la maternidad sin respiro y la búsqueda de espacios propios}{68}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}En común}{72}{section.4.4}%
-\contentsline {chapter}{\numberline {5}¿Todo sigue igual? La pandemia para los trabajadores esenciales}{75}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introducción}{75}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Trabajo, desigualdad y riesgos en pandemia}{76}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Los trabajadores esenciales: historias de vida}{78}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Muerte y riesgo: la historia de Gabriel, farmacéutico clínico}{79}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}El sector alimentos y la sobrecarga de trabajo: la historia de Diego}{81}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}La higiene urbana y el trabajo como elección: la historia de Horacio}{84}{subsection.5.3.3}%
-\contentsline {section}{\numberline {5.4}Contrapunto acerca de las experiencias de los trabajadores esenciales}{86}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Cuidar y descuidar: las personas mayores como grupo de riesgo}{91}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Introducción}{91}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Riesgo, autonomía y cuidados: claves para pensar el nuevo contexto}{92}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Elvira: acompañarse a través de ventanas}{96}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Aníbal: de pérdidas irremplazables y ganancias inesperadas}{100}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Carlos: el aislamiento como oportunidad para descubrir mundos}{104}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}Reflexiones finales}{109}{section.6.3}%
-\contentsline {chapter}{Coda}{115}{chapter*.6}%
-\contentsline {chapter}{Sobre las autoras y los autores}{119}{chapter*.7}%
-\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{121}{chapter*.8}%
+\contentsline {chapter}{\numberline {3}Aislados y desorganizados. Los efectos de la desafiliación social en familias de sectores populares durante la pandemia}{43}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introducción}{43}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Todo lo sólido se desorganiza con el aire}{45}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Entender o no entender, esa es la cuestión}{51}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Conclusión}{54}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Todos juntos, todo el día, todos los días: maternidad, trabajo y espacios domésticos}{59}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introducción}{59}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Hogar, casa, núcleo, centro: todos, todo el tiempo en el mismo lugar}{60}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Una historia, un sujeto: las experiencias de la pandemia en primera persona}{63}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Eva, el cuidado, la preocupación económica y el trabajo desde el living de su casa}{63}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Sabrina y el aprendizaje de plataformas para multiplicar el trabajo}{67}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Helena, entre la maternidad sin respiro y la búsqueda de espacios propios}{70}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}En común}{74}{section.4.4}%
+\contentsline {chapter}{\numberline {5}¿Todo sigue igual? La pandemia para los trabajadores esenciales}{77}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción}{77}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Trabajo, desigualdad y riesgos en pandemia}{78}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Los trabajadores esenciales: historias de vida}{80}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Muerte y riesgo: la historia de Gabriel, farmacéutico clínico}{81}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}El sector alimentos y la sobrecarga de trabajo: la historia de Diego}{83}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}La higiene urbana y el trabajo como elección: la historia de Horacio}{86}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Contrapunto acerca de las experiencias de los trabajadores esenciales}{88}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Cuidar y descuidar: las personas mayores como grupo de riesgo}{93}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introducción}{93}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Riesgo, autonomía y cuidados: claves para pensar el nuevo contexto}{94}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Elvira: acompañarse a través de ventanas}{98}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Aníbal: de pérdidas irremplazables y ganancias inesperadas}{102}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Carlos: el aislamiento como oportunidad para descubrir mundos}{106}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Reflexiones finales}{111}{section.6.3}%
+\contentsline {chapter}{Coda}{117}{chapter*.6}%
+\contentsline {chapter}{Sobre las autoras y los autores}{121}{chapter*.7}%
+\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{123}{chapter*.8}%
 \contentsfinish 

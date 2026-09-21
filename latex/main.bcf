@@ -3125,11 +3125,20 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">./referencias/ref-l-DUEK.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="3">
-    <bcf:citekey order="1" intorder="1">4195-MARGULIS2001</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">4227-REGUILLO2000</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">4194-BRACCHI2016</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">4239-MARTIN2023</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">4195-MARGULIS2001</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">4227-REGUILLO2000</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">4238-NAVARRO2022</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">4238-NAVARRO2022</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">4194-BRACCHI2016</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">4236-SIMONETTI2024</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
+    <bcf:citekey order="10" intorder="2">4240-MORAN2021</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">4240-MORAN2021</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">4238-NAVARRO2022</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

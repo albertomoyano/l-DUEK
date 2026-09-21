@@ -1278,4 +1278,142 @@
       <artpagenums>49-71</artpagenums>
       <biblioid class="doi">10.60020/1853-6530.v13.n24.36311</biblioid>
     </biblioentry>
+    <biblioentry xml:id="bib-4241-MARTUCCELLI2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Martuccelli</surname>
+          <firstname>Danilo</firstname>
+        </personname>
+      </author>
+      <title>La gestión anti-sociológica y tecno-experta de la pandemia del Covid-19</title>
+      <citetitle pubwork="journal">Papeles del CEIC</citetitle>
+      <pubdate>2021</pubdate>
+      <volumenum>1</volumenum>
+      <issuenum>246</issuenum>
+      <artpagenums>1-16</artpagenums>
+      <biblioid class="doi">10.1387/pceic.21916</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4242-MARTUCCELLI2012" pubwork="book">
+      <author>
+        <personname>
+          <surname>Martuccelli</surname>
+          <firstname>Danilo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>de Singly</surname>
+          <firstname>Francois</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Las sociologías del individuo</citetitle>
+      <publisher>
+        <publishername>LOM</publishername>
+        <address><city>Santiago de Chile</city></address>
+      </publisher>
+      <pubdate>2012</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4243-HODGES2020" pubwork="webpage">
+      <author>
+        <personname>
+          <surname>Hodges</surname>
+          <firstname>Charles</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Moore</surname>
+          <firstname>Stephanie</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Lockee</surname>
+          <firstname>Barb</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Trust</surname>
+          <firstname>Torrey</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Bond</surname>
+          <firstname>Aaron</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="webpage">La diferencia entre la enseñanza remota de emergencia y el aprendizaje en línea</citetitle>
+      <pubdate>2020</pubdate>
+      <bibliosource><link xlink:href="https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning">https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning</link></bibliosource>
+    </biblioentry>
+    <biblioentry xml:id="bib-4244-KRICHESKY2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Krichesky</surname>
+          <firstname>Graciela</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Pogré</surname>
+          <firstname>Paula</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Benchimol</surname>
+          <firstname>Karina</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Poliak</surname>
+          <firstname>Nadina</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Janjetic</surname>
+          <firstname>María Belén</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Vernengo</surname>
+          <firstname>Ana</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Marino</surname>
+          <firstname>Tamara</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Gómez</surname>
+          <firstname>Gustavo</firstname>
+        </personname>
+      </author>
+      <title>Rupturas y continuidades en las prácticas de enseñanza en el nivel superior a partir de la situación de pandemia: resultados de una investigación</title>
+      <citetitle pubwork="journal">Revista IRICE</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>40</issuenum>
+      <bibliosource><link xlink:href="https://ojs.rosario-conicet.gov.ar/index.php/revistairice/article/view/1446">https://ojs.rosario-conicet.gov.ar/index.php/revistairice/article/view/1446</link></bibliosource>
+    </biblioentry>
+    <biblioentry xml:id="bib-4245-LEMUS2024" pubwork="article">
+      <author>
+        <personname>
+          <surname>Lemus</surname>
+          <firstname>Magdalena</firstname>
+        </personname>
+      </author>
+      <title>Juventudes en pandemia: una reconstrucción de las experiencias educativas en el nivel secundario y universitario</title>
+      <citetitle pubwork="journal">Revista de Educación</citetitle>
+      <pubdate>2024</pubdate>
+      <issuenum>33</issuenum>
+      <artpagenums>229-259</artpagenums>
+    </biblioentry>
 </bibliography>

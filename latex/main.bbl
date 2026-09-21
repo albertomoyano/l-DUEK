@@ -2654,6 +2654,128 @@
       \field{pages}{41\bibrangedash 56}
       \range{pages}{16}
     \endentry
+    \entry{4239-MARTIN2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e43e4bfefcecf14357decdcdb7a59e3}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={María\bibnamedelima Mercedes},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{fullhash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{bibnamehash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{authorbibnamehash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{authornamehash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{authorfullhash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Punto Cunorte}
+      \field{langid}{spanish}
+      \field{number}{17}
+      \field{title}{Algunas reflexiones sobre la educación en la universidad durante y después de la pandemia. El caso de la Universidad Nacional de La Plata en la República Argentina}
+      \field{volume}{1}
+      \field{year}{2023}
+      \field{pages}{43\bibrangedash 63}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.32870/punto.v1i17.171
+      \endverb
+    \endentry
+    \entry{4240-MORAN2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f1248b8e4a88a95c5e51b2f63af44947}{%
+           family={Morán},
+           familyi={M\bibinitperiod},
+           given={Lourdes},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=243030a808b576df560622366158d55f}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={Guadalupe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4173bbc078681e3cf736a72b634d5e2}{%
+           family={Manolakis},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5d2a8e8287379c4e94563c10a1d5063}
+      \strng{fullhash}{a3945b67ddfb7c3ebc5c2fc4d429bb34}
+      \strng{bibnamehash}{a3945b67ddfb7c3ebc5c2fc4d429bb34}
+      \strng{authorbibnamehash}{a3945b67ddfb7c3ebc5c2fc4d429bb34}
+      \strng{authornamehash}{e5d2a8e8287379c4e94563c10a1d5063}
+      \strng{authorfullhash}{a3945b67ddfb7c3ebc5c2fc4d429bb34}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Virtualidad, Educación y Ciencia}
+      \field{langid}{spanish}
+      \field{number}{24}
+      \field{title}{Experiencias de aprendizaje estudiantil en la pandemia. Un análisis acerca de la sincronía y asincronía en la formación universitaria}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{49\bibrangedash 71}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.60020/1853-6530.v13.n24.36311
+      \endverb
+    \endentry
+    \entry{4238-NAVARRO2022}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5211266ddcfeb2cb1fd3580067a7f248}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b08b259d07b4c849313220a3ba0251e}{%
+           family={Semán},
+           familyi={S\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {RGC Libros}%
+      }
+      \strng{namehash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{fullhash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{bibnamehash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{authorbibnamehash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{authornamehash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{authorfullhash}{f30990272e54b9ef7c501babfbc6b849}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA}
+      \field{langid}{spanish}
+      \field{title}{Introducción}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{7\bibrangedash 18}
+      \range{pages}{12}
+    \endentry
     \entry{4235-PEREZMARTIRENA2022}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c09edb4776b1b02224372b90cdb7d7ff}{%
@@ -2722,6 +2844,82 @@
       \field{title}{Emergencia de culturas juveniles. Estrategias del desencanto}
       \field{year}{2000}
       \field{dateera}{ce}
+    \endentry
+    \entry{4237-SANTOSSHARPE2022}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c176bbe5735c270bc89a3dc6b396c1e}{%
+           family={Santos\bibnamedelima Sharpe},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Andrés},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {RGC Libros}%
+      }
+      \strng{namehash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{fullhash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{bibnamehash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{authorbibnamehash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{authornamehash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{authorfullhash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA}
+      \field{langid}{spanish}
+      \field{title}{La universidad en sus límites. La virtualidad y la experiencia estudiantil}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{141\bibrangedash 162}
+      \range{pages}{22}
+    \endentry
+    \entry{4236-SIMONETTI2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0dcf703c5934887e641e5e9b3ef44132}{%
+           family={Simonetti},
+           familyi={S\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae1dfe0bfc78f7f4f2332d06b8691bec}{%
+           family={Salas\bibnamedelima Tonello},
+           familyi={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{fullhash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{bibnamehash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{authorbibnamehash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{authornamehash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{authorfullhash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{De prácticas y discursos, cuadernos de ciencias sociales}
+      \field{langid}{spanish}
+      \field{number}{22}
+      \field{title}{Clases de emociones. La experiencia subjetiva de la pandemia de covid-19 en sectores populares del Área Metropolitana de Buenos Aires}
+      \field{volume}{13}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 27}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.30972/dpd.13227755
+      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
@@ -2792,6 +2990,128 @@
       \field{pages}{41\bibrangedash 56}
       \range{pages}{16}
     \endentry
+    \entry{4239-MARTIN2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e43e4bfefcecf14357decdcdb7a59e3}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={María\bibnamedelima Mercedes},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{fullhash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{bibnamehash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{authorbibnamehash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{authornamehash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \strng{authorfullhash}{7e43e4bfefcecf14357decdcdb7a59e3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Punto Cunorte}
+      \field{langid}{spanish}
+      \field{number}{17}
+      \field{title}{Algunas reflexiones sobre la educación en la universidad durante y después de la pandemia. El caso de la Universidad Nacional de La Plata en la República Argentina}
+      \field{volume}{1}
+      \field{year}{2023}
+      \field{pages}{43\bibrangedash 63}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.32870/punto.v1i17.171
+      \endverb
+    \endentry
+    \entry{4240-MORAN2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f1248b8e4a88a95c5e51b2f63af44947}{%
+           family={Morán},
+           familyi={M\bibinitperiod},
+           given={Lourdes},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=243030a808b576df560622366158d55f}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={Guadalupe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4173bbc078681e3cf736a72b634d5e2}{%
+           family={Manolakis},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5d2a8e8287379c4e94563c10a1d5063}
+      \strng{fullhash}{a3945b67ddfb7c3ebc5c2fc4d429bb34}
+      \strng{bibnamehash}{a3945b67ddfb7c3ebc5c2fc4d429bb34}
+      \strng{authorbibnamehash}{a3945b67ddfb7c3ebc5c2fc4d429bb34}
+      \strng{authornamehash}{e5d2a8e8287379c4e94563c10a1d5063}
+      \strng{authorfullhash}{a3945b67ddfb7c3ebc5c2fc4d429bb34}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Virtualidad, Educación y Ciencia}
+      \field{langid}{spanish}
+      \field{number}{24}
+      \field{title}{Experiencias de aprendizaje estudiantil en la pandemia. Un análisis acerca de la sincronía y asincronía en la formación universitaria}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{49\bibrangedash 71}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.60020/1853-6530.v13.n24.36311
+      \endverb
+    \endentry
+    \entry{4238-NAVARRO2022}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5211266ddcfeb2cb1fd3580067a7f248}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b08b259d07b4c849313220a3ba0251e}{%
+           family={Semán},
+           familyi={S\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {RGC Libros}%
+      }
+      \strng{namehash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{fullhash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{bibnamehash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{authorbibnamehash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{authornamehash}{f30990272e54b9ef7c501babfbc6b849}
+      \strng{authorfullhash}{f30990272e54b9ef7c501babfbc6b849}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA}
+      \field{langid}{spanish}
+      \field{title}{Introducción}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{7\bibrangedash 18}
+      \range{pages}{12}
+    \endentry
     \entry{4235-PEREZMARTIRENA2022}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c09edb4776b1b02224372b90cdb7d7ff}{%
@@ -2860,6 +3180,82 @@
       \field{title}{Emergencia de culturas juveniles. Estrategias del desencanto}
       \field{year}{2000}
       \field{dateera}{ce}
+    \endentry
+    \entry{4237-SANTOSSHARPE2022}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c176bbe5735c270bc89a3dc6b396c1e}{%
+           family={Santos\bibnamedelima Sharpe},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Andrés},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {RGC Libros}%
+      }
+      \strng{namehash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{fullhash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{bibnamehash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{authorbibnamehash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{authornamehash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \strng{authorfullhash}{0c176bbe5735c270bc89a3dc6b396c1e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA}
+      \field{langid}{spanish}
+      \field{title}{La universidad en sus límites. La virtualidad y la experiencia estudiantil}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{141\bibrangedash 162}
+      \range{pages}{22}
+    \endentry
+    \entry{4236-SIMONETTI2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0dcf703c5934887e641e5e9b3ef44132}{%
+           family={Simonetti},
+           familyi={S\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae1dfe0bfc78f7f4f2332d06b8691bec}{%
+           family={Salas\bibnamedelima Tonello},
+           familyi={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{fullhash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{bibnamehash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{authorbibnamehash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{authornamehash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \strng{authorfullhash}{3450f31ccd0b90234de9a6dd0fc90e6a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{De prácticas y discursos, cuadernos de ciencias sociales}
+      \field{langid}{spanish}
+      \field{number}{22}
+      \field{title}{Clases de emociones. La experiencia subjetiva de la pandemia de covid-19 en sectores populares del Área Metropolitana de Buenos Aires}
+      \field{volume}{13}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 27}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.30972/dpd.13227755
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
