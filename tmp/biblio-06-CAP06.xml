@@ -33,6 +33,53 @@
       <artpagenums>48-58</artpagenums>
       <biblioid class="doi">10.1093/geront/gnaa138</biblioid>
     </biblioentry>
+    <biblioentry xml:id="bib-4211-CIRINO2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Cirino</surname>
+          <firstname>Estefanía</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Lehner</surname>
+          <firstname>Paula</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Findling</surname>
+          <firstname>Liliana</firstname>
+        </personname>
+      </author>
+      <title>Políticas públicas y COVID-19: efectos del aislamiento social en los vínculos de las personas mayores en la Ciudad de Buenos Aires</title>
+      <citetitle pubwork="journal">Quaestio Iuris</citetitle>
+      <pubdate>2022</pubdate>
+      <volumenum>15</volumenum>
+      <issuenum>3</issuenum>
+      <artpagenums>1633-1660</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4215-MINISTERIO2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Ministerio de Salud</surname>
+        </personname>
+      </author>
+      <title>SE52</title>
+      <citetitle pubwork="journal">Boletín integrado de vigilancia</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>582</issuenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4216-CEPAL2020" pubwork="webpage">
+      <author>
+        <personname>
+          <surname>CEPAL</surname>
+        </personname>
+      </author>
+      <citetitle pubwork="webpage">COVID-19 y sus impactos en los derechos y la protección social de las personas mayores en la subregión</citetitle>
+      <pubdate>2020</pubdate>
+      <bibliosource><link xlink:href="http://hdl.handle.net/11362/46182">http://hdl.handle.net/11362/46182</link></bibliosource>
+    </biblioentry>
     <biblioentry xml:id="bib-4168-CUNZOLO2021" pubwork="article">
       <author>
         <personname>
@@ -138,7 +185,7 @@
           <firstname>Megan</firstname>
         </personname>
       </author>
-      <title>«{I}&apos;ve been independent for so damn long!»: Independence, masculinity and aging in a help seeking context</title>
+      <title>«I&apos;ve been independent for so damn long!»: Independence, masculinity and aging in a help seeking context</title>
       <citetitle pubwork="journal">Journal of Aging Studies</citetitle>
       <pubdate>2007</pubdate>
       <issuenum>21</issuenum>
@@ -178,6 +225,41 @@
       <issuenum>2</issuenum>
       <artpagenums>65-81</artpagenums>
     </biblioentry>
+    <biblioentry xml:id="bib-4212-CEMINARI2018" pubwork="other" otherpubwork="inproceedings">
+      <author>
+        <personname>
+          <surname>Ceminari</surname>
+          <firstname>Yanina</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Stolkiner</surname>
+          <firstname>Alicia</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="other">El cuidado social y la organización social del cuidado como categorías claves para el análisis de políticas públicas</citetitle>
+      <bibliomisc role="address">Buenos Aires</bibliomisc>
+      <pubdate>2018</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4213-RICO2016" pubwork="article">
+      <author>
+        <personname>
+          <surname>Rico</surname>
+          <firstname>María Nieves</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Robes</surname>
+          <firstname>Claudia</firstname>
+        </personname>
+      </author>
+      <title>Políticas de cuidado en América Latina: forjando la igualdad</title>
+      <citetitle pubwork="journal">CEPAL. Serie Asuntos de Género</citetitle>
+      <pubdate>2016</pubdate>
+      <issuenum>140</issuenum>
+    </biblioentry>
     <biblioentry xml:id="bib-4202-BONIOLO2024" pubwork="article">
       <author>
         <personname>
@@ -198,18 +280,18 @@
       <issuenum>22</issuenum>
     </biblioentry>
     <biblioentry xml:id="bib-4173-LOPEZ2009" pubwork="book">
-      <othercredit class="other" otherclass="compiler">
+      <editor role="compiler">
         <personname>
           <surname>López</surname>
           <firstname>Elsa</firstname>
         </personname>
-      </othercredit>
-      <othercredit class="other" otherclass="compiler">
+      </editor>
+      <editor role="compiler">
         <personname>
           <surname>Findling</surname>
           <firstname>Liliana</firstname>
         </personname>
-      </othercredit>
+      </editor>
       <citetitle pubwork="book">Salud, familias y vínculos: el mundo de los adultos mayores</citetitle>
       <publisher>
         <publishername>EUDEBA</publishername>
@@ -274,6 +356,25 @@
       </publisher>
       <pubdate>2003</pubdate>
       <artpagenums>1-14</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4214-GONZALVEZTORRALBO2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Gonzálvez Torralbo</surname>
+          <firstname>Herminia</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Lube Guizardi</surname>
+          <firstname>Menara</firstname>
+        </personname>
+      </author>
+      <title>Las mujeres mayores, los cuidados y los clubes: negociaciones intersubjetivas de una etnografía feminista</title>
+      <citetitle pubwork="journal">Arxiu d&apos;Etnografia de Catalunya</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>21</issuenum>
+      <artpagenums>61-92</artpagenums>
     </biblioentry>
     <biblioentry xml:id="bib-4209-BOYD2007" pubwork="chapter">
       <author>

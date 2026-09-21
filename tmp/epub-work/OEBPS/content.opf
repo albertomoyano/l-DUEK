@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id" xml:lang="es">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:identifier id="pub-id">urn:gbpublisher:libro-3</dc:identifier>
+<dc:title>Un tiempo diferente</dc:title>
+<dc:language>es</dc:language>
+<dc:creator>Marina Moguillansky, Carolina Duek </dc:creator>
+<dc:publisher>Ediciones Imago Mundi</dc:publisher>
+<dc:date>2026</dc:date>
+<meta property="dcterms:modified">2026-09-21T10:17:57Z</meta>
+<meta name="cover" content="cover-image"/>
+</metadata>
+<manifest>
+<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+<item id="css" href="css/gbpublisher-epub-libro.css" media-type="text/css"/>
+<item id="font-notoserif-regular" href="fonts/NotoSerif-Regular.ttf" media-type="font/ttf"/>
+<item id="font-notoserif-bold" href="fonts/NotoSerif-Bold.ttf" media-type="font/ttf"/>
+<item id="font-notoserif-italic" href="fonts/NotoSerif-Italic.ttf" media-type="font/ttf"/>
+<item id="font-notoserif-bolditalic" href="fonts/NotoSerif-BoldItalic.ttf" media-type="font/ttf"/>
+<item id="img-logo-revista-png" href="images/logo-revista.png" media-type="image/png"/>
+<item id="img-desconocido-png" href="images/desconocido.png" media-type="image/png"/>
+<item id="cover-image" href="images/foto-tapa.png" media-type="image/png" properties="cover-image"/>
+<item id="img-logo-cabecera-png" href="images/logo-cabecera.png" media-type="image/png"/>
+<item id="img-1000422158-png" href="images/1000422158.png" media-type="image/png"/>
+<item id="img-falta-tapa-png" href="images/falta-tapa.png" media-type="image/png"/>
+<item id="portada" href="chapters/front-portada.xhtml" media-type="application/xhtml+xml"/>
+<item id="creditos" href="chapters/front-creditos.xhtml" media-type="application/xhtml+xml"/>
+<item id="cap-fm-10-INTRODUCCION" href="chapters/h-fm-10-INTRODUCCION.xhtml" media-type="application/xhtml+xml"/>
+<item id="cap-a-01-CAP01" href="chapters/h-a-01-CAP01.xhtml" media-type="application/xhtml+xml"/>
+<item id="cap-a-02-CAP02" href="chapters/h-a-02-CAP02.xhtml" media-type="application/xhtml+xml"/>
+<item id="cap-a-03-CAP03" href="chapters/h-a-03-CAP03.xhtml" media-type="application/xhtml+xml"/>
+<item id="cap-a-04-CAP04" href="chapters/h-a-04-CAP04.xhtml" media-type="application/xhtml+xml"/>
+<item id="cap-a-05-CAP05" href="chapters/h-a-05-CAP05.xhtml" media-type="application/xhtml+xml"/>
+<item id="cap-a-06-CAP06" href="chapters/h-a-06-CAP06.xhtml" media-type="application/xhtml+xml"/>
+<item id="cap-bm-10-CODA" href="chapters/h-bm-10-CODA.xhtml" media-type="application/xhtml+xml"/>
+<item id="cap-bm-11-CV-AUTORES" href="chapters/h-bm-11-CV-AUTORES.xhtml" media-type="application/xhtml+xml"/>
+<item id="colofon" href="chapters/bm-99-colofon.xhtml" media-type="application/xhtml+xml"/>
+</manifest>
+<spine>
+<itemref idref="portada"/>
+<itemref idref="creditos"/>
+<itemref idref="cap-fm-10-INTRODUCCION"/>
+<itemref idref="cap-a-01-CAP01"/>
+<itemref idref="cap-a-02-CAP02"/>
+<itemref idref="cap-a-03-CAP03"/>
+<itemref idref="cap-a-04-CAP04"/>
+<itemref idref="cap-a-05-CAP05"/>
+<itemref idref="cap-a-06-CAP06"/>
+<itemref idref="cap-bm-10-CODA"/>
+<itemref idref="cap-bm-11-CV-AUTORES"/>
+<itemref idref="colofon"/>
+</spine>
+</package>

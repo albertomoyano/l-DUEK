@@ -2,20 +2,20 @@
   <title>Un tiempo diferente</title>
   <subtitle>Vida cotidiana y pandemia</subtitle>
   <biblioid class="isbn" role="print">978-950-793-487-2</biblioid>
-  <othercredit class="other" otherclass="compiler">
+  <editor role="compiler">
     <personname>
       <firstname>Marina</firstname>
       <surname>Moguillansky</surname>
     </personname>
     <uri type="orcid">https://orcid.org/0000-0002-8873-1136</uri>
-  </othercredit>
-  <othercredit class="other" otherclass="compiler">
+  </editor>
+  <editor role="compiler">
     <personname>
       <firstname>Carolina</firstname>
       <surname>Duek</surname>
     </personname>
     <uri type="orcid">https://orcid.org/0000-0002-3103-0363</uri>
-  </othercredit>
+  </editor>
   <publisher>
     <publishername>Ediciones Imago Mundi</publishername>
     <address>
@@ -42,4 +42,12 @@
   <bibliomisc role="tipo-acceso">abierto</bibliomisc>
   <bibliomisc role="repo-produccion-privado">yes</bibliomisc>
   <bibliomisc role="csl-style">apa.csl</bibliomisc>
+  <mediaobject role="tapa">
+    <imageobject>
+      <imagedata fileref="../media/foto-tapa.png"/>
+    </imageobject>
+    <textobject>
+      <phrase>Cubierta de Un tiempo diferente</phrase>
+    </textobject>
+  </mediaobject>
 </info>

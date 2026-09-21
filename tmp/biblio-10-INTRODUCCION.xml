@@ -1,12 +1,12 @@
 <bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
   <title>Referencias</title>
     <biblioentry xml:id="bib-4181-DALLE2022" pubwork="book">
-      <othercredit class="other" otherclass="compiler">
+      <editor role="compiler">
         <personname>
           <surname>Dalle</surname>
           <firstname>Pablo</firstname>
         </personname>
-      </othercredit>
+      </editor>
       <citetitle pubwork="book">Estructura social de Argentina en tiempos de pandemia</citetitle>
       <publisher>
         <publishername>Ediciones Imago Mundi</publishername>
@@ -57,12 +57,12 @@
       <pubdate>2022</pubdate>
     </biblioentry>
     <biblioentry xml:id="bib-4183-MARCUS2023" pubwork="book">
-      <othercredit class="other" otherclass="coordinator">
+      <editor role="coordinator">
         <personname>
           <surname>Marcus</surname>
           <firstname>Juliana</firstname>
         </personname>
-      </othercredit>
+      </editor>
       <citetitle pubwork="book">Ciudad confinada. Experiencias urbanas durante la pandemia de COVID-19</citetitle>
       <publisher>
         <publishername>Teseo</publishername>

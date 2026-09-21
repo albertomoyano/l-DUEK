@@ -1485,7 +1485,7 @@
       \field{year}{2024}
       \field{dateera}{ce}
     \endentry
-    \entry{4193-HEREDIA2022}{book}{}
+    \entry{4182-HEREDIA2022}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
            family={Heredia},
@@ -1514,7 +1514,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{spanish}
-      \field{title}{Qué pudo y qué no pudo el Estado. Frente a la emergencia de COVID-19 y después}
+      \field{title}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
       \field{year}{2022}
       \field{dateera}{ce}
     \endentry
@@ -1859,7 +1859,7 @@
       \field{year}{2024}
       \field{dateera}{ce}
     \endentry
-    \entry{4193-HEREDIA2022}{book}{}
+    \entry{4182-HEREDIA2022}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
            family={Heredia},
@@ -1888,7 +1888,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{spanish}
-      \field{title}{Qué pudo y qué no pudo el Estado. Frente a la emergencia de COVID-19 y después}
+      \field{title}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
       \field{year}{2022}
       \field{dateera}{ce}
     \endentry
@@ -2037,6 +2037,836 @@
 \endrefsection
 
 \refsection{4}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{4223-ARZA2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7602f207ee048181829a715f87477e5e}{%
+           family={Arza},
+           familyi={A\bibinitperiod},
+           given={Camila},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Santiago de Chile}%
+      }
+      \list{publisher}{1}{%
+        {CEPAL}%
+      }
+      \strng{namehash}{7602f207ee048181829a715f87477e5e}
+      \strng{fullhash}{7602f207ee048181829a715f87477e5e}
+      \strng{bibnamehash}{7602f207ee048181829a715f87477e5e}
+      \strng{authorbibnamehash}{7602f207ee048181829a715f87477e5e}
+      \strng{authornamehash}{7602f207ee048181829a715f87477e5e}
+      \strng{authorfullhash}{7602f207ee048181829a715f87477e5e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Familias, cuidado y desigualdad en cuidados y mujeres en tiempos de covid‐19: la experiencia en la Argentina}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4224-CANEVARO2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c50508acd85a014ab25fb73a3f238896}{%
+           family={Canevaro},
+           familyi={C\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f54a91b397c9d55fb1e106f7693bd7e5}{%
+           family={Castillla},
+           familyi={C\bibinitperiod},
+           given={María\bibnamedelima Victoria},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{fullhash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{bibnamehash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{authorbibnamehash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{authornamehash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{authorfullhash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Anfibia}
+      \field{langid}{spanish}
+      \field{title}{Te prefiero fuera de foco. Lo público, la intimidad y la cuarentena}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad
+      \endverb
+      \verb{url}
+      \verb https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad
+      \endverb
+    \endentry
+    \entry{4184-GUBERN1987}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=68822d1b690eeb0ebd26e064df5aec25}{%
+           family={Gubern},
+           familyi={G\bibinitperiod},
+           given={Román},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {FUNDESCO}%
+      }
+      \strng{namehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{fullhash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{bibnamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authorbibnamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authornamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authorfullhash}{68822d1b690eeb0ebd26e064df5aec25}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{El simio informatizado}
+      \field{year}{1987}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4225-HARVEY1977}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f63956032539faf2fc63521a396bb52}{%
+           family={Harvey},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{fullhash}{4f63956032539faf2fc63521a396bb52}
+      \strng{bibnamehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{authorbibnamehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{authornamehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{authorfullhash}{4f63956032539faf2fc63521a396bb52}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Urbanismo y desigualdad social}
+      \field{year}{1977}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4182-HEREDIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{fullhash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{bibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorbibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authornamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorfullhash}{f6f8701bb82693b456936952b8d0811c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4222-SIBILIA2008}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a5cf9673e46b9e9daf9dab4e1709ed5}{%
+           family={Sibilia},
+           familyi={S\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Fondo de Cultura Económica}%
+      }
+      \strng{namehash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{fullhash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{bibnamehash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{authorbibnamehash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{authornamehash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{authorfullhash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La intimidad como espectáculo}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4221-WAINERMAN2003}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f29087e10294d957d200cc296eb34dc}{%
+           family={Wainerman},
+           familyi={W\bibinitperiod},
+           given={Catalina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Fondo de Cultura Económica}%
+      }
+      \strng{namehash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{fullhash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{bibnamehash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{authorbibnamehash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{authornamehash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{authorfullhash}{3f29087e10294d957d200cc296eb34dc}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Familia, trabajo y género}
+      \field{year}{2003}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{4223-ARZA2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7602f207ee048181829a715f87477e5e}{%
+           family={Arza},
+           familyi={A\bibinitperiod},
+           given={Camila},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Santiago de Chile}%
+      }
+      \list{publisher}{1}{%
+        {CEPAL}%
+      }
+      \strng{namehash}{7602f207ee048181829a715f87477e5e}
+      \strng{fullhash}{7602f207ee048181829a715f87477e5e}
+      \strng{bibnamehash}{7602f207ee048181829a715f87477e5e}
+      \strng{authorbibnamehash}{7602f207ee048181829a715f87477e5e}
+      \strng{authornamehash}{7602f207ee048181829a715f87477e5e}
+      \strng{authorfullhash}{7602f207ee048181829a715f87477e5e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Familias, cuidado y desigualdad en cuidados y mujeres en tiempos de covid‐19: la experiencia en la Argentina}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4224-CANEVARO2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c50508acd85a014ab25fb73a3f238896}{%
+           family={Canevaro},
+           familyi={C\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f54a91b397c9d55fb1e106f7693bd7e5}{%
+           family={Castillla},
+           familyi={C\bibinitperiod},
+           given={María\bibnamedelima Victoria},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{fullhash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{bibnamehash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{authorbibnamehash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{authornamehash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \strng{authorfullhash}{cab8745bb397d6f3d1b5c19e232a0293}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Anfibia}
+      \field{langid}{spanish}
+      \field{title}{Te prefiero fuera de foco. Lo público, la intimidad y la cuarentena}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad
+      \endverb
+      \verb{url}
+      \verb https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad
+      \endverb
+    \endentry
+    \entry{4184-GUBERN1987}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=68822d1b690eeb0ebd26e064df5aec25}{%
+           family={Gubern},
+           familyi={G\bibinitperiod},
+           given={Román},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {FUNDESCO}%
+      }
+      \strng{namehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{fullhash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{bibnamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authorbibnamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authornamehash}{68822d1b690eeb0ebd26e064df5aec25}
+      \strng{authorfullhash}{68822d1b690eeb0ebd26e064df5aec25}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{El simio informatizado}
+      \field{year}{1987}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4225-HARVEY1977}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f63956032539faf2fc63521a396bb52}{%
+           family={Harvey},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{fullhash}{4f63956032539faf2fc63521a396bb52}
+      \strng{bibnamehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{authorbibnamehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{authornamehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{authorfullhash}{4f63956032539faf2fc63521a396bb52}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Urbanismo y desigualdad social}
+      \field{year}{1977}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4182-HEREDIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{fullhash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{bibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorbibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authornamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorfullhash}{f6f8701bb82693b456936952b8d0811c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4222-SIBILIA2008}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a5cf9673e46b9e9daf9dab4e1709ed5}{%
+           family={Sibilia},
+           familyi={S\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Fondo de Cultura Económica}%
+      }
+      \strng{namehash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{fullhash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{bibnamehash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{authorbibnamehash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{authornamehash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \strng{authorfullhash}{7a5cf9673e46b9e9daf9dab4e1709ed5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La intimidad como espectáculo}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4221-WAINERMAN2003}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f29087e10294d957d200cc296eb34dc}{%
+           family={Wainerman},
+           familyi={W\bibinitperiod},
+           given={Catalina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Fondo de Cultura Económica}%
+      }
+      \strng{namehash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{fullhash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{bibnamehash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{authorbibnamehash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{authornamehash}{3f29087e10294d957d200cc296eb34dc}
+      \strng{authorfullhash}{3f29087e10294d957d200cc296eb34dc}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Familia, trabajo y género}
+      \field{year}{2003}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{5}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{4217-BECK1998}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6efcfd7623ad596215910fa0c39a7759}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Ulrick},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Paidós}%
+      }
+      \strng{namehash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{fullhash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{bibnamehash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{authorbibnamehash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{authornamehash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{authorfullhash}{6efcfd7623ad596215910fa0c39a7759}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La sociedad del riesgo. Hacia una nueva modernidad}
+      \field{year}{1998}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4219-DALLE2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=586eb2e9b9f3db5f608ae7b192b6e791}{%
+           family={Dalle},
+           familyi={D\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{fullhash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{bibnamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{authorbibnamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{authornamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{authorfullhash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Tramas}
+      \field{langid}{spanish}
+      \field{title}{El impacto de la doble crisis de la prepandemia y la pandemia en las tendencias ocupacionales en Argentina (2003-2020)}
+      \field{year}{2021}
+    \endentry
+    \entry{4182-HEREDIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{fullhash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{bibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorbibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authornamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorfullhash}{f6f8701bb82693b456936952b8d0811c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4218-CASTEL1995}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a30b8fd6740c369a70a83ea68ebad7a9}{%
+           family={Robert},
+           familyi={R\bibinitperiod},
+           given={Castel.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Paidós}%
+      }
+      \strng{namehash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{fullhash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{bibnamehash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{authorbibnamehash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{authornamehash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{authorfullhash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La metamorfosis de la cuestión social. Una crónica del asalariado}
+      \field{year}{1995}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4220-SALVIA2018}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3f819e47b02df7c61f88f8f0563eaebe}{%
+           family={Salvia},
+           familyi={S\bibinitperiod},
+           given={Agustín},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9282036ef9721de1ea4b57c0f1660b6}{%
+           family={Fachal},
+           familyi={F\bibinitperiod},
+           given={María\bibnamedelima Noel},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3358425826b127d3727d6e8ed07bdd0e}{%
+           family={Robles},
+           familyi={R\bibinitperiod},
+           given={Ramiro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6e215ea0c24eba5b954c25b060ecf95}
+      \strng{fullhash}{a478e3ff8a74013965d301ce65561758}
+      \strng{bibnamehash}{a478e3ff8a74013965d301ce65561758}
+      \strng{authorbibnamehash}{a478e3ff8a74013965d301ce65561758}
+      \strng{authornamehash}{f6e215ea0c24eba5b954c25b060ecf95}
+      \strng{authorfullhash}{a478e3ff8a74013965d301ce65561758}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La estructura social del trabajo en la Argentina: Un sistema ocupacional heterogéneo, desigual y segmentado}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{4217-BECK1998}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6efcfd7623ad596215910fa0c39a7759}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Ulrick},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Paidós}%
+      }
+      \strng{namehash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{fullhash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{bibnamehash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{authorbibnamehash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{authornamehash}{6efcfd7623ad596215910fa0c39a7759}
+      \strng{authorfullhash}{6efcfd7623ad596215910fa0c39a7759}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La sociedad del riesgo. Hacia una nueva modernidad}
+      \field{year}{1998}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4219-DALLE2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=586eb2e9b9f3db5f608ae7b192b6e791}{%
+           family={Dalle},
+           familyi={D\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{fullhash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{bibnamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{authorbibnamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{authornamehash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \strng{authorfullhash}{586eb2e9b9f3db5f608ae7b192b6e791}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Tramas}
+      \field{langid}{spanish}
+      \field{title}{El impacto de la doble crisis de la prepandemia y la pandemia en las tendencias ocupacionales en Argentina (2003-2020)}
+      \field{year}{2021}
+    \endentry
+    \entry{4182-HEREDIA2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{fullhash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{bibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorbibnamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authornamehash}{f6f8701bb82693b456936952b8d0811c}
+      \strng{authorfullhash}{f6f8701bb82693b456936952b8d0811c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4218-CASTEL1995}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a30b8fd6740c369a70a83ea68ebad7a9}{%
+           family={Robert},
+           familyi={R\bibinitperiod},
+           given={Castel.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Paidós}%
+      }
+      \strng{namehash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{fullhash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{bibnamehash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{authorbibnamehash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{authornamehash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \strng{authorfullhash}{a30b8fd6740c369a70a83ea68ebad7a9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La metamorfosis de la cuestión social. Una crónica del asalariado}
+      \field{year}{1995}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4220-SALVIA2018}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3f819e47b02df7c61f88f8f0563eaebe}{%
+           family={Salvia},
+           familyi={S\bibinitperiod},
+           given={Agustín},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9282036ef9721de1ea4b57c0f1660b6}{%
+           family={Fachal},
+           familyi={F\bibinitperiod},
+           given={María\bibnamedelima Noel},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3358425826b127d3727d6e8ed07bdd0e}{%
+           family={Robles},
+           familyi={R\bibinitperiod},
+           given={Ramiro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Siglo XXI}%
+      }
+      \strng{namehash}{f6e215ea0c24eba5b954c25b060ecf95}
+      \strng{fullhash}{a478e3ff8a74013965d301ce65561758}
+      \strng{bibnamehash}{a478e3ff8a74013965d301ce65561758}
+      \strng{authorbibnamehash}{a478e3ff8a74013965d301ce65561758}
+      \strng{authornamehash}{f6e215ea0c24eba5b954c25b060ecf95}
+      \strng{authorfullhash}{a478e3ff8a74013965d301ce65561758}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{La estructura social del trabajo en la Argentina: Un sistema ocupacional heterogéneo, desigual y segmentado}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{6}
   \datalist[entry]{apa/apasortcite//global/global}
     \entry{4207-AGUIRRECUNS2018}{book}{}
       \name{author}{2}{}{%
@@ -2286,6 +3116,76 @@
       \field{year}{2007}
       \field{dateera}{ce}
     \endentry
+    \entry{4212-CEMINARI2018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c3a9df3565d87d195941f80edbc34093}{%
+           family={Ceminari},
+           familyi={C\bibinitperiod},
+           given={Yanina},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e660cd68fc611d150deed809ebef3566}{%
+           family={Stolkiner},
+           familyi={S\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{organization}{1}{%
+        {Universidad de Buenos Aires}%
+      }
+      \strng{namehash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{fullhash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{bibnamehash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{authorbibnamehash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{authornamehash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{authorfullhash}{1cec089d03fc8ff30b305de01b460f4f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{X Congreso Internacional de Investigación y Práctica Profesional en Psicología XXV Jornadas de Investigación XIV Encuentro de Investigadores en Psicología del MERCOSUR}
+      \field{langid}{spanish}
+      \field{title}{El cuidado social y la organización social del cuidado como categorías claves para el análisis de políticas públicas}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4216-CEPAL2020}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=00a4bc0896c37b82e21ad0289389bb2e}{%
+           family={CEPAL},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{fullhash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{bibnamehash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{authorbibnamehash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{authornamehash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{authorfullhash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{COVID-19 y sus impactos en los derechos y la protección social de las personas mayores en la subregión}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/11362/46182
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/11362/46182
+      \endverb
+    \endentry
     \entry{4169-CERRI2016}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38b4f807b059f3b08fe11712d2716d2f}{%
@@ -2316,6 +3216,49 @@
       \field{year}{2016}
       \field{pages}{Athenea Digital}
       \range{pages}{-1}
+    \endentry
+    \entry{4211-CIRINO2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1ad724e4795f426f37b378e67c053dd5}{%
+           family={Cirino},
+           familyi={C\bibinitperiod},
+           given={Estefanía},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b98841234b529275264b917d4c4a7a9}{%
+           family={Lehner},
+           familyi={L\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1323542c6217cb14cd8f470a43f3467}{%
+           family={Findling},
+           familyi={F\bibinitperiod},
+           given={Liliana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75de9ff077d73af391ac573f5b09eab8}
+      \strng{fullhash}{08cf53f2c7cf78315dd76f9c9240d69e}
+      \strng{bibnamehash}{08cf53f2c7cf78315dd76f9c9240d69e}
+      \strng{authorbibnamehash}{08cf53f2c7cf78315dd76f9c9240d69e}
+      \strng{authornamehash}{75de9ff077d73af391ac573f5b09eab8}
+      \strng{authorfullhash}{08cf53f2c7cf78315dd76f9c9240d69e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quaestio Iuris}
+      \field{langid}{spanish}
+      \field{number}{3}
+      \field{title}{Políticas públicas y COVID-19: efectos del aislamiento social en los vínculos de las personas mayores en la Ciudad de Buenos Aires}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{1633\bibrangedash 1660}
+      \range{pages}{28}
     \endentry
     \entry{4168-CUNZOLO2021}{article}{}
       \name{author}{2}{}{%
@@ -2353,6 +3296,42 @@
       \field{year}{2021}
       \field{pages}{33\bibrangedash 50}
       \range{pages}{18}
+    \endentry
+    \entry{4214-GONZALVEZTORRALBO2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=73a8631539c3fa9c5d04ca19473baf7c}{%
+           family={Gonzálvez\bibnamedelima Torralbo},
+           familyi={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Herminia},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8f395b272fd6dd086ed8d23f7eeba53}{%
+           family={Lube\bibnamedelima Guizardi},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Menara},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{fullhash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{bibnamehash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{authorbibnamehash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{authornamehash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{authorfullhash}{c6ab133ef4f624131e7170502c869f11}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arxiu d'Etnografia de Catalunya}
+      \field{langid}{spanish}
+      \field{number}{21}
+      \field{title}{Las mujeres mayores, los cuidados y los clubes: negociaciones intersubjetivas de una etnografía feminista}
+      \field{year}{2021}
+      \field{pages}{61\bibrangedash 92}
+      \range{pages}{32}
     \endentry
     \entry{4205-HEID2021}{article}{}
       \name{author}{4}{}{%
@@ -2479,6 +3458,31 @@
       \field{year}{2009}
       \field{dateera}{ce}
     \endentry
+    \entry{4215-MINISTERIO2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b369b8183feef85ba3da1de1682dc54}{%
+           family={{Ministerio de Salud}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{fullhash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{bibnamehash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{authorbibnamehash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{authornamehash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{authorfullhash}{5b369b8183feef85ba3da1de1682dc54}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Boletín integrado de vigilancia}
+      \field{langid}{spanish}
+      \field{number}{582}
+      \field{title}{SE52}
+      \field{year}{2021}
+    \endentry
     \entry{4210-MOGUILLANSKY2024}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=29f623ef03e42fc480debad2e2ad3f2b}{%
@@ -2513,6 +3517,40 @@
       \field{number}{28}
       \field{title}{La crisis de cuidados en primera persona. Un estudio con mujeres cuidadoras de sectores populares del Área Metropolitana de Buenos Aires (AMBA), Argentina}
       \field{year}{2024}
+    \endentry
+    \entry{4213-RICO2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=de773919cc7c1995aff736d4a9b95f77}{%
+           family={Rico},
+           familyi={R\bibinitperiod},
+           given={María\bibnamedelima Nieves},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95ed95b14341e2774a9522f1196cb9e1}{%
+           family={Robes},
+           familyi={R\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{fullhash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{bibnamehash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{authorbibnamehash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{authornamehash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{authorfullhash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CEPAL. Serie Asuntos de Género}
+      \field{langid}{spanish}
+      \field{number}{140}
+      \field{title}{Políticas de cuidado en América Latina: forjando la igualdad}
+      \field{year}{2016}
     \endentry
     \entry{4203-SMITH2007}{article}{}
       \name{author}{4}{}{%
@@ -2894,6 +3932,76 @@
       \field{year}{2007}
       \field{dateera}{ce}
     \endentry
+    \entry{4212-CEMINARI2018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c3a9df3565d87d195941f80edbc34093}{%
+           family={Ceminari},
+           familyi={C\bibinitperiod},
+           given={Yanina},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e660cd68fc611d150deed809ebef3566}{%
+           family={Stolkiner},
+           familyi={S\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{organization}{1}{%
+        {Universidad de Buenos Aires}%
+      }
+      \strng{namehash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{fullhash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{bibnamehash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{authorbibnamehash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{authornamehash}{1cec089d03fc8ff30b305de01b460f4f}
+      \strng{authorfullhash}{1cec089d03fc8ff30b305de01b460f4f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{X Congreso Internacional de Investigación y Práctica Profesional en Psicología XXV Jornadas de Investigación XIV Encuentro de Investigadores en Psicología del MERCOSUR}
+      \field{langid}{spanish}
+      \field{title}{El cuidado social y la organización social del cuidado como categorías claves para el análisis de políticas públicas}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4216-CEPAL2020}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=00a4bc0896c37b82e21ad0289389bb2e}{%
+           family={CEPAL},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{fullhash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{bibnamehash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{authorbibnamehash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{authornamehash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \strng{authorfullhash}{00a4bc0896c37b82e21ad0289389bb2e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{COVID-19 y sus impactos en los derechos y la protección social de las personas mayores en la subregión}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/11362/46182
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/11362/46182
+      \endverb
+    \endentry
     \entry{4169-CERRI2016}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38b4f807b059f3b08fe11712d2716d2f}{%
@@ -2924,6 +4032,49 @@
       \field{year}{2016}
       \field{pages}{Athenea Digital}
       \range{pages}{-1}
+    \endentry
+    \entry{4211-CIRINO2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1ad724e4795f426f37b378e67c053dd5}{%
+           family={Cirino},
+           familyi={C\bibinitperiod},
+           given={Estefanía},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b98841234b529275264b917d4c4a7a9}{%
+           family={Lehner},
+           familyi={L\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1323542c6217cb14cd8f470a43f3467}{%
+           family={Findling},
+           familyi={F\bibinitperiod},
+           given={Liliana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75de9ff077d73af391ac573f5b09eab8}
+      \strng{fullhash}{08cf53f2c7cf78315dd76f9c9240d69e}
+      \strng{bibnamehash}{08cf53f2c7cf78315dd76f9c9240d69e}
+      \strng{authorbibnamehash}{08cf53f2c7cf78315dd76f9c9240d69e}
+      \strng{authornamehash}{75de9ff077d73af391ac573f5b09eab8}
+      \strng{authorfullhash}{08cf53f2c7cf78315dd76f9c9240d69e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quaestio Iuris}
+      \field{langid}{spanish}
+      \field{number}{3}
+      \field{title}{Políticas públicas y COVID-19: efectos del aislamiento social en los vínculos de las personas mayores en la Ciudad de Buenos Aires}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{1633\bibrangedash 1660}
+      \range{pages}{28}
     \endentry
     \entry{4168-CUNZOLO2021}{article}{}
       \name{author}{2}{}{%
@@ -2961,6 +4112,42 @@
       \field{year}{2021}
       \field{pages}{33\bibrangedash 50}
       \range{pages}{18}
+    \endentry
+    \entry{4214-GONZALVEZTORRALBO2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=73a8631539c3fa9c5d04ca19473baf7c}{%
+           family={Gonzálvez\bibnamedelima Torralbo},
+           familyi={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Herminia},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8f395b272fd6dd086ed8d23f7eeba53}{%
+           family={Lube\bibnamedelima Guizardi},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Menara},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{fullhash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{bibnamehash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{authorbibnamehash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{authornamehash}{c6ab133ef4f624131e7170502c869f11}
+      \strng{authorfullhash}{c6ab133ef4f624131e7170502c869f11}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arxiu d'Etnografia de Catalunya}
+      \field{langid}{spanish}
+      \field{number}{21}
+      \field{title}{Las mujeres mayores, los cuidados y los clubes: negociaciones intersubjetivas de una etnografía feminista}
+      \field{year}{2021}
+      \field{pages}{61\bibrangedash 92}
+      \range{pages}{32}
     \endentry
     \entry{4205-HEID2021}{article}{}
       \name{author}{4}{}{%
@@ -3087,6 +4274,31 @@
       \field{year}{2009}
       \field{dateera}{ce}
     \endentry
+    \entry{4215-MINISTERIO2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b369b8183feef85ba3da1de1682dc54}{%
+           family={{Ministerio de Salud}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{fullhash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{bibnamehash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{authorbibnamehash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{authornamehash}{5b369b8183feef85ba3da1de1682dc54}
+      \strng{authorfullhash}{5b369b8183feef85ba3da1de1682dc54}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Boletín integrado de vigilancia}
+      \field{langid}{spanish}
+      \field{number}{582}
+      \field{title}{SE52}
+      \field{year}{2021}
+    \endentry
     \entry{4210-MOGUILLANSKY2024}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=29f623ef03e42fc480debad2e2ad3f2b}{%
@@ -3121,6 +4333,40 @@
       \field{number}{28}
       \field{title}{La crisis de cuidados en primera persona. Un estudio con mujeres cuidadoras de sectores populares del Área Metropolitana de Buenos Aires (AMBA), Argentina}
       \field{year}{2024}
+    \endentry
+    \entry{4213-RICO2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=de773919cc7c1995aff736d4a9b95f77}{%
+           family={Rico},
+           familyi={R\bibinitperiod},
+           given={María\bibnamedelima Nieves},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95ed95b14341e2774a9522f1196cb9e1}{%
+           family={Robes},
+           familyi={R\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{fullhash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{bibnamehash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{authorbibnamehash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{authornamehash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \strng{authorfullhash}{7d786a2bb1eec7b8723d862cdfadf2a8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CEPAL. Serie Asuntos de Género}
+      \field{langid}{spanish}
+      \field{number}{140}
+      \field{title}{Políticas de cuidado en América Latina: forjando la igualdad}
+      \field{year}{2016}
     \endentry
     \entry{4203-SMITH2007}{article}{}
       \name{author}{4}{}{%

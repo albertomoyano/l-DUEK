@@ -1,1 +1,105 @@
-<bibliography xmlns="http://docbook.org/ns/docbook"/>
+<bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Referencias</title>
+    <biblioentry xml:id="bib-4222-SIBILIA2008" pubwork="book">
+      <author>
+        <personname>
+          <surname>Sibilia</surname>
+          <firstname>Paula</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">La intimidad como espectáculo</citetitle>
+      <publisher>
+        <publishername>Fondo de Cultura Económica</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2008</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4224-CANEVARO2020" pubwork="article">
+      <author>
+        <personname>
+          <surname>Canevaro</surname>
+          <firstname>Santiago</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Castillla</surname>
+          <firstname>María Victoria</firstname>
+        </personname>
+      </author>
+      <title>Te prefiero fuera de foco. Lo público, la intimidad y la cuarentena</title>
+      <citetitle pubwork="journal">Revista Anfibia</citetitle>
+      <pubdate>2020</pubdate>
+      <bibliosource><link xlink:href="https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad">https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad</link></bibliosource>
+    </biblioentry>
+    <biblioentry xml:id="bib-4182-HEREDIA2022" pubwork="book">
+      <author>
+        <personname>
+          <surname>Heredia</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después</citetitle>
+      <publisher>
+        <publishername>Siglo XXI</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4184-GUBERN1987" pubwork="book">
+      <author>
+        <personname>
+          <surname>Gubern</surname>
+          <firstname>Román</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">El simio informatizado</citetitle>
+      <publisher>
+        <publishername>FUNDESCO</publishername>
+        <address><city>Madrid</city></address>
+      </publisher>
+      <pubdate>1987</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4225-HARVEY1977" pubwork="book">
+      <author>
+        <personname>
+          <surname>Harvey</surname>
+          <firstname>David</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Urbanismo y desigualdad social</citetitle>
+      <publisher>
+        <publishername>Siglo XXI</publishername>
+        <address><city>Madrid</city></address>
+      </publisher>
+      <pubdate>1977</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4223-ARZA2020" pubwork="book">
+      <author>
+        <personname>
+          <surname>Arza</surname>
+          <firstname>Camila</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Familias, cuidado y desigualdad en cuidados y mujeres en tiempos de covid‐19: la experiencia en la Argentina</citetitle>
+      <publisher>
+        <publishername>CEPAL</publishername>
+        <address><city>Santiago de Chile</city></address>
+      </publisher>
+      <pubdate>2020</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4221-WAINERMAN2003" pubwork="book">
+      <author>
+        <personname>
+          <surname>Wainerman</surname>
+          <firstname>Catalina</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Familia, trabajo y género</citetitle>
+      <publisher>
+        <publishername>Fondo de Cultura Económica</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2003</pubdate>
+    </biblioentry>
+</bibliography>

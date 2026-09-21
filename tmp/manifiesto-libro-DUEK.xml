@@ -53,10 +53,5 @@
       nombre_archivo="bm-11-CV-AUTORES"
       id_capitulo="23"
       tipo_capitulo="sobre_autores"/>
-    <capitulo
-      path="jats/c-bm-20-indice-autores.xml"
-      nombre_archivo="bm-20-indice-autores"
-      id_capitulo="24"
-      tipo_capitulo="indice_autores"/>
   </capitulos>
 </manifiesto-libro>

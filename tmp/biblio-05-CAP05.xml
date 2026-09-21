@@ -1,1 +1,81 @@
-<bibliography xmlns="http://docbook.org/ns/docbook"/>
+<bibliography xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Referencias</title>
+    <biblioentry xml:id="bib-4219-DALLE2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Dalle</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <title>El impacto de la doble crisis de la prepandemia y la pandemia en las tendencias ocupacionales en Argentina (2003-2020)</title>
+      <citetitle pubwork="journal">Revista Tramas</citetitle>
+      <pubdate>2021</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4182-HEREDIA2022" pubwork="book">
+      <author>
+        <personname>
+          <surname>Heredia</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después</citetitle>
+      <publisher>
+        <publishername>Siglo XXI</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4218-CASTEL1995" pubwork="book">
+      <author>
+        <personname>
+          <surname>Castel. Robert</surname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">La metamorfosis de la cuestión social. Una crónica del asalariado</citetitle>
+      <publisher>
+        <publishername>Paidós</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>1995</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4220-SALVIA2018" pubwork="book">
+      <author>
+        <personname>
+          <surname>Salvia</surname>
+          <firstname>Agustín</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Fachal</surname>
+          <firstname>María Noel</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Robles</surname>
+          <firstname>Ramiro</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">La estructura social del trabajo en la Argentina: Un sistema ocupacional heterogéneo, desigual y segmentado</citetitle>
+      <publisher>
+        <publishername>Siglo XXI</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2018</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4217-BECK1998" pubwork="book">
+      <author>
+        <personname>
+          <surname>Beck</surname>
+          <firstname>Ulrick</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">La sociedad del riesgo. Hacia una nueva modernidad</citetitle>
+      <publisher>
+        <publishername>Paidós</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>1998</pubdate>
+    </biblioentry>
+</bibliography>

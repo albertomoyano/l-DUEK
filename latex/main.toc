@@ -16,9 +16,9 @@
 \contentsline {section}{\numberline {2.1}Presentación}{21}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Antecedentes}{22}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Tres jóvenes en pandemia}{23}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}«No tenía un lugar donde desahogarme»}{24}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}«Siento que el nivel de aislamiento total del 2020 me sirvió como para enfocar»}{28}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}«Para mí fue virtualidad igual desorden»}{32}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.1}No tenía un lugar donde desahogarme}{24}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Siento que el nivel de aislamiento total del 2020 me sirvió como para enfocar}{28}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Para mí fue virtualidad igual desorden}{32}{subsection.2.3.3}%
 \contentsline {section}{\numberline {2.4}Conclusiones}{38}{section.2.4}%
 \contentsline {chapter}{\numberline {3}Aislados y desorganizados. Los efectos de la desafiliación social en familias de sectores populares durante la pandemia}{41}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Introducción}{41}{section.3.1}%
@@ -48,7 +48,7 @@
 \contentsline {subsection}{\numberline {6.2.2}Aníbal: de pérdidas irremplazables y ganancias inesperadas}{100}{subsection.6.2.2}%
 \contentsline {subsection}{\numberline {6.2.3}Carlos: el aislamiento como oportunidad para descubrir mundos}{104}{subsection.6.2.3}%
 \contentsline {section}{\numberline {6.3}Reflexiones finales}{109}{section.6.3}%
-\contentsline {chapter}{Coda}{113}{chapter*.6}%
-\contentsline {chapter}{Sobre las autoras y los autores}{117}{chapter*.7}%
-\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{119}{chapter*.8}%
+\contentsline {chapter}{Coda}{115}{chapter*.6}%
+\contentsline {chapter}{Sobre las autoras y los autores}{119}{chapter*.7}%
+\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{121}{chapter*.8}%
 \contentsfinish 

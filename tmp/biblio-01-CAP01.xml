@@ -12,6 +12,48 @@
       <pubdate>2009</pubdate>
       <issuenum>5</issuenum>
     </biblioentry>
+    <biblioentry xml:id="bib-4226-ANDURRESTI2008" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Margulis</surname>
+          <firstname>Mario</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Urresti</surname>
+          <firstname>Marcelo</firstname>
+        </personname>
+      </author>
+      <editor>
+        <personname>
+          <surname>Margulis</surname>
+          <firstname>Mario</firstname>
+        </personname>
+      </editor>
+      <title>La juventud es más que una palabra</title>
+      <citetitle pubwork="book">La juventud es más que una palabra</citetitle>
+      <publisher>
+        <publishername>Biblos</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2008</pubdate>
+      <artpagenums>13-30</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4227-REGUILLO2000" pubwork="book">
+      <author>
+        <personname>
+          <surname>Reguillo</surname>
+          <firstname>Roxana</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Emergencia de culturas juveniles. Estrategias del desencanto</citetitle>
+      <publisher>
+        <publishername>Grupo Editorial Norma</publishername>
+        <address><city>Bogotá</city></address>
+      </publisher>
+      <pubdate>2000</pubdate>
+    </biblioentry>
     <biblioentry xml:id="bib-4198-FAILLA2021" pubwork="article">
       <author>
         <personname>
@@ -74,6 +116,25 @@
       </publisher>
       <pubdate>1997</pubdate>
     </biblioentry>
+    <biblioentry xml:id="bib-4230-SIMONI2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Simoni</surname>
+          <firstname>Laura</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Páez</surname>
+          <firstname>María Florencia</firstname>
+        </personname>
+      </author>
+      <title>Infancias, adolescencias y pandemia. Cuerpos, espacios (im) posibles y la búsqueda de estar juntas/os en contextos de pobreza</title>
+      <citetitle pubwork="journal">Administración Pública y Sociedad</citetitle>
+      <pubdate>2022</pubdate>
+      <issuenum>13</issuenum>
+      <artpagenums>64-91</artpagenums>
+    </biblioentry>
     <biblioentry xml:id="bib-4200-HAIDT2024" pubwork="book">
       <author>
         <personname>
@@ -101,6 +162,40 @@
         <address><city>Londres</city></address>
       </publisher>
       <pubdate>1997</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4228-HOCHSCHILD2008" pubwork="book">
+      <author>
+        <personname>
+          <surname>Hochschild</surname>
+          <firstname>Arlie</firstname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">La mercantilización de la vida íntima. Apuntes de la casa y el trabajo</citetitle>
+      <publisher>
+        <publishername>Katz Editores</publishername>
+        <address><city>Madrid</city></address>
+      </publisher>
+      <pubdate>2008</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4229-PAUTASSI2013" pubwork="book">
+      <editor role="coordinator">
+        <personname>
+          <surname>Pautassi</surname>
+          <firstname>Laura</firstname>
+        </personname>
+      </editor>
+      <editor role="coordinator">
+        <personname>
+          <surname>Zibecchi</surname>
+          <firstname>Claudia</firstname>
+        </personname>
+      </editor>
+      <citetitle pubwork="book">Las fronteras del cuidado. Agenda, derechos e infraestructura</citetitle>
+      <publisher>
+        <publishername>Biblos</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2013</pubdate>
     </biblioentry>
     <biblioentry xml:id="bib-4190-CAGGIANO2021" pubwork="article">
       <author>
@@ -147,14 +242,14 @@
       <issuenum>1</issuenum>
       <artpagenums>5-10</artpagenums>
     </biblioentry>
-    <biblioentry xml:id="bib-4193-HEREDIA2022" pubwork="book">
+    <biblioentry xml:id="bib-4182-HEREDIA2022" pubwork="book">
       <author>
         <personname>
           <surname>Heredia</surname>
           <firstname>Mariana</firstname>
         </personname>
       </author>
-      <citetitle pubwork="book">Qué pudo y qué no pudo el Estado. Frente a la emergencia de COVID-19 y después</citetitle>
+      <citetitle pubwork="book">Qué pudo y qué no pudo el Estado frente a la emergencia del covid-19 y después</citetitle>
       <publisher>
         <publishername>Siglo XXI</publishername>
         <address><city>Buenos Aires</city></address>

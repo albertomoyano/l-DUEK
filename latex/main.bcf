@@ -3103,7 +3103,7 @@
     <bcf:citekey order="11" intorder="1">4190-CAGGIANO2021</bcf:citekey>
     <bcf:citekey order="12" intorder="1">4189-ACEVEDO2021</bcf:citekey>
     <bcf:citekey order="12" intorder="2">4192-ANDERETESCHWAL2020</bcf:citekey>
-    <bcf:citekey order="12" intorder="3">4193-HEREDIA2022</bcf:citekey>
+    <bcf:citekey order="12" intorder="3">4182-HEREDIA2022</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3124,33 +3124,72 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">./referencias/ref-l-DUEK.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="4">
+    <bcf:citekey order="1" intorder="1">4222-SIBILIA2008</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">4224-CANEVARO2020</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">4182-HEREDIA2022</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">4184-GUBERN1987</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">4225-HARVEY1977</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">4223-ARZA2020</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">4221-WAINERMAN2003</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 5 -->
+  <bcf:bibdata section="5">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">./referencias/ref-l-DUEK.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="5">
+    <bcf:citekey order="1" intorder="1">4219-DALLE2021</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">4182-HEREDIA2022</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">4218-CASTEL1995</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">4220-SALVIA2018</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">4217-BECK1998</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">4218-CASTEL1995</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 6 -->
+  <bcf:bibdata section="6">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">./referencias/ref-l-DUEK.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="6">
     <bcf:citekey order="1" intorder="1">4205-HEID2021</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">4205-HEID2021</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">4168-CUNZOLO2021</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">4206-VENTURIELLO2023</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">4207-AGUIRRECUNS2018</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">4169-CERRI2016</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">4169-CERRI2016</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">4203-SMITH2007</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">4207-AGUIRRECUNS2018</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">4174-BATTHYANY2021</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">4204-VEGASOLIS2017</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">4174-BATTHYANY2021</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">4202-BONIOLO2024</bcf:citekey>
-    <bcf:citekey order="13" intorder="2">4204-VEGASOLIS2017</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">4173-LOPEZ2009</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">4202-BONIOLO2024</bcf:citekey>
-    <bcf:citekey order="15" intorder="2">4210-MOGUILLANSKY2024</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">4174-BATTHYANY2021</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">4202-BONIOLO2024</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">4206-VENTURIELLO2023</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">4170-ALGRANTI2010</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">4171-BORRELLI2022</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">4172-IACUB2017</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">4208-ARBER2003</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">4209-BOYD2007</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">4202-BONIOLO2024</bcf:citekey>
-    <bcf:citekey order="24" intorder="2">4210-MOGUILLANSKY2024</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">4211-CIRINO2022</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">4215-MINISTERIO2021</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">4216-CEPAL2020</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">4205-HEID2021</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">4211-CIRINO2022</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">4168-CUNZOLO2021</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">4206-VENTURIELLO2023</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">4207-AGUIRRECUNS2018</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">4169-CERRI2016</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">4169-CERRI2016</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">4203-SMITH2007</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">4207-AGUIRRECUNS2018</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">4174-BATTHYANY2021</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">4204-VEGASOLIS2017</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">4174-BATTHYANY2021</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">4212-CEMINARI2018</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">4213-RICO2016</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">4202-BONIOLO2024</bcf:citekey>
+    <bcf:citekey order="18" intorder="2">4204-VEGASOLIS2017</bcf:citekey>
+    <bcf:citekey order="18" intorder="3">4174-BATTHYANY2021</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">4173-LOPEZ2009</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">4202-BONIOLO2024</bcf:citekey>
+    <bcf:citekey order="20" intorder="2">4210-MOGUILLANSKY2024</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">4174-BATTHYANY2021</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">4202-BONIOLO2024</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">4206-VENTURIELLO2023</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">4170-ALGRANTI2010</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">4171-BORRELLI2022</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">4172-IACUB2017</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">4208-ARBER2003</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">4214-GONZALVEZTORRALBO2021</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">4209-BOYD2007</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">4202-BONIOLO2024</bcf:citekey>
+    <bcf:citekey order="30" intorder="2">4210-MOGUILLANSKY2024</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3269,6 +3308,42 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="4"
+                name="apa/global//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="5"
+                name="apa/apasortcite//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="apasortcite"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="5"
+                name="apa/global//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="6"
+                name="apa/apasortcite//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="apasortcite"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="6"
                 name="apa/global//global/global"
                 type="entry"
                 sortingtemplatename="apa"
