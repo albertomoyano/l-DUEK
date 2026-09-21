@@ -30,6 +30,28 @@
       </publisher>
       <pubdate>2000</pubdate>
     </biblioentry>
+    <biblioentry xml:id="bib-4238-NAVARRO2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Navarro</surname>
+          <firstname>Fernando</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Semán</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <title>Introducción</title>
+      <citetitle pubwork="book">Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA</citetitle>
+      <publisher>
+        <publishername>RGC Libros</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <artpagenums>7-18</artpagenums>
+    </biblioentry>
     <biblioentry xml:id="bib-4235-PEREZMARTIRENA2022" pubwork="chapter">
       <author>
         <personname>
@@ -59,5 +81,84 @@
       <volumenum>2</volumenum>
       <issuenum>3</issuenum>
       <artpagenums>3-14</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4236-SIMONETTI2024" pubwork="article">
+      <author>
+        <personname>
+          <surname>Simonetti</surname>
+          <firstname>Paula</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Salas Tonello</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <title>Clases de emociones. La experiencia subjetiva de la pandemia de covid-19 en sectores populares del Área Metropolitana de Buenos Aires</title>
+      <citetitle pubwork="journal">De prácticas y discursos, cuadernos de ciencias sociales</citetitle>
+      <pubdate>2024</pubdate>
+      <volumenum>13</volumenum>
+      <issuenum>22</issuenum>
+      <artpagenums>1-27</artpagenums>
+      <biblioid class="doi">10.30972/dpd.13227755</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4237-SANTOSSHARPE2022" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>Santos Sharpe</surname>
+          <firstname>Andrés</firstname>
+        </personname>
+      </author>
+      <title>La universidad en sus límites. La virtualidad y la experiencia estudiantil</title>
+      <citetitle pubwork="book">Dolores, experiencias, salidas. Un reporte de las juventudes durante la pandemia en el AMBA</citetitle>
+      <publisher>
+        <publishername>RGC Libros</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2022</pubdate>
+      <artpagenums>141-162</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4240-MORAN2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>Morán</surname>
+          <firstname>Lourdes</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Álvarez</surname>
+          <firstname>Guadalupe</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Manolakis</surname>
+          <firstname>Laura</firstname>
+        </personname>
+      </author>
+      <title>Experiencias de aprendizaje estudiantil en la pandemia. Un análisis acerca de la sincronía y asincronía en la formación universitaria</title>
+      <citetitle pubwork="journal">Virtualidad, Educación y Ciencia</citetitle>
+      <pubdate>2021</pubdate>
+      <volumenum>13</volumenum>
+      <issuenum>24</issuenum>
+      <artpagenums>49-71</artpagenums>
+      <biblioid class="doi">10.60020/1853-6530.v13.n24.36311</biblioid>
+    </biblioentry>
+    <biblioentry xml:id="bib-4239-MARTIN2023" pubwork="article">
+      <author>
+        <personname>
+          <surname>Martín</surname>
+          <firstname>María Mercedes</firstname>
+        </personname>
+      </author>
+      <title>Algunas reflexiones sobre la educación en la universidad durante y después de la pandemia. El caso de la Universidad Nacional de La Plata en la República Argentina</title>
+      <citetitle pubwork="journal">Punto Cunorte</citetitle>
+      <pubdate>2023</pubdate>
+      <volumenum>1</volumenum>
+      <issuenum>17</issuenum>
+      <artpagenums>43-63</artpagenums>
+      <biblioid class="doi">10.32870/punto.v1i17.171</biblioid>
     </biblioentry>
 </bibliography>
