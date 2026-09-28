@@ -11,7 +11,7 @@
 \contentsline {section}{\numberline {1.5}Rutinas alteradas: cambios en el sueño y el impacto del sedentarismo en los y las adolescentes}{9}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Cambios en las prácticas de cuidado durante la pandemia}{12}{section.1.6}%
 \contentsline {section}{\numberline {1.7}El hogar como refugio: desafíos de volver al mundo exterior}{14}{section.1.7}%
-\contentsline {section}{\numberline {1.8}Conclusiones}{17}{section.1.8}%
+\contentsline {section}{\numberline {1.8}Conclusiones}{16}{section.1.8}%
 \contentsline {chapter}{\numberline {2}Trabajar, estudiar y cuidar en pandemia: experiencias de tres jóvenes en el AMBA}{21}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Presentación}{21}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Antecedentes}{22}{section.2.2}%
@@ -47,8 +47,8 @@
 \contentsline {subsection}{\numberline {6.2.1}Elvira: acompañarse a través de ventanas}{100}{subsection.6.2.1}%
 \contentsline {subsection}{\numberline {6.2.2}Aníbal: de pérdidas irremplazables y ganancias inesperadas}{104}{subsection.6.2.2}%
 \contentsline {subsection}{\numberline {6.2.3}Carlos: el aislamiento como oportunidad para descubrir mundos}{108}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}Reflexiones finales}{113}{section.6.3}%
-\contentsline {chapter}{Coda}{119}{chapter*.6}%
-\contentsline {chapter}{Sobre las autoras y los autores}{123}{chapter*.7}%
-\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{125}{chapter*.8}%
+\contentsline {section}{\numberline {6.3}Reflexiones finales}{112}{section.6.3}%
+\contentsline {chapter}{Coda}{117}{chapter*.6}%
+\contentsline {chapter}{Sobre las autoras y los autores}{121}{chapter*.7}%
+\contentsline {chapter}{Índice de autoras y autores del aparato bibliográfico}{123}{chapter*.8}%
 \contentsfinish 

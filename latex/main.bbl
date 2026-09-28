@@ -1205,6 +1205,85 @@
       \field{pages}{5\bibrangedash 10}
       \range{pages}{6}
     \endentry
+    \entry{4274-BARCALA2022}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=0a185cf8bfdf0444088ba521422b76fd}{%
+           family={Barcala},
+           familyi={B\bibinitperiod},
+           given={Marcela\bibnamedelima Alejandra},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a1be43501f541d84451c91e1e99e79e}{%
+           family={Wilner},
+           familyi={W\bibinitperiod},
+           given={Alejandro\bibnamedelima Daniel},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bba01c63ba8272bed09b0840b26e656}{%
+           family={Micele},
+           familyi={M\bibinitperiod},
+           given={Carla\bibnamedelima Elizabeth},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25d9c207b9b788f6748534e43865c4c8}{%
+           family={Corrales},
+           familyi={C\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97ba795768ffacc5200b266afe6b2a14}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={Emilse\bibnamedelima Noemí},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5658ca27101fb0cd0204426177f5161}{%
+           family={D'Angelo},
+           familyi={D\bibinitperiod},
+           given={Marcela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bad90a8d7c7c0d5c390faff0c466175}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={Nadia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f89eb6c7f18ca760eaf6584d96d857c}{%
+           family={Vila},
+           familyi={V\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8bbcfe9a405f15d19f7bf32c1ffb3871}
+      \strng{fullhash}{ae03b12356ec863a7124266675fdb53f}
+      \strng{bibnamehash}{ae03b12356ec863a7124266675fdb53f}
+      \strng{authorbibnamehash}{ae03b12356ec863a7124266675fdb53f}
+      \strng{authornamehash}{8bbcfe9a405f15d19f7bf32c1ffb3871}
+      \strng{authorfullhash}{ae03b12356ec863a7124266675fdb53f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud}
+      \field{langid}{spanish}
+      \field{number}{2}
+      \field{title}{Infancias y adolescencias: vivencias durante la pandemia por Covid-19 en Argentina}
+      \field{volume}{20}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+    \endentry
     \entry{4190-CAGGIANO2021}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b469386635ea13ace9bcb56ca45bcab1}{%
@@ -1316,6 +1395,65 @@
       \field{number}{5}
       \field{title}{Investigaciones sobre juventudes en la Argentina: estado del arte en ciencias sociales 1983-2006}
       \field{year}{2009}
+    \endentry
+    \entry{4266-DESINGLY2000}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f21fa55e39ef6fc0ec32a3277adef1b8}{%
+           family={{de Singly}},
+           familyi={d\bibinitperiod},
+           given={Francois},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=6958a92bf8e4b06e917b716e7c66f73d}{%
+           family={Peixoto},
+           familyi={P\bibinitperiod},
+           given={Clarice\bibnamedelima Ehlers},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0fb2c2e8a53844d70e5f2304ad70b139}{%
+           family={Singly},
+           familyi={S\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=2a1bd01809c539c3fa8e651cc10d87a7}{%
+           family={Cicchelli},
+           familyi={C\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Río de Janeiro}%
+      }
+      \list{publisher}{1}{%
+        {Editora FGV}%
+      }
+      \strng{namehash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{fullhash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{bibnamehash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{authorbibnamehash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{authornamehash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{authorfullhash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{editorbibnamehash}{5aa03baf40089e4df5d2e074c88d5a3e}
+      \strng{editornamehash}{63f2eac6428e4ebff9fcd1e12afc12da}
+      \strng{editorfullhash}{5aa03baf40089e4df5d2e074c88d5a3e}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Família e individualização}
+      \field{editortype}{organizer}
+      \field{langid}{portuguese}
+      \field{title}{O nascimento do ‘indivíduo individualizado’ e seus efeitos na vida conjugal e familiar}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{13\bibrangedash 19}
+      \range{pages}{7}
     \endentry
     \entry{4197-DUSSEL2020}{article}{}
       \name{author}{1}{}{%
@@ -1550,6 +1688,42 @@
       \field{title}{La mercantilización de la vida íntima. Apuntes de la casa y el trabajo}
       \field{year}{2008}
       \field{dateera}{ce}
+    \endentry
+    \entry{4195-MARGULIS2001}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5578d48753030a72bdbab52c7d3d4616}{%
+           family={Margulis},
+           familyi={M\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San José de Costa Rica}%
+      }
+      \list{publisher}{1}{%
+        {Libro Universitario Regional}%
+      }
+      \strng{namehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{fullhash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{bibnamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authorbibnamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authornamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authorfullhash}{5578d48753030a72bdbab52c7d3d4616}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Adolescencia y Juventud en América Latina}
+      \field{langid}{spanish}
+      \field{title}{Juventud: una aproximación conceptual}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{41\bibrangedash 56}
+      \range{pages}{16}
     \endentry
     \entry{4226-ANDURRESTI2008}{inbook}{}
       \name{author}{2}{}{%
@@ -1862,6 +2036,33 @@
       \field{year}{2022}
       \field{pages}{61\bibrangedash 87}
       \range{pages}{27}
+    \endentry
+    \entry{4265-UNICEF2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d13783605ea066c4fee77fe8192de83a}{%
+           family={UNICEF},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \strng{namehash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{fullhash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{bibnamehash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{authorbibnamehash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{authornamehash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{authorfullhash}{d13783605ea066c4fee77fe8192de83a}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Encuesta de Percepción y Actitudes de la Población. Impacto de la pandemia COVID-19 y las medidas adoptadas por el gobierno sobre la vida cotidiana. Informe sectorial de Educación}
+      \field{year}{2020}
+      \field{dateera}{ce}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
@@ -1924,6 +2125,85 @@
       \field{pages}{5\bibrangedash 10}
       \range{pages}{6}
     \endentry
+    \entry{4274-BARCALA2022}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=0a185cf8bfdf0444088ba521422b76fd}{%
+           family={Barcala},
+           familyi={B\bibinitperiod},
+           given={Marcela\bibnamedelima Alejandra},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a1be43501f541d84451c91e1e99e79e}{%
+           family={Wilner},
+           familyi={W\bibinitperiod},
+           given={Alejandro\bibnamedelima Daniel},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bba01c63ba8272bed09b0840b26e656}{%
+           family={Micele},
+           familyi={M\bibinitperiod},
+           given={Carla\bibnamedelima Elizabeth},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25d9c207b9b788f6748534e43865c4c8}{%
+           family={Corrales},
+           familyi={C\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97ba795768ffacc5200b266afe6b2a14}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={Emilse\bibnamedelima Noemí},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5658ca27101fb0cd0204426177f5161}{%
+           family={D'Angelo},
+           familyi={D\bibinitperiod},
+           given={Marcela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6f8701bb82693b456936952b8d0811c}{%
+           family={Heredia},
+           familyi={H\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bad90a8d7c7c0d5c390faff0c466175}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={Nadia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f89eb6c7f18ca760eaf6584d96d857c}{%
+           family={Vila},
+           familyi={V\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8bbcfe9a405f15d19f7bf32c1ffb3871}
+      \strng{fullhash}{ae03b12356ec863a7124266675fdb53f}
+      \strng{bibnamehash}{ae03b12356ec863a7124266675fdb53f}
+      \strng{authorbibnamehash}{ae03b12356ec863a7124266675fdb53f}
+      \strng{authornamehash}{8bbcfe9a405f15d19f7bf32c1ffb3871}
+      \strng{authorfullhash}{ae03b12356ec863a7124266675fdb53f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud}
+      \field{langid}{spanish}
+      \field{number}{2}
+      \field{title}{Infancias y adolescencias: vivencias durante la pandemia por Covid-19 en Argentina}
+      \field{volume}{20}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+    \endentry
     \entry{4190-CAGGIANO2021}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b469386635ea13ace9bcb56ca45bcab1}{%
@@ -2035,6 +2315,65 @@
       \field{number}{5}
       \field{title}{Investigaciones sobre juventudes en la Argentina: estado del arte en ciencias sociales 1983-2006}
       \field{year}{2009}
+    \endentry
+    \entry{4266-DESINGLY2000}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f21fa55e39ef6fc0ec32a3277adef1b8}{%
+           family={{de Singly}},
+           familyi={d\bibinitperiod},
+           given={Francois},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=6958a92bf8e4b06e917b716e7c66f73d}{%
+           family={Peixoto},
+           familyi={P\bibinitperiod},
+           given={Clarice\bibnamedelima Ehlers},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0fb2c2e8a53844d70e5f2304ad70b139}{%
+           family={Singly},
+           familyi={S\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=2a1bd01809c539c3fa8e651cc10d87a7}{%
+           family={Cicchelli},
+           familyi={C\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Río de Janeiro}%
+      }
+      \list{publisher}{1}{%
+        {Editora FGV}%
+      }
+      \strng{namehash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{fullhash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{bibnamehash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{authorbibnamehash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{authornamehash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{authorfullhash}{f21fa55e39ef6fc0ec32a3277adef1b8}
+      \strng{editorbibnamehash}{5aa03baf40089e4df5d2e074c88d5a3e}
+      \strng{editornamehash}{63f2eac6428e4ebff9fcd1e12afc12da}
+      \strng{editorfullhash}{5aa03baf40089e4df5d2e074c88d5a3e}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Família e individualização}
+      \field{editortype}{organizer}
+      \field{langid}{portuguese}
+      \field{title}{O nascimento do ‘indivíduo individualizado’ e seus efeitos na vida conjugal e familiar}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{13\bibrangedash 19}
+      \range{pages}{7}
     \endentry
     \entry{4197-DUSSEL2020}{article}{}
       \name{author}{1}{}{%
@@ -2269,6 +2608,42 @@
       \field{title}{La mercantilización de la vida íntima. Apuntes de la casa y el trabajo}
       \field{year}{2008}
       \field{dateera}{ce}
+    \endentry
+    \entry{4195-MARGULIS2001}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5578d48753030a72bdbab52c7d3d4616}{%
+           family={Margulis},
+           familyi={M\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San José de Costa Rica}%
+      }
+      \list{publisher}{1}{%
+        {Libro Universitario Regional}%
+      }
+      \strng{namehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{fullhash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{bibnamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authorbibnamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authornamehash}{5578d48753030a72bdbab52c7d3d4616}
+      \strng{authorfullhash}{5578d48753030a72bdbab52c7d3d4616}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Adolescencia y Juventud en América Latina}
+      \field{langid}{spanish}
+      \field{title}{Juventud: una aproximación conceptual}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{41\bibrangedash 56}
+      \range{pages}{16}
     \endentry
     \entry{4226-ANDURRESTI2008}{inbook}{}
       \name{author}{2}{}{%
@@ -2581,6 +2956,33 @@
       \field{year}{2022}
       \field{pages}{61\bibrangedash 87}
       \range{pages}{27}
+    \endentry
+    \entry{4265-UNICEF2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d13783605ea066c4fee77fe8192de83a}{%
+           family={UNICEF},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \strng{namehash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{fullhash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{bibnamehash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{authorbibnamehash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{authornamehash}{d13783605ea066c4fee77fe8192de83a}
+      \strng{authorfullhash}{d13783605ea066c4fee77fe8192de83a}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Encuesta de Percepción y Actitudes de la Población. Impacto de la pandemia COVID-19 y las medidas adoptadas por el gobierno sobre la vida cotidiana. Informe sectorial de Educación}
+      \field{year}{2020}
+      \field{dateera}{ce}
     \endentry
   \enddatalist
 \endrefsection
@@ -4368,9 +4770,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Efectos de la doble crisis y recomposición social en disputa}
+      \field{booktitle}{Estructura social de Argentina en tiempos de pandemia. Efectos de la doble crisis y recomposición social en disputa}
       \field{langid}{spanish}
-      \field{maintitle}{Estructura social de Argentina en tiempos de pandemia}
       \field{title}{Estructura de clases de Argentina (2015-2021): efectos de la doble crisis prepandemia y pandemia en el empleo, los ingresos y los gastos de los hogares}
       \field{volume}{1}
       \field{year}{2022}
@@ -4578,9 +4979,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Efectos de la doble crisis y recomposición social en disputa}
+      \field{booktitle}{Estructura social de Argentina en tiempos de pandemia. Efectos de la doble crisis y recomposición social en disputa}
       \field{langid}{spanish}
-      \field{maintitle}{Estructura social de Argentina en tiempos de pandemia}
       \field{title}{Estructura de clases de Argentina (2015-2021): efectos de la doble crisis prepandemia y pandemia en el empleo, los ingresos y los gastos de los hogares}
       \field{volume}{1}
       \field{year}{2022}

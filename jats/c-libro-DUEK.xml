@@ -8,7 +8,6 @@
       <title>Un tiempo diferente</title>
       <subtitle>Vida cotidiana y pandemia</subtitle>
       <biblioid class="isbn" role="print">978-950-793-487-2</biblioid>
-      <bibliomisc role="url-descarga-epub">https://github.com/albertomoyano/l-DUEK/blob/main/salidas/epub/un-tiempo-diferente.epub</bibliomisc>
       <editor role="compiler">
          <personname>
             <firstname>Marina</firstname>
@@ -51,6 +50,12 @@
          </subject>
       </subjectset>
       <bibliomisc role="tipo-acceso">abierto</bibliomisc>
+      <legalnotice role="licencia">
+         <para>CC BY-NC-ND 4.0</para>
+         <para>
+            <link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</link>
+         </para>
+      </legalnotice>
       <bibliomisc role="repo-produccion-privado">yes</bibliomisc>
       <bibliomisc role="csl-style">apa.csl</bibliomisc>
       <mediaobject role="tapa">
@@ -153,7 +158,7 @@
             <phrase role="cite-suffix">p. 22</phrase>, la idea de <emphasis>espacio biográfico</emphasis> es muy relevante para dar cuenta de <quote>la multiplicidad, lugar de confluencia y de circulación, de parecidos de familia, de vecindades y de diferencias</quote>. El interés en la voz y en la experiencia de los sujetos con un énfasis en la dimensión testimonial, según Arfuch, constituye un símbolo del siglo XXI que se ha obsesionado por los hitos de la memoria. Según su hipótesis y a los fines de este libro y de nuestros análisis, plantea que lo biográfico es un espacio intermedio entre lo público y lo privado. No se trata solamente de lo que recordamos sino de cómo lo que nos pasó de manera directa o indirecta se puede relacionar con la dimensión pública y experiencial de un momento en el tiempo y en la historia.
   </para>
          <para>
-    Nos inspiramos también en la perspectiva de la sociología pública feminista que propone Kate Averett <biblioref linkend="cap-21-bib-4176-AVERETT2021" role="suppress"/>
+    Nos inspiramos también en la perspectiva de la sociología pública feminista de Kate Averett <biblioref linkend="cap-21-bib-4176-AVERETT2021" role="suppress"/>
             <phrase role="cite-suffix">p. 1</phrase>, que resalta la importancia ética de dar lugar a la elaboración narrativa del sufrimiento durante la pandemia. Según su planteo, es relevante <quote>dar testimonio de las experiencias de los afectados por la pandemia, hacer un registro de esas experiencias y ayudar a los académicos y al público a pensar sociológicamente sobre la pandemia, idealmente de tal manera que ayude en la creación de políticas respuestas que aborden y reduzcan este sufrimiento</quote>. La propia investigación sociológica que se desarrolla a través de entrevistas en profundidad, en las cuales los sujetos nos cuentan y se cuentan a sí mismos sus vivencias, tiene un carácter performativo al ofrecer un espacio de escucha atenta, de catarsis y elaboración simbólica, diferente de la conversación con pares o de la escucha terapéutica.
   </para>
          <para>
@@ -178,7 +183,7 @@
     Las entrevistas fueron realizadas entre enero y julio de 2022. Dado el contexto de cercanía con la pandemia, alrededor de la mitad de esas entrevistas fueron realizadas en forma virtual, con videollamadas. Entrevistamos a setenta y ocho personas, de las cuales 40 fueron varones y 38 fueron mujeres. Las edades de los entrevistados van desde los 14 hasta los 86 años, con mayor representación del grupo de adultos (entre 30 y 60 años).
   </para>
          <para>
-    Para construir la clasificación socioeconómica de las personas entrevistadas, partimos de las preguntas del esquema SAIMO (Sociedad Argentina de Investigadores de Marketing), que agrupan a la población en cinco niveles según el nivel educativo, el tipo de inserción laboral y el acceso a prestaciones sociales <biblioref linkend="cap-21-bib-4185-CLEMENCEAU2016"/>. Esta segmentación inicial nos permitió organizar las rondas de muestreo para cubrir todas las posiciones de la estructura social. Pero además de esos datos tipificados, para cada entrevistado contamos con información detallada sobre su lugar de residencia, la trayectoria formativa, el tipo de empleo, la composición familiar, el acceso a bienes y prácticas culturales, lo cual nos permitió matizar y validar la clasificación de cada sujeto. A partir de estos datos, en los capítulos analíticos empleamos categorías conceptuales propias de las ciencias sociales –como clase social, condiciones de vida y trayectorias laborales– que facilitan una comprensión más situada y compleja de las desigualdades y vivencias durante la pandemia. Así, para describir la composición social del conjunto de la muestra, podemos decir que entrevistamos a doce dueños de pequeñas y medianas empresas y profesionales en ocupaciones de alta remuneración; a cuarenta y tres personas de posiciones medias y de clase media-baja, incluyendo a empleados públicos y privados, profesionales independientes, emprendedores, docentes, entre otros; y a veintidós personas de bajos o muy bajos ingresos, de sectores populares, comprendiendo a desocupados, trabajadores informales en sectores marginales, cartoneros, jubilados, cuidadores de ancianos y otros perfiles similares.
+    Para construir la clasificación socioeconómica de las personas entrevistadas, partimos de las preguntas del esquema SAIMO (Sociedad Argentina de Investigadores de Marketing), que agrupan a la población en cinco estamentos según el nivel educativo, el tipo de inserción laboral y el acceso a prestaciones sociales <biblioref linkend="cap-21-bib-4185-CLEMENCEAU2016"/>. Esta segmentación inicial nos permitió organizar las rondas de muestreo para cubrir todas las posiciones de la estructura social. Pero además de esos datos tipificados, para cada entrevistado contamos con información detallada sobre su lugar de residencia, la trayectoria formativa, el tipo de empleo, la composición familiar, el acceso a bienes y prácticas culturales, lo cual nos permitió matizar y validar la clasificación de cada sujeto. A partir de estos datos, en los capítulos analíticos empleamos categorías conceptuales propias de las ciencias sociales –como clase social, condiciones de vida y trayectorias laborales– que facilitan una comprensión más situada y compleja de las desigualdades y vivencias durante la pandemia. Así, para describir la composición social del conjunto de la muestra, podemos decir que entrevistamos a doce dueños de pequeñas y medianas empresas y profesionales en ocupaciones de alta remuneración; a cuarenta y tres personas de posiciones medias y de clase media-baja, incluyendo a empleados públicos y privados, profesionales independientes, emprendedores, docentes, entre otros; y a veintidós personas de bajos o muy bajos ingresos, de sectores populares, comprendiendo a desocupados, trabajadores informales en sectores marginales, cartoneros, jubilados, cuidadores de ancianos y otros perfiles similares.
   </para>
          <para>
     El análisis de las entrevistas se hizo de manera colaborativa, con la codificación de las transcripciones y la discusión orientada por interrogantes y conceptos sensibilizadores: rutinas de la vida cotidiana, organización del trabajo, control, autonomía o dependencia en la adopción de estos cambios, percepción del riesgo. La sociología de las emociones fue también una herramienta importante para la escucha y el análisis de las entrevistas: en los relatos aparecía con insistencia el miedo, la angustia, la tristeza; en otros casos el enojo, la frustración y la impotencia. Para ello, resultó fundamental incorporar al análisis las diferentes formas de la comunicación no verbal como la entonación, las pausas, los gestos con el rostro y las manos, la mirada, la risa y el llanto.
@@ -190,7 +195,7 @@
     Este libro reúne una serie de capítulos que abordan, desde distintas perspectivas, las experiencias cotidianas durante la pandemia de COVID-19 en el Área Metropolitana de Buenos Aires (AMBA). El hilo conductor que organiza el volumen es la dimensión generacional: los textos se ordenan siguiendo un recorrido que va desde las vivencias de adolescentes hasta las de personas mayores. Este criterio permite reconstruir cómo se vivió el aislamiento social en distintas etapas del ciclo vital, y cómo la edad se entrelazó con otros factores –como el género, la clase social, las condiciones habitacionales o el tipo de inserción laboral– para configurar experiencias desiguales del encierro. Aunque el orden sugiere una progresión cronológica, los capítulos pueden leerse también de forma autónoma, ya que cada uno presenta casos particulares y ofrece claves analíticas propias.
   </para>
          <para>
-    El libro se abre con el capítulo de Mariana Lopresti, <quote>Pantallas apagadas y una difícil convivencia</quote>, centrado en las experiencias de adolescentes durante la suspensión de clases presenciales. A partir de cuatro historias de jóvenes de sectores medios del AMBA, se analizan las formas de habitar el encierro, las tensiones familiares derivadas de la convivencia intensificada y la importancia de la escuela como espacio de sociabilidad en esta etapa de la vida. Las historias de los y las adolescentes entrevistados dan cuenta de la ausencia de contacto cotidiano con los amigos, que muchas veces derivó en la ruptura de lazos, pero también los cambios rápidos en el cuerpo y la sensación de haber perdido para siempre ciertas experiencias vitales. El enfoque destaca cómo el género y la edad condicionaron las prácticas y sentidos asociados al espacio doméstico, y pone de relieve la capacidad de los y las adolescentes para reflexionar críticamente sobre su experiencia.
+    El libro comienza con el capítulo de Mariana Lopresti, <quote>Pantallas apagadas y una difícil convivencia</quote>, centrado en las experiencias de adolescentes durante la suspensión de clases presenciales. A partir de cuatro historias de jóvenes de sectores medios del AMBA, se analizan las formas de habitar el encierro, las tensiones familiares derivadas de la convivencia intensificada y la importancia de la escuela como espacio de sociabilidad en esta etapa de la vida. Las historias de los y las adolescentes entrevistados dan cuenta de la ausencia de contacto cotidiano con los amigos, que muchas veces derivó en la ruptura de lazos, pero también los cambios rápidos en el cuerpo y la sensación de haber perdido para siempre ciertas experiencias vitales. El enfoque destaca cómo el género y la edad condicionaron las prácticas y sentidos asociados al espacio doméstico, y pone de relieve la capacidad de los y las adolescentes para reflexionar críticamente sobre su experiencia.
   </para>
          <para>
     El siguiente capítulo es de Magdalena Lemus, titulado <quote>Trabajar, estudiar y cuidar en pandemia</quote>. Lemus reconstruye las trayectorias de tres jóvenes de distintas clases sociales que atravesaron el aislamiento tratando de sostener sus estudios, sus lazos sociales y, en algunos casos, sus trabajos. El análisis muestra cómo las condiciones materiales –como el acceso a tecnologías o la necesidad de generar ingresos– marcaron diferencias significativas entre los casos, pero también señala puntos de encuentro: la centralidad de la sociabilidad entre pares y el protagonismo del cuidado de otras personas como dimensión clave de la experiencia juvenil durante la pandemia.
@@ -536,17 +541,17 @@
     La juventud es una categoría analítica histórica y relacional, construida desde los modos en que cada grupo social define y vivencia esta etapa de la vida. No es un estado fijo y universal, ni se la puede delimitar solo con criterios etarios o biológicos, sino que resulta una condición social transitoria, que se configura a partir de las interacciones entre jóvenes y los diversos actores sociales con los que se relacionan, como la familia, los pares y el mercado laboral. Esta perspectiva permite analizar cómo las desigualdades de género, etnia y clase moldean las trayectorias juveniles y las prácticas que desarrollan en su vida cotidiana.
   </para>
          <para>
-    A su vez, autores como Reguillo <biblioref linkend="cap-26-bib-4227-REGUILLO2000" role="suppress"/> y <emphasis role="strong">Margulis (2001) NO LA ENCUENTRO</emphasis> insisten en que la juventud debe analizarse en el marco del entramado social e histórico que le otorga significación. Esto implica considerar tanto las representaciones sociales, estereotipos y prescripciones sobre lo que significa ser joven, como las prácticas efectivas y las relaciones que los jóvenes construyen. La juventud supone un proceso de individualización en el que los jóvenes comienzan a distanciarse de la familia como un <quote>otro significativo</quote>
-            <emphasis role="strong">(Singly, 2000) NO LA ENCUENTRO</emphasis>, dando lugar a la construcción de nuevas redes y relaciones relevantes en la formación de su identidad.
+    A su vez, autores como Reguillo <biblioref linkend="cap-26-bib-4227-REGUILLO2000" role="suppress"/> y Margulis <biblioref linkend="cap-26-bib-4195-MARGULIS2001" role="suppress"/> insisten en que la juventud debe analizarse en el marco del entramado social e histórico que le otorga significación. Esto implica considerar tanto las representaciones sociales, estereotipos y prescripciones sobre lo que significa ser joven, como las prácticas efectivas y las relaciones que los jóvenes construyen. La juventud supone un proceso de individualización en el que los jóvenes comienzan a distanciarse de la familia como un <quote>otro significativo</quote>
+            <biblioref linkend="cap-26-bib-4266-DESINGLY2000"/>, dando lugar a la construcción de nuevas redes y relaciones relevantes en la formación de su identidad.
   </para>
          <para>
-    Ahora bien, ¿qué pasó con las juventudes durante la cuarentena? ¿Cómo se reconfiguró este proceso de individualización en el marco de una pronunciada convivencia familiar? En este marco, las juventudes experimentaron una disrupción significativa en sus procesos de socialización, construcción identitaria y desarrollo emocional. Como lo destacan <emphasis role="strong">UNICEF (2020a) NO LA ENCUENTRO</emphasis> y la Sociedad Argentina de Pediatría <biblioref linkend="cap-26-bib-4234-SAP2020"/>, el aislamiento social derivó en un aumento del tiempo frente a las pantallas, trastornos del sueño y emociones negativas como angustia, tristeza y miedo. Failla <biblioref linkend="cap-26-bib-4198-FAILLA2021" role="suppress"/> subraya que estas condiciones no solo amplificaron el impacto psicológico del aislamiento, sino que también reforzaron el sentimiento de desconexión y desamparo entre los jóvenes. En este contexto, la relevancia de los espacios privados, como la habitación propia, y las redes de amigos como escenarios para desplegar autonomía se hizo particularmente evidente. Sin embargo, para aquellos adolescentes que carecían de un entorno doméstico favorable, el confinamiento exacerbó las tensiones en la familia, limitando las posibilidades de autonomía.
+    Ahora bien, ¿qué pasó con las juventudes durante la cuarentena? ¿Cómo se reconfiguró este proceso de individualización en el marco de una pronunciada convivencia familiar? En este marco, las juventudes experimentaron una disrupción significativa en sus procesos de socialización, construcción identitaria y desarrollo emocional. Como lo destacan UNICEF <biblioref linkend="cap-26-bib-4265-UNICEF2020" role="suppress"/> y la Sociedad Argentina de Pediatría <biblioref linkend="cap-26-bib-4234-SAP2020"/>, el aislamiento social derivó en un aumento del tiempo frente a las pantallas, trastornos del sueño y emociones negativas como angustia, tristeza y miedo. Failla <biblioref linkend="cap-26-bib-4198-FAILLA2021" role="suppress"/> subraya que estas condiciones no solo amplificaron el impacto psicológico del aislamiento, sino que también reforzaron el sentimiento de desconexión y desamparo entre los jóvenes. En este contexto, la relevancia de los espacios privados, como la habitación propia, y las redes de amigos como escenarios para desplegar autonomía se hizo particularmente evidente. Sin embargo, para aquellos adolescentes que carecían de un entorno doméstico favorable, el confinamiento exacerbó las tensiones en la familia, limitando las posibilidades de autonomía.
   </para>
       </section>
       <section xml:id="cap-26.cada-relato-un-universo-los-perfiles-de-nuestros-entrevistados">
          <title>Cada relato, un universo: los perfiles de nuestros entrevistados</title>
          <para>
-    Julieta tenía 17 años en 2020 y vivía con sus padres en un departamento de Wilde. Le tocó transitar el final de la secundaria durante la cuarentena: el cansancio y la desconexión con las clases virtuales la llevaron a abandonar las plataformas digitales. Luego comenzó a prepararse para ingresar a la carrera de Medicina y sintió la falta de preparación, que vincula con los contenidos que no vio durante la pandemia. Durante ese tiempo diferente, desarrolló nuevas aficiones como el maquillaje y los videojuegos, y vivió tensiones con su grupo de amigos, llegando incluso a pelearse con alguno de ellos. Las salidas clandestinas, las videollamadas diarias con su familia y el sentimiento de culpa la acompañaron durante un largo período, además de la tristeza por la pérdida de su abuela.
+    Julieta tenía 17 años en 2020 y vivía con sus padres en un departamento de Wilde. Le tocó transitar el final de la secundaria durante la cuarentena: el cansancio y la desconexión con las clases virtuales la llevaron a abandonar las plataformas digitales. Luego comenzó el ingreso a la carrera de Medicina y sintió la falta de preparación, que vincula con los contenidos que no vio durante la pandemia. Durante ese tiempo diferente, desarrolló nuevas aficiones como el maquillaje y los videojuegos, y vivió tensiones con su grupo de amigos, llegando incluso a pelearse con alguno de ellos. Las salidas clandestinas, las videollamadas diarias con su familia y el sentimiento de culpa la acompañaron durante un largo período, además de la tristeza por la pérdida de su abuela.
   </para>
          <para>
     Lucas tenía 18 años y vivía con sus padres –ambos profesionales– y un hermano menos en una casa en el barrio de Villa Crespo. Cursó cuarto y quinto año del secundario con buena parte de las clases a distancia y recuerda esos días como una etapa de angustia y frustración. La falta de contacto con sus compañeros lo afectó mucho, a pesar de los esfuerzos por mantenerse conectado a través de redes sociales. Las tensiones en casa, debido a que su padre era de riesgo, le produjeron ansiedad y problemas para dormir. Actualmente acude a terapia para procesar lo vivido, consciente de que las relaciones personales y la salud mental no volvieron a ser las mismas tras el confinamiento.
@@ -697,7 +702,7 @@
       <section xml:id="cap-26.cambios-en-las-practicas-de-cuidado-durante-la-pandemia">
          <title>Cambios en las prácticas de cuidado durante la pandemia</title>
          <para>
-    Tradicionalmente, el cuidado fue concebido como una actividad unidireccional, donde los adultos y las instituciones eran responsables de proteger a los más jóvenes, considerados vulnerables. Sin embargo, la pandemia del COVID-19 introdujo un cambio significativo en esta noción. Según <emphasis role="strong">Barcala (2020) NO LA ENCUENTRO</emphasis>, los adolescentes no solo se percibieron como receptores de cuidados, sino también como cuidadores activos. Este cambio se evidenció en los y las adolescentes cuando comenzaron a asumir roles de cuidado hacia sus familiares y la sociedad en general:
+    Tradicionalmente, el cuidado fue concebido como una actividad unidireccional, donde los adultos y las instituciones eran responsables de proteger a los más jóvenes, considerados vulnerables. Sin embargo, la pandemia del COVID-19 introdujo un cambio significativo en esta noción. Según Barcala <biblioref linkend="cap-26-bib-4274-BARCALA2022" role="suppress"/>, los adolescentes no solo se percibieron como receptores de cuidados, sino también como cuidadores activos. Este cambio se evidenció en los y las adolescentes cuando comenzaron a asumir roles de cuidado hacia sus familiares y la sociedad en general:
   </para>
          <blockquote>
             <para>
@@ -716,7 +721,7 @@
     </para>
          </blockquote>
          <para>
-    El miedo al otro se convirtió, durante la pandemia, en un factor que favoreció el encierro y debilitó los lazos con el entorno. En muchas familias, este temor provocó tensiones difíciles de manejar. Según <emphasis role="strong">Segato (2018) NO LA ENCUENTRO</emphasis>, este tipo de reacciones no solo reflejan una preocupación por el bienestar familiar, sino que también muestran cómo el aislamiento afectó el tejido social. El testimonio de Lucas sobre las compras ilustra con claridad cómo ese temor al contagio se transformó, en su hogar, en un comportamiento obsesivo por parte de su padre, intensificando la tensión familiar. Ese miedo desbordado a la infección puede interpretarse como una forma extrema de cuidado hacia los propios, pero también como un factor que profundizó el aislamiento y debilitó los lazos con el entorno social. A pesar de los discursos que señalaron a los adolescentes como indiferentes frente a la crisis, la experiencia mostró otra cosa. En distintos hogares, los jóvenes se cuidaron entre sí y cuidaron a los suyos. Muchos expresaron angustia por la posibilidad de contagiar a personas queridas y sintieron el peso de una responsabilidad que no eligieron <biblioref linkend="cap-26-bib-4233-MOGUILLANSKY2022"/>.
+    El miedo al otro se convirtió, durante la pandemia, en un factor que favoreció el encierro y debilitó los lazos con el entorno. En muchas familias, este temor provocó tensiones difíciles de manejar. Este tipo de reacciones no solo reflejan una preocupación por el bienestar familiar, sino que también muestran cómo el aislamiento afectó el tejido social. El testimonio de Lucas sobre las compras ilustra con claridad cómo ese temor al contagio se transformó, en su hogar, en un comportamiento obsesivo por parte de su padre, intensificando la tensión familiar. Ese miedo desbordado a la infección puede interpretarse como una forma extrema de cuidado hacia los propios, pero también como un factor que profundizó el aislamiento y debilitó los lazos con el entorno social. A pesar de los discursos que señalaron a los adolescentes como indiferentes frente a la crisis, la experiencia mostró otra cosa. En distintos hogares, los jóvenes se cuidaron entre sí y cuidaron a los suyos. Muchos expresaron angustia por la posibilidad de contagiar a personas queridas y sintieron el peso de una responsabilidad que no eligieron <biblioref linkend="cap-26-bib-4233-MOGUILLANSKY2022"/>.
   </para>
          <para>
     En algunas investigaciones se advierte un cambio en la distribución de las tareas del hogar. Ianina Tuñón y su equipo <biblioref linkend="cap-26-bib-4231-TUNON2021" role="suppress"/> observaron que, al reducirse el tiempo dedicado a la escuela, los adolescentes asumieron nuevas responsabilidades domésticas. Lejos de la imagen de pasividad, este involucramiento en el cuidado cotidiano muestra una forma concreta de compromiso con la vida familiar. En muchos casos, ese esfuerzo se acompañó de sentimientos de culpa y sobrecarga, sobre todo cuando había personas del grupo de riesgo en la casa.
@@ -840,6 +845,75 @@
                </address>
             </publisher>
             <pubdate>2000</pubdate>
+         </biblioentry>
+         <biblioentry xml:id="cap-26-bib-4195-MARGULIS2001" pubwork="chapter">
+            <author>
+               <personname>
+                  <surname>Margulis</surname>
+                  <firstname>Mario</firstname>
+               </personname>
+            </author>
+            <title>Juventud: una aproximación conceptual</title>
+            <citetitle pubwork="book">Adolescencia y Juventud en América Latina</citetitle>
+            <publisher>
+               <publishername>Libro Universitario Regional</publishername>
+               <address>
+                  <city>San José de Costa Rica</city>
+               </address>
+            </publisher>
+            <pubdate>2001</pubdate>
+            <artpagenums>41-56</artpagenums>
+         </biblioentry>
+         <biblioentry xml:id="cap-26-bib-4266-DESINGLY2000" pubwork="chapter">
+            <author>
+               <personname>
+                  <surname>de Singly</surname>
+                  <firstname>Francois</firstname>
+               </personname>
+            </author>
+            <editor role="organizer">
+               <personname>
+                  <surname>Peixoto</surname>
+                  <firstname>Clarice Ehlers</firstname>
+               </personname>
+            </editor>
+            <editor role="organizer">
+               <personname>
+                  <surname>de Singly</surname>
+                  <firstname>François</firstname>
+               </personname>
+            </editor>
+            <editor role="organizer">
+               <personname>
+                  <surname>Cicchelli</surname>
+                  <firstname>Vincenzo</firstname>
+               </personname>
+            </editor>
+            <title>O nascimento do ‘indivíduo individualizado’ e seus efeitos na vida conjugal e familiar</title>
+            <citetitle pubwork="book">Família e individualização</citetitle>
+            <publisher>
+               <publishername>Editora FGV</publishername>
+               <address>
+                  <city>Río de Janeiro</city>
+               </address>
+            </publisher>
+            <pubdate>2000</pubdate>
+            <artpagenums>13-19</artpagenums>
+         </biblioentry>
+         <biblioentry xml:id="cap-26-bib-4265-UNICEF2020" pubwork="book">
+            <author>
+               <personname>
+                  <surname>UNICEF</surname>
+               </personname>
+            </author>
+            <citetitle pubwork="book">Encuesta de Percepción y Actitudes de la Población. Impacto de la pandemia COVID-19 y las medidas adoptadas por el gobierno sobre la vida cotidiana. Informe sectorial de Educación</citetitle>
+            <publisher>
+               <publishername>UNICEF Argentina</publishername>
+               <address>
+                  <city>Buenos Aires</city>
+               </address>
+            </publisher>
+            <pubdate>2020</pubdate>
          </biblioentry>
          <biblioentry xml:id="cap-26-bib-4234-SAP2020" pubwork="book">
             <author>
@@ -1014,6 +1088,68 @@
             <volumenum>XXVII</volumenum>
             <issuenum>11</issuenum>
             <artpagenums>61-87</artpagenums>
+         </biblioentry>
+         <biblioentry xml:id="cap-26-bib-4274-BARCALA2022" pubwork="article">
+            <author>
+               <personname>
+                  <surname>Barcala</surname>
+                  <firstname>Marcela Alejandra</firstname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <surname>Wilner</surname>
+                  <firstname>Alejandro Daniel</firstname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <surname>Micele</surname>
+                  <firstname>Carla Elizabeth</firstname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <surname>Corrales</surname>
+                  <firstname>Carolina</firstname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <surname>Moreno</surname>
+                  <firstname>Emilse Noemí</firstname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <surname>D'Angelo</surname>
+                  <firstname>Marcela</firstname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <surname>Heredia</surname>
+                  <firstname>Mariana</firstname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <surname>Sánchez</surname>
+                  <firstname>Nadia</firstname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <surname>Vila</surname>
+                  <firstname>Patricia</firstname>
+               </personname>
+            </author>
+            <title>Infancias y adolescencias: vivencias durante la pandemia por Covid-19 en Argentina</title>
+            <citetitle pubwork="journal">Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud</citetitle>
+            <pubdate>2022</pubdate>
+            <volumenum>20</volumenum>
+            <issuenum>2</issuenum>
+            <artpagenums>1-25</artpagenums>
          </biblioentry>
          <biblioentry xml:id="cap-26-bib-4231-TUNON2021" pubwork="webpage">
             <author>
@@ -1220,7 +1356,7 @@
                <quote>No tenía un lugar donde desahogarme</quote>
             </title>
             <para>
-      Mauro tenía dieciocho años cuando comenzó la pandemia y pertenecía a una familia de clase baja <biblioref linkend="cap-27-bib-4185-CLEMENCEAU2016"/>. El aislamiento lo encontró viviendo con su mamá y su abuela en un monoambiente en CABA. En ese momento, estaba cursando la escuela secundaria en un bachillerato de adultos/as, luego de haber repetido dos años seguidos y no haber no podido continuar en la escuela secundaria común. Desde los trece años Mauro hacía changas para tener su propio dinero. Si bien su familia no estaba en una situación de carencia económica, los bolsones de comida que entregaba el bachillerato durante la pandemia fueron una ayuda.
+      Mauro tenía dieciocho años cuando comenzó la pandemia y pertenecía a una familia de clase baja <biblioref linkend="cap-27-bib-4185-CLEMENCEAU2016"/>. El aislamiento lo encontró viviendo con su mamá y su abuela en un monoambiente en CABA. En ese momento, estaba en la escuela secundaria en un bachillerato de adultos/as, luego de haber repetido dos años seguidos y no haber no podido continuar en la escuela secundaria común. Desde los trece años Mauro hacía changas para tener su propio dinero. Si bien su familia no estaba en una situación de carencia económica, los bolsones de comida que entregaba el bachillerato durante la pandemia fueron una ayuda.
     </para>
             <para>
       A partir de la pandemia, la vida cotidiana de Mauro cambiaría mucho. Lo que eran antes changas, se convirtieron en unas ocho horas diarias de trabajo de reparto y el tiempo libre que le quedaba lo dedicaba a ocuparse de su abuela –que se había fracturado y requería asistencia– y de su madre. Ambas mujeres quedaron catalogadas en la denominación de <quote>grupos de riesgo</quote> durante la pandemia y estuvieron bajo su cuidado. También cuidó a su papá que estuvo internado en grave estado durante varios meses. La convivencia con dos personas en grupos de riesgo, supuso desafíos para Mauro:
@@ -1322,7 +1458,7 @@
       Al recordar la discusión con su tío, Mauro toma distancia de su postura en ese momento, dando cuenta de las dificultades que tuvo en ese momento, como joven de dieciocho años, de comprender el alcance del virus y acatar las medidas de aislamiento. Pero también pone de relieve la incomprensión de parte del mundo adulto y una cierta sensación de desamparo.
     </para>
             <para>
-      Recapitulando, en la experiencia de Mauro, podemos notar la articulación de condiciones desventajosas previas a la pandemia y su acentuación durante el aislamiento producto la intersección de carga laboral, carga de cuidado y aislamiento del grupo de pares. A la vez, a través de su relato podemos apreciar las ambivalencias de la experiencia juvenil en pandemia y la contribución de este grupo al sostenimiento económico y al cuidado de las familias. En la siguiente historia, nos adentramos en una experiencia de pandemia muy distinta.
+      Recapitulando, en la experiencia de Mauro, notamos la articulación de condiciones desventajosas previas a la pandemia y su acentuación durante el aislamiento producto la intersección de carga laboral, carga de cuidado y aislamiento del grupo de pares. A la vez, a través de su relato podemos apreciar las ambivalencias de la experiencia juvenil en pandemia y la contribución de este grupo al sostenimiento económico y al cuidado de las familias. En la siguiente historia, nos adentramos en una experiencia de pandemia muy distinta.
     </para>
          </section>
          <section xml:id="cap-27.siento-que-el-nivel-de-aislamiento-total-del-2020-me-sirvio-como-para-enfocar">
@@ -2079,7 +2215,7 @@
       <section xml:id="cap-25.todo-lo-solido-se-desorganiza-con-el-aire">
          <title>Todo lo sólido se desorganiza con el aire</title>
          <para>
-    Vanesa tiene 47 años y vive con su marido y su familia en el barrio de Villa Pueyrredón, CABA. Su experiencia de la pandemia está fuertemente marcada por la desorganización de las ya endebles estructuras sobre las que se sostenía su vida cotidiana: imposibilidad para mantener su microemprendimiento productivo, hacinamiento en la vivienda, servicios básicos insatisfechos y, sobre todo, la sensación de carecer de la información necesaria para interpretar y controlar la situación que estaban atravesando. La primera consecuencia que Vanesa asocia a la pandemia se relaciona con el corte abrupto de las actividades laborales y la fuente de ingreso de su hogar: una vez implementado el confinamiento, con su marido no pudieron seguir con el emprendimiento de panadería que tenían antes de la pandemia porque ya no podía salir a repartir.
+    Vanesa tiene 47 años y vive con su marido y su familia en el barrio de Villa Pueyrredón, CABA. Su experiencia de la pandemia está muy marcada por la desorganización de las ya endebles estructuras sobre las que se sostenía su vida cotidiana: imposibilidad para mantener su microemprendimiento productivo, hacinamiento en la vivienda, servicios básicos insatisfechos y, sobre todo, la sensación de carecer de la información necesaria para interpretar y controlar la situación que estaban atravesando. La primera consecuencia que Vanesa asocia a la pandemia se relaciona con el corte abrupto de las actividades laborales y la fuente de ingreso de su hogar: una vez implementado el confinamiento, con su marido no pudieron seguir con el emprendimiento de panadería que tenían antes de la pandemia porque ya no podía salir a repartir.
   </para>
          <blockquote>
             <para>
@@ -2087,12 +2223,12 @@
     </para>
          </blockquote>
          <para>
-    En paralelo, el marido y sus tres hijos se contagiaron yendo a trabajar y fueron despedidos tanto en comercios de gastronomía como de una reconocida fábrica tabacalera donde trabajaba su marido como empleado de seguridad. Este último fue el único que tenía un trabajo formalizado; sin embargo, el cobro de la indemnización se vio obstaculizado y lo cobrado se fue licuando en el pago de deudas contraídas con anterioridad. Así lo relata Marcelo, de 54 años, esposo de Vanesa:
+    En paralelo, el marido y sus tres hijos se contagiaron yendo a trabajar y fueron despedidos tanto en comercios de gastronomía, como de una reconocida fábrica tabacalera donde trabajaba su marido como empleado de seguridad. Este último fue el único que tenía un trabajo formalizado; sin embargo, el cobro de la indemnización se vio obstaculizado y lo cobrado se fue licuando en el pago de deudas contraídas con anterioridad. Así lo relata Marcelo, de 54 años, esposo de Vanesa:
   </para>
          <blockquote>
             <para>
-               <quote>Nos llamaron para un arreglo y después porque como no era solo yo, había otros chicos que no querían aceptar lo que ofrecían, y tuvimos que ir a juicio, y ahí nos fueron pagando en cuotas…. qué se yo como yo tenía deuda también tuve que pagar, que tratar de evitar que llegarán a más (…) Y justo yo había pedido una… un dinero, o sea, había sacado un prestamo para poder entrar para alquilar justo donde estábamos ahora. Yo tenía que alquilar y entregar el dinero del contrato de… cómo se llaman todas esas cosas</quote>
-            </para>
+               <quote>Nos llamaron para un arreglo y después porque como no era solo yo, había otros chicos que no querían aceptar lo que ofrecían, y tuvimos que ir a juicio, y ahí nos fueron pagando en cuotas…. qué se yo como yo tenía deuda también tuve que pagar, que tratar de evitar que llegarán a más (…) Y justo yo había pedido una… un dinero, o sea, había sacado un prestamo para poder entrar para alquilar justo donde estábamos ahora. Yo tenía que alquilar y entregar el dinero del contrato de… cómo se llaman todas esas cosas</quote>.
+    </para>
          </blockquote>
          <para>
     Tiempo más tarde, sus hijos consiguieron otros empleos informales, pero su marido no logró reinsertarse en el mercado de trabajo por distintos problemas de salud (prótesis de columna que <quote>salta</quote> en los estudios preocupacionales, varices y úlceras en las piernas)
@@ -2119,7 +2255,7 @@
             </para>
          </blockquote>
          <para>
-    La pérdida del empleo desencadenó un proceso de empeoramiento de las condiciones de vida: reducción de acceso a alimentos, corte de servicios básicos, hacinamiento. Asimismo, la ayuda estatal no resultó efectiva en estos casos donde no se alcanzó a detectar la situación de vulnerabilidad repentina causada a raíz de la pandemia. Ante este cuadro, una vez finalizada la fase estricta del aislamiento por la pandemia, su marido comenzó a desarrollar, junto a Vanesa, un nuevo microemprendimiento: confeccionar cajas de cartón para consolas de videojuego. Se trata de emprendimientos de bajo capital (el armado de cajas en su hogar) y empleos de trabajo informal (el cuidado de personas mayores) que no permiten tener un ingreso fijo y estable. Señala: <quote>Y ahora estas cajas es como para ir sacando no es… tenés que hacer 10 cajas para que te paguen 1 500 pesos por caja. No es mucho</quote>.
+    La pérdida del empleo desencadenó un proceso de deterioro de las condiciones de vida: reducción de acceso a alimentos, corte de servicios básicos, hacinamiento. Asimismo, la ayuda estatal no resultó efectiva en estos casos donde no se alcanzó a detectar la situación de vulnerabilidad repentina causada a raíz de la pandemia. Ante este cuadro, una vez finalizada la fase estricta del aislamiento por la pandemia, su marido comenzó a desarrollar, junto a Vanesa, un nuevo microemprendimiento: confeccionar cajas de cartón para consolas de videojuego. Se trata de emprendimientos de bajo capital (el armado de cajas en su hogar) y empleos de trabajo informal (el cuidado de personas mayores) que no permiten tener un ingreso fijo y estable. Señala: <quote>Y ahora estas cajas es como para ir sacando no es… tenés que hacer 10 cajas para que te paguen 1 500 pesos por caja. No es mucho</quote>.
   </para>
          <para>
     Vanesa, además, realizó por un tiempo realizar tareas de cuidado pero que no pudo continuar por sus problemas de salud:
@@ -2200,7 +2336,7 @@
       <section xml:id="cap-25.entender-o-no-entender-esa-es-la-cuestion">
          <title>Entender o no entender, esa es la cuestión</title>
          <para>
-    Ernesto tiene 33 años, vive con su familia en un barrio popular del conurbano bonaerense. Durante varios años, tanto él como su esposa trabajaron como cartoneros en una planta recicladora gestionada por un movimiento de trabajadores de la economía popular. La esposa es asmática, y además se enfermó gravemente de artrosis durante la pandemia, y dejaron de pagarle. Ernesto se enojó con la referente de la cooperativa y con algunos compañeros, y ambos quedaron sin trabajo.
+    Ernesto tiene 33 años, vive con su familia en un barrio popular del conurbano bonaerense. Durante algunos años, tanto él como su esposa trabajaron como cartoneros en una planta recicladora gestionada por un movimiento de trabajadores de la economía popular. La esposa es asmática, y además se enfermó gravemente de artrosis durante la pandemia, y dejaron de pagarle. Ernesto se enojó con la referente de la cooperativa y con algunos compañeros, y ambos quedaron sin trabajo.
   </para>
          <blockquote>
             <para>
@@ -2275,7 +2411,7 @@
     </para>
          </blockquote>
          <para>
-    La experiencia de la pandemia por parte de Ernesto y su familia está signada por las dificultades para interpretar el trastocamiento de las condiciones de vida. Las tramas institucionales dejan de contener: la cooperativa expulsa frente a la enfermedad, la obra social no atiende, la escuela se desentiende… Frente al desamparo y las dificultades para entender lo que está sucediendo, la familia recurre a repertorios reconocidos, pero en total aislamiento: salir nuevamente a <quote>cartonear</quote> por la suya, pedir fotocopias, tomar o dejar las pastillas. <quote>Buscarle la vuelta</quote> aparece como denominador común en un marco donde la desafiliación se ve potenciada durante la pandemia amplificando tensiones, rupturas, malentendidos y desconexión.
+    La experiencia de la pandemia para Ernesto y su familia está signada por las dificultades para interpretar el trastocamiento de las condiciones de vida. Las tramas institucionales dejan de contener: la cooperativa expulsa frente a la enfermedad, la obra social no atiende, la escuela se desentiende… Frente al desamparo y las dificultades para entender lo que está sucediendo, la familia recurre a repertorios reconocidos, pero en total aislamiento: salir nuevamente a <quote>cartonear</quote> por la suya, pedir fotocopias, tomar o dejar las pastillas. <quote>Buscarle la vuelta</quote> aparece como denominador común en un marco donde la desafiliación se ve potenciada durante la pandemia amplificando tensiones, rupturas, malentendidos y desconexión.
   </para>
       </section>
       <section xml:id="cap-25.conclusion">
@@ -2284,10 +2420,10 @@
     Si la literatura señala que se amplificaron las desigualdades sociales en términos laborales, de ingresos, educativos y de salud durante la pandemia, las historias que desplegamos en este capítulo permiten comprender los modos en que estas inequidades interactuaron y se potenciaron a partir de la desorganización de la vida cotidiana de los hogares más desfavorecidos.
   </para>
          <para>
-    Durante y después de la pandemia, las familias cuyas historias recuperamos atravesaron una crisis severa de ingresos y empleo pasando de la formalidad a la informalidad, además de soportar el peso de un endeudamiento y las dificultades generados por los problemas de salud. En la reconstrucción de sus experiencias, las personas entrevistadas destacan que vivieron esta travesía pandémica con poca o nula ayuda del Estado. Los relatos indican que la principal preocupación durante la pandemia giró en torno a las dificultades económicas provocadas por la imposibilidad de salir a trabajar, sostener microemprendimientos y, como en los casos relatados, perder el empleo. Así la pandemia fue experimentada como un catalizador de las severas condiciones de vida y de las desventajas acumuladas durante años.
+    Durante y después de la pandemia, las familias cuyas historias recuperamos atravesaron una crisis severa de ingresos y empleo pasando de la formalidad a la informalidad, además de soportar el peso del endeudamiento y las dificultades generadas por los problemas de salud. En la reconstrucción de sus experiencias, las personas entrevistadas destacan que vivieron esta travesía pandémica con poca o nula ayuda del Estado. Los relatos indican que la principal preocupación durante la pandemia giró en torno a las dificultades económicas provocadas por la imposibilidad de salir a trabajar, sostener microemprendimientos y, como en los casos relatados, perder el empleo. Así la pandemia fue experimentada como un catalizador de las severas condiciones de vida y de las desventajas acumuladas durante años.
   </para>
          <para>
-    A esto se le sumaron los problemas para la reorganización de las prácticas de estudio y la gestión de los vínculos extrafamiliares con docentes y compañeras/os de estudio, El entendimiento y la comprensión –o, más bien, su falta– emergen de manera recurrente en los relatos. No se sabe cómo usar tal aplicación, no se comprenden los contenidos de una materia, no se entiende por qué no se les otorga un beneficio. A la incertidumbre propia de la emergencia sanitaria y del carácter excepcional de la situación (no se sabía cómo se esparcía el virus, no se sabía cómo evitar contagios, no se sabía hasta cuándo iba a durar la pandemia, no se sabía cuándo iban a llegar las vacunas) se imprimen nuevas inseguridades que vinieron a profundizar las desventajas al interior de la sociedad y aumentar las desigualdades sociales. Frente a este tipo de inseguridades, las familias de sectores populares apelaron a los dispositivos que resultaban más familiares y a los conocimientos ya apropiados por generaciones anteriores. De allí se observa un doble movimiento analógico. Por un lado, se recurre a los soportes analógicos para el acceso a los contenidos educativos y la reposición del vínculo pedagógico con las/os docentes y la escuela; especialmente los cuadernillos y las fotocopias. Por otro lado, se recurre a repertorios de enseñanza-aprendizaje basados en la propia experiencia educativa de madres/padres y al contacto directo con otras/os compañeras/os de estudio para saldar dudas. Ambos movimientos están motorizados por la necesidad de enfrentar las incertidumbres y riesgos que plantea el inédito escenario: no perder el año, aprender a leer y escribir de acuerdo a los parámetros previos a la pandemia, no <quote>desengancharse</quote> de los ritmos de estudio y seguir vinculados a la institución escolar.
+    A esto se le sumaron los problemas para la reorganización de las prácticas de estudio y la gestión de los vínculos extrafamiliares con docentes y compañeras/os de estudio. El entendimiento y la comprensión –o, más bien, su falta– emergen en forma recurrente en los relatos. No se sabe cómo usar tal aplicación, no se comprenden los contenidos de una materia, no se entiende por qué no se les otorga un beneficio. A la incertidumbre propia de la emergencia sanitaria y del carácter excepcional de la situación (no se sabía cómo se esparcía el virus, no se sabía cómo evitar contagios, no se sabía hasta cuándo iba a durar la pandemia, no se sabía cuándo iban a llegar las vacunas) se imprimen nuevas inseguridades que vinieron a profundizar las desventajas al interior de la sociedad y aumentar las desigualdades sociales. Frente a este tipo de inseguridades, las familias de sectores populares apelaron a los dispositivos que resultaban más familiares y a los conocimientos ya apropiados por generaciones anteriores. De allí se observa un doble movimiento analógico. Por un lado, se recurre a los soportes analógicos para el acceso a los contenidos educativos y la reposición del vínculo pedagógico con las/os docentes y la escuela; especialmente los cuadernillos y las fotocopias. Por otro lado, se recurre a repertorios de enseñanza-aprendizaje basados en la propia experiencia educativa de madres/padres y al contacto directo con otras/os compañeras/os de estudio para saldar dudas. Ambos movimientos están motorizados por la necesidad de enfrentar las incertidumbres y riesgos que plantea el inédito escenario: no perder el año, aprender a leer y escribir de acuerdo a los parámetros previos a la pandemia, no <quote>desengancharse</quote> de los ritmos de estudio y seguir vinculados a la institución escolar.
   </para>
          <para>
     No resulta extraño entonces que ese catalizador haya detonado graves situaciones de salud, física y mental. El estrés y la ansiedad que manifiestan las personas entrevistadas aparecen en sus vivencias íntimamente ligados a las dificultades soportadas para la supervivencia material cotidiana. La pandemia cae sobre procesos de desafiliación anteriores, condiciones de vulnerabilidad consolidadas y acumulación de desventajas y golpes biográficos (problemas de salud crónicos, violencia, déficits alimentarios, hacinamiento, inestabilidad y precariedad laboral). Estos procesos desafiliatorios se ven agravados debido a la pérdida de empleos formales, la suspensión de las coberturas de salud, la interrupción o abandono de las trayectorias escolares, la desprotección frente a la aparición de problemáticas de salud mental y depresión.
@@ -2299,7 +2435,7 @@
     La experiencia de la pandemia por parte de las familias de sectores populares que recuperamos en este capítulo aparece signada por los efectos de una desorganización y recodificación de unas condiciones de vida que ya eran, de por sí, inestables y precarias. Los pocos mojones de certidumbre que guiaban la práctica cotidiana se ven rápidamente arrasados por un vendaval inentendible que jaquea la relación entre los individuos, las instituciones y los mecanismos conocidos de afiliación social: pérdida de empleo, supresión de los ingresos, falta de compresión de los dispositivos de ayuda estatal, dificultad para el acceso a los medios de subsistencia, desconexión de las tramas escolares, desamparo por parte de los organismos sanitarios.
   </para>
          <para>
-    La pregunta por el devenir del lazo social es constitutiva de la sociología, especialmente en relación con los sectores populares en las sociedades modernas. Si en términos políticos la problemática gira en torno a la unión y la organización de estos sectores, la traducción en términos sociológicos alude a los mecanismos para su integración y regulación social. Aquella pregunta por el lazo social ha sido reformulada de manera recurrente durante la pandemia por el Covid-19. Las historias que recuperamos permiten comprender cómo emergen nuevos déficits de integración y regulación social a partir de la crisis del empleo, la inestabilidad de las estrategias de supervivencia, la desorganización de la vida cotidiana, el debilitamiento de los vínculos con actores (colegas de trabajo, docentes, agentes sanitarios) e instituciones imprescindibles para la integración social (la fábrica o empresa, la escuela, el hospital, el Estado) y el relajamiento de las normas y reglas indicativas de qué hacer, a dónde recurrir y cómo cubrirse en medio de la emergencia.
+    La pregunta por el devenir del lazo social es constitutiva de la sociología, especialmente en relación con los sectores populares en las sociedades modernas. Si en términos políticos la problemática gira sobre la unión y la organización de estos sectores, la traducción en términos sociológicos alude a los mecanismos para su integración y regulación social. Aquella pregunta por el lazo social ha sido reformulada de manera recurrente durante la pandemia por el Covid-19. Las historias que recuperamos permiten comprender cómo emergen nuevos déficits de integración y regulación social a partir de la crisis del empleo, la inestabilidad de las estrategias de supervivencia, la desorganización de la vida cotidiana, el debilitamiento de los vínculos con actores (colegas de trabajo, docentes, agentes sanitarios) e instituciones imprescindibles para la integración social (la fábrica o empresa, la escuela, el hospital, el Estado) y el relajamiento de las normas y reglas indicativas de qué hacer, a dónde recurrir y cómo cubrirse en medio de la emergencia.
   </para>
       </section>
       <bibliography>
@@ -2399,8 +2535,7 @@
                </personname>
             </author>
             <title>Estructura de clases de Argentina (2015-2021): efectos de la doble crisis prepandemia y pandemia en el empleo, los ingresos y los gastos de los hogares</title>
-            <citetitle pubwork="book">Efectos de la doble crisis y recomposición social en disputa</citetitle>
-            <citetitle pubwork="set">Estructura social de Argentina en tiempos de pandemia</citetitle>
+            <citetitle pubwork="book">Estructura social de Argentina en tiempos de pandemia. Efectos de la doble crisis y recomposición social en disputa</citetitle>
             <publisher>
                <publishername>Ediciones Imago Mundi</publishername>
                <address>

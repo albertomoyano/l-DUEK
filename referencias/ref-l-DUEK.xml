@@ -1553,8 +1553,7 @@
         </personname>
       </author>
       <title>Estructura de clases de Argentina (2015-2021): efectos de la doble crisis prepandemia y pandemia en el empleo, los ingresos y los gastos de los hogares</title>
-      <citetitle pubwork="book">Efectos de la doble crisis y recomposición social en disputa</citetitle>
-      <citetitle pubwork="set">Estructura social de Argentina en tiempos de pandemia</citetitle>
+      <citetitle pubwork="book">Estructura social de Argentina en tiempos de pandemia. Efectos de la doble crisis y recomposición social en disputa</citetitle>
       <publisher>
         <publishername>Ediciones Imago Mundi</publishername>
         <address><city>Buenos Aires</city></address>
@@ -1798,5 +1797,114 @@
       </publisher>
       <pubdate>2020</pubdate>
       <artpagenums>11-52</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4265-UNICEF2020" pubwork="book">
+      <author>
+        <personname>
+          <surname>UNICEF</surname>
+        </personname>
+      </author>
+      <citetitle pubwork="book">Encuesta de Percepción y Actitudes de la Población. Impacto de la pandemia COVID-19 y las medidas adoptadas por el gobierno sobre la vida cotidiana. Informe sectorial de Educación</citetitle>
+      <publisher>
+        <publishername>UNICEF Argentina</publishername>
+        <address><city>Buenos Aires</city></address>
+      </publisher>
+      <pubdate>2020</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4266-DESINGLY2000" pubwork="chapter">
+      <author>
+        <personname>
+          <surname>de Singly</surname>
+          <firstname>Francois</firstname>
+        </personname>
+      </author>
+      <editor role="organizer">
+        <personname>
+          <surname>Peixoto</surname>
+          <firstname>Clarice Ehlers</firstname>
+        </personname>
+      </editor>
+      <editor role="organizer">
+        <personname>
+          <surname>de Singly</surname>
+          <firstname>François</firstname>
+        </personname>
+      </editor>
+      <editor role="organizer">
+        <personname>
+          <surname>Cicchelli</surname>
+          <firstname>Vincenzo</firstname>
+        </personname>
+      </editor>
+      <title>O nascimento do ‘indivíduo individualizado’ e seus efeitos na vida conjugal e familiar</title>
+      <citetitle pubwork="book">Família e individualização</citetitle>
+      <publisher>
+        <publishername>Editora FGV</publishername>
+        <address><city>Río de Janeiro</city></address>
+      </publisher>
+      <pubdate>2000</pubdate>
+      <artpagenums>13-19</artpagenums>
+    </biblioentry>
+    <biblioentry xml:id="bib-4274-BARCALA2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Barcala</surname>
+          <firstname>Marcela Alejandra</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Wilner</surname>
+          <firstname>Alejandro Daniel</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Micele</surname>
+          <firstname>Carla Elizabeth</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Corrales</surname>
+          <firstname>Carolina</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Moreno</surname>
+          <firstname>Emilse Noemí</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>D&apos;Angelo</surname>
+          <firstname>Marcela</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Heredia</surname>
+          <firstname>Mariana</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Sánchez</surname>
+          <firstname>Nadia</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Vila</surname>
+          <firstname>Patricia</firstname>
+        </personname>
+      </author>
+      <title>Infancias y adolescencias: vivencias durante la pandemia por Covid-19 en Argentina</title>
+      <citetitle pubwork="journal">Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud</citetitle>
+      <pubdate>2022</pubdate>
+      <volumenum>20</volumenum>
+      <issuenum>2</issuenum>
+      <artpagenums>1-25</artpagenums>
     </biblioentry>
 </bibliography>
