@@ -231,6 +231,29 @@
       </publisher>
       <pubdate>2006</pubdate>
     </biblioentry>
+    <biblioentry xml:id="bib-4302-SPOLITA2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Spolita</surname>
+          <firstname>Juan Ignacio</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Balsa</surname>
+          <firstname>Juan Javier</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Brusco</surname>
+          <firstname>Valeria</firstname>
+        </personname>
+      </author>
+      <title>Pandemia de Covid-19: Subjetividades y política en Argentina</title>
+      <citetitle pubwork="journal">Cuadernos Iberoamericanos</citetitle>
+      <pubdate>2022</pubdate>
+    </biblioentry>
     <biblioentry xml:id="bib-4185-CLEMENCEAU2016" pubwork="article">
       <author>
         <personname>

@@ -3080,7 +3080,8 @@
     <bcf:citekey order="13" intorder="1">4186-MECCIA2022</bcf:citekey>
     <bcf:citekey order="14" intorder="1">4167-RAPLEY2014</bcf:citekey>
     <bcf:citekey order="15" intorder="1">4180-CHARMAZ2006</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">4302-SPOLITA2022</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3139,26 +3140,28 @@
     <bcf:citekey order="8" intorder="1">4238-NAVARRO2022</bcf:citekey>
     <bcf:citekey order="9" intorder="1">4238-NAVARRO2022</bcf:citekey>
     <bcf:citekey order="9" intorder="2">4251-KAPLAN2021</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">4241-MARTUCCELLI2021</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">4249-DALLE2022</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">4246-CHAVEZMOLINA2022</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">4242-MARTUCCELLI2012</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">4251-KAPLAN2021</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">4303-DINAPOLI2022</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">4241-MARTUCCELLI2021</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">4249-DALLE2022</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">4246-CHAVEZMOLINA2022</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
     <bcf:citekey order="16" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">4194-BRACCHI2016</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">4236-SIMONETTI2024</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">4245-LEMUS2024</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">4240-MORAN2021</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">4244-KRICHESKY2021</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">4245-LEMUS2024</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">4240-MORAN2021</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">4244-KRICHESKY2021</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">4238-NAVARRO2022</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">4242-MARTUCCELLI2012</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">4235-PEREZMARTIRENA2022</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">4194-BRACCHI2016</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">4236-SIMONETTI2024</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">4185-CLEMENCEAU2016</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">4245-LEMUS2024</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">4240-MORAN2021</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">4244-KRICHESKY2021</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">4245-LEMUS2024</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">4240-MORAN2021</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">4244-KRICHESKY2021</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">4237-SANTOSSHARPE2022</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">4238-NAVARRO2022</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3203,6 +3206,7 @@
     <bcf:citekey order="13" intorder="1">4210-MOGUILLANSKY2024</bcf:citekey>
     <bcf:citekey order="14" intorder="1">4259-SALVIA2021</bcf:citekey>
     <bcf:citekey order="15" intorder="1">4260-JACOVKIS2021</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">4275-CIPPEC2021</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

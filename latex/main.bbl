@@ -579,6 +579,46 @@
       \field{year}{2024}
       \field{dateera}{ce}
     \endentry
+    \entry{4302-SPOLITA2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bb1df5607f453b5470902da43ab9dd98}{%
+           family={Spolita},
+           familyi={S\bibinitperiod},
+           given={Juan\bibnamedelima Ignacio},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf1106ea9b3e8b4fc33b581843b7a848}{%
+           family={Balsa},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Javier},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eecb14842f704e85064d0b038b0d432d}{%
+           family={Brusco},
+           familyi={B\bibinitperiod},
+           given={Valeria},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aecd2f9b9046365ce3778e33d2c0aaf9}
+      \strng{fullhash}{a89f762006623913b4bdc3095b15d2b6}
+      \strng{bibnamehash}{a89f762006623913b4bdc3095b15d2b6}
+      \strng{authorbibnamehash}{a89f762006623913b4bdc3095b15d2b6}
+      \strng{authornamehash}{aecd2f9b9046365ce3778e33d2c0aaf9}
+      \strng{authorfullhash}{a89f762006623913b4bdc3095b15d2b6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cuadernos Iberoamericanos}
+      \field{langid}{spanish}
+      \field{title}{Pandemia de Covid-19: Subjetividades y política en Argentina}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
     \entry{4178-ALVAREZ2022}{inbook}{}
@@ -1139,6 +1179,46 @@
       \field{langid}{spanish}
       \field{title}{Pandemia, imaginación geográfica y futuros urbanos en la Argentina}
       \field{year}{2024}
+      \field{dateera}{ce}
+    \endentry
+    \entry{4302-SPOLITA2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bb1df5607f453b5470902da43ab9dd98}{%
+           family={Spolita},
+           familyi={S\bibinitperiod},
+           given={Juan\bibnamedelima Ignacio},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf1106ea9b3e8b4fc33b581843b7a848}{%
+           family={Balsa},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Javier},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eecb14842f704e85064d0b038b0d432d}{%
+           family={Brusco},
+           familyi={B\bibinitperiod},
+           given={Valeria},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aecd2f9b9046365ce3778e33d2c0aaf9}
+      \strng{fullhash}{a89f762006623913b4bdc3095b15d2b6}
+      \strng{bibnamehash}{a89f762006623913b4bdc3095b15d2b6}
+      \strng{authorbibnamehash}{a89f762006623913b4bdc3095b15d2b6}
+      \strng{authornamehash}{aecd2f9b9046365ce3778e33d2c0aaf9}
+      \strng{authorfullhash}{a89f762006623913b4bdc3095b15d2b6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cuadernos Iberoamericanos}
+      \field{langid}{spanish}
+      \field{title}{Pandemia de Covid-19: Subjetividades y política en Argentina}
+      \field{year}{2022}
       \field{dateera}{ce}
     \endentry
   \enddatalist
@@ -3214,6 +3294,56 @@
       \field{year}{2022}
       \field{dateera}{ce}
     \endentry
+    \entry{4303-DINAPOLI2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a97fa888eb43a2c89a083fecd12c5a09}{%
+           family={Di\bibnamedelima Napoli},
+           familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3053ac059f60d079bc002cc34667f027}{%
+           family={Goglino},
+           familyi={G\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7251eea06b3c5d22d7d14d9a963a409f}{%
+           family={Bardin},
+           familyi={B\bibinitperiod},
+           given={Iñaki},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c2db079ca4d95b3a896647fcfda2d229}
+      \strng{fullhash}{00ac20c6396576d2ab1ea8b2e9c52dbb}
+      \strng{bibnamehash}{00ac20c6396576d2ab1ea8b2e9c52dbb}
+      \strng{authorbibnamehash}{00ac20c6396576d2ab1ea8b2e9c52dbb}
+      \strng{authornamehash}{c2db079ca4d95b3a896647fcfda2d229}
+      \strng{authorfullhash}{00ac20c6396576d2ab1ea8b2e9c52dbb}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Praxis Educativa}
+      \field{langid}{spanish}
+      \field{number}{1}
+      \field{title}{Extrañar la presencialidad y acostumbrarse a la virtualidad de la escuela secundaria en Argentina: sentires de jóvenes estudiantes en contexto de pandemia}
+      \field{volume}{26}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+      \verb{urlraw}
+      \verb https://cerac.unlpam.edu.ar/index.php/praxis/article/view/6446
+      \endverb
+      \verb{url}
+      \verb https://cerac.unlpam.edu.ar/index.php/praxis/article/view/6446
+      \endverb
+    \endentry
     \entry{4243-HODGES2020}{online}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=31a75acc2d511729bff8342f11cad581}{%
@@ -4061,6 +4191,56 @@
       \field{volume}{1}
       \field{year}{2022}
       \field{dateera}{ce}
+    \endentry
+    \entry{4303-DINAPOLI2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a97fa888eb43a2c89a083fecd12c5a09}{%
+           family={Di\bibnamedelima Napoli},
+           familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3053ac059f60d079bc002cc34667f027}{%
+           family={Goglino},
+           familyi={G\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7251eea06b3c5d22d7d14d9a963a409f}{%
+           family={Bardin},
+           familyi={B\bibinitperiod},
+           given={Iñaki},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c2db079ca4d95b3a896647fcfda2d229}
+      \strng{fullhash}{00ac20c6396576d2ab1ea8b2e9c52dbb}
+      \strng{bibnamehash}{00ac20c6396576d2ab1ea8b2e9c52dbb}
+      \strng{authorbibnamehash}{00ac20c6396576d2ab1ea8b2e9c52dbb}
+      \strng{authornamehash}{c2db079ca4d95b3a896647fcfda2d229}
+      \strng{authorfullhash}{00ac20c6396576d2ab1ea8b2e9c52dbb}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Praxis Educativa}
+      \field{langid}{spanish}
+      \field{number}{1}
+      \field{title}{Extrañar la presencialidad y acostumbrarse a la virtualidad de la escuela secundaria en Argentina: sentires de jóvenes estudiantes en contexto de pandemia}
+      \field{volume}{26}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+      \verb{urlraw}
+      \verb https://cerac.unlpam.edu.ar/index.php/praxis/article/view/6446
+      \endverb
+      \verb{url}
+      \verb https://cerac.unlpam.edu.ar/index.php/praxis/article/view/6446
+      \endverb
     \endentry
     \entry{4243-HODGES2020}{online}{}
       \name{author}{5}{}{%
@@ -5337,6 +5517,31 @@
       \verb https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad
       \endverb
     \endentry
+    \entry{4275-CIPPEC2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=07e2fb23a2db90ffa60879ae096a9cfa}{%
+           family={CIPPEC},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{fullhash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{bibnamehash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{authorbibnamehash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{authornamehash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{authorfullhash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Documento de Trabajo}
+      \field{langid}{spanish}
+      \field{number}{207}
+      \field{title}{Gestionando con datos la pandemia por COVID-19. Medición y análisis del Índice de Respuesta Integrado en Argentina}
+      \field{year}{2021}
+    \endentry
     \entry{4262-DUEK2020}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c14cc480709e5ce48914fd7913d5ef86}{%
@@ -5929,6 +6134,31 @@
       \verb{url}
       \verb https://www.revistaanfibia.com/te-prefiero-fuera-de-foco-intimidad
       \endverb
+    \endentry
+    \entry{4275-CIPPEC2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=07e2fb23a2db90ffa60879ae096a9cfa}{%
+           family={CIPPEC},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{fullhash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{bibnamehash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{authorbibnamehash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{authornamehash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \strng{authorfullhash}{07e2fb23a2db90ffa60879ae096a9cfa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Documento de Trabajo}
+      \field{langid}{spanish}
+      \field{number}{207}
+      \field{title}{Gestionando con datos la pandemia por COVID-19. Medición y análisis del Índice de Respuesta Integrado en Argentina}
+      \field{year}{2021}
     \endentry
     \entry{4262-DUEK2020}{inbook}{}
       \name{author}{1}{}{%

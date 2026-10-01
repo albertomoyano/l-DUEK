@@ -16,8 +16,8 @@
 % --- PRESTACIONES DE SALIDA (derivadas de estado_libro) ---
 \newif\ifgbshowframe    \gbshowframefalse
 \newif\ifgbhomeoarchy   \gbhomeoarchyfalse
-\newif\ifgbenlaces      \gbenlacestrue
-\newif\ifgbcruces       \gbcrucesfalse
+\newif\ifgbenlaces      \gbenlacesfalse
+\newif\ifgbcruces       \gbcrucestrue
 
 % --- FORMATO DE PÁGINA (formatos_pdf id=32) ---
 \def\gbanchopagina{15.50cm}
@@ -56,4 +56,21 @@
 \def\gbpalabrasclave{}
 
 % --- VERSIÓN DE gbpublisher ---
-\def\gbversion{0.0.347}
+\def\gbversion{0.0.349}
+
+% --- PRIMERAS DEL LIBRO (SC-25) ---
+\def\gbautoriaportada{\gbNombrePortada{Marina Moguillansky} y \gbNombrePortada{Carolina Duek}}
+\def\gbleyendaautoria{compiladoras}
+\def\gblogoportada{media/logo-portada.png}
+\def\gblogocoleccion{media/logo-coleccion.png}
+\def\gbTextoCatalogacion{Carolina Duek y Marina Moguillansky (comps.)\\
+Un tiempo diferente. Vida cotidiana y pandemia. 1ra ed.\\
+Buenos Aires: 2026.\\
+150 p.; 23 x 16 cm. ISBN 978-950-793-487-2\\
+1. Pandemias. I. Título.\\
+CDD 303.4\\
+Fecha de catalogación: 09/06/2026\\
+© 2026, Carolina Duek y Marina Moguillansky\\
+© 2026, Ediciones Imago Mundi\\
+Hecho el depósito que marca la ley 11.723}
+\def\gbTextoLegal{Ninguna parte de esta publicación, incluido el diseño de cubierta, puede ser reproducida, almacenada o transmitida de manera alguna ni por ningún medio, ya sea eléctrico, químico, mecánico, óptico, de grabación o de fotocopia, sin permiso previo por escrito del editor.}

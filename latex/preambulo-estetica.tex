@@ -256,7 +256,8 @@ BoldItalicFont = IBMPlexMono-BoldItalic.otf]
 \usepackage[labelfont=bf,font=small,labelsep=period,format=plain]{caption}
 \usepackage{needspace}
 
-\setcounter{tocdepth}{1}
+% EL SUMARIO LLEVA PARTES Y PIEZAS, SIN SECCIONES (0 = chapter)
+\setcounter{tocdepth}{0}
 \setcounter{secnumdepth}{3}
 \renewcommand{\thepart}{\arabic{part}}
 
@@ -386,10 +387,16 @@ BoldItalicFont = IBMPlexMono-BoldItalic.otf]
 %   {\titlerule*[1pc]{.}\contentspage[\hspace*{-4pc} {\rm\small\thecontentspage}]}
 %      -> regla de puntos de relleno hasta el número de página,
 %         página en tamaño pequeño y ligeramente desplazada
+% AUTORÍA (CONTRATO 5): EN UN LIBRO COLECTIVO, LA ENTRADA LLEVA
+% ARRIBA LOS AUTORES DE LA PIEZA (\gbComponerAutoresIndice), Y EL
+% NÚMERO QUEDA A LA ALTURA DE ESA LÍNEA. UNA PIEZA SIN NÚMERO NO
+% RETROCEDE: VA A 1.5pc, ALINEADA CON LOS TÍTULOS Y LOS AUTORES DE
+% LAS NUMERADAS, TENGA O NO AUTORES.
+\newcommand{\gbDisenoAutoresIndice}[1]{{\bfseries #1}\newline}
 \titlecontents{chapter}[1.5pc]
 {\addvspace{.4em}\sf\selectfont\filright}
-{\contentslabel{1.5pc}}
-{\hspace*{-1.5pc}}%
+{\contentslabel{1.5pc}\gbComponerAutoresIndice}
+{\gbComponerAutoresIndice}%
 {\titlerule*[1pc]{.}\contentspage[\hspace*{-4pc} {\rm\small\thecontentspage}]}%
 []
 
@@ -482,12 +489,30 @@ BoldItalicFont = IBMPlexMono-BoldItalic.otf]
 % - \thechapter: número del capítulo
 % - 1.5cm: separación entre número y texto
 % - \filright\sf\LARGE: alineación a la derecha, fuente sans serif, tamaño LARGER
+% after-code: LA AUTORÍA DE LA PIEZA EN UN LIBRO COLECTIVO
+% (\gbComponerApertura, CONTRATO 4). VACÍA, NO COMPONE NADA.
 \titleformat{\chapter}[display]
 {\Large}
 {\centering{\textsc{\MakeLowercase\chaptertitlename}}~\thechapter}
 {1.5cm}
 {\filright\sf\LARGE}
-[]
+[\gbComponerApertura]
+% ------------------------------------------------------------
+% AUTORÍA EN LA APERTURA
+% ------------------------------------------------------------
+% CADA NOMBRE EN VERSALITAS; LAS COMAS Y LA «y» QUEDAN EN LETRA
+% NORMAL PORQUE EL GENERADOR LAS PONE FUERA DE
+% \gbNombreApertura. \MakeLowercase DENTRO DE \scshape DA
+% VERSALITAS PAREJAS, COMO EN LA PORTADA.
+\newcommand{\gbNombreApertura}[1]{{\scshape\MakeLowercase{#1}}}
+% EL after-code CORRE ANTES DEL ESPACIO POSTERIOR DE
+% \titlespacing (30 pt): LOS 30 pt DE ARRIBA REPONEN LA
+% DISTANCIA ENTRE EL TÍTULO Y LOS NOMBRES QUE EN EL LEGACY DABA
+% ESE ESPACIO, Y LOS 30 pt DE \titlespacing QUEDAN ENTRE LOS
+% NOMBRES Y EL TEXTO, DONDE EL LEGACY PONÍA 24 pt.
+\newcommand{\gbDisenoApertura}[1]{%
+  \vspace{30pt}%
+  \begin{center}\normalfont\normalsize #1\end{center}}
 % ------------------------------------------------------------
 % ESPACIADO DEL TÍTULO DE CAPÍTULO
 % ------------------------------------------------------------
@@ -650,3 +675,86 @@ BoldItalicFont = IBMPlexMono-BoldItalic.otf]
 \pagestyle{myps}
 
 
+% ============================================================
+% LAS PRIMERAS DEL LIBRO (SC-25)
+% ------------------------------------------------------------
+% EL CONTRATO FIJA LA PÁGINA DE CADA UNA; ACÁ VA SU ASPECTO.
+% LOS DATOS SALEN DE preambulo-proyecto.tex:
+%   \gbtitulo, \gbsubtitulo
+%   \gbautoriaportada — LOS NOMBRES, CADA UNO EN \gbNombrePortada,
+%                       UNIDOS POR COMAS E «y» EN LETRA NORMAL
+%   \gbleyendaautoria — «coordinadores», «compiladora»… O VACÍO
+%   \gblogoportada, \gblogocoleccion   (VACÍOS SI NO HAY LOGO)
+%   \gbTextoCatalogacion, \gbTextoLegal (YA CONVERTIDOS POR
+%                                       PANDOC)
+%
+% LOS LOGOS VAN CENTRADOS A UN ANCHO FIJO, NUNCA MAYOR QUE LA
+% CAJA. LA RESOLUCIÓN DEL ARCHIVO NO INTERVIENE (GV-66 NO LOS
+% AFECTA). EL LOGO DE COLECCIÓN SE DISEÑA SOBRE UN LIENZO DE
+% 110 mm: EL BLANCO A LOS COSTADOS IGUALA LAS COLECCIONES CUYO
+% NOMBRE O DIRECCIÓN OCUPAN DISTINTO ANCHO.
+%
+% EL \hbox{} ANTES DEL \vspace: UN ESPACIO VERTICAL AL
+% PRINCIPIO DE UNA PÁGINA SE DESCARTA SI NO HAY NADA ANTES.
+% ============================================================
+
+% ANCHOS DE LOS LOGOS. EL EPUB USA LA MISMA PROPORCIÓN SOBRE EL
+% ANCHO DE PANTALLA (gbpublisher-epub-libro.css): 18 % Y 100 %.
+\newcommand{\gbAnchoLogoPortada}{20mm}
+\newcommand{\gbAnchoLogoColeccion}{110mm}
+
+% \gbLogo{ANCHO}{ARCHIVO}: COMPONE EL LOGO A ESE ANCHO; SI LA CAJA
+% ES MÁS ANGOSTA, AL ANCHO DE LA CAJA.
+\newlength{\gbanchologo}
+\newcommand{\gbLogo}[2]{%
+  \setlength{\gbanchologo}{#1}%
+  \ifdim\gbanchologo>\linewidth\setlength{\gbanchologo}{\linewidth}\fi
+  \includegraphics[width=\gbanchologo]{#2}}
+
+% PORTADILLA: EL TÍTULO SOLO
+\newcommand{\gbDisenoPortadilla}{%
+  \hbox{}\vspace{30mm}%
+  \begin{center}
+    {\LARGE\gbtitulo\par}
+  \end{center}}
+
+% CADA NOMBRE DE LA PORTADA. \MakeLowercase DENTRO DE \scshape DA
+% VERSALITAS PAREJAS: SIN ÉL, LAS INICIALES SALEN EN MAYÚSCULA
+% PLENA. PARA MAYÚSCULAS PLENAS: {\MakeUppercase{#1}}.
+\newcommand{\gbNombrePortada}[1]{{\scshape\MakeLowercase{#1}}}
+
+% PORTADA: AUTORÍA, LEYENDA EN SU LÍNEA, TÍTULO, SUBTÍTULO Y LOGO
+% AL PIE. LA «y» ENTRE NOMBRES Y LA LEYENDA QUEDAN EN LETRA NORMAL.
+\newcommand{\gbDisenoPortada}{%
+  \begin{center}
+    {\large\gbautoriaportada\par}
+    \ifx\gbleyendaautoria\empty\else
+      {\large\gbleyendaautoria\par}
+    \fi
+  \end{center}
+  \vspace{30mm}
+  \begin{center}
+    {\LARGE\gbtitulo\par}
+    \ifx\gbsubtitulo\empty\else
+      \vspace{10mm}
+      {\Large\gbsubtitulo\par}
+    \fi
+  \end{center}
+  \vfill
+  \ifx\gblogoportada\empty\else
+    \begin{center}\gbLogo{\gbAnchoLogoPortada}{\gblogoportada}\end{center}
+  \fi}
+
+% CRÉDITOS: LOGO DE LA COLECCIÓN ARRIBA, FICHA DE CATALOGACIÓN
+% ALINEADA A LA IZQUIERDA Y TEXTO LEGAL AL PIE, JUSTIFICADO.
+\newcommand{\gbDisenoCreditos}{%
+  \begingroup
+  \setlength{\parindent}{0pt}%
+  \ifx\gblogocoleccion\empty\else
+    \begin{center}\gbLogo{\gbAnchoLogoColeccion}{\gblogocoleccion}\end{center}
+    \vspace{10mm}
+  \fi
+  {\raggedright\gbTextoCatalogacion\par}
+  \vfill
+  \gbTextoLegal\par
+  \endgroup}

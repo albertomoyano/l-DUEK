@@ -1907,4 +1907,65 @@
       <issuenum>2</issuenum>
       <artpagenums>1-25</artpagenums>
     </biblioentry>
+    <biblioentry xml:id="bib-4275-CIPPEC2021" pubwork="article">
+      <author>
+        <personname>
+          <surname>CIPPEC</surname>
+        </personname>
+      </author>
+      <title>Gestionando con datos la pandemia por COVID-19. Medición y análisis del Índice de Respuesta Integrado en Argentina</title>
+      <citetitle pubwork="journal">Documento de Trabajo</citetitle>
+      <pubdate>2021</pubdate>
+      <issuenum>207</issuenum>
+    </biblioentry>
+    <biblioentry xml:id="bib-4302-SPOLITA2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Spolita</surname>
+          <firstname>Juan Ignacio</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Balsa</surname>
+          <firstname>Juan Javier</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Brusco</surname>
+          <firstname>Valeria</firstname>
+        </personname>
+      </author>
+      <title>Pandemia de Covid-19: Subjetividades y política en Argentina</title>
+      <citetitle pubwork="journal">Cuadernos Iberoamericanos</citetitle>
+      <pubdate>2022</pubdate>
+    </biblioentry>
+    <biblioentry xml:id="bib-4303-DINAPOLI2022" pubwork="article">
+      <author>
+        <personname>
+          <surname>Di Napoli</surname>
+          <firstname>Pablo</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Goglino</surname>
+          <firstname>Adriana</firstname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <surname>Bardin</surname>
+          <firstname>Iñaki</firstname>
+        </personname>
+      </author>
+      <title>Extrañar la presencialidad y acostumbrarse a la virtualidad de la escuela secundaria en Argentina: sentires de jóvenes estudiantes en contexto de pandemia</title>
+      <citetitle pubwork="journal">Praxis Educativa</citetitle>
+      <pubdate>2022</pubdate>
+      <volumenum>26</volumenum>
+      <issuenum>1</issuenum>
+      <artpagenums>1-25</artpagenums>
+      <bibliosource><link xlink:href="https://cerac.unlpam.edu.ar/index.php/praxis/article/view/6446">https://cerac.unlpam.edu.ar/index.php/praxis/article/view/6446</link></bibliosource>
+    </biblioentry>
 </bibliography>
