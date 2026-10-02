@@ -12,16 +12,16 @@
 \contentsline {section}{\numberline {1.4}Nuevas configuraciones escolares: la escuela dentro de la casa}{5}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Rutinas alteradas: cambios en el sueño y el impacto del sedentarismo en los y las adolescentes}{9}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Cambios en las prácticas de cuidado durante la pandemia}{12}{section.1.6}%
-\contentsline {section}{\numberline {1.7}El hogar como refugio: desafíos de volver al mundo exterior}{14}{section.1.7}%
+\contentsline {section}{\numberline {1.7}El hogar como refugio: desafíos de «volver» al mundo exterior}{14}{section.1.7}%
 \contentsline {section}{\numberline {1.8}Conclusiones}{17}{section.1.8}%
 \gbAutoresIndice {Magdalena Lemus}
 \contentsline {chapter}{\numberline {2}Trabajar, estudiar y cuidar en pandemia: experiencias de tres jóvenes en el AMBA}{21}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Presentación}{21}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Antecedentes}{22}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Tres jóvenes en pandemia}{23}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}No tenía un lugar donde desahogarme}{24}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Siento que el nivel de aislamiento total del 2020 me sirvió como para enfocar}{28}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Para mí fue virtualidad igual desorden}{33}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.1}«No tenía un lugar donde desahogarme»}{24}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}«Siento que el nivel de aislamiento total del 2020 me sirvió como para enfocar»}{28}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}«Para mí fue virtualidad igual desorden»}{33}{subsection.2.3.3}%
 \contentsline {section}{\numberline {2.4}Conclusiones}{38}{section.2.4}%
 \gbAutoresIndice {Sebastián Benítez Larghi}
 \contentsline {chapter}{\numberline {3}Aislados y desorganizados. Los efectos de la desafiliación social en familias de sectores populares durante la pandemia}{43}{chapter.3}%

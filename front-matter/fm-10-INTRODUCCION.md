@@ -63,3 +63,5 @@ En su conjunto, el libro muestra cómo la pandemia alteró las coordenadas de la
 [^1]: PIP CONICET «Pandemia y vida cotidiana en el AMBA: un abordaje de la heterogeneidad de las experiencias», con sede en la Escuela Interdisciplinaria de Altos Estudios Sociales, Universidad Nacional de San Martín. Dirigido por Marina Moguillansky e integrado por Carolina Duek, Sebastián Benítez Larghi, Magdalena Lemus, Mariana Lopresti, Rosario Guzzo, Julián Kopp, Paula Simonetti y Pablo Salas.
 
 [^2]: Una primera forma de aproximarnos a la identidad política para seleccionar a los entrevistados fue considerar a quién habían votado en las elecciones presidenciales de 2019, en primera y segunda vuelta, lo que nos permitía dividir al universo en dos grandes grupos. Sin embargo, esto se reveló incongruente con las posiciones políticas de los entrevistados que fuimos incorporando, mostrando signos del creciente desencanto de una parte significativa de la población.
+
+
