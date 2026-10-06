@@ -146,25 +146,36 @@ li { margin-bottom: 0.2em; }
 }
 
 /* --- 9. EPÍGRAFE --- */
+/* EPÍGRAFE (SC-35): BLOQUE A LA DERECHA, 60 % DE LA COLUMNA, SIN CORTE
+   DE PALABRA. TEXTO A LA IZQUIERDA; FILETE DE 0,6 PT Y ATRIBUCIÓN A LA
+   DERECHA. SIN ATRIBUCIÓN NO HAY FILETE: EL FILETE ES EL BORDE DE ELLA.
+   SELECTORES CON .epigrafe p: TIENEN QUE GANARLE A .article-body p, QUE
+   ALINEA A LA IZQUIERDA EN EL HTML.
+   LAS MISMAS REGLAS EN gbpublisher.css, gbpublisher-epub-libro.css,
+   jats-to-html.xsl Y m_GenerarEpub. */
 .epigrafe {
-  display: block;
-  width: 75%;
-  margin-left: auto;
-  margin-right: 0;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-}
-.epigrafe-texto {
-  font-style: italic;
-  text-align: right;
-  margin-bottom: 0.3em;
-}
-.epigrafe-atrib {
-  font-style: normal;
+  width: 60%;
+  margin: 1.5em 0 1.5em auto;
   font-size: 0.9em;
-  color: #555;
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+.epigrafe p.epigrafe-texto {
+  text-align: left;
+  text-indent: 0;
+  font-style: normal;
+  margin: 0;
+}
+.epigrafe p.epigrafe-texto + p.epigrafe-texto {
+  margin-top: 0.5em;
+}
+.epigrafe p.epigrafe-atrib {
   text-align: right;
-  margin-top: 0;
+  text-indent: 0;
+  font-style: normal;
+  margin: 0.5em 0 0 0;
+  padding-top: 0.5em;
+  border-top: 0.6pt solid currentColor;
 }
 
 /* --- 10. ALERTAS / RECUADROS --- */
@@ -361,3 +372,16 @@ li { margin-bottom: 0.2em; }
 .creditos-ficha p { margin: 0 0 1em 0; }
 .creditos-legal { margin-top: 2em; }
 .creditos-legal p { margin: 0 0 0.8em 0; }
+
+/* FROUFROU (SC-36): TRES ASTERISCOS CENTRADOS A 1 cm. LA DISTANCIA LA DA EL
+   MARGEN DE CADA span, NO UN ESPACIO: NO DEPENDE DE LA FUENTE. FUNCIONA
+   PORQUE docbook-to-epub.xsl ESCRIBE LOS span PEGADOS, SIN INDENTAR; EL HTML
+   USA OTRA REGLA (gbpublisher.css). */
+.froufrou {
+  text-align: center;
+  text-indent: 0;
+  margin: 1.5em 0;
+}
+.froufrou span + span {
+  margin-left: 1cm;
+}
