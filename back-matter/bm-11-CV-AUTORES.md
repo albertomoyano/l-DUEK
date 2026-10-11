@@ -4,7 +4,7 @@
 
 **Mariana Lopresti**. Licenciada en Comunicación Social y Magíster en Comunicación y Cultura por la Universidad de Buenos Aires (UBA). Se desempeña como docente universitaria e investiga problemáticas vinculadas con las infancias, el género y las tecnologías digitales. Actualmente cursa el Doctorado en Ciencias Sociales con una beca del FONCYT.
 
-[**Magdalena Lemus**. Doctora en Ciencias Sociales por la Universidad Nacional de La Plata e investigadora adjunta del CONICET (Instituto de Investigaciones en Humanidades y Ciencias Sociales). Es docente de Epistemología y Metodología de las Ciencias Sociales y de Culturas Digitales, Políticas y Educación en la Facultad de Humanidades y Ciencias de la Educación de la Universidad Nacional de La Plata.]{.mark}
+**Magdalena Lemus**. Doctora en Ciencias Sociales por la Universidad Nacional de La Plata e investigadora adjunta del CONICET (Instituto de Investigaciones en Humanidades y Ciencias Sociales). Es docente de Epistemología y Metodología de las Ciencias Sociales y de Culturas Digitales, Políticas y Educación en la Facultad de Humanidades y Ciencias de la Educación de la Universidad Nacional de La Plata.
 
 **Sebastián Benítez Larghi.** Doctor en Ciencias Sociales por la Universidad de Buenos Aires e investigador independiente del CONICET (Instituto de Investigaciones en Humanidades y Ciencias Sociales, Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata / CONICET). Es profesor adjunto de las materias Teoría Social Clásica I y Culturas Digitales, Políticas y Educación del Departamento de Sociología, Universidad Nacional de La Plata desde hace 17 años.
 
