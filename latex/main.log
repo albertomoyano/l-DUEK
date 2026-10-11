@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.1.29)  6 OCT 2026 06:43
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.1.29)  6 OCT 2026 12:18
  restricted system commands enabled.
 **latex/main.tex
 (/home/alberto/00_Produccion/Duek/latex/main.tex
@@ -3101,7 +3101,7 @@ tart_link, 957 pdf_end_link, 19 pdf_dest, 558 pdf_action, 2744 pdf_colorstack, 4
    avail lists: 1:8,2:73,3:282,4:554,5:173,6:142,7:2869,8:113,9:556,10:29,11:200
 
  73148 multiletter control sequences out of 65536+600000
- 89 fonts using 26194187 bytes
+ 89 fonts using 26194459 bytes
  113i,7n,125p,2164b,3132s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-Bold.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSan

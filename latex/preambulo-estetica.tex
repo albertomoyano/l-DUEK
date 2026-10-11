@@ -309,6 +309,12 @@ BoldItalicFont = IBMPlexMono-BoldItalic.otf]
 \usepackage{xcolor}
 \definecolor{gbenlace}{RGB}{160,0,120}
 
+% COLOR BASE DE LOS RECUADROS (SC-41): EL FILETE DE gbRecuadro Y LA
+% BARRA DE gbRecuadroBarra. ES EL AZUL DEL HTML (--color-accent DE
+% gbpublisher.css) Y DE LAS REVISTAS (azulrevista). SI EL LIBRO VA A
+% UNA TINTA, LA CONVERSIÓN A GRISES LA HACE EL TALLER.
+\definecolor{gbcolorbase}{HTML}{2D5A8E}
+
 % ============================================================
 % 7. CONSTANCIA EN EL LOG
 % ------------------------------------------------------------
@@ -727,6 +733,12 @@ BoldItalicFont = IBMPlexMono-BoldItalic.otf]
   \setlength{\gbanchologo}{#1}%
   \ifdim\gbanchologo>\linewidth\setlength{\gbanchologo}{\linewidth}\fi
   \includegraphics[width=\gbanchologo]{#2}}
+
+% DEDICATORIA: BAJADA DEL BLOQUE DESDE EL TOPE DE CAJA. EL BLOQUE
+% (60 % DE LA COLUMNA, COMO EL EPÍGRAFE, SIN FILETE) Y LA PÁGINA
+% LOS FIJA EL CONTRATO, EN EL ENTORNO gbdedicatoria. LA MISMA
+% BAJADA QUE LA PORTADILLA.
+\newcommand{\gbBajadaDedicatoria}{30mm}
 
 % PORTADILLA: EL TÍTULO SOLO
 \newcommand{\gbDisenoPortadilla}{%
