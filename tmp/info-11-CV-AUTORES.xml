@@ -1,3 +1,6 @@
 <info xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
   <title>Sobre las autoras y los autores</title>
+  <bibliomisc role="seccion-libro">bm</bibliomisc>
+  <bibliomisc role="orden-seccion">11</bibliomisc>
+  <bibliomisc role="tipo-capitulo">sobre_autores</bibliomisc>
 </info>

@@ -1,5 +1,8 @@
 <info xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
   <title>Coda</title>
+  <bibliomisc role="seccion-libro">bm</bibliomisc>
+  <bibliomisc role="orden-seccion">10</bibliomisc>
+  <bibliomisc role="tipo-capitulo">otro</bibliomisc>
   <author>
     <personname>
       <firstname>Carolina</firstname>
