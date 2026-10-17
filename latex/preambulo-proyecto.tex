@@ -14,10 +14,25 @@
 % ============================================================
 
 % --- PRESTACIONES DE SALIDA (derivadas de estado_libro) ---
-\newif\ifgbshowframe    \gbshowframefalse
-\newif\ifgbhomeoarchy   \gbhomeoarchyfalse
-\newif\ifgbenlaces      \gbenlacestrue
-\newif\ifgbcruces       \gbcrucesfalse
+\newif\ifgbshowframe
+\newif\ifgbhomeoarchy
+\newif\ifgbenlaces
+\newif\ifgbcruces
+\newif\ifgbcodigocolor
+% EL MAESTRO DEL PDF/A DEFINE \gbPerfilPreservacion
+\ifdefined\gbPerfilPreservacion
+  \gbshowframefalse
+  \gbhomeoarchyfalse
+  \gbenlacestrue
+  \gbcrucesfalse
+  \gbcodigocolortrue
+\else
+  \gbshowframefalse
+  \gbhomeoarchyfalse
+  \gbenlacestrue
+  \gbcrucesfalse
+  \gbcodigocolortrue
+\fi
 
 % --- FORMATO DE PÁGINA (formatos_pdf id=32) ---
 \def\gbanchopagina{15.50cm}
@@ -36,7 +51,7 @@
 \newif\ifgbcjk   \gbcjkfalse
 
 % --- BIBLIOGRAFÍA ---
-\def\estandar{apa}
+\def\estandar{verona-modern}
 \newif\ifgbbibporcapitulo   \gbbibporcapitulotrue
 \def\gbarchivobib{./referencias/ref-l-DUEK.bib}
 
@@ -44,19 +59,19 @@
 \def\gbtitulo{Un tiempo diferente}
 \def\gbsubtitulo{Vida cotidiana y pandemia}
 \def\gbtituloabreviado{}
-\def\gbautores{Moguillansky, Marina (comp.); Duek, Carolina (comp.)}
+\def\gbautores{Marina Moguillansky, Carolina Duek}
 \def\gbeditorial{Ediciones Imago Mundi}
 \def\gbciudad{Buenos Aires}
 \def\gbanio{2026}
 \def\gbisbn{978-950-793-487-2}
 \def\gbisbnelectronico{}
-\def\gbdoi{}
+\edef\gbdoi{\detokenize{}}
 \def\gblicencia{CC BY-NC-ND 4.0}
 \def\gburllicencia{https://creativecommons.org/licenses/by-nc-nd/4.0/}
 \def\gbpalabrasclave{}
 
 % --- VERSIÓN DE gbpublisher ---
-\def\gbversion{0.0.365}
+\def\gbversion{0.0.392}
 
 % --- PRIMERAS DEL LIBRO (SC-25) ---
 \def\gbautoriaportada{\gbNombrePortada{Marina Moguillansky} y \gbNombrePortada{Carolina Duek}}
