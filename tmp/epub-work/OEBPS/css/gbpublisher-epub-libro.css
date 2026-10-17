@@ -99,6 +99,8 @@ h4.sec-titulo, h5.sec-titulo, h6.sec-titulo { font-size: 1em; }
 .versalitas { font-variant: small-caps; }   /* [x]{.smallcaps} DEL .md (SC-30) */
 p { margin-top: 0; margin-bottom: 0.7em; }
 em { font-style: italic; }
+/* ÉNFASIS DENTRO DE ÉNFASIS: REDONDA, COMO \emph EN LaTeX (SC-57) */
+em em { font-style: normal; }
 strong { font-weight: bold; }
 sup { font-size: 0.75em; vertical-align: super; line-height: 0; }
 sub { font-size: 0.75em; vertical-align: sub; line-height: 0; }
@@ -178,6 +180,63 @@ li { margin-bottom: 0.2em; }
   border-top: 0.6pt solid currentColor;
 }
 
+/* DEDICATORIA: EL BLOQUE DEL EPÍGRAFE SIN ATRIBUCIÓN (SIN FILETE), SOLO EN
+   SU PÁGINA, BAJADO COMO EN EL PDF. ALLÁ SON 30 mm (\gbBajadaDedicatoria)
+   SOBRE UN CUERPO DE 10 pt: 85 pt, 8,5 CUERPOS. EN em Y NO EN mm, PORQUE LA
+   PANTALLA NO TIENE TOPE DE CAJA; NI EN vh, QUE LOS LECTORES PAGINADOS NO
+   RESPETAN DE FORMA PAREJA. VA EN LA SECCIÓN Y NO EN .epigrafe: AHÍ EL em
+   SERÍA EL DE SU LETRA MENOR (0.9em). */
+.dedicatoria {
+  padding-top: 8.5em;
+}
+.dedicatoria .epigrafe {
+  margin-top: 0;
+}
+
+/* RECUADROS (SC-41): FONDO GRIS 7 %. recuadro: FILETE DE 1 PT Y ESQUINAS
+   DE 5 PT. recuadro-barra: SIN FILETE, ESQUINAS RECTAS Y BARRA DE 1 PICA
+   CON TEXTO BLANCO CENTRADO EN ALTO, EN SANS NEGRITA. EN EL EPUB LA
+   BARRA LLEGA EN MAYÚSCULAS DESDE EL XSLT: SIN text-transform.
+   LAS MISMAS REGLAS EN gbpublisher.css, jats-to-html.xsl (AZUL),
+   gbpublisher-epub-libro.css Y m_GenerarEpub (NEGRO). */
+.recuadro {
+  margin: 1.5em 0;
+  background: #ededed;
+  border: 1pt solid #000000;
+  border-radius: 5pt;
+}
+.recuadro.recuadro-barra {
+  border: none;
+  border-radius: 0;
+}
+.recuadro .recuadro-cuerpo {
+  padding: 8pt;
+}
+.recuadro .recuadro-cuerpo > p:first-child {
+  text-indent: 0;
+  margin-top: 0;
+}
+/* SIN EL MARGEN DEL ÚLTIMO PÁRRAFO: EL BLANCO DE ABAJO ES IGUAL AL DE ARRIBA */
+.recuadro .recuadro-cuerpo > p:last-child {
+  margin-bottom: 0;
+}
+.recuadro p.recuadro-titulo {
+  margin: 0;
+  padding: 0 8pt;
+  /* LA PICA DEL PDF EN MEDIDAS RELATIVAS: LETRA AL 80 % E INTERLÍNEA
+     DE 1,5, UNA BARRA DE 1,2 EM DEL CUERPO. CON MEDIDAS FIJAS LA BARRA
+     NO ACOMPAÑA AL LECTOR QUE AGRANDA LA LETRA */
+  font-size: 0.8em;
+  line-height: 1.5;
+  text-indent: 0;
+  text-align: left;
+  background: #000000;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
 /* --- 10. ALERTAS / RECUADROS --- */
 /* <div> (no <aside>) para lectores viejos. Diferenciación por
    una barra lateral izquierda y una etiqueta textual, sin depender
@@ -228,29 +287,95 @@ li { margin-bottom: 0.2em; }
 .suplementario-cuerpo > :last-child { margin-bottom: 0; }
 
 /* --- 12. VERSO --- */
+/* VERSO (SC-49). LA COMPOSICIÓN DEL PDF (PAQUETE verse): BASTARDILLA,
+   A 2,5 em DEL MARGEN (\leftmargini DE LA CLASE book); ENTRE ESTROFAS,
+   0,75 DE LÍNEA (\stanzaskip). CADA VERSO ES UN BLOQUE: SI NO ENTRA,
+   SIGUE A 3 em DEL MARGEN DEL POEMA (\vindent). LA SANGRÍA ES 1,5 em POR
+   NIVEL (\vgap) SOBRE LA PRIMERA LÍNEA: text-indent NEGATIVO HASTA EL
+   NIVEL 2. EN UN EPÍGRAFE, LA LETRA DEL EPÍGRAFE, SIN BASTARDILLA NI
+   MARGEN.
+   LAS MISMAS REGLAS EN gbpublisher.css, gbpublisher-epub-libro.css,
+   jats-to-html.xsl Y m_GenerarEpub. */
 .verso {
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;
-  padding-left: 1.2em;
-  border-left: 1px solid #ddd;
+  margin: 1.5em 0 1.5em 2.5em;
   font-style: italic;
 }
-.verso-linea { display: block; margin-bottom: 0.1em; }
+.estrofa + .estrofa {
+  margin-top: 0.75em;
+}
+.verso-linea {
+  display: block;
+  padding-left: 3em;
+  text-indent: -3em;
+  text-align: left;
+}
+.verso-linea.nivel-1 { text-indent: -1.5em; }
+.verso-linea.nivel-2 { text-indent: 0; }
+.verso-linea.nivel-3 { text-indent: 1.5em; }
+.verso-linea.nivel-4 { text-indent: 3em; }
+.verso-linea.nivel-5 { text-indent: 4.5em; }
+.verso-linea.nivel-6 { text-indent: 6em; }
+.verso-linea.nivel-7 { text-indent: 7.5em; }
+.verso-linea.nivel-8 { text-indent: 9em; }
+.verso-linea.nivel-9 { text-indent: 10.5em; }
+.epigrafe .verso-epigrafe {
+  margin: 0;
+  font-style: normal;
+}
+/* LA BASTARDILLA DENTRO DEL VERSO SALE REDONDA, COMO EL \emph DEL PDF */
+.verso em { font-style: normal; }
+.epigrafe .verso-epigrafe em { font-style: italic; }
 
-/* --- 13. DISCURSO / DIÁLOGO --- */
-.speech { margin-top: 0; margin-bottom: 0.5em; }
-.speech-speaker { font-weight: bold; color: #2d5a8e; }
+/* --- 13. CONVERSACIÓN (SC-43) --- */
+/* COMO EL HTML, TODO EN NEGRO: LA ETIQUETA (YA EN MAYÚSCULAS) EN NEGRITA.
+   GEMELOS: m_GenerarEpub (NEGRO), gbpublisher.css Y jats-to-html.xsl (AZUL). */
+.turno-etiqueta { font-weight: bold; }
 
 /* --- 14. CÓDIGO --- */
-.code-block {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  background: #f4f3f0;
-  border: 1px solid #ddd;
-  padding: 0.7em 0.9em;
-  overflow: auto;
+/* CÓDIGO (SC-42): FONDO NEGRO, TEXTO BLANCO, SIN COLOR. EL NÚMERO DE
+   LÍNEA Y EL ↩ VAN COMO TEXTO (gb-n, gb-ret): NO TODOS LOS LECTORES
+   DIBUJAN EL CONTENIDO GENERADO POR CSS. pre-wrap: EN UNA PANTALLA
+   ANGOSTA LA LÍNEA LARGA SE PARTE EN VEZ DE SALIRSE.
+   GEMELOS: gbpublisher-epub-libro.css (LIBROS) Y m_GenerarEpub
+   (REVISTAS). */
+.gb-codigo {
+  margin: 1em 0;
+  background: #000000;
+  color: #ffffff;
 }
-.code-block code { font-family: monospace; font-size: 0.85em; }
+.gb-codigo-cab {
+  font-family: monospace;
+  font-size: 0.75em;
+  color: #ffffff;
+  border-bottom: 1px solid #555555;
+  padding: 0.2em 0.6em;
+}
+.gb-codigo-cuerpo {
+  margin: 0;
+  padding: 0.5em 0.6em 0.5em 0;
+  background: #000000;
+  color: #ffffff;
+  font-family: monospace;
+  font-size: 0.8em;
+  line-height: 1.5;
+  white-space: pre-wrap;
+}
+.gb-codigo-cuerpo code {
+  font-family: monospace;
+  background: none;
+  color: #ffffff;
+}
+.gb-n {
+  display: inline-block;
+  width: 2em;
+  padding-right: 0.8em;
+  text-align: right;
+  color: #999999;
+}
+.gb-ret { color: #999999; }
+.gb-listado { margin: 1em 0; }
+.gb-listado .gb-codigo { margin: 0; }
+.gb-codigo-pie { font-size: 0.9em; margin-top: 0.3em; }
 
 /* --- 15. TABLAS --- */
 /* En EPUB, tablas con bordes simples (más robusto en e-readers
@@ -329,6 +454,11 @@ li { margin-bottom: 0.2em; }
   text-indent: -1.2em;
   padding-left: 1.2em;   /* SANGRÍA FRANCESA para las referencias */
 }
+/* VERSALITAS DE biblatex (SC-56): EL TEXTO LLEGA CON SU CAJA («Abdala,
+   Omar») Y SE VE COMO EN EL PDF, TODO EN VERSALITAS. NOTO SERIF TRAE smcp Y
+   c2sc (MEDIDO). UN LECTOR QUE IGNORE LA REGLA MUESTRA EL NOMBRE COMO ESTÁ
+   EN LA BASE, EN MAYÚSCULAS Y MINÚSCULAS */
+.versalitas-todas { font-variant-caps: all-small-caps; }
 .xref-bibr { color: #2d5a8e; text-decoration: none; }
 .ref-numero { font-weight: bold; }
 .ref-authors, .ref-personas { font-weight: bold; }

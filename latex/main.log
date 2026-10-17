@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.1.29)  17 OCT 2026 10:44
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.1.29)  17 OCT 2026 17:25
  restricted system commands enabled.
 **latex/main.tex
 (/home/alberto/00_Produccion/Duek/latex/main.tex
@@ -3148,17 +3148,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 53226 strings out of 476553
- 4447813,2848258 words of node,token memory allocated
- 4093726 words of node memory still in use:
-   3563 hlist, 4 vlist, 771 rule, 10 ins, 59567 disc, 1496 local_par, 100 math, 
-65369 glue, 32103 kern, 5111 penalty, 530 margin_kern, 374212 glyph, 23964 attri
-bute, 4355 glue_spec, 12020 attribute_list, 1149 write, 112 pdf_literal, 1381 pd
-f_start_link, 1394 pdf_end_link, 19 pdf_dest, 833 pdf_action, 3817 pdf_colorstac
+ 53225 strings out of 476553
+ 4447833,2848258 words of node,token memory allocated
+ 4092981 words of node memory still in use:
+   3563 hlist, 4 vlist, 771 rule, 10 ins, 59558 disc, 1496 local_par, 100 math, 
+65359 glue, 32101 kern, 5108 penalty, 533 margin_kern, 374141 glyph, 23960 attri
+bute, 4355 glue_spec, 12018 attribute_list, 1149 write, 112 pdf_literal, 1378 pd
+f_start_link, 1391 pdf_end_link, 19 pdf_dest, 833 pdf_action, 3811 pdf_colorstac
 k, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:7,2:73,3:280,4:550,5:173,6:142,7:2879,8:113,9:554,10:32,11:200
+   avail lists: 1:5,2:73,3:280,4:550,5:173,6:142,7:2879,8:113,9:554,10:32,11:200
 
- 73591 multiletter control sequences out of 65536+600000
+ 73590 multiletter control sequences out of 65536+600000
  91 fonts using 27039779 bytes
  113i,7n,125p,2164b,3108s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
@@ -3168,7 +3168,7 @@ tinus-fonts/LibertinusSerif-Italic.otf></usr/share/texlive/texmf-dist/fonts/open
 type/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/texmf-dist/f
 onts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></usr/share/texlive/texm
 f-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf>
-Output written on main.pdf (152 pages, 662450 bytes).
+Output written on main.pdf (152 pages, 662856 bytes).
 
 PDF statistics: 1906 PDF objects out of 2073 (max. 8388607)
  1603 compressed objects within 17 object streams

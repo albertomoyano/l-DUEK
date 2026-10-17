@@ -2,6 +2,7 @@
   <title>Un tiempo diferente</title>
   <subtitle>Vida cotidiana y pandemia</subtitle>
   <biblioid class="isbn" role="print">978-950-793-487-2</biblioid>
+  <biblioid class="isbn" role="electronic">978-950-793-487-2</biblioid>
   <editor role="compiler">
     <personname>
       <firstname>Marina</firstname>
@@ -45,7 +46,7 @@
     <para><link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</link></para>
   </legalnotice>
   <bibliomisc role="repo-produccion-privado">yes</bibliomisc>
-  <bibliomisc role="csl-style">apa.csl</bibliomisc>
+  <bibliomisc role="csl-style">verona-modern</bibliomisc>
   <mediaobject role="tapa">
     <imageobject>
       <imagedata fileref="../media/foto-tapa.png"/>
@@ -56,6 +57,10 @@
   </mediaobject>
 <bibliomisc role="lugar-bibliografia">por_capitulo</bibliomisc></info><chapter xml:lang="es" xml:id="cap-21" role="introduccion"><info>
   <title>Introducción</title>
+  
+  
+  
+  
   <author>
     <personname>
       <firstname>Carolina</firstname>
@@ -102,7 +107,7 @@
     Esta investigación puso de relieve la gran heterogeneidad de experiencias de la pandemia que es el punto de partida de nuestra propia investigación. Dada la diversa composición social y económica de las regiones y provincias de la Argentina, <quote>el riesgo sería creer que hubo una sola experiencia de la pandemia y de las políticas de asistencia</quote> <biblioref linkend="cap-21-bib-4182-HEREDIA2022"/> <phrase role="cite-suffix">p. 15</phrase>. Por ejemplo, el IFE tuvo una gran importancia en provincias del Norte del país, llegando a alrededor del 40% de la población, mientras que en CABA alcanzó a menos del 20%; en cuanto al ATP, por el contrario, observan que alcanzó a cerca del 70% de las empresas privadas radicadas en CABA y alrededor del 50% de las de la provincia de Buenos Aires, con porcentajes mucho menores en otras regiones. Además, los diferentes sectores de actividad fueron afectados en mayor o menor medida y <quote>experimentaron la crisis de manera heterogénea</quote> <biblioref linkend="cap-21-bib-4178-ALVAREZ2022"/> <phrase role="cite-suffix">p. 172</phrase>, de modo que la inserción laboral de los sujetos y el sector de su actividad fue un condicionante fuerte de sus experiencias de la pandemia. Entre los sectores más afectados estuvieron la hotelería y restaurantes, los servicios personales y la construcción; también tuvieron grandes caídas la manufactura, el comercio y las empresas de transporte; mientras que los que menos cayeron en sus niveles de actividad fueron la agricultura y ganadería, los servicios públicos (gas, luz, agua) y los servicios financieros. El impacto demográfico de la destrucción de puestos de trabajo fue mayor en las mujeres y en los jóvenes. Algunas familias de clase media-baja fueron por primera vez objeto de políticas de asistencia social durante la pandemia y que ello supuso un posicionamiento subjetivo novedoso y problemático (y también da cuenta de cómo las desigualdades se ampliaron llegando a nuevos espacios del entramado social).
   </para>
   <para>
-    En una clave cercana a nuestro trabajo, el Grupo de Estudios Culturales y Urbanos coordinado por Juliana Marcus, estudió la experiencia urbana de la pandemia a través de una combinación de dos encuestas online, entrevistas y observaciones en espacios públicos como parques y plazas. En el libro <emphasis>Ciudad confinada. Experiencias urbanas durante la pandemia covid-19</emphasis> <biblioref linkend="cap-21-bib-4183-MARCUS2023" role="suppress"/> Marcus et al., señalan que la pandemia y el confinamiento trastocaron las rutinas de la vida cotidiana, en particular el vínculo con la ciudad; diversas prácticas se relocalizaron al interior de las viviendas (el trabajo, la educación, el ocio y la sociabilidad) y también, cuando se flexibilizaron las restricciones, aparecieron usos novedosos de los espacios públicos (deportes en grupo, festejos de cumpleaños y reuniones sociales se trasladaron a los espacios verdes como parques o plazas). Entre sus resultados, destacan el pasaje desde el miedo y la evitación de los espacios públicos urbanos hacia una revalorización y reencantamiento de los mismos. De la urbanofobia a la urbanofilia es la fórmula que condensa este pasaje. Si en los primeros meses de pandemia se registró un miedo exacerbado o fobia social a salir del hogar, esto fue promovido por discursos y políticas estatales tanto a nivel nacional como provincial y local. Con el paso del tiempo, las medidas de aislamiento se flexibilizaron y las autoridades empezaron a promover las actividades en espacios abiertos. Otro de los hallazgos clave de Marcus et al. es que la configuración familiar y/o del hogar fue un factor central para la experiencia del aislamiento. Vivir solo, estar en pareja, tener a cargo hijos pequeños o adultos mayores modularon los recursos y las posibilidades para sostener o no el trabajo, para reestructurar las rutinas de ocio y sociabilidad, y condicionaron los niveles de control y autonomía sobre el propio tiempo.
+    En una clave cercana a nuestro trabajo, el Grupo de Estudios Culturales y Urbanos coordinado por Juliana Marcus, estudió la experiencia urbana de la pandemia a través de una combinación de dos encuestas online, entrevistas y observaciones en espacios públicos como parques y plazas. En el libro <emphasis>Ciudad confinada. Experiencias urbanas durante la pandemia Covid-19</emphasis> <biblioref linkend="cap-21-bib-4183-MARCUS2023" role="suppress"/> Marcus et al., señalan que la pandemia y el confinamiento trastocaron las rutinas de la vida cotidiana, en particular el vínculo con la ciudad; diversas prácticas se relocalizaron al interior de las viviendas (el trabajo, la educación, el ocio y la sociabilidad) y también, cuando se flexibilizaron las restricciones, aparecieron usos novedosos de los espacios públicos (deportes en grupo, festejos de cumpleaños y reuniones sociales se trasladaron a los espacios verdes como parques o plazas). Entre sus resultados, destacan el pasaje desde el miedo y la evitación de los espacios públicos urbanos hacia una revalorización y reencantamiento de los mismos. De la urbanofobia a la urbanofilia es la fórmula que condensa este pasaje. Si en los primeros meses de pandemia se registró un miedo exacerbado o fobia social a salir del hogar, esto fue promovido por discursos y políticas estatales tanto a nivel nacional como provincial y local. Con el paso del tiempo, las medidas de aislamiento se flexibilizaron y las autoridades empezaron a promover las actividades en espacios abiertos. Otro de los hallazgos clave de Marcus et al. es que la configuración familiar y/o del hogar fue un factor central para la experiencia del aislamiento. Vivir solo, estar en pareja, tener a cargo hijos pequeños o adultos mayores modularon los recursos y las posibilidades para sostener o no el trabajo, para reestructurar las rutinas de ocio y sociabilidad, y condicionaron los niveles de control y autonomía sobre el propio tiempo.
   </para>
   <para>
     El equipo dirigido por Javier Balsa analizó cómo la pandemia generó cierta polifonía discursiva en la que se entrecruzaban y a veces tensionaban las narrativas oficiales, las de la oposición política y las de medios de comunicación. Este análisis subraya la coexistencia de discursos que, por un lado, buscaban legitimar medidas de control y, por otro, expresaban críticas y demandas. A través de grupos focales, entrevistas y encuestas telefónicas, se indagó cómo eran percibidas y narradas las medidas de confinamiento. La perspectiva de Balsa y equipo <biblioref linkend="cap-21-bib-4177-BALSA2023" role="suppress"/> destaca el papel de ciertas metáforas –como la bélica– en los discursos oficiales y mediáticos, que estructuraron e instalaron sentidos sobre la percepción de la emergencia. Estas construcciones simbólicas jugaron un rol importante en la forma en que se interpretaron las medidas restrictivas y en la movilización de la opinión pública.
@@ -461,6 +466,10 @@
     </biblioentry>
 </bibliography></chapter><chapter xml:lang="es" xml:id="cap-26"><info>
   <title>Pantallas apagadas y una difícil convivencia: los y las adolescentes</title>
+  
+  
+  
+  
   <author>
     <personname>
       <firstname>Mariana</firstname>
@@ -720,7 +729,7 @@
 <section xml:id="cap-26.conclusiones">
   <title>Conclusiones</title>
   <para>
-    La pandemia marcó a una generación de estudiantes que atravesaron años cruciales de su vida académica y social en aislamiento, donde cada uno enfrentó (y sigue enfrentando) desafíos y realidades distintas. La suspensión de las clases presenciales y la necesidad de reorganizar las tareas de cuidado transformaron el hogar en un espacio multifuncional, donde los distintos miembros de la familia debieron gestionar sus actividades cotidianas a través de dispositivos conectados a internet <biblioref linkend="cap-26-bib-4189-ACEVEDO2021"/>, <biblioref linkend="cap-26-bib-4192-ANDERETESCHWAL2020"/>, <biblioref linkend="cap-26-bib-4182-HEREDIA2022"/>.
+    La pandemia marcó a una generación de estudiantes que atravesaron años cruciales de su vida académica y social en aislamiento, donde cada uno enfrentó (y sigue enfrentando) desafíos y realidades distintas. La suspensión de las clases presenciales y la necesidad de reorganizar las tareas de cuidado transformaron el hogar en un espacio multifuncional, donde los distintos miembros de la familia debieron gestionar sus actividades cotidianas a través de dispositivos conectados a Internet <biblioref linkend="cap-26-bib-4189-ACEVEDO2021"/>, <biblioref linkend="cap-26-bib-4192-ANDERETESCHWAL2020"/>, <biblioref linkend="cap-26-bib-4182-HEREDIA2022"/>.
   </para>
   <para>
     Sin embargo, la experiencia de la pandemia no fue vivida de manera homogénea. El análisis de las entrevistas muestra similitudes y diferencias en las vivencias de los adolescentes durante el confinamiento. En cuanto a los puntos en común, todos experimentaron rupturas en su rutina académica y social, lo que generó sentimientos de aislamiento y la necesidad de buscar nuevas aficiones. Sin embargo, las diferencias radican en la manera particular en que cada uno procesó este contexto adverso: mientras Julieta y Lucas experimentaron un impacto emocional profundo, marcado por el malestar escolar y el acompañamiento terapéutico, Baltazar encontró cierto equilibrio en el entretenimiento digital, y Sofía se refugió en actividades creativas. Lo interesante de estas discrepancias es que los adolescentes no se limitaron a repetir los discursos de los adultos para entender estos cambios. Desarrollaron sus propias elaboraciones personales con los recursos de cada uno.
@@ -908,7 +917,7 @@
       <bibliosource><link xlink:href="2023-05-22">2023-05-22</link></bibliosource>
       <bibliomisc role="urldate">2023-05-22</bibliomisc>
     </biblioentry>
-    <biblioentry xml:id="cap-26-bib-4233-MOGUILLANSKY2022" pubwork="other" otherpubwork="inproceedings">
+    <biblioentry xml:id="cap-26-bib-4233-MOGUILLANSKY2022" pubwork="chapter">
       <author>
         <personname>
           <surname>Moguillansky</surname>
@@ -939,7 +948,8 @@
           <firstname>Brenda</firstname>
         </personname>
       </author>
-      <citetitle pubwork="other">Emociones, sociabilidad y espacio doméstico: adolescentes y adultos mayores durante la pandemia del Covid-19</citetitle>
+      <title>Emociones, sociabilidad y espacio doméstico: adolescentes y adultos mayores durante la pandemia del Covid-19</title>
+      <citetitle pubwork="book">XI Jornadas de Sociología de la UNLP</citetitle>
       <pubdate>2022</pubdate>
     </biblioentry>
     <biblioentry xml:id="cap-26-bib-4201-GIDDENS1997" pubwork="book">
@@ -1198,6 +1208,10 @@
 </bibliography></chapter><chapter xml:lang="es" xml:id="cap-27"><info>
   <title>Trabajar, estudiar y cuidar en pandemia: experiencias de tres jóvenes en el AMBA</title>
   <titleabbrev>Trabajar, estudiar y cuidar en pandemia:...</titleabbrev>
+  
+  
+  
+  
   <author>
     <personname>
       <firstname>Magdalena</firstname>
@@ -1289,7 +1303,7 @@
     </para>
     <blockquote>
       <para>
-        <quote>…toda la cuarentena trabajé en la calle, tanto delivery, mensajería. Yo arranqué en Rappi, pasé por mensajería, Rappi, pasé por un local ese de Urquiza que te dije, hice mensajería, pasé por delivery en una parrilla, estuve un tiempito ahí. Me echaron por una boludez. Y conseguí de delivery también en una heladería. Y en ese laburé un año y dos meses. Así que sacando cuentas, la cuarentena fue en eso</quote> (Mauro, veinte años).
+        <quote>… toda la cuarentena trabajé en la calle, tanto delivery, mensajería. Yo arranqué en Rappi, pasé por mensajería, Rappi, pasé por un local ese de Urquiza que te dije, hice mensajería, pasé por delivery en una parrilla, estuve un tiempito ahí. Me echaron por una boludez. Y conseguí de delivery también en una heladería. Y en ese laburé un año y dos meses. Así que sacando cuentas, la cuarentena fue en eso</quote> (Mauro, veinte años).
       </para>
     </blockquote>
     <para>
@@ -1493,10 +1507,10 @@
     </para>
     <blockquote>
       <para>
-        <quote>la policía…eso me asustó una banda, verlos afuera, el control policial (…) había visto cosas en Twitter, tipo en algunos barrios, pero más vulnerables que les hacían cosas muy humillantes los pibes que salían (…) y había desaparecido un chico en la provincia. (…) No porque uno crea que le pueda pasar, porque son situaciones distintas, pero sí decía <quote>estoy seguro que si me ve en la calle alguien (…) por ir a comprar fuera de tiempo, me puedo comer un garrón</quote> y eso la verdad que me re molestó</quote>.
+        <quote>la policía… eso me asustó una banda, verlos afuera, el control policial (…) había visto cosas en Twitter, tipo en algunos barrios, pero más vulnerables que les hacían cosas muy humillantes los pibes que salían (…) y había desaparecido un chico en la provincia. (…) No porque uno crea que le pueda pasar, porque son situaciones distintas, pero sí decía <quote>estoy seguro que si me ve en la calle alguien (…) por ir a comprar fuera de tiempo, me puedo comer un garrón</quote> y eso la verdad que me re molestó</quote>.
       </para>
       <para>
-        <quote>El tema es que [el aislamiento] no estuvo acompañado, los chicos no tenían dispositivos. El gobierno admite que 300 000 pibes se quedaron afuera de la educación y encima los chicos que van a la escuela muchas veces tienen agresores [en el hogar] y vos los metiste ahí. Y para todo eso no hubo respuesta</quote> (Máximo, veintisiete años).
+        <quote>El tema es que [el aislamiento] no estuvo acompañado, los chicos no tenían dispositivos. El gobierno admite que 300.000 pibes se quedaron afuera de la educación y encima los chicos que van a la escuela muchas veces tienen agresores [en el hogar] y vos los metiste ahí. Y para todo eso no hubo respuesta</quote> (Máximo, veintisiete años).
       </para>
     </blockquote>
     <para>
@@ -1504,7 +1518,7 @@
     </para>
     <blockquote>
       <para>
-        <quote>Usaba redes y la socialización para mí fue igual, aprendí hacia el final a notar que para la gente no era igual, estaba muy acostumbrado a manejarme por WhatsApp. Y sabés que también en retrospectiva aprendí que tenía un ritmo de vida…no trabajar (…) la gente se estaba quemando la cabeza en la pandemia y yo no estaba viviendo eso porque además no estaba cursando sincrónicamente (…) como que la gente estaba muy quemada y yo estaba en otra sintonía. Pero la socialización era súper rica te diría…pero no de la experiencia, sino del hecho de que lo hacía con mucha gente, seguía hablando con gente de todo mi instituto. Todo eso durante el 2020, que para mí fue 2020 la pandemia, en 2021 no es que hice vida normal pero ya sí, volvimos a la presencialidad viste y todo eso y la virtualidad ya se agotó, ¿no?</quote> (Máximo, veintisiete años).
+        <quote>Usaba redes y la socialización para mí fue igual, aprendí hacia el final a notar que para la gente no era igual, estaba muy acostumbrado a manejarme por WhatsApp. Y sabés que también en retrospectiva aprendí que tenía un ritmo de vida… no trabajar (…) la gente se estaba quemando la cabeza en la pandemia y yo no estaba viviendo eso porque además no estaba cursando sincrónicamente (…) como que la gente estaba muy quemada y yo estaba en otra sintonía. Pero la socialización era súper rica te diría… pero no de la experiencia, sino del hecho de que lo hacía con mucha gente, seguía hablando con gente de todo mi instituto. Todo eso durante el 2020, que para mí fue 2020 la pandemia, en 2021 no es que hice vida normal pero ya sí, volvimos a la presencialidad viste y todo eso y la virtualidad ya se agotó, ¿no?</quote> (Máximo, veintisiete años).
       </para>
     </blockquote>
     <para>
@@ -1520,7 +1534,7 @@
     </para>
     <blockquote>
       <para>
-        <quote> vuelvo en bici a mi casa tipo once [de la noche] y veo a la juventud universitaria de joda, festejando, me recuerda cuando yo estaba más o menos en esa antes de la pandemia. Lo hablaba con amigos, nos perdimos la parte de…yo tengo veintisiete, nos perdimos dos años que para mí hubiera sido muy divertido, dos años de esa sintonía, ahora capaz que ni ganas tengo. O sea, como que lo veo y también reconozco una etapa de mi vida cuando veo a esos chicos. Reconozco una etapa de mi vida ahí y como lo veo de nuevo y ya está</quote> (Máximo, veintisiete años).
+        <quote> vuelvo en bici a mi casa tipo once [de la noche] y veo a la juventud universitaria de joda, festejando, me recuerda cuando yo estaba más o menos en esa antes de la pandemia. Lo hablaba con amigos, nos perdimos la parte de… yo tengo veintisiete, nos perdimos dos años que para mí hubiera sido muy divertido, dos años de esa sintonía, ahora capaz que ni ganas tengo. O sea, como que lo veo y también reconozco una etapa de mi vida cuando veo a esos chicos. Reconozco una etapa de mi vida ahí y como lo veo de nuevo y ya está</quote> (Máximo, veintisiete años).
       </para>
     </blockquote>
     <para>
@@ -2037,6 +2051,10 @@
 </bibliography></chapter><chapter xml:lang="es" xml:id="cap-25"><info>
   <title>Aislados y desorganizados. Los efectos de la desafiliación social en familias de sectores populares durante la pandemia</title>
   <titleabbrev>Aislados y desorganizados</titleabbrev>
+  
+  
+  
+  
   <author>
     <personname>
       <firstname>Sebastián</firstname>
@@ -2093,7 +2111,7 @@
   </para>
   <blockquote>
     <para>
-      <quote>Nos llamaron para un arreglo y después porque como no era solo yo, había otros chicos que no querían aceptar lo que ofrecían, y tuvimos que ir a juicio, y ahí nos fueron pagando en cuotas…. qué se yo como yo tenía deuda también tuve que pagar, que tratar de evitar que llegarán a más (…) Y justo yo había pedido una… un dinero, o sea, había sacado un prestamo para poder entrar para alquilar justo donde estábamos ahora. Yo tenía que alquilar y entregar el dinero del contrato de… cómo se llaman todas esas cosas</quote>.
+      <quote>Nos llamaron para un arreglo y después porque como no era solo yo, había otros chicos que no querían aceptar lo que ofrecían, y tuvimos que ir a juicio, y ahí nos fueron pagando en cuotas… qué se yo como yo tenía deuda también tuve que pagar, que tratar de evitar que llegarán a más (…) Y justo yo había pedido una… un dinero, o sea, había sacado un prestamo para poder entrar para alquilar justo donde estábamos ahora. Yo tenía que alquilar y entregar el dinero del contrato de… cómo se llaman todas esas cosas</quote>.
     </para>
   </blockquote>
   <para>
@@ -2109,7 +2127,7 @@
   </para>
   <blockquote>
     <para>
-      <quote>En la pandemia nos quedamos sin ingresos, sin ingresos sin nada… los del bachillerato me dieron de comer casi toda la pandemia, porque me traían bolsa de mercadería, aparte mi marido estuvo internado también por el tema del COVID. No podíamos salir de mi casa. Éramos entre…estaban once personas acá, mi hermana con dos…Fue terrible… Y ahí creo que fue que me empeoró la enfermedad en sí</quote>.
+      <quote>En la pandemia nos quedamos sin ingresos, sin ingresos sin nada… los del bachillerato me dieron de comer casi toda la pandemia, porque me traían bolsa de mercadería, aparte mi marido estuvo internado también por el tema del COVID. No podíamos salir de mi casa. Éramos entre… estaban once personas acá, mi hermana con dos… Fue terrible… Y ahí creo que fue que me empeoró la enfermedad en sí</quote>.
     </para>
   </blockquote>
   <para>
@@ -2121,7 +2139,7 @@
     </para>
   </blockquote>
   <para>
-    La pérdida del empleo desencadenó un proceso de deterioro de las condiciones de vida: reducción de acceso a alimentos, corte de servicios básicos, hacinamiento. Asimismo, la ayuda estatal no resultó efectiva en estos casos donde no se alcanzó a detectar la situación de vulnerabilidad repentina causada a raíz de la pandemia. Ante este cuadro, una vez finalizada la fase estricta del aislamiento por la pandemia, su marido comenzó a desarrollar, junto a Vanesa, un nuevo microemprendimiento: confeccionar cajas de cartón para consolas de videojuego. Se trata de emprendimientos de bajo capital (el armado de cajas en su hogar) y empleos de trabajo informal (el cuidado de personas mayores) que no permiten tener un ingreso fijo y estable. Señala: <quote>Y ahora estas cajas es como para ir sacando no es… tenés que hacer 10 cajas para que te paguen 1 500 pesos por caja. No es mucho</quote>.
+    La pérdida del empleo desencadenó un proceso de deterioro de las condiciones de vida: reducción de acceso a alimentos, corte de servicios básicos, hacinamiento. Asimismo, la ayuda estatal no resultó efectiva en estos casos donde no se alcanzó a detectar la situación de vulnerabilidad repentina causada a raíz de la pandemia. Ante este cuadro, una vez finalizada la fase estricta del aislamiento por la pandemia, su marido comenzó a desarrollar, junto a Vanesa, un nuevo microemprendimiento: confeccionar cajas de cartón para consolas de videojuego. Se trata de emprendimientos de bajo capital (el armado de cajas en su hogar) y empleos de trabajo informal (el cuidado de personas mayores) que no permiten tener un ingreso fijo y estable. Señala: <quote>Y ahora estas cajas es como para ir sacando no es… tenés que hacer 10 cajas para que te paguen 1.500 pesos por caja. No es mucho</quote>.
   </para>
   <para>
     Vanesa, además, realizó por un tiempo realizar tareas de cuidado pero que no pudo continuar por sus problemas de salud:
@@ -2160,7 +2178,7 @@
   </para>
   <blockquote>
     <para>
-      <quote>El cien por ciento se desorganizó nuestra vida porque…. Quizás el bachi me ayudó mucho el estar ocupado. pendiente del horario de bachi, para desconectarme de todo. Entonces no sentábamos y como que ahí me desconecté. Era como que me aliviaba un poco la cabeza porque… es más, no… no puedo dormir hoy todavía… no, me cuesta un montón (…) Venía tirando porque desde que me agarró esa enfermedad, ya me habían medicado, por eso te decía. Que me cuesta mucho concentrarme, o sea que no me queda mucho (…). Me cuesta mucho concentrarme, o sea que te digo una palabra y al rato ya me olvido, pero porque mi cabeza no está nunca tranquila</quote>.
+      <quote>El cien por ciento se desorganizó nuestra vida porque… Quizás el bachi me ayudó mucho el estar ocupado. pendiente del horario de bachi, para desconectarme de todo. Entonces no sentábamos y como que ahí me desconecté. Era como que me aliviaba un poco la cabeza porque… es más, no… no puedo dormir hoy todavía… no, me cuesta un montón (…) Venía tirando porque desde que me agarró esa enfermedad, ya me habían medicado, por eso te decía. Que me cuesta mucho concentrarme, o sea que no me queda mucho (…). Me cuesta mucho concentrarme, o sea que te digo una palabra y al rato ya me olvido, pero porque mi cabeza no está nunca tranquila</quote>.
     </para>
   </blockquote>
   <para>
@@ -2168,7 +2186,7 @@
   </para>
   <blockquote>
     <para>
-      <quote>Llamo al 147, a veces estoy llamando también por el tema de la vista y todo porque sentí que se me acortó mucho el tema de la vista, pido turno…Porque yo antes de que me larguen del trabajo, yo me iba a operar de la vista, ya me había conseguido todo con la obra social. Me habían dado todo y justo llega el tema de la pandemia y no me pudo, no me podían operar porque se habían parado todo, esas cosas también. Y bueno, después vino el tema de que como que me quedé sin trabajo y bueno, ya perdí todo eso también. Entonces ahora tengo que volveeer [alarga la última sílaba para expresar fastidio] a pedir, hacer estudios, había hecho de a poco todos los estudios en el hospital de clínica que tenía una señora conocida me hizo todo, me dijeron… o sea todos los estudios con todo eso ya presenté para que me hagan la cirugía y después me dijeron que no, por ahora no, así que también tengo que esperar</quote>.
+      <quote>Llamo al 147, a veces estoy llamando también por el tema de la vista y todo porque sentí que se me acortó mucho el tema de la vista, pido turno… Porque yo antes de que me larguen del trabajo, yo me iba a operar de la vista, ya me había conseguido todo con la obra social. Me habían dado todo y justo llega el tema de la pandemia y no me pudo, no me podían operar porque se habían parado todo, esas cosas también. Y bueno, después vino el tema de que como que me quedé sin trabajo y bueno, ya perdí todo eso también. Entonces ahora tengo que volveeer [alarga la última sílaba para expresar fastidio] a pedir, hacer estudios, había hecho de a poco todos los estudios en el hospital de clínica que tenía una señora conocida me hizo todo, me dijeron… o sea todos los estudios con todo eso ya presenté para que me hagan la cirugía y después me dijeron que no, por ahora no, así que también tengo que esperar</quote>.
     </para>
   </blockquote>
   <para>
@@ -2176,7 +2194,7 @@
   </para>
   <blockquote>
     <para>
-      <quote>Ni con mi señora hablo las cosas que yo tengo que hablar, soy muy, trato de no… no, no, no sé veo cosas como que hay muchas cosas que no puedo contar, necesito contar, necesito. Hubo una época que necesité desahogarme, hablar con alguien y… Como que me sentía mal, sí, los primeros meses de que me quedé sin trabajo … y digo yo ¿ahora adónde voy? Y busqué Iglesia, busqué sacerdote, busqué y no encontré en nadie y me fui a una plaza y miraba una paloma y lloraba…y decía yo por todas las cosas que me estaban pasando</quote>.
+      <quote>Ni con mi señora hablo las cosas que yo tengo que hablar, soy muy, trato de no… no, no, no sé veo cosas como que hay muchas cosas que no puedo contar, necesito contar, necesito. Hubo una época que necesité desahogarme, hablar con alguien y… Como que me sentía mal, sí, los primeros meses de que me quedé sin trabajo… y digo yo ¿ahora adónde voy? Y busqué Iglesia, busqué sacerdote, busqué y no encontré en nadie y me fui a una plaza y miraba una paloma y lloraba… y decía yo por todas las cosas que me estaban pasando</quote>.
     </para>
   </blockquote>
   <para>
@@ -2184,7 +2202,7 @@
   </para>
   <blockquote>
     <para>
-      <quote>Yo tuve psicóloga, porque no ya no estaba aguantando entonces sí, busqué ayuda, de una psicóloga por mi médico de cabecera. Salí, salí, salí…. porque se me cruzaba cualquier cosa (…) Me deprimí mucho, mucho. Pero hoy quizás agradezco a Dios porque muchas cosas feas cruzaban en la cabeza (…) Porque quizás también tengo… como se me fue mi mamá, era muy… a la mañana a la noche hablaba con ella y hoy no está y quizá muchas veces bueno, lucho por papá… pero… también no veo la hora de no sé, ir al bachi para desconectarme un poco (…) Es que no sale nada. Mi hijo mayor es el único que está trabajando, él se va la mañana y vuelve a la noche. Tampoco quiero estar, no sé… que él pague todo, no…quiero que él junte también para él, para él</quote>.
+      <quote>Yo tuve psicóloga, porque no ya no estaba aguantando entonces sí, busqué ayuda, de una psicóloga por mi médico de cabecera. Salí, salí, salí… porque se me cruzaba cualquier cosa (…) Me deprimí mucho, mucho. Pero hoy quizás agradezco a Dios porque muchas cosas feas cruzaban en la cabeza (…) Porque quizás también tengo… como se me fue mi mamá, era muy… a la mañana a la noche hablaba con ella y hoy no está y quizá muchas veces bueno, lucho por papá… pero… también no veo la hora de no sé, ir al bachi para desconectarme un poco (…) Es que no sale nada. Mi hijo mayor es el único que está trabajando, él se va la mañana y vuelve a la noche. Tampoco quiero estar, no sé… que él pague todo, no… quiero que él junte también para él, para él</quote>.
     </para>
   </blockquote>
   <para>
@@ -2442,6 +2460,10 @@
 </bibliography></chapter><chapter xml:lang="es" xml:id="cap-28"><info>
   <title>Todos juntos, todo el día, todos los días: maternidad, trabajo y espacios domésticos</title>
   <titleabbrev>Todos juntos, todo el día, todos los días:...</titleabbrev>
+  
+  
+  
+  
   <author>
     <personname>
       <firstname>Carolina</firstname>
@@ -2534,7 +2556,7 @@
     </para>
     <blockquote>
       <para>
-        <quote>Desapareció el espacio del colegio (…) en la demanda, en no poder derivar nada (…) Había que hacer como un gran esfuerzo para que no estén los nenes ahí dando vueltas interrumpiendo la clase (…) a la bebé no la dejábamos dormir en todo el día para poder dormirla en ese momento, mantenerla…. cualquier cosa que uno quisiera hacer para generar ingresos se volvía casi imposible por esto de no poder delegar, que nadie puede ayudarte con los chicos era muy difícil</quote>.
+        <quote>Desapareció el espacio del colegio (…) en la demanda, en no poder derivar nada (…) Había que hacer como un gran esfuerzo para que no estén los nenes ahí dando vueltas interrumpiendo la clase (…) a la bebé no la dejábamos dormir en todo el día para poder dormirla en ese momento, mantenerla… cualquier cosa que uno quisiera hacer para generar ingresos se volvía casi imposible por esto de no poder delegar, que nadie puede ayudarte con los chicos era muy difícil</quote>.
       </para>
     </blockquote>
     <para>
@@ -2905,7 +2927,7 @@
         </personname>
       </author>
       <title>Efectos asimétricos de la pandemia por Covid-19 en la calidad de vida de los hogares. El caso de la ciudad de Córdoba, Argentina</title>
-      <citetitle pubwork="journal">Población \&amp; Sociedad</citetitle>
+      <citetitle pubwork="journal">Población &amp; Sociedad</citetitle>
       <pubdate>2023</pubdate>
       <volumenum>30</volumenum>
       <issuenum>1</issuenum>
@@ -2998,6 +3020,10 @@
     </biblioentry>
 </bibliography></chapter><chapter xml:lang="es" xml:id="cap-29"><info>
   <title>¿Todo sigue igual? La pandemia para los trabajadores esenciales</title>
+  
+  
+  
+  
   <author>
     <personname>
       <firstname>Marina</firstname>
@@ -3068,7 +3094,7 @@
     </para>
     <blockquote>
       <para>
-        <quote>Me pasaba que por las noches tenía como unos despertares medio…no sé si decirle ataque de pánico… pero sí que me despertaba asustado, con una sensación muy opresiva. Eso me pasaba en las semanas que iba al hospital, porque había mucha muerte alrededor. En la terapia intensiva en un primer momento el 90 % de los pacientes que entraban se morían. No se sabía cómo manejarlos, un montón de cosas se fueron aprendiendo con el tiempo. Entonces sí, había mucha muerte alrededor</quote>.
+        <quote>Me pasaba que por las noches tenía como unos despertares medio… no sé si decirle ataque de pánico… pero sí que me despertaba asustado, con una sensación muy opresiva. Eso me pasaba en las semanas que iba al hospital, porque había mucha muerte alrededor. En la terapia intensiva en un primer momento el 90 % de los pacientes que entraban se morían. No se sabía cómo manejarlos, un montón de cosas se fueron aprendiendo con el tiempo. Entonces sí, había mucha muerte alrededor</quote>.
       </para>
     </blockquote>
     <para>
@@ -3091,7 +3117,7 @@
     </para>
     <blockquote>
       <para>
-        Fui trabajador esencial toda la pandemia. Trabajé siempre y laburamos muchísimo más, porque como un montón de compañeros se fueron de licencia, o aislados, porque eran de riesgo, o estaban excedidos de peso…Hacíamos el mismo horario, pero con mucha menos gente laburando. Nosotros haciendo más cosas. Y las vacaciones las tuvimos, pero fraccionadas en partes, porque había poca gente y no se podía.
+        <quote>Fui trabajador esencial toda la pandemia. Trabajé siempre y laburamos muchísimo más, porque como un montón de compañeros se fueron de licencia, o aislados, porque eran de riesgo, o estaban excedidos de peso… Hacíamos el mismo horario, pero con mucha menos gente laburando. Nosotros haciendo más cosas. Y las vacaciones las tuvimos, pero fraccionadas en partes, porque había poca gente y no se podía</quote>.
       </para>
     </blockquote>
     <para>
@@ -3129,7 +3155,7 @@
     </para>
     <blockquote>
       <para>
-        <quote>Eso me afectó mucho, me cambió todo el ánimo. Estuve dos meses sin verla porque no había permiso para el traslado de hijos. No me había pasado antes de emocionarme. Ahora hablando me hiciste acordar y mirá…me emociona</quote>.
+        <quote>Eso me afectó mucho, me cambió todo el ánimo. Estuve dos meses sin verla porque no había permiso para el traslado de hijos. No me había pasado antes de emocionarme. Ahora hablando me hiciste acordar y mirá… me emociona</quote>.
       </para>
     </blockquote>
     <para>
@@ -3143,7 +3169,7 @@
     </para>
     <blockquote>
       <para>
-        <quote>Mi jefe me agarra y me dice <quote>mirá, vos no sos el tipo que saca los camiones a la calle…hacé lo que quieras, guardate</quote>. Me dio libertad mi jefe. Si yo quería ir, que fuera; si no quería ir, que no fuera. Y yo no me aguanto en mi casa todo el día mirando Netflix, no puedo. No, no, no… no me da la cabeza. Entonces, yo seguí yendo, porque tenía la autorización para ir y aparte porque de repente en la empresa se borraron todos. Quedamos cuatro gatos locos para manejar todo</quote>.
+        <quote>Mi jefe me agarra y me dice <quote>mirá, vos no sos el tipo que saca los camiones a la calle… hacé lo que quieras, guardate</quote>. Me dio libertad mi jefe. Si yo quería ir, que fuera; si no quería ir, que no fuera. Y yo no me aguanto en mi casa todo el día mirando Netflix, no puedo. No, no, no… no me da la cabeza. Entonces, yo seguí yendo, porque tenía la autorización para ir y aparte porque de repente en la empresa se borraron todos. Quedamos cuatro gatos locos para manejar todo</quote>.
       </para>
     </blockquote>
     <para>
@@ -3297,6 +3323,10 @@
     </biblioentry>
 </bibliography></chapter><chapter xml:lang="es" xml:id="cap-30"><info>
   <title>Cuidar y descuidar: las personas mayores como grupo de riesgo</title>
+  
+  
+  
+  
   <author>
     <personname>
       <firstname>Rosario</firstname>
@@ -3355,13 +3385,13 @@
     </para>
     <blockquote>
       <para>
-        «R: En ese momento no venía nadie. Estaba prácticamente sola. Veía a los chicos, sí, que estaban del otro lado de la ventana. Por ahí venían y me saludaban así [<emphasis>hace un gesto con la mano, risas</emphasis>]
+        R: En ese momento no venía nadie. Estaba prácticamente sola. Veía a los chicos, sí, que estaban del otro lado de la ventana. Por ahí venían y me saludaban así [<emphasis>hace un gesto con la mano, risas</emphasis>]
       </para>
       <para>
         P: Desde afuera.
       </para>
       <para>
-        R: Desde afuera. Y hasta los nietos, porque preguntaban «¿por qué no puedo ir a ver a la abuela?» (…) De repente no estar ya en contacto era… era terrible. Y me daba gracia porque en ese trayecto nosotros habíamos alambrado. Habíamos puesto un tejido, en casa con el de mi nieta, de mi casa para dividir el de mi nieta. Y los chicos estaban del otro lado, y ellos me decían «abuela, cuando saques el tejido, ¿vamos a poder ir para tu casa?» [<emphasis>Ríe</emphasis>] «¿No va a estar más el bicho?» decían. Me daba gracia. [<emphasis>Susurrando</emphasis>] Ellos lo toman así».
+        R: Desde afuera. Y hasta los nietos, porque preguntaban <quote>¿por qué no puedo ir a ver a la abuela?</quote> (…) De repente no estar ya en contacto era… era terrible. Y me daba gracia porque en ese trayecto nosotros habíamos alambrado. Habíamos puesto un tejido, en casa con el de mi nieta, de mi casa para dividir el de mi nieta. Y los chicos estaban del otro lado, y ellos me decían <quote>abuela, cuando saques el tejido, ¿vamos a poder ir para tu casa?</quote> [<emphasis>Ríe</emphasis>] <quote>¿No va a estar más el bicho?</quote> decían. Me daba gracia. [<emphasis>Susurrando</emphasis>] Ellos lo toman así.
       </para>
     </blockquote>
     <para>
@@ -3420,7 +3450,7 @@
     </para>
     <blockquote>
       <para>
-        «Vamos a suponer el año pasado, cuando Norma me dice… era pleno julio, «hay un viaje, ¿vamos Elvira?». «¡Sí!». Yo ni le pregunto a mi hija. «¡Sí!», le digo. (…) Algunas abuelas dicen «no, porque mi hijo no me deja salir», «no, porque mi hija no quiere». «¿Y a vos qué te dicen?». «No», les digo, «yo me manejo sola». Les digo «yo me manejo sola». No, no, no. Después les comparto. «Mirá que me voy tal día”».
+        <quote>Vamos a suponer el año pasado, cuando Norma me dice… era pleno julio, <quote>hay un viaje, ¿vamos Elvira?</quote>. <quote>¡Sí!</quote>. Yo ni le pregunto a mi hija. <quote>¡Sí!</quote>, le digo. (…) Algunas abuelas dicen <quote>no, porque mi hijo no me deja salir</quote>, <quote>no, porque mi hija no quiere</quote>. <quote>¿Y a vos qué te dicen?</quote>. <quote>No</quote>, les digo, <quote>yo me manejo sola</quote>. Les digo <quote>yo me manejo sola</quote>. No, no, no. Después les comparto. <quote>Mirá que me voy tal día</quote></quote>.
       </para>
     </blockquote>
     <para>
@@ -4024,6 +4054,10 @@
     </biblioentry>
 </bibliography></chapter><chapter xml:lang="es" xml:id="cap-22" role="otro"><info>
   <title>Coda</title>
+  
+  
+  
+  
   <author>
     <personname>
       <firstname>Carolina</firstname>
@@ -4068,6 +4102,10 @@
 </para>
 </chapter><appendix xml:lang="es" xml:id="cap-23" role="sobre-autores"><info>
   <title>Sobre las autoras y los autores</title>
+  
+  
+  
+  
 <bibliomisc role="seccion-libro">bm</bibliomisc><bibliomisc role="orden-seccion">11</bibliomisc><bibliomisc role="tipo-capitulo">sobre_autores</bibliomisc></info>
 <para>
   <emphasis role="strong">Marina Moguillansky.</emphasis> Doctora en Ciencias Sociales (UBA) y Magíster en Sociología de la Cultura (UNSAM). Es investigadora independiente de CONICET con sede en la Escuela IDAES de la Universidad Nacional de San Martín, donde también es profesora titular de Sociología y dirige actualmente la Maestría en Sociología de la Cultura.

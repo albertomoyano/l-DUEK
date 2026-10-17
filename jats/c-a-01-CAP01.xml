@@ -3,6 +3,7 @@
   <bibliomisc role="seccion-libro">a</bibliomisc>
   <bibliomisc role="orden-seccion">01</bibliomisc>
   <bibliomisc role="tipo-capitulo">capitulo</bibliomisc>
+  <bibliomisc role="csl-style">verona-modern</bibliomisc>
   <author>
     <personname>
       <firstname>Mariana</firstname>
@@ -450,7 +451,7 @@
       <bibliosource><link xlink:href="2023-05-22">2023-05-22</link></bibliosource>
       <bibliomisc role="urldate">2023-05-22</bibliomisc>
     </biblioentry>
-    <biblioentry xml:id="bib-4233-MOGUILLANSKY2022" pubwork="other" otherpubwork="inproceedings">
+    <biblioentry xml:id="bib-4233-MOGUILLANSKY2022" pubwork="chapter">
       <author>
         <personname>
           <surname>Moguillansky</surname>
@@ -481,7 +482,8 @@
           <firstname>Brenda</firstname>
         </personname>
       </author>
-      <citetitle pubwork="other">Emociones, sociabilidad y espacio doméstico: adolescentes y adultos mayores durante la pandemia del Covid-19</citetitle>
+      <title>Emociones, sociabilidad y espacio doméstico: adolescentes y adultos mayores durante la pandemia del Covid-19</title>
+      <citetitle pubwork="book">XI Jornadas de Sociología de la UNLP</citetitle>
       <pubdate>2022</pubdate>
     </biblioentry>
     <biblioentry xml:id="bib-4201-GIDDENS1997" pubwork="book">

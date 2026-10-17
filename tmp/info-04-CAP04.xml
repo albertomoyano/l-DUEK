@@ -4,6 +4,7 @@
   <bibliomisc role="seccion-libro">a</bibliomisc>
   <bibliomisc role="orden-seccion">04</bibliomisc>
   <bibliomisc role="tipo-capitulo">capitulo</bibliomisc>
+  <bibliomisc role="csl-style">verona-modern</bibliomisc>
   <author>
     <personname>
       <firstname>Carolina</firstname>

@@ -3,6 +3,7 @@
   <bibliomisc role="seccion-libro">fm</bibliomisc>
   <bibliomisc role="orden-seccion">10</bibliomisc>
   <bibliomisc role="tipo-capitulo">introduccion</bibliomisc>
+  <bibliomisc role="csl-style">verona-modern</bibliomisc>
   <author>
     <personname>
       <firstname>Carolina</firstname>

@@ -523,7 +523,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{langid}{spa}
+      \field{langid}{spanish}
       \field{title}{Los análisis de conversación de discurso y de documentos en investigación cualitativa}
       \field{year}{2014}
       \field{dateera}{ce}
@@ -1222,7 +1222,7 @@
       \field{pages}{13\bibrangedash 30}
       \range{pages}{18}
     \endentry
-    \entry{4233-MOGUILLANSKY2022}{inproceedings}{}
+    \entry{4233-MOGUILLANSKY2022}{incollection}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=29f623ef03e42fc480debad2e2ad3f2b}{%
            family={Moguillansky},
@@ -1267,6 +1267,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{XI Jornadas de Sociología de la UNLP}
       \field{eventtitle}{XI Jornadas de Sociología de la UNLP}
       \field{langid}{spanish}
       \field{title}{Emociones, sociabilidad y espacio doméstico: adolescentes y adultos mayores durante la pandemia del Covid-19}
@@ -3889,9 +3890,6 @@
            given={Rachel},
            giveni={R\bibinitperiod},
            givenun=0}}%
-      }
-      \list{language}{1}{%
-        {48-58}%
       }
       \strng{namehash}{7cf6dc64063cdff528099733d4ecae42}
       \strng{fullhash}{ae083f8dea2643296fdfb48112171172}

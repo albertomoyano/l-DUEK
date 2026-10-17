@@ -2,6 +2,7 @@
   <title>Un tiempo diferente</title>
   <subtitle>Vida cotidiana y pandemia</subtitle>
   <biblioid class="isbn" role="print">978-950-793-487-2</biblioid>
+  <biblioid class="isbn" role="electronic">978-950-793-487-2</biblioid>
   <editor role="compiler">
     <personname>
       <firstname>Marina</firstname>
@@ -45,7 +46,7 @@
     <para><link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</link></para>
   </legalnotice>
   <bibliomisc role="repo-produccion-privado">yes</bibliomisc>
-  <bibliomisc role="csl-style">apa.csl</bibliomisc>
+  <bibliomisc role="csl-style">verona-modern</bibliomisc>
   <mediaobject role="tapa">
     <imageobject>
       <imagedata fileref="../media/foto-tapa.png"/>

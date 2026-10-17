@@ -23,7 +23,7 @@
 
   --font-serif:  'Noto Serif', Georgia, serif;
   --font-sans:   'IBM Plex Sans', system-ui, sans-serif;
-  --font-mono:   'JetBrains Mono', 'Courier New', monospace;
+  --font-mono:   'IBM Plex Mono', 'Courier New', monospace;
 
   --text-xs:   0.75rem;    /* 13.5px — metadatos, labels */
   --text-sm:   0.875rem;   /* 15.75px — abstracts, panel */
@@ -652,18 +652,6 @@ details[open] .abstract-texto {
 .list-bullet .list-bullet { list-style-type: circle; }
 .list-bullet .list-bullet .list-bullet { list-style-type: square; }
 
-/* DIÁLOGO / ENTREVISTA */
-.speech-item {
-  margin: 0.3rem 0;
-  line-height: var(--line-height-body);
-}
-.speech-speaker {
-  font-family: var(--font-serif);
-  font-size: var(--text-base);
-  font-weight: 600;
-  color: var(--color-accent);
-}
-
 /* FIGURAS */
 .fig-wrapper {
   margin: 2rem 0;
@@ -695,44 +683,6 @@ details[open] .abstract-texto {
   font-size: var(--text-sm);
   color: var(--color-text-muted);
   margin-top: 0.25rem;
-}
-
-/* VERSOS */
-.verse-group {
-  margin: 1.5rem 0 1.5rem 2rem;
-  font-style: italic;
-}
-
-.verse-line {
-  display: block;
-  line-height: 1.6;
-}
-
-/* CÓDIGO FUENTE */
-.code-block {
-  margin: 1.5rem 0;
-  background: var(--color-code-bg);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-lg);
-  overflow: hidden;
-}
-
-.code-lang-label {
-  font-family: var(--font-mono);
-  font-size: var(--text-xs);
-  color: var(--color-text-muted);
-  background: var(--color-border);
-  padding: 0.3rem 0.75rem;
-  display: block;
-}
-
-.code-block pre {
-  font-family: var(--font-mono);
-  font-size: var(--text-sm);
-  line-height: 1.6;
-  padding: 1rem 1.25rem;
-  overflow-x: auto;
-  margin: 0;
 }
 
 /* RECUADRO */
@@ -987,6 +937,12 @@ details[open] .abstract-texto {
 /* VERSALITAS: [x]{.smallcaps} DEL .md (SC-30) */
 .versalitas { font-variant: small-caps; }
 
+/* ÉNFASIS DENTRO DE ÉNFASIS: REDONDA, COMO \emph EN LaTeX. ES EL «ENROQUE»
+   DE UN TÍTULO EN CURSIVA QUE NOMBRA OTRA OBRA (\emph EN UNA REFERENCIA,
+   SC-57): tex4ht ESCRIBE <em> DENTRO DE <em>, Y EL NAVEGADOR LO DEJA EN
+   CURSIVA */
+em em { font-style: normal; }
+
 /* LOS PÁRRAFOS DE UNA NOTA EN EL PANEL: EL CONTENIDO LLEGA COMO HTML
    (SC-29), CADA PÁRRAFO EN SU <p>. SIN MARGEN ARRIBA DEL PRIMERO, Y
    POCO ENTRE PÁRRAFOS, PARA QUE EL ÍTEM SIGA SIENDO COMPACTO. */
@@ -1000,6 +956,19 @@ details[open] .abstract-texto {
   line-height: 1.55;
   color: var(--color-text);
 }
+
+/* REFERENCIAS DE biblatex (SC-57): EL TEXTO LO ESCRIBIÓ EL ESTILO, ENTERO.
+   SANGRÍA FRANCESA, COMO EN EL PDF; EL padding DE .panel-item SE CONSERVA */
+.ref-item.ref-biblatex {
+  font-family: var(--font-serif);   /* NOTO SERIF: TRAE smcp Y c2sc (GV-104) */
+  text-indent: -1.2em;
+  padding-left: calc(0.75rem + 1.2em);
+}
+
+/* VERSALITAS DE biblatex (SC-56): EL TEXTO LLEGA CON SU CAJA («Abdala,
+   Omar») Y SE VE COMO EN EL PDF, TODO EN VERSALITAS. LA FUENTE TIENE QUE
+   TRAER smcp Y c2sc; SI NO, EL NAVEGADOR LAS FABRICA ACHICANDO MAYÚSCULAS */
+.versalitas-todas { font-variant-caps: all-small-caps; }
 
 .ref-item:hover {
   background: var(--color-accent-soft);
@@ -1417,27 +1386,79 @@ details[open] .abstract-texto {
   background: var(--color-tabla-fila);   /* AZUL 8% */
 }
 
-/* ────────────────────────────────────────────────────────────────────
-   CÓDIGO — bloque e inline (opción A: fondo gris muy suave)
-   ──────────────────────────────────────────────────────────────────── */
-.code-block {
-  background: var(--color-code-bg);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius);
-  padding: 1rem 1.25rem;
+/* CÓDIGO (SC-42). LA PALETA ES Gruvbox, LA DEL TEMA DE LA APLICACIÓN
+   (.hidden/themes/gruvbox.theme). LOS TOKENS SON LAS CLASES DE
+   skylighting QUE ESCRIBE colorear_codigo.lua. EL NÚMERO DE LÍNEA Y EL
+   ↩ LOS DIBUJA EL CSS: ASÍ NO SE COPIAN CON EL CÓDIGO.
+   GEMELOS: jats-to-html.xsl, gbpublisher.css, preambulo-contrato.tex Y
+   m_XML.ObtenerPreambuloEmbebido. UN CAMBIO DE COLOR VA EN LOS CUATRO. */
+.gb-codigo {
   margin: 1.5rem 0;
+  background: #282828;
+  color: #ebdbb2;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.gb-codigo-cab {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: #a89984;
+  background: #3c3836;
+  padding: 0.3rem 0.9rem;
+}
+.gb-codigo-cuerpo {
+  margin: 0;
+  padding: 0.8rem 1rem 0.8rem 0;
   overflow-x: auto;
+  background: none;
+  border: 0;
   font-family: var(--font-mono);
   font-size: var(--text-sm);
   line-height: 1.6;
+  color: inherit;
 }
-.code-block code {
-  font-family: var(--font-mono);
+.gb-codigo-cuerpo code {
+  font-family: inherit;
+  font-size: inherit;
   background: none;
+  border: 0;
   padding: 0;
-  border: none;
+  color: inherit;
   white-space: pre;
 }
+.gb-l::before {
+  content: attr(data-n);
+  display: inline-block;
+  width: 2.5em;
+  padding-right: 1.2em;
+  text-align: right;
+  color: #7c6f64;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.gb-ret::after {
+  content: "\21A9";
+  color: #7c6f64;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.gb-codigo .kw, .gb-codigo .cf { color: #83a598; font-weight: bold; }
+.gb-codigo .dt, .gb-codigo .at { color: #fabd2f; }
+.gb-codigo .dv, .gb-codigo .bn, .gb-codigo .fl, .gb-codigo .cn { color: #d3869b; }
+.gb-codigo .ch, .gb-codigo .st, .gb-codigo .vs, .gb-codigo .ss { color: #b8bb26; }
+.gb-codigo .sc, .gb-codigo .im, .gb-codigo .pp { color: #fe8019; }
+.gb-codigo .co, .gb-codigo .do, .gb-codigo .an, .gb-codigo .cv,
+.gb-codigo .in { color: #928374; font-style: italic; }
+.gb-codigo .re { color: #928374; }
+.gb-codigo .ot, .gb-codigo .fu, .gb-codigo .op, .gb-codigo .bu,
+.gb-codigo .ex { color: #8ec07c; }
+.gb-codigo .wa { color: #fe8019; font-weight: bold; }
+.gb-codigo .al { color: #fb4934; font-weight: bold; }
+.gb-codigo .er { color: #fb4934; }
+/* LISTADO: EL BLOQUE CON SU PIE «Código N», COMO UNA FIGURA */
+.gb-listado { margin: 1.5rem 0; }
+.gb-listado .gb-codigo { margin: 0; }
+/* CÓDIGO EN LÍNEA: GRIS SUAVE */
 .code-inline {
   font-family: var(--font-mono);
   font-size: 0.9em;
@@ -1541,6 +1562,51 @@ details[open] .abstract-texto {
   border-top: 0.6pt solid currentColor;
 }
 
+/* RECUADROS (SC-41): FONDO GRIS 7 %. recuadro: FILETE DE 1 PT Y ESQUINAS
+   DE 5 PT. recuadro-barra: SIN FILETE, ESQUINAS RECTAS Y BARRA DE 1 PICA
+   CON TEXTO BLANCO CENTRADO EN ALTO, EN SANS NEGRITA Y MAYÚSCULAS: EL
+   RÓTULO DE .article-type-bar, SIN LAS ESQUINAS REDONDEADAS.
+   LAS MISMAS REGLAS EN gbpublisher.css, jats-to-html.xsl (AZUL),
+   gbpublisher-epub-libro.css Y m_GenerarEpub (NEGRO). */
+.recuadro {
+  margin: 1.5em 0;
+  background: #ededed;
+  border: 1pt solid var(--color-accent);
+  border-radius: 5pt;
+}
+.recuadro.recuadro-barra {
+  border: none;
+  border-radius: 0;
+}
+.recuadro .recuadro-cuerpo {
+  padding: 8pt;
+}
+.recuadro .recuadro-cuerpo > p:first-child {
+  text-indent: 0;
+  margin-top: 0;
+}
+/* SIN EL MARGEN DEL ÚLTIMO PÁRRAFO: EL BLANCO DE ABAJO ES IGUAL AL DE ARRIBA */
+.recuadro .recuadro-cuerpo > p:last-child {
+  margin-bottom: 0;
+}
+.recuadro p.recuadro-titulo {
+  margin: 0;
+  padding: 0 8pt;
+  /* LA PICA DEL PDF EN MEDIDAS RELATIVAS: LETRA AL 80 % E INTERLÍNEA
+     DE 1,5, UNA BARRA DE 1,2 EM DEL CUERPO. CON MEDIDAS FIJAS LA BARRA
+     NO ACOMPAÑA AL LECTOR QUE AGRANDA LA LETRA */
+  font-size: 0.8em;
+  line-height: 1.5;
+  text-indent: 0;
+  text-align: left;
+  background: var(--color-accent);
+  color: #ffffff;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
 /* ────────────────────────────────────────────────────────────────────
    ALERTAS / RECUADROS (admonitions)
    ────────────────────────────────────────────────────────────────────
@@ -1606,34 +1672,54 @@ details[open] .abstract-texto {
 
 /* ────────────────────────────────────────────────────────────────────
    VERSO / POESÍA
-   ────────────────────────────────────────────────────────────────────
-   Preserva saltos de línea. Sangría e itálica suave, centrado a la
-   izquierda con un margen que lo separa del cuerpo. */
+   ──────────────────────────────────────────────────────────────────── */
+/* VERSO (SC-49). LA COMPOSICIÓN DEL PDF (PAQUETE verse): BASTARDILLA,
+   A 2,5 em DEL MARGEN (\leftmargini DE LA CLASE book); ENTRE ESTROFAS,
+   0,75 DE LÍNEA (\stanzaskip). CADA VERSO ES UN BLOQUE: SI NO ENTRA,
+   SIGUE A 3 em DEL MARGEN DEL POEMA (\vindent). LA SANGRÍA ES 1,5 em POR
+   NIVEL (\vgap) SOBRE LA PRIMERA LÍNEA: text-indent NEGATIVO HASTA EL
+   NIVEL 2. EN UN EPÍGRAFE, LA LETRA DEL EPÍGRAFE, SIN BASTARDILLA NI
+   MARGEN.
+   LAS MISMAS REGLAS EN gbpublisher.css, gbpublisher-epub-libro.css,
+   jats-to-html.xsl Y m_GenerarEpub. */
 .verso {
-  margin: 1.5rem 0;
-  padding-left: 1.5rem;
-  border-left: 2px solid var(--color-border);
-  font-family: var(--font-serif);
+  margin: 1.5em 0 1.5em 2.5em;
   font-style: italic;
-  color: var(--color-text);
-  line-height: 1.8;
 }
-.verso-linea { display: block; }
+.estrofa + .estrofa {
+  margin-top: 0.75em;
+}
+.verso-linea {
+  display: block;
+  padding-left: 3em;
+  text-indent: -3em;
+  text-align: left;
+}
+.verso-linea.nivel-1 { text-indent: -1.5em; }
+.verso-linea.nivel-2 { text-indent: 0; }
+.verso-linea.nivel-3 { text-indent: 1.5em; }
+.verso-linea.nivel-4 { text-indent: 3em; }
+.verso-linea.nivel-5 { text-indent: 4.5em; }
+.verso-linea.nivel-6 { text-indent: 6em; }
+.verso-linea.nivel-7 { text-indent: 7.5em; }
+.verso-linea.nivel-8 { text-indent: 9em; }
+.verso-linea.nivel-9 { text-indent: 10.5em; }
+.epigrafe .verso-epigrafe {
+  margin: 0;
+  font-style: normal;
+}
+/* LA BASTARDILLA DENTRO DEL VERSO SALE REDONDA, COMO EL \emph DEL PDF */
+.verso em { font-style: normal; }
+.epigrafe .verso-epigrafe em { font-style: italic; }
 
 /* ────────────────────────────────────────────────────────────────────
-   DISCURSO / DIÁLOGO (entrevistas, transcripciones)
+   CONVERSACIÓN (SC-43): entrevistas, reportajes, historia oral
+   La tipografía del texto. La etiqueta (ya en mayúsculas) en negrita
+   y azul, la de quien pregunta y la de quien responde. Sin sangría ni
+   espacio extra al abrir y al cerrar. GEMELOS: jats-to-html.xsl (AZUL),
+   gbpublisher-epub-libro.css Y m_GenerarEpub (NEGRO).
    ──────────────────────────────────────────────────────────────────── */
-.speech {
-  margin: 1rem 0;
-  padding-left: 1rem;
-  border-left: 2px solid var(--color-accent-soft);
-}
-.speech-speaker {
-  font-family: var(--font-sans);
-  font-weight: 600;
-  color: var(--color-accent);
-  margin-right: 0.35rem;
-}
+.turno-etiqueta { font-weight: 600; color: var(--color-accent); }
 
 
 /* ────────────────────────────────────────────────────────────────────

@@ -1118,7 +1118,7 @@
       <issuenum>11</issuenum>
       <artpagenums>61-87</artpagenums>
     </biblioentry>
-    <biblioentry xml:id="bib-4233-MOGUILLANSKY2022" pubwork="other" otherpubwork="inproceedings">
+    <biblioentry xml:id="bib-4233-MOGUILLANSKY2022" pubwork="chapter">
       <author>
         <personname>
           <surname>Moguillansky</surname>
@@ -1149,7 +1149,8 @@
           <firstname>Brenda</firstname>
         </personname>
       </author>
-      <citetitle pubwork="other">Emociones, sociabilidad y espacio doméstico: adolescentes y adultos mayores durante la pandemia del Covid-19</citetitle>
+      <title>Emociones, sociabilidad y espacio doméstico: adolescentes y adultos mayores durante la pandemia del Covid-19</title>
+      <citetitle pubwork="book">XI Jornadas de Sociología de la UNLP</citetitle>
       <pubdate>2022</pubdate>
     </biblioentry>
     <biblioentry xml:id="bib-4234-SAP2020" pubwork="book">
@@ -1691,7 +1692,7 @@
         </personname>
       </author>
       <title>Efectos asimétricos de la pandemia por Covid-19 en la calidad de vida de los hogares. El caso de la ciudad de Córdoba, Argentina</title>
-      <citetitle pubwork="journal">Población \&amp; Sociedad</citetitle>
+      <citetitle pubwork="journal">Población &amp; Sociedad</citetitle>
       <pubdate>2023</pubdate>
       <volumenum>30</volumenum>
       <issuenum>1</issuenum>

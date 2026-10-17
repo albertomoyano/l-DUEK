@@ -3,4 +3,5 @@
   <bibliomisc role="seccion-libro">bm</bibliomisc>
   <bibliomisc role="orden-seccion">11</bibliomisc>
   <bibliomisc role="tipo-capitulo">sobre_autores</bibliomisc>
+  <bibliomisc role="csl-style">verona-modern</bibliomisc>
 </info>

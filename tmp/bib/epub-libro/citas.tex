@@ -1,0 +1,37 @@
+% ============================================================
+% citas.tex — DOCUMENTO MÍNIMO DE LA PASADA DE tex4ht (SC-57)
+% LO ESCRIBE preparar_citas_libro.sh: NO SE EDITA A MANO
+% ============================================================
+\documentclass{book}
+\input{citas-proyecto}
+\usepackage{fontspec}
+% EL MISMO IDIOMA Y LAS MISMAS COMILLAS QUE EL PDF
+% (preambulo-contrato.tex, SECCIÓN IDIOMA)
+\usepackage[\gbidiomas]{babel}
+\usepackage[autostyle=true]{csquotes}
+\input{cita-\estandar-config.tex}
+\input{cita-\estandar-html.tex}
+% EL .bib SE COPIA A LA CARPETA: \gbarchivobib ES RELATIVO A LA
+% RAÍZ DEL PROYECTO, Y ESTE DOCUMENTO SE COMPILA EN OTRO LUGAR
+\addbibresource{ref-l-DUEK.bib}
+\usepackage{hyperref}
+% EN UNA COMPILACIÓN COMÚN SOLO ENVUELVE; cita-tex4ht.cfg LA
+% REDEFINE COMO <span id="gbcita-...">
+\newcommand*{\gbcita}[2]{#2}
+% LA MARCA DE CADA BIBLIOGRAFÍA: EN UNA COMPILACIÓN COMÚN NO
+% ESCRIBE NADA; cita-tex4ht.cfg LA REDEFINE COMO <span id="gbbib-...">
+\newcommand*{\gbbibliografia}[1]{}
+\begin{document}
+\input{c-fm-10-INTRODUCCION}
+\input{c-a-01-CAP01}
+\input{c-a-02-CAP02}
+\input{c-a-03-CAP03}
+\input{c-a-04-CAP04}
+\input{c-a-05-CAP05}
+\input{c-a-06-CAP06}
+\input{c-bm-10-CODA}
+\input{c-bm-11-CV-AUTORES}
+% BIBLIOGRAFÍA CONSOLIDADA: UNA SOLA, AL FINAL, COMO EN EL PDF.
+% POR CAPÍTULO LA CIERRA CADA PIEZA EN SU refsection (GV-102)
+\ifgbbibporcapitulo\else\gbbibliografia{libro}\gbImprimirBibliografia\fi
+\end{document}

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id" xml:lang="es">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-<dc:identifier id="pub-id">urn:gbpublisher:libro-3</dc:identifier>
+<dc:identifier id="pub-id">urn:isbn:978-950-793-487-2</dc:identifier>
 <dc:title>Un tiempo diferente</dc:title>
 <dc:language>es</dc:language>
 <dc:creator id="creador1">Marina Moguillansky</dc:creator>
@@ -13,7 +13,7 @@
 <dc:publisher>Ediciones Imago Mundi</dc:publisher>
 <dc:date>2026</dc:date>
 <dc:rights>https://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
-<meta property="dcterms:modified">2026-10-06T12:17:19Z</meta>
+<meta property="dcterms:modified">2026-10-17T17:25:31Z</meta>
 <meta name="cover" content="cover-image"/>
 </metadata>
 <manifest>
