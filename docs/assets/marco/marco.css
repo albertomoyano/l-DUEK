@@ -1,0 +1,559 @@
+/* estilo.css — gbWeb
+   ============================================================================
+   LA HOJA DE TODOS LOS PORTALES. LO QUE CAMBIA DE UN PORTAL A OTRO ES EL LOGO
+   Y LA IMAGEN (media/ DEL PORTAL); EL DISEÑO ES ESTE.
+
+   PALETA: LA DEL HTML DEL LIBRO EN gbpublisher (gbpublisher.css, :root), PARA
+   QUE EL PORTAL Y LOS SITIOS DE LAS OBRAS SEAN DE LA MISMA FAMILIA.
+   TIPOGRAFÍA: NOTO SERIF 400 Y 600, SERVIDA DESDE EL PROPIO SITIO (fuentes/),
+   SIN GOOGLE FONTS: EL PORTAL NO DEPENDE DE UN SERVICIO EXTERNO.
+   ============================================================================ */
+
+/* --- 1. FUENTES ---
+   UN @font-face POR ESTILO, PESO Y JUEGO DE CARACTERES. EL NAVEGADOR BAJA
+   SOLO LOS JUEGOS QUE USA LA PÁGINA (unicode-range). LOS RANGOS SON LOS DE
+   fuentes/LEEME.md */
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fuentes/noto-serif-normal-400-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fuentes/noto-serif-normal-400-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0300-036F, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fuentes/noto-serif-normal-400-greek.woff2') format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF, U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fuentes/noto-serif-normal-600-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fuentes/noto-serif-normal-600-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0300-036F, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fuentes/noto-serif-normal-600-greek.woff2') format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF, U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fuentes/noto-serif-italic-400-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fuentes/noto-serif-italic-400-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0300-036F, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fuentes/noto-serif-italic-400-greek.woff2') format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF, U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fuentes/noto-serif-italic-600-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fuentes/noto-serif-italic-600-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0300-036F, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fuentes/noto-serif-italic-600-greek.woff2') format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF, U+1F00-1FFF;
+}
+
+/* LA MONOESPACIADA: NOTO SANS MONO 400 Y 600, LA DE LA MISMA FAMILIA
+   (DECISIÓN DE ALBERTO, 05/11/2026). SIN CURSIVA: LA FAMILIA NO LA TIENE.
+   LA USAN EL CÓDIGO DE LOS LIBROS INTEGRADOS (QUE TOMAN ESTA HOJA CON EL
+   MARCO) Y CUALQUIER code/pre DEL PORTAL */
+@font-face {
+  font-family: 'Noto Sans Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fuentes/noto-sans-mono-normal-400-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Noto Sans Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fuentes/noto-sans-mono-normal-400-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0300-036F, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Noto Sans Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fuentes/noto-sans-mono-normal-600-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Noto Sans Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fuentes/noto-sans-mono-normal-600-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0300-036F, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* --- 2. VARIABLES --- */
+:root {
+  --color-bg:          #fafaf8;
+  --color-surface:     #ffffff;
+  --color-border:      #e2e0db;
+  --color-text:        #1a1a18;
+  --color-text-muted:  #6b6860;
+  --color-accent:      #2d5a8e;
+  --color-accent-soft: #eef3f9;
+
+  --font-serif: 'Noto Serif', Georgia, serif;
+  --font-mono:  'Noto Sans Mono', 'DejaVu Sans Mono', monospace;
+
+  --ancho:        1200px;  /* EL CONTENEDOR (DECISIÓN DE ALBERTO) */
+  --alto-franja:  76px;    /* UNOS 2 cm */
+  --ancho-tapita: 110px;   /* LA TAPA EN LAS FILAS */
+  --ancho-tapa:   280px;   /* LA TAPA EN LA FICHA: LA DEL HTML DEL LIBRO
+                              (COLUMNA DE 320 px MENOS 20 px A CADA LADO) */
+  --radius: 4px;
+  --shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
+
+/* --- 3. BASE --- */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+}
+
+code, pre, kbd, samp { font-family: var(--font-mono); }
+
+/* LA NEGRITA ES 600, COMO EN EL LIBRO: NO HAY 700 */
+b, strong, h1, h2, h3, th { font-weight: 600; }
+
+a { color: var(--color-accent); }
+
+img { max-width: 100%; }
+
+.contenedor {
+  max-width: var(--ancho);
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* --- 4. CABECERA: LA MISMA EN TODAS LAS PÁGINAS --- */
+/* LOS FILETES VAN DENTRO DEL CONTENEDOR: TODOS DEL MISMO ANCHO */
+
+.franja {
+  height: var(--alto-franja);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.logo { display: flex; align-items: center; height: 100%; text-decoration: none; }
+.logo img { max-height: calc(var(--alto-franja) - 20px); width: auto; display: block; }
+.logo-texto { font-size: 1.4rem; font-weight: 600; color: var(--color-accent); }
+
+/* EL MENÚ: LA MATRIZ DE menu.xml. EL DESPLEGABLE SIN JAVASCRIPT: SE ABRE
+   CON EL PUNTERO (:hover) Y CON EL TECLADO O UN TOQUE (:focus-within) */
+.menu ul { list-style: none; margin: 0; padding: 0; }
+.menu > ul { display: flex; gap: 1.5rem; align-items: center; }
+.menu a, .grupo-titulo { text-decoration: none; color: var(--color-text); cursor: pointer; }
+.menu a:hover, .grupo-titulo:hover { color: var(--color-accent); }
+.menu a[aria-current="page"], .grupo.activo > .grupo-titulo { color: var(--color-accent); }
+.grupo { position: relative; }
+.grupo-titulo::after { content: " ▾"; font-size: 0.8em; }
+.submenu {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  z-index: 10;
+  min-width: 15rem;
+  padding: 0.4rem 0 !important;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+.grupo:hover .submenu, .grupo:focus-within .submenu { display: block; }
+.submenu a { display: block; padding: 0.35rem 1rem; }
+
+.herramientas {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--color-border);  /* EL FILETE QUE CIERRA LA CABECERA */
+}
+
+.buscar input {
+  font: inherit;
+  font-size: 0.95rem;
+  width: 16rem;
+  max-width: 100%;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  background: var(--color-surface);
+}
+
+/* EL BUSCADOR Y, A SU DERECHA, COMPARTIR LA PÁGINA ABIERTA */
+.buscar-compartir { display: flex; align-items: center; gap: 1.25rem; flex-wrap: wrap; }
+
+/* LOS ÍCONOS TOMAN EL COLOR DEL ENLACE (currentColor) */
+.icono { display: block; width: 18px; height: 18px; }
+.compartir, .pie-redes { display: flex; align-items: center; gap: 0.7rem; }
+.compartir a { color: var(--color-text-muted); display: block; }
+.compartir a:hover { color: var(--color-accent); }
+.pie-redes a { color: #fff; display: block; opacity: 0.85; }
+.pie-redes a:hover { opacity: 1; }
+
+.idiomas { display: flex; gap: 0.75rem; }
+.idiomas a { display: block; padding-bottom: 4px; border-bottom: 2px solid transparent; }
+/* EL FILETE SOBRE EL IDIOMA ACTIVO (DECISIÓN DE ALBERTO) */
+.idiomas a.activo { border-bottom-color: var(--color-accent); }
+.idiomas img { display: block; width: 25px; height: 14px; }
+
+/* --- 5. INICIO: LA IMAGEN Y LAS FILAS --- */
+.destacada {
+  margin-top: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--color-border);  /* LA IMAGEN PUEDE TENER FONDO BLANCO */
+}
+/* AL ANCHO DEL CONTENEDOR; EL ALTO LO DA SU PROPORCIÓN */
+.destacada img { display: block; width: 100%; height: auto; }
+
+/* «ÚLTIMOS TÍTULOS» Y «OTROS LIBROS SUGERIDOS»: A LA IZQUIERDA, EN AZUL */
+.seccion { font-size: 1.3rem; line-height: 1.3; font-weight: 600; color: var(--color-accent); margin: 1.5rem 0 0.25rem; }
+
+/* LAS FILAS EN DOS COLUMNAS (DECISIÓN DE ALBERTO): EN EL INICIO 2 × 2, EN EL
+   CATÁLOGO 4 × 2. SIN FILETE VERTICAL: SEPARA EL HUECO ENTRE COLUMNAS. CADA
+   CELDA LLEVA SU FILETE ABAJO, Y LAS DE UNA MISMA FILA QUEDAN A LA MISMA
+   ALTURA (stretch) */
+.libros {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 2.5rem;
+}
+
+.fila {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--color-border);  /* EL FILETE ENTRE LIBROS */
+}
+.fila-tapa { flex: 0 0 var(--ancho-tapita); }
+.fila-tapa img { display: block; width: 100%; height: auto; box-shadow: var(--shadow); }
+.fila-datos { flex: 1 1 auto; min-width: 0; }
+.fila-titulo { font-size: 1.25rem; line-height: 1.3; margin: 0 0 0.2rem; }
+.fila-titulo a { color: var(--color-text); text-decoration: none; }
+.fila-titulo a:hover { color: var(--color-accent); }
+
+.subtitulo { margin: 0 0 0.4rem; color: var(--color-text-muted); }
+.personas { margin: 0.15rem 0; }
+.personas .rol { color: var(--color-text-muted); }
+
+.datos { margin: 0.5rem 0 0; font-size: 0.9rem; color: var(--color-text-muted); }
+.datos span + span::before { content: " · "; }
+
+/* LA TAPA QUE FALTA: UNA CAJA CON LA PROPORCIÓN DE UN LIBRO */
+.tapa-vacia {
+  aspect-ratio: 2 / 3;
+  width: 100%;
+  background: var(--color-accent-soft);
+  border: 1px dashed var(--color-border);
+  border-radius: var(--radius);
+}
+
+.ver-catalogo { text-align: right; margin: 1rem 0 0; }
+.ver-catalogo a { text-decoration: none; }
+
+.titulo-pagina { font-size: 1.9rem; line-height: 1.25; margin: 2rem 0 1rem; }
+
+/* LAS PÁGINAS ESCRITAS: EL MARKDOWN DEL PORTAL */
+.escrita .contenido { max-width: 46rem; }
+.escrita .contenido h2 { font-size: 1.3rem; margin: 1.75rem 0 0.5rem; }
+.escrita .contenido h3 { font-size: 1.1rem; margin: 1.5rem 0 0.4rem; }
+.escrita .contenido table { border-collapse: collapse; margin: 1rem 0; }
+.escrita .contenido th, .escrita .contenido td { border: 1px solid var(--color-border); padding: 0.3rem 0.6rem; }
+.escrita .footnotes { font-size: 0.9rem; color: var(--color-text-muted); }
+
+/* --- 6. PAGINACIÓN --- */
+.paginas {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+}
+.paginas a, .paginas .apagada { font-size: 1.5rem; text-decoration: none; line-height: 1; }
+.paginas .apagada { color: var(--color-border); }
+.paginas .numero { color: var(--color-text-muted); font-size: 0.9rem; }
+
+/* --- 7. FICHA: DOS COLUMNAS --- */
+.ficha {
+  display: grid;
+  grid-template-columns: var(--ancho-tapa) 1fr;
+  gap: 2.5rem;
+  padding: 2rem 0;
+  align-items: start;
+}
+.ficha-tapa img { display: block; width: 100%; height: auto; border-radius: var(--radius); box-shadow: var(--shadow); }
+.ficha h1 { font-size: 1.9rem; line-height: 1.25; margin: 0 0 0.3rem; }
+.ficha .subtitulo { font-size: 1.2rem; }
+.ficha h2 { font-size: 1.05rem; margin: 1.5rem 0 0.4rem; color: var(--color-text-muted); }
+/* EL RESUMEN: LA ETIQUETA CON EL TRIÁNGULO, COMO EN gbpublisher. CERRADO
+   MUESTRA TRES LÍNEAS; LA CASILLA (OCULTA) LO ABRE Y LO CIERRA */
+.resumen { position: relative; margin-top: 1.25rem; }
+.resumen-casilla { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.resumen-etiqueta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  user-select: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-accent);
+  padding: 0.3rem 0;
+}
+.resumen-etiqueta::before { content: "▶"; font-size: 0.6rem; transition: transform 0.2s; }
+.resumen-casilla:checked + .resumen-etiqueta::before { transform: rotate(90deg); }
+.resumen-casilla:focus-visible + .resumen-etiqueta { outline: 2px solid var(--color-accent); outline-offset: 2px; }
+.resumen-texto {
+  margin: 0.3rem 0 0;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  overflow: hidden;
+}
+.resumen-casilla:checked ~ .resumen-texto { display: block; -webkit-line-clamp: unset; line-clamp: none; overflow: visible; }
+
+/* ORCID: EL ÍCONO ES EL ENLACE (16 px EN PANTALLA, DE UN PNG DE 28 px) */
+.orcid { display: inline-block; vertical-align: -2px; line-height: 0; }
+.orcid img { display: inline-block; }
+
+.metadatos { display: grid; grid-template-columns: max-content 1fr; gap: 0.2rem 1.25rem; margin: 1.5rem 0 0; font-size: 0.95rem; }
+.metadatos dt { color: var(--color-text-muted); }
+.metadatos dd { margin: 0; }
+
+/* --- 8. MARCAS Y BOTONES: SALEN DE LOS DATOS (SC-80) --- */
+.marca {
+  display: inline-block;
+  margin-top: 0.4rem;
+  padding: 0.05rem 0.5rem;
+  border: 1px solid var(--color-text-muted);
+  border-radius: var(--radius);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+}
+
+.botones { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.75rem 0 0; }
+/* LOS CUATRO DEL MISMO ANCHO (DECISIÓN DE ALBERTO): EL DEL TEXTO MÁS
+   LARGO DE LOS TRES IDIOMAS («Descargar EPUB») */
+.boton {
+  display: inline-block;
+  width: 11rem;
+  text-align: center;
+  padding: 0.45rem 1rem;
+  border: 1px solid var(--color-accent);
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.boton:hover { background: var(--color-accent-soft); }
+/* LAS TIENDAS: UNA FILA DEBAJO, CON EL ÍCONO ADENTRO DEL BOTÓN, ANTES DEL
+   NOMBRE. EL MISMO ANCHO QUE LOS DE ARRIBA */
+.botones.tiendas { margin-top: 0.6rem; }
+.boton-tienda { display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; }
+.boton-tienda .icono { flex: 0 0 auto; }
+
+/* LOS SUGERIDOS: DEBAJO DE LA FICHA, DESPUÉS DE UN FILETE */
+.sugeridos { border-top: 1px solid var(--color-border); }
+
+/* --- 8b. LA VENTANA «MÉTRICAS»: SIN JAVASCRIPT, COMO EL RESUMEN. LA
+   CASILLA OCULTA LA ABRE; EL FONDO Y LA X SON ETIQUETAS QUE LA CIERRAN --- */
+.metricas-linea { margin: 1rem 0 0; }
+.metricas-casilla { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.boton-metricas { display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; cursor: pointer; color: var(--color-accent); }
+.boton-metricas .icono { width: 16px; height: 16px; }
+.metricas-casilla:focus-visible + .boton-metricas { outline: 2px solid var(--color-accent); outline-offset: 2px; }
+
+.metricas-fondo {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+.metricas-casilla:checked ~ .metricas-fondo { display: flex; }
+.metricas-afuera { position: absolute; inset: 0; background: rgba(26, 26, 24, 0.45); cursor: default; }
+.metricas {
+  position: relative;
+  width: min(760px, 100%);
+  max-height: calc(100vh - 32px);
+  overflow-y: auto;
+  padding: 1.5rem 1.75rem 1.25rem;
+  border-radius: var(--radius);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+  background: var(--color-surface);
+}
+.metricas-cabeza { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem; }
+.metricas-cabeza h2 { margin: 0; font-size: 1.4rem; color: var(--color-text); }
+.metricas-cerrar { cursor: pointer; padding: 0.25rem; color: var(--color-text); line-height: 0; }
+.metricas-simulado {
+  margin: 0 0 1rem;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.85rem;
+  background: #fff3cd;
+  color: #6b4e00;
+  border-radius: var(--radius);
+}
+
+.metricas-totales { border-collapse: collapse; border-top: 3px solid var(--color-accent); font-size: 0.9rem; min-width: 60%; }
+.metricas-totales th { text-align: right; font-weight: 400; padding: 0.35rem 0.75rem; border: 1px solid var(--color-border); border-top: none; vertical-align: middle; }
+.metricas-totales th strong { font-size: 1.1rem; }
+.metricas-totales td { padding: 0.35rem 0.75rem; border: 1px solid var(--color-border); border-top: none; }
+.metricas-desde { font-size: 0.8rem; color: var(--color-text-muted); margin: 0.3rem 0 0; }
+
+.metricas-grafico { margin: 1rem 0 0.25rem; }
+.metricas-grafico svg { display: block; width: 100%; height: auto; }
+.metricas-grafico text { font-family: var(--font-serif); font-size: 11px; fill: var(--color-text-muted); }
+.metricas-grafico .grilla { stroke: var(--color-border); stroke-dasharray: 3 3; }
+.metricas-grafico .eje { stroke: var(--color-border); }
+.metricas-grafico .area-visitas { fill: rgba(45, 90, 142, 0.10); }
+.metricas-grafico .linea-visitas, .metricas-grafico .linea-descargas { fill: none; stroke-width: 2.5; stroke-linejoin: round; }
+.metricas-grafico .linea-visitas { stroke: var(--color-accent); }
+.metricas-grafico .linea-descargas { stroke: #c47a1a; }
+.metricas-grafico .punto-visitas { fill: var(--color-accent); }
+.metricas-grafico .punto-descargas { fill: #c47a1a; }
+.metricas-leyenda { font-size: 0.8rem; color: var(--color-text-muted); margin: 0; }
+.serie { display: inline-block; width: 18px; height: 3px; vertical-align: middle; margin: 0 0.3rem 0 0.9rem; }
+.serie-visitas { background: var(--color-accent); margin-left: 0; }
+.serie-descargas { background: #c47a1a; }
+
+.metricas-pie { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-top: 1.25rem; padding-top: 1rem; border-top: 1px solid var(--color-border); }
+.metricas-pie h3 { margin: 0 0 0.6rem; font-size: 1.1rem; }
+.metricas-citas-cuerpo { display: flex; gap: 1rem; align-items: center; }
+.metricas-insignia {
+  width: 84px; height: 84px; flex: 0 0 auto;
+  border-radius: 50%; border: 4px solid var(--color-accent);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+}
+.metricas-insignia strong { font-size: 1.5rem; line-height: 1; }
+.metricas-insignia span { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); }
+.metricas-citas table { font-size: 0.9rem; border-collapse: collapse; }
+.metricas-citas td { padding: 0.15rem 0.4rem; }
+.metricas-paises ol { margin: 0; padding: 0; list-style: none; font-size: 0.9rem; }
+.metricas-paises li { display: grid; grid-template-columns: 7.5rem 1fr 3rem; gap: 0.5rem; align-items: center; margin-bottom: 0.25rem; }
+.metricas-paises .barra { height: 8px; background: var(--color-accent-soft); border-radius: 4px; overflow: hidden; }
+.metricas-paises .barra i { display: block; height: 100%; background: var(--color-accent); }
+.metricas-paises .pc { text-align: right; color: var(--color-text-muted); }
+.metricas-nota { font-size: 0.75rem; color: var(--color-text-muted); margin: 0.6rem 0 0; }
+
+/* --- 9. PIE: EL MISMO EN TODAS LAS PÁGINAS --- */
+/* EL PIE SIEMPRE ABAJO: EN UNA PÁGINA CORTA, EL CONTENIDO SE ESTIRA Y EL
+   AZUL NO QUEDA FLOTANDO A MITAD DE PANTALLA */
+body { display: flex; flex-direction: column; min-height: 100vh; }
+body > main { flex: 1 0 auto; width: 100%; }
+
+/* EL PIE EN AZUL, CON LETRA BLANCA (DECISIÓN DE ALBERTO): LA SEPARACIÓN
+   LA HACE EL FONDO, SIN FILETE */
+.pie {
+  margin-top: 2.5rem;
+  padding: 1.75rem 0 2.5rem;
+  font-size: 0.9rem;
+  background: var(--color-accent);
+  color: #fff;
+}
+.pie a { color: #fff; }
+.pie-filas { display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; flex-wrap: wrap; }
+.pie-datos p { margin: 0 0 0.2rem; }
+.pie-nombre { font-weight: 600; }
+.pie-licencia { margin-top: 0.6rem !important; }
+.pie-redes .icono { width: 20px; height: 20px; }
+
+/* --- 10. PANTALLAS ANGOSTAS --- */
+@media (max-width: 700px) {
+  .franja { height: auto; min-height: 56px; flex-wrap: wrap; padding: 8px 0; }
+  .herramientas { flex-wrap: wrap; }
+  .buscar input { width: 100%; }
+  .libros { grid-template-columns: 1fr; }  /* EN EL TELÉFONO, UNA COLUMNA */
+  .fila { gap: 1rem; }
+  .fila-tapa { flex-basis: 80px; }
+  .ficha { grid-template-columns: 1fr; gap: 1.5rem; }
+  .ficha-tapa { max-width: var(--ancho-tapa); }
+  .metricas { padding: 1rem; }
+  .metricas-pie { grid-template-columns: 1fr; gap: 1.25rem; }
+  .metricas-totales { min-width: 100%; }
+}

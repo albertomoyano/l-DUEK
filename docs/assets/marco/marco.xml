@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marco portal="L-IMAGO" url-base="https://albertomoyano.github.io/L-IMAGO/">
+  <archivo ruta="en/cabecera.html" sha256="f28180ba96dfdd38c9b5e6cad03861f34963f56f8041df5266c7caceaa2cc0c3"/>
+  <archivo ruta="en/pie.html" sha256="a55f9f254d9bdadbd0e07677a67a1c3266ed809206dc750962766248a88bb882"/>
+  <archivo ruta="es/cabecera.html" sha256="b2f78caa4d1a307988efa7f69fdb319421b9d6da087103c0b4d51667f994b89f"/>
+  <archivo ruta="es/pie.html" sha256="d4782cdb43608ad9ab8ee68588108b9ae2ae0c649361e9889e370dff1ae87080"/>
+  <archivo ruta="fuentes/OFL.txt" sha256="cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"/>
+  <archivo ruta="fuentes/noto-sans-mono-normal-400-latin-ext.woff2" sha256="d869ce4fb2175eae7eed8874d0a0f224d8d4456011d97d8e8770e3ea61ebee23"/>
+  <archivo ruta="fuentes/noto-sans-mono-normal-400-latin.woff2" sha256="5e956f58e3778f7e98f61a6cb7925e156678242e55116701092a665f366ef28a"/>
+  <archivo ruta="fuentes/noto-sans-mono-normal-600-latin-ext.woff2" sha256="9e27ef78d62cd0ace4ef44c0f9ca00e72651e77a234ac807e85152172f198821"/>
+  <archivo ruta="fuentes/noto-sans-mono-normal-600-latin.woff2" sha256="67b16f718370aa61674512427491d5d4d05be416a47b88cb0a2528be2651efd3"/>
+  <archivo ruta="fuentes/noto-serif-italic-400-greek.woff2" sha256="03dea3774556d2d825d5a292b0bed2e0790f793ef9f835159d504fb5b2743b28"/>
+  <archivo ruta="fuentes/noto-serif-italic-400-latin-ext.woff2" sha256="886ecaa0e4b2ca061419bfe795b271a11f19e21c700015430983046798eec268"/>
+  <archivo ruta="fuentes/noto-serif-italic-400-latin.woff2" sha256="dddcdc108202a8d559b9463507c5b1ad7efd841bff92d94be1014d18fcf6fc21"/>
+  <archivo ruta="fuentes/noto-serif-italic-600-greek.woff2" sha256="93ab89dc47e7e64190047132a777ba96f1a0cb5fdde8b10d149eaf0ea1eb0873"/>
+  <archivo ruta="fuentes/noto-serif-italic-600-latin-ext.woff2" sha256="20e56f22e756660258a16a34c273df89675b8e01928a171784d3963cd52fa917"/>
+  <archivo ruta="fuentes/noto-serif-italic-600-latin.woff2" sha256="1786f9bc83d5e59ee1d5f2ea52da8faa3c1764a0f440152624cc7b0e4cb9642e"/>
+  <archivo ruta="fuentes/noto-serif-normal-400-greek.woff2" sha256="af30f4ee5f75eeb26222eba65208d92539554e3693071eebad527dea574382f7"/>
+  <archivo ruta="fuentes/noto-serif-normal-400-latin-ext.woff2" sha256="4051970d7ddc7a5937c378e59134331d6065ddcbfb124c3f17d9a307e866b957"/>
+  <archivo ruta="fuentes/noto-serif-normal-400-latin.woff2" sha256="ca9a27a2c0ba9b56f3acdd8c2ccc145f8078b50c3bed3786c9b0e2f9f194b69a"/>
+  <archivo ruta="fuentes/noto-serif-normal-600-greek.woff2" sha256="4718631b2ed6766151ca6c827711a5cef449949240931b08a7bcc6389526b76a"/>
+  <archivo ruta="fuentes/noto-serif-normal-600-latin-ext.woff2" sha256="6ac7da8fc94d048ec57bcd9a1bb04f72dd5b2714f879cb787f4e7d12250a79e5"/>
+  <archivo ruta="fuentes/noto-serif-normal-600-latin.woff2" sha256="0b141e18131c7721b08b9b9cf8dea115e7b758a4c0c645c1cd3fd5a62243a4c9"/>
+  <archivo ruta="marco.css" sha256="47cd5d2e6df5d9377a14696900639268da631f9d59a7fdeb1da4fdeb25ff54ba"/>
+  <archivo ruta="media/logo-portal-b6e5c4fa.png" sha256="b6e5c4fad1ae010b2372846dc628a9d3b1317eebaa49ff4c6928dcbb77947940"/>
+  <archivo ruta="pt/cabecera.html" sha256="c64315e467871253825a65ca22018a70f29f7f6537b3d854922a9b7a6a007d7a"/>
+  <archivo ruta="pt/pie.html" sha256="d4782cdb43608ad9ab8ee68588108b9ae2ae0c649361e9889e370dff1ae87080"/>
+</marco>

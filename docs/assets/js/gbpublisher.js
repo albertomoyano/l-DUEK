@@ -51,11 +51,16 @@
 // INICIALIZACIÓN: CONSTRUIR PANEL DESDE EL DOM
 // ============================================
 document.addEventListener('DOMContentLoaded', function() {
-  buildNotesPanel();
-  buildFigsPanel();
-  updateCounts();
+  // LA PÁGINA DE ENTRADA DEL LIBRO NO TIENE PANEL: SIN ESTA GUARDA,
+  // buildNotesPanel FALLABA ANTES DE LLEGAR A «CÓMO CITAR», QUE QUEDABA VACÍO
+  if (document.getElementById('rightPanel')) {
+    buildNotesPanel();
+    buildFigsPanel();
+    updateCounts();
+  }
   // MOSTRAR APA POR DEFECTO SIN EVENTO
-  document.getElementById('citar-output').textContent = generarCita('apa');
+  var citarOutput = document.getElementById('citar-output');
+  if (citarOutput) citarOutput.textContent = generarCita('apa');
 });
 
 // ============================================
@@ -637,7 +642,9 @@ function togglePanel() {
 // ============================================
 
 function openDrawerMeta() {
-  document.querySelector('.col-left').classList.add('drawer-open');
+  var colLeft = document.querySelector('.col-left');
+  if (!colLeft) return;
+  colLeft.classList.add('drawer-open');
   document.getElementById('drawerBackdrop').classList.add('open');
 }
 
@@ -647,8 +654,11 @@ function openDrawerPanel() {
 }
 
 function closeDrawers() {
-  document.querySelector('.col-left').classList.remove('drawer-open');
-  document.getElementById('rightPanel').classList.remove('drawer-open');
+  // EL HTML INTEGRADO AL PORTAL NO TIENE COLUMNA IZQUIERDA (MODELO 2)
+  var colLeft = document.querySelector('.col-left');
+  var panel   = document.getElementById('rightPanel');
+  if (colLeft) colLeft.classList.remove('drawer-open');
+  if (panel)   panel.classList.remove('drawer-open');
   document.getElementById('drawerBackdrop').classList.remove('open');
 }
 

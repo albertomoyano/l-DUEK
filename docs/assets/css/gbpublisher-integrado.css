@@ -1,0 +1,199 @@
+/* ============================================================================
+   gbpublisher-integrado.css — EL LIBRO DENTRO DEL MARCO DEL PORTAL
+   ============================================================================
+   LA USA SOLO LA SALIDA HTML INTEGRADA (docbook-to-html-portal.xsl). SE CARGA
+   DESPUÉS DE marco.css (LA HOJA DEL PORTAL, QUE PUBLICA gbWeb) Y DE
+   gbpublisher.css (LA DEL LIBRO), Y LAS ACOMODA ENTRE SÍ.
+
+   MEDIDAS (DECISIÓN DE ALBERTO, 05/11/2026, MODELO 2), EN LOS 1168 px ÚTILES
+   DEL CONTENEDOR DEL PORTAL (1200 MENOS 16 A CADA LADO):
+       texto 600 | calle 24 | panel 544
+   EL ÍNDICE ES UN MENÚ QUE SE ABRE DESDE LA BARRA DEL LIBRO, DE 600 px, SOBRE
+   LA COLUMNA DEL TEXTO. DEBAJO DE 1232 px (1200 + LAS DOS BARRAS DE
+   DESPLAZAMIENTO HOLGADAS) EL PANEL ES UN CAJÓN, COMO EN LA SALIDA AUTÓNOMA.
+
+   UNA SOLA FAMILIA: NOTO. NOTO SERIF 400 Y 600 PARA TODO Y NOTO SANS MONO
+   PARA EL CÓDIGO, LAS DOS SERVIDAS DESDE assets/marco/fuentes/. SIN IBM PLEX.
+
+   ÍNDICE
+     1. Tipografía
+     2. La cabecera y el pie del portal
+     3. La barra del libro
+     4. El menú del índice
+     5. Las dos columnas
+     6. La cabeza del texto
+     7. Anterior / Siguiente al pie
+     8. La página de entrada: portada y créditos
+     9. Pantallas angostas: el panel como cajón
+   ============================================================================ */
+
+/* --- 1. TIPOGRAFÍA ---
+   gbpublisher.css PIDE IBM PLEX POR SUS VARIABLES: SE LAS REDIRIGE A NOTO.
+   --font-serif ES LA MISMA EN LAS DOS HOJAS */
+:root {
+  --font-sans: var(--font-serif);
+  --font-mono: 'Noto Sans Mono', 'DejaVu Sans Mono', monospace;
+  --alto-barra: 52px;
+}
+body.libro-integrado { font-family: var(--font-serif); }
+
+/* --- 2. LA CABECERA Y EL PIE DEL PORTAL ---
+   CONSERVAN LA TIPOGRAFÍA DEL PORTAL: gbpublisher.css PONE EL CUERPO EN
+   OTRO TAMAÑO Y BORRA LOS MÁRGENES DE TODO (* { margin: 0; padding: 0 }) */
+.libro-integrado .cabecera,
+.libro-integrado .pie { font-family: var(--font-serif); font-size: 1.0625rem; line-height: 1.6; }
+.libro-integrado .pie p { margin: 0 0 0.2rem; }
+
+/* --- 3. LA BARRA DEL LIBRO: FIJA AL DESPLAZAR --- */
+.barra-libro {
+  position: sticky; top: 0; z-index: 60;
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+  font-family: var(--font-serif);
+}
+.barra-libro .contenedor { position: relative; }
+.barra-fila { display: flex; align-items: center; gap: 1rem; height: var(--alto-barra); font-size: 0.95rem; }
+.barra-indice {
+  display: inline-flex; align-items: center; gap: 0.4rem; cursor: pointer; user-select: none;
+  color: var(--color-accent); font-weight: 600; white-space: nowrap;
+  border: 1px solid var(--color-border); border-radius: var(--radius);
+  padding: 0.2rem 0.65rem; background: var(--color-surface);
+}
+/* LA CASILLA NO SE VE PERO SIGUE EN EL ORDEN DE TABULACIÓN */
+.barra-casilla { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.barra-casilla:focus-visible + .barra-fila .barra-indice { outline: 2px solid var(--color-accent); outline-offset: 2px; }
+.barra-casilla:checked + .barra-fila .barra-indice { background: var(--color-accent-soft); }
+.barra-donde { flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: var(--color-text-muted); }
+.barra-donde a { color: var(--color-text); text-decoration: none; font-weight: 600; }
+.barra-donde a:hover { color: var(--color-accent); }
+.barra-pasos { display: flex; gap: 1.25rem; white-space: nowrap; }
+.barra-pasos a { text-decoration: none; }
+.paso-inactivo { color: var(--color-border); cursor: default; }
+
+/* --- 4. EL MENÚ DEL ÍNDICE: SOBRE LA COLUMNA DEL TEXTO, 600 DE ANCHO ---
+   SE CIERRA CON UN CLIC AFUERA (EL FONDO ES LA MISMA ETIQUETA) O CON Esc */
+.indice-fondo { display: none; position: fixed; inset: 0; z-index: 61; cursor: default; }
+.indice-menu {
+  display: none; position: absolute; z-index: 62;
+  top: calc(var(--alto-barra) + 1px); left: 16px; width: 600px;
+  max-height: calc(100vh - var(--alto-barra) - 24px); overflow-y: auto;
+  background: var(--color-surface); border: 1px solid var(--color-border); border-top: none;
+  border-radius: 0 0 var(--radius) var(--radius); box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  padding: 1.25rem 1.5rem 1.5rem;
+}
+.barra-casilla:checked ~ .indice-fondo,
+.barra-casilla:checked ~ .indice-menu { display: block; }
+
+.indice-cabeza {
+  display: grid; grid-template-columns: 72px 1fr; gap: 1rem; align-items: start;
+  padding-bottom: 1rem; margin-bottom: 1rem; border-bottom: 1px solid var(--color-border);
+}
+.indice-cabeza img { display: block; width: 72px; height: auto; box-shadow: var(--shadow); }
+.indice-cabeza .indice-titulo { margin: 0; font-size: 1.2rem; }
+.indice-titulo a { color: var(--color-text); text-decoration: none; }
+.indice-cabeza .indice-sub { color: var(--color-text-muted); margin: 0.1rem 0 0.4rem; }
+.indice-cabeza .indice-autoria { font-size: 0.9rem; }
+.indice-menu ol { list-style: none; margin: 0; padding: 0; font-size: 0.95rem; line-height: 1.4; }
+.indice-menu li { margin-bottom: 0.5rem; }
+.indice-menu li a { display: grid; grid-template-columns: 1.6rem 1fr; color: var(--color-text); text-decoration: none; }
+.indice-menu a:hover { color: var(--color-accent); }
+.indice-num { color: var(--color-text-muted); }
+/* LA PIEZA ABIERTA, EN NEGRITA (DECISIÓN DE ALBERTO) */
+.indice-menu .actual a,
+.indice-titulo a.actual { font-weight: 600; color: var(--color-accent); }
+
+/* --- 5. LAS DOS COLUMNAS FIJAS --- */
+.marco-libro { width: 100%; }
+.marco-libro .layout.layout-dos {
+  display: grid;
+  grid-template-columns: 600px 544px;
+  grid-template-areas: "center right";
+  column-gap: 24px;
+  min-height: 0;
+  width: auto;
+}
+.marco-libro .col-center { padding: 2rem 0 3rem; min-width: 0; }
+/* EL PANEL ACOMPAÑA AL TEXTO: FIJO DEBAJO DE LA BARRA, CON SU PROPIO
+   DESPLAZAMIENTO */
+.marco-libro .col-right {
+  display: flex;
+  position: sticky;
+  top: calc(var(--alto-barra) + 1px);
+  height: calc(100vh - var(--alto-barra) - 1px);
+  background: transparent;
+  border-left: 1px solid var(--color-border);
+}
+.marco-libro .col-right-inicio { display: block; padding: 2rem 0 2rem 24px; }
+.col-right-inicio .citar-wrapper { margin-top: 0; padding-top: 0; border-top: none; }
+/* EL PIE DE LA OBRA, ANCHO DEL TEXTO */
+.marco-libro .pie-colofon { max-width: none; margin: 3rem 0 0; padding: 1rem 0 0; }
+
+/* --- 6. LA CABEZA DEL TEXTO: «CÓMO CITAR» Y EL PDF DEL CAPÍTULO --- */
+.cabeza-acciones { margin: 0.75rem 0 1.75rem; }
+.cabeza-acciones .citar-wrapper { margin: 0 0 0.75rem; padding-top: 0; border-top: none; }
+
+/* --- 7. ANTERIOR / SIGUIENTE AL FINAL DE LA PIEZA --- */
+.pasos-pie {
+  display: flex; justify-content: space-between; gap: 2rem;
+  margin: 3rem 0 0; padding-top: 1rem; border-top: 1px solid var(--color-border);
+  font-family: var(--font-serif);
+}
+.pasos-pie a { text-decoration: none; max-width: 48%; }
+.pasos-pie .paso-siguiente { text-align: right; margin-left: auto; }
+.pasos-pie small { display: block; color: var(--color-text-muted); font-size: 0.8rem; }
+
+/* --- 8. LA PÁGINA DE ENTRADA: PORTADA Y CRÉDITOS ---
+   LAS CLASES SON LAS DE LAS PÁGINAS DEL EPUB (m_GenerarEpubLibro) */
+.inicio-libro { font-family: var(--font-serif); }
+.portada-libro { text-align: center; padding: 3rem 0 4rem; border-bottom: 1px solid var(--color-border); }
+.portada-autores { font-size: 1.3rem; }
+.portada-leyenda { color: var(--color-text-muted); margin-top: 0.2rem; }
+.portada-titulo { font-size: 2.4rem; line-height: 1.2; margin: 3rem 0 0.5rem; }
+.portada-subtitulo { font-size: 1.3rem; color: var(--color-text-muted); }
+.portada-logo { margin-top: 4rem; }
+.portada-logo img { display: inline-block; max-height: 70px; width: auto; }
+.creditos-libro { padding: 2.5rem 0; font-size: 0.85rem; color: var(--color-text-muted); }
+.creditos-libro p { margin-bottom: 0.75rem; }
+.creditos-logo img { display: block; max-height: 80px; width: auto; margin-bottom: 1.5rem; }
+.creditos-titulo, .creditos-subtitulo, .creditos-autor { color: var(--color-text); }
+.creditos-titulo { font-size: 1.1rem; font-weight: 600; }
+.creditos-datos { margin-top: 1rem; }
+.inicio-libro .dedicatoria { padding: 2rem 0; border-top: 1px solid var(--color-border); }
+
+/* --- 9. PANTALLAS ANGOSTAS: EL PANEL COMO CAJÓN ---
+   gbpublisher.css PASA A CAJONES DEBAJO DE 1200 px Y OCULTA EL BOTÓN DEL
+   CAJÓN DESDE 1200 CON !important; ACÁ EL CORTE ES 1232 */
+@media (max-width: 1231px) {
+  .marco-libro .layout.layout-dos { display: block; }
+  .indice-menu { width: auto; right: 16px; }
+  .marco-libro .col-right {
+    display: none; position: fixed; top: 0; right: 0; bottom: 0;
+    width: min(340px, 85vw); height: 100vh; z-index: 201;
+    background: var(--color-surface); box-shadow: var(--shadow);
+  }
+  .marco-libro .col-right.drawer-open { display: flex; }
+  .marco-libro .col-right-inicio {
+    display: block; position: static; width: auto; height: auto;
+    border: none; box-shadow: none; background: transparent; padding: 0 0 2rem;
+  }
+  .barra-pasos { gap: 0.75rem; }
+}
+@media (min-width: 768px) and (max-width: 1231px) {
+  /* ABAJO A LA DERECHA: ARRIBA TAPABA EL MENÚ DEL PORTAL */
+  .libro-integrado .fab-panel-tablet { display: block !important; top: auto; bottom: 1.5rem; right: 1rem; z-index: 70; }
+  .libro-integrado .drawer-backdrop.open { display: block !important; }
+}
+/* EN EL TELÉFONO EL PANEL VA DEBAJO DEL TEXTO (gbpublisher.css) */
+@media (max-width: 767px) {
+  .marco-libro .col-right,
+  .marco-libro .col-right.drawer-open {
+    display: block; position: static; width: 100%; height: auto;
+    box-shadow: none; border-left: none; border-top: 2px solid var(--color-border);
+  }
+  .barra-donde { display: none; }
+  .barra-fila { justify-content: space-between; }
+}
+@media (min-width: 1232px) {
+  .libro-integrado .fab-panel-tablet,
+  .libro-integrado .drawer-backdrop { display: none !important; }
+}
