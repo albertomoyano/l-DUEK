@@ -33,6 +33,21 @@
 % v14: VERSO (SC-49): EL PAQUETE verse; gbverso PASA A SER EL
 % verse DEL PAQUETE (CADA VERSO TERMINA EN \\, CADA ESTROFA EN
 % \\!, LA SANGRÍA ES \vin) Y SE AGREGA gbversoepigrafe.
+% v15: CIFRAS Y CANTIDADES (SC-64, SC-65): siunitx CON SU
+% \sisetup, Y LA UNIDAD \euro. EL XSLT EMITE \num, \SI Y \SIrange.
+% v16: CUADROS (SC-66): \gbCuadroLetra, \gbCuadroCuerpoNormal,
+% \gbCuadroCuerpoChico, \gbCuadroSepNormal Y \gbCuadroSepEstrecha.
+% v17: CUADROS, ENTREGA 2 (SC-66): EL PAQUETE rotating (sidewaystable)
+% Y LOS TEXTOS DE CONTINUACIÓN \gbCuadroContinua Y \gbCuadroViene.
+% v18: ÍNDICES ONOMÁSTICO Y DE CONCEPTOS (SC-77): EL XSLT EMITE
+% \index CON LOS FORMATOS \gbIndNota Y \gbIndPrincipal; EL ÍNDICE
+% names AGREGA |hyperpage (hyperref VA CON hyperindex=false, GV-159).
+% v19: SIGLAS (1.18.0): \gbextranjero, EL DESARROLLO DE UNA SIGLA EN
+% OTRO IDIOMA, Y LA LISTA DE SIGLAS: \gbSiglasInicio, \gbSiglaMedir,
+% EL ENTORNO gbsiglas Y LA MEDIDA \gbSiglasSep.
+% v20: GLOSARIO (1.18.0): EL ENTORNO gbglosario, \gbGlosarioLetra,
+% \gbGlosarioAncla, \gbGlosarioTermino, \gbGlosarioSep,
+% \gbGlosarioVease, \gbGlosarioRemite Y LA MEDIDA \gbGlosarioSangria.
 % ------------------------------------------------------------
 % DEFINE TODO LO QUE docbook-to-latex.xsl PUEDE EMITIR EN LOS
 % FRAGMENTOS DE CAPÍTULO. ES LA CAPA QUE UNA EDITORIAL
@@ -49,7 +64,7 @@
 % DEPENDE DE preambulo-proyecto.tex, QUE VA ANTES.
 % ============================================================
 
-\def\gbContratoVersion{14}
+\def\gbContratoVersion{20}
 
 % ============================================================
 % \gbRequiereContrato{N}
@@ -340,9 +355,151 @@
 \usepackage[\gbidiomas]{babel}
 \frenchspacing
 
+% EL DESARROLLO DE UNA SIGLA EN OTRO IDIOMA (1.18.0): CURSIVA Y LA
+% PARTICIÓN DE SU IDIOMA. LO ESCRIBE docbook-to-latex.xsl DESDE UN
+% <foreignphrase xml:lang="en">: \gbextranjero{en}{World Health
+% Organization}. EL NOMBRE DE babel DE CADA CÓDIGO LO DEFINE GAMBAS
+% (m_GenerarPDFLibro.DefinicionesCita) CON \csname gbbabel@<código>,
+% Y AGREGA ESE IDIOMA A \gbidiomas PARA QUE babel LO CARGUE. UN CÓDIGO
+% SIN DEFINIR CORTA LA COMPILACIÓN CON UN MENSAJE: COMPONER CON OTRA
+% PARTICIÓN SERÍA UN ERROR QUE NADIE VE (MEDIDO CON lualatex Y babel
+% DE TeX Live 2023: \foreignlanguage ACEPTA EL \csname, Y DENTRO
+% \languagename ES english).
+\newcommand*{\gbextranjero}[2]{%
+  \ifcsname gbbabel@#1\endcsname
+    \foreignlanguage{\csname gbbabel@#1\endcsname}{\emph{#2}}%
+  \else
+    \PackageError{gbpublisher}{El idioma «#1» de una sigla no tiene
+      nombre de babel}{Las definiciones del proyecto no lo traen: hay
+      que generar el PDF desde gbpublisher}%
+  \fi}
+
+% LA LISTA DE SIGLAS DEL LIBRO (1.18.0): DOS COLUMNAS ALINEADAS, LA
+% SIGLA Y SU DESARROLLO (DECISIÓN DE ALBERTO, 31/10). LA ESCRIBE
+% docbook-to-latex.xsl ASÍ:
+%   \gbSiglasInicio
+%   \gbSiglaMedir{OMS} \gbSiglaMedir{SITRAC-SITRAM} …
+%   \begin{gbsiglas}
+%   \item[OMS] Organización Mundial de la Salud
+%   \end{gbsiglas}
+% LA PRIMERA COLUMNA MIDE LO QUE LA SIGLA MÁS ANCHA DE LA LISTA; LA
+% SEGUNDA EMPIEZA \gbSiglasSep DESPUÉS, Y UN DESARROLLO LARGO SIGUE
+% ALINEADO EN ELLA. ES UNA list DE LaTeX: SE PARTE ENTRE PÁGINAS.
+% \gbSiglasSep ES DE LA ESTÉTICA, QUE PUEDE CAMBIARLA CON \setlength.
+\newlength{\gbSiglasSep}
+\setlength{\gbSiglasSep}{1.5em}
+\newlength{\gbSiglasAncho}
+\newlength{\gbSiglaTmp}
+\newcommand{\gbSiglasInicio}{\setlength{\gbSiglasAncho}{0pt}}
+\newcommand{\gbSiglaMedir}[1]{%
+  \settowidth{\gbSiglaTmp}{#1}%
+  \ifdim\gbSiglaTmp>\gbSiglasAncho
+    \setlength{\gbSiglasAncho}{\gbSiglaTmp}%
+  \fi}
+\newenvironment{gbsiglas}
+  {\list{}{%
+     \setlength{\labelwidth}{\gbSiglasAncho}%
+     \setlength{\labelsep}{\gbSiglasSep}%
+     \setlength{\leftmargin}{\gbSiglasAncho}%
+     \addtolength{\leftmargin}{\gbSiglasSep}%
+     \setlength{\itemsep}{0pt}%
+     \setlength{\parsep}{0pt}%
+     \setlength{\topsep}{0pt}%
+     \renewcommand{\makelabel}[1]{##1\hfil}}}
+  {\endlist}
+
+% EL GLOSARIO DEL LIBRO (1.18.0): PÁRRAFO FRANCÉS (DECISIÓN DE
+% ALBERTO, 31/10). EL TÉRMINO Y LA DEFINICIÓN EN EL MISMO PÁRRAFO; LAS
+% LÍNEAS SIGUIENTES Y LOS DEMÁS PÁRRAFOS, SANGRADOS \gbGlosarioSangria.
+% LO ESCRIBE docbook-to-latex.xsl ASÍ, UNA LETRA POR VEZ:
+%   \gbGlosarioLetra{T}
+%   \begin{gbglosario}
+%   \item[]\gbGlosarioAncla{cap-9.gl-traveling}\gbGlosarioTermino{Traveling}%
+%     \gbGlosarioVease{cap-9.gl-travelling}{Travelling}
+%   \item[]\gbGlosarioAncla{…}\gbGlosarioTermino{\emph{Travelling}}\gbGlosarioSep
+%     Desplazamiento … \gbGlosarioRemite{cap-9.gl-plano-secuencia}{plano secuencia}.
+%   \end{gbglosario}
+% EL ASPECTO —LA LETRA, LA NEGRITA, LA SEPARACIÓN, «véase»— ES DE LA
+% ESTÉTICA, QUE PUEDE REDEFINIR ESTAS MACROS; ESTA CAPA GARANTIZA QUE
+% EXISTAN. «véase» VA EN MINÚSCULA Y DESPUÉS DE COMA, COMO EN LOS
+% ÍNDICES (DECISIÓN DE ALBERTO, 30/10, SC-77).
+\newlength{\gbGlosarioSangria}
+\setlength{\gbGlosarioSangria}{1.5em}
+\newcommand{\gbGlosarioLetra}[1]{%
+  \par\bigskip\noindent{\large\bfseries #1}\par\nopagebreak\smallskip}
+\newcommand{\gbGlosarioTermino}[1]{\textbf{#1}}
+% EL SEPARADOR ENTRE EL TÉRMINO Y LA DEFINICIÓN: SEMIRRAYA ENTRE
+% ESPACIOS, EL PRIMERO DURO PARA QUE LA RAYA NO EMPIECE UNA LÍNEA
+% (DECISIÓN DE ALBERTO, 31/10: «ONU – La Organización…»). EL CARÁCTER
+% VA LITERAL Y NO COMO -- : NO DEPENDE DE LAS LIGADURAS DE LA FUENTE
+\newcommand{\gbGlosarioSep}{\nobreakspace–\space}
+\newcommand{\gbGlosarioAncla}[1]{\phantomsection\label{#1}}
+\newcommand{\gbGlosarioRemite}[2]{\hyperref[#1]{#2}}
+\newcommand{\gbGlosarioVease}[2]{, véase \hyperref[#1]{#2}}
+\newenvironment{gbglosario}
+  {\list{}{%
+     \setlength{\leftmargin}{\gbGlosarioSangria}%
+     \setlength{\itemindent}{-\gbGlosarioSangria}%
+     \setlength{\labelwidth}{0pt}%
+     \setlength{\labelsep}{0pt}%
+     \setlength{\listparindent}{0pt}%
+     \setlength{\itemsep}{0.4\baselineskip}%
+     \setlength{\parsep}{0pt}%
+     \setlength{\topsep}{0pt}}}
+  {\endlist}
+
 % COMILLAS SEGÚN EL IDIOMA ACTIVO: EN ESPAÑOL DA « ».
 % EL XSLT EMITE \enquote Y NUNCA COMILLAS LITERALES.
 \usepackage[autostyle=true]{csquotes}
+
+% ------------------------------------------------------------
+% CIFRAS Y CANTIDADES (CONTRATO 15, SC-64, SC-65)
+% ------------------------------------------------------------
+% LA NORMA INTERNACIONAL (SI Brochure §5.4): PUNTO DECIMAL,
+% GRUPOS DE A TRES CON UN ESPACIO DESDE CINCO DÍGITOS, LA UNIDAD
+% Y EL PORCENTAJE SEPARADOS DE LA CIFRA, EL GRADO PEGADO.
+% detect-all NO SE QUITA: SIN ELLA siunitx COMPONE LA CIFRA EN
+% MODO MATEMÁTICO, DONDE babel-spanish PASA EL PUNTO A COMA, Y
+% LOS DECIMALES SALEN «12,5» SIN AVISO (GV-123). EN siunitx 3 ES
+% UNA OPCIÓN DEPRECADA: DEJA UN AVISO INFORMATIVO EN EL LOG.
+% per-mode=symbol: «48 km/h» EN UNA LÍNEA; LA FRACCIÓN VERTICAL
+% AGRANDABA LA LÍNEA (DECISIÓN DE ALBERTO).
+% EL FORMATEADOR DE cifras.lua APLICA LAS MISMAS REGLAS PARA EL
+% HTML Y EL EPUB: SI CAMBIA ESTE \sisetup, CAMBIA EL FILTRO.
+\usepackage{siunitx}
+\sisetup{output-decimal-marker={.},
+  group-separator={\hspace{0.15em}},
+  group-minimum-digits=5,
+  table-text-alignment=center,
+  detect-all,
+  per-mode=symbol}
+% siunitx NO DEFINE EL EURO (GV-123). LA FUENTE TIENE QUE TENER €
+\DeclareSIUnit\euro{€}
+
+% ------------------------------------------------------------
+% CUADROS (CONTRATO 16, SC-66)
+% ------------------------------------------------------------
+% EL ESTILO DE LA CASA: LETRA SIN SERIFA, FILETE ENTRE TODAS LAS
+% FILAS Y ENTRE TODAS LAS COLUMNAS, ENCABEZADO EN NEGRITA, PIE
+% DEBAJO. LOS FILETES Y LA NEGRITA LOS ESCRIBE EL XSLT; ACÁ, LO
+% QUE UNA EDITORIAL PUEDE CAMBIAR SIN TOCARLO. EL CUERPO Y LA
+% SEPARACIÓN DE COLUMNAS LOS ELIGE EL MAQUETADOR POR CUADRO
+% (cuerpo: normal|chico, separacion: normal|estrecha). LA LETRA
+% Y EL CUERPO VALEN PARA TODO EL FLOTANTE, EL PIE INCLUIDO.
+% GEMELAS: m_XML.ObtenerPreambuloEmbebido (REVISTAS).
+\newcommand{\gbCuadroLetra}{\sffamily}
+\newcommand{\gbCuadroCuerpoNormal}{\footnotesize}
+\newcommand{\gbCuadroCuerpoChico}{\scriptsize}
+\newcommand{\gbCuadroSepNormal}{4pt}
+\newcommand{\gbCuadroSepEstrecha}{2pt}
+% UN CUADRO CORTADO (cortes:) VA EN UN FLOTANTE POR TRAMO: EL PRIMERO
+% TERMINA CON \gbCuadroContinua, A LA DERECHA; LOS QUE SIGUEN EMPIEZAN
+% CON \gbCuadroViene, A LA IZQUIERDA, Y REPITEN EL ENCABEZADO. EL PIE,
+% SOLO EN EL ÚLTIMO. EL XSLT LOS PONE EN BASTARDILLA.
+\newcommand{\gbCuadroContinua}{Continúa en la página siguiente}
+\newcommand{\gbCuadroViene}{Viene de la página anterior}
+% EL CUADRO APAISADO (rotar: sí): sidewaystable, UNA PÁGINA POR TRAMO
+\usepackage{rotating}
 
 
 % ============================================================
@@ -355,8 +512,12 @@
 %
 % LA RAMA bibtex (vancouver) NO ESTÁ IMPLEMENTADA. EL XSLT
 % CORTA ANTES DE GENERAR SI EL ESTILO LA REQUIERE.
+%
+% INMEDIATAMENTE DESPUÉS, LAS CADENAS EN CASTELLANO COMUNES A TODOS
+% LOS ESTILOS (cita-cadenas-es.tex): NECESITAN biblatex YA CARGADO.
 % ============================================================
 \input{cita-\estandar-config.tex}
+\input{cita-cadenas-es.tex}
 
 % ============================================================
 % Índice de autores del aparato bibliográfico
@@ -374,13 +535,57 @@
 % indice_autores_bibliografia DIGA LA VERDAD. EL \makeindex ES
 % DISEÑO Y VA EN LA ESTÉTICA.
 % ============================================================
+% LOS CARACTERES ! @ | SON SINTAXIS DEL ÍNDICE (NIVEL, CLAVE Y FORMATO):
+% UN NOMBRE QUE LOS CONTIENE, COMO «Democracy Now!», DEJA UNA CLAVE
+% VACÍA Y xindy ABORTA EL ÍNDICE ENTERO («CHAR: index 0 should be less
+% than the length of the string»). SE ESCAPAN CON LA COMILLA DE xindy,
+% ENTRE LLAVES PARA QUE esindex NO PARTA EN ELLOS. SOLO AFECTA AL
+% ÍNDICE: LA BIBLIOGRAFÍA IMPRIME EL NOMBRE TAL CUAL. ESCAPARLO EN EL
+% .bib NO SIRVE: CON babel spanish, "! SE IMPRIME COMO ¡.
+\ExplSyntaxOn
+\cs_new_protected:Npn \gb_escapar_indice:N #1
+  {
+    \tl_replace_all:Nnn #1 { ! } { {"!} }
+    \tl_replace_all:Nnn #1 { @ } { {"@} }
+    \tl_replace_all:Nnn #1 { | } { {"|} }
+  }
+\cs_new_protected:Npn \gbEscaparIndice
+  {
+    \gb_escapar_indice:N \namepartfamily
+    \gb_escapar_indice:N \namepartgiven
+    \gb_escapar_indice:N \namepartprefix
+    \gb_escapar_indice:N \namepartsuffix
+  }
+\ExplSyntaxOff
 \usepackage{esindex}
+% EL FORMATO DE PÁGINA VA EXPLÍCITO: CON hyperindex=false (GV-159)
+% hyperref YA NO LO AGREGA, Y SIN \hyperpage LA PÁGINA SALE SIN
+% ENLACE. esindex ACEPTA |formato (MEDIDO: LOS ENLACES SE CONSERVAN).
+\newcommand{\gbIndiceNombre}[1]{\esindex[names]{#1|hyperpage}}
 \DeclareIndexNameFormat{default}{%
-	\usebibmacro{index:name}{\esindex[names]}
+	\gbEscaparIndice
+	\usebibmacro{index:name}{\gbIndiceNombre}
 	{\namepartfamily}
 	{\namepartgiven}
 	{\namepartprefix}
 	{\namepartsuffix}}
+
+% ============================================================
+% ÍNDICES ONOMÁSTICO Y DE CONCEPTOS (CONTRATO 18, SC-77)
+% ------------------------------------------------------------
+% LOS CARGA EL EDITOR CON \index[onomastico]{…} Y
+% \index[concepto]{…} EN EL .md; docbook-to-latex.xsl LOS
+% VUELVE A ESCRIBIR CON EL FORMATO DE PÁGINA EXPLÍCITO:
+%   |hyperpage        LA PÁGINA, CON ENLACE (hyperref)
+%   |gbIndNota        LA MARCA ESTÁ EN UNA NOTA: «23 n.»
+%   |gbIndPrincipal   LA PÁGINA PRINCIPAL, EN NEGRITA
+% CADA FORMATO TIENE QUE ESTAR DECLARADO EN gbindice.xdy: SI NO,
+% xindy DESCARTA LA PÁGINA CON UN WARNING Y NADA MÁS (GV-160).
+% EL ESPACIO ANTES DE «n.» ES IRROMPIBLE: LA PÁGINA Y SU MARCA NO
+% SE SEPARAN EN DOS LÍNEAS.
+% ============================================================
+\newcommand{\gbIndNota}[1]{\hyperpage{#1}~n.}
+\newcommand{\gbIndPrincipal}[1]{\textbf{\hyperpage{#1}}}
 
 % ============================================================
 % 4. PÁGINAS Y SALTOS

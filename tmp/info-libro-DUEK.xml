@@ -3,6 +3,8 @@
   <subtitle>Vida cotidiana y pandemia</subtitle>
   <biblioid class="isbn" role="print">978-950-793-487-2</biblioid>
   <biblioid class="isbn" role="electronic">978-950-793-487-2</biblioid>
+  <bibliomisc role="url-descarga-pdf">https://creativecommons.org/licenses/by-nc-nd/4.0/</bibliomisc>
+  <bibliomisc role="url-descarga-epub">https://creativecommons.org/licenses/by-nc-nd/4.0/</bibliomisc>
   <editor role="compiler">
     <personname>
       <firstname>Marina</firstname>
@@ -29,24 +31,40 @@
     <title>Bitácora Argentina</title>
     <titleabbrev>BA</titleabbrev>
   </biblioset>
+  <edition role="numeric">1</edition>
+  <bibliomisc role="numero-paginas">150</bibliomisc>
   <pubdate role="completa">2026-10-01</pubdate>
   <pubdate>2026</pubdate>
   <bibliomisc role="mes-publicacion">Octubre</bibliomisc>
   <bibliomisc role="tipo-libro">compilacion</bibliomisc>
-  <bibliomisc role="estado-publicacion">en_preparacion</bibliomisc>
+  <bibliomisc role="estado-publicacion">publicado</bibliomisc>
   <subjectset scheme="area-conocimiento">
     <subject><subjectterm>Ciencias sociales</subjectterm></subject>
   </subjectset>
   <subjectset scheme="disciplina">
     <subject><subjectterm>Sociología</subjectterm></subject>
   </subjectset>
+  <keywordset>
+    <keyword>clave1</keyword>
+    <keyword>clave2</keyword>
+    <keyword>clave3</keyword>
+  </keywordset>
+  <abstract xml:lang="es">
+    <para>¿Cómo era un día durante la pandemia? ¿Cómo se trabajaba? ¿Cómo se estudiaba? ¿Nos veíamos con familiares y amigos? Todas estas preguntas atraviesan los capítulos de Un tiempo diferente. Vida cotidiana y pandemia para recorrer, en cada uno de ellos, cómo distintos grupos sociales atravesaron una situación que alteró de manera profunda las formas de trabajar, estudiar, cuidar, vincularse y habitar el tiempo y el espacio cotidiano. La pandemia tuvo muchas caras diferentes y este libro despliega testimonios sobre esas experiencias diversas: los cambios en la vida de los adolescentes y los jóvenes, la incertidumbre de los sectores populares, la exposición y el desgaste de quienes fueron esenciales, las tensiones de mujeres profesionales entre trabajo y cuidados, y las vivencias de personas mayores frente al aislamiento, el miedo y la reorganización de la vida diaria.
+
+Con una escritura sensible, sustentada en herramientas de la sociología y los estudios culturales, este libro propone volver sobre un tiempo excepcional para comprender cómo la crisis sanitaria puso (aún más) en evidencia desigualdades previas, aceleró cambios sociales como el auge del trabajo remoto, la virtualización de múltiples actividades y la plataformización de la cultura. Todos estos cambios que trajo ese tiempo diferente dejaron marcas en las subjetividades. Como un episodio traumático, resulta difícil recordarlo en la actualidad; dejar atrás la pandemia fue un principio organizador del presente. En este sentido, este libro se propone una tarea difícil pero necesaria: volver a pensar y a recorrer ese tiempo del confinamiento para comprender cómo se configuraron imaginarios y miedos en esas experiencias subjetivas que tuvieron consecuencias sociales, culturales y políticas.
+
+Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobre las maneras en que las personas intentaron sostener vínculos, rutinas, proyectos y sentidos en un mundo atravesado por la incertidumbre.</para>
+  </abstract>
+  <bibliomisc role="descripcion">Descripción del libro</bibliomisc>
   <bibliomisc role="tipo-acceso">abierto</bibliomisc>
   <legalnotice role="licencia">
     <para>CC BY-NC-ND 4.0</para>
     <para><link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</link></para>
   </legalnotice>
+  <bibliomisc role="url-libro">https://creativecommons.org/licenses/by-nc-nd/4.0/</bibliomisc>
   <bibliomisc role="repo-produccion-privado">yes</bibliomisc>
-  <bibliomisc role="csl-style">verona-modern</bibliomisc>
+  <bibliomisc role="estilo-cita">verona-modern</bibliomisc>
   <mediaobject role="tapa">
     <imageobject>
       <imagedata fileref="../media/foto-tapa.png"/>

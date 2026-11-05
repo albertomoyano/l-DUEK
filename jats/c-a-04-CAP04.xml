@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><chapter xmlns="http://docbook.org/ns/docbook" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.2" xml:lang="es" xml:id="cap-28"><info>
+<?xml version="1.0" encoding="UTF-8"?><?gb-fuente archivo="articulos/a-04-CAP04.md" sha256="8ec119e530f10d909db24a2b354156e7421835f421f582e6ce75be434d4f9686"?><chapter xmlns="http://docbook.org/ns/docbook" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.2" xml:lang="es" xml:id="cap-28"><info>
   <title>Todos juntos, todo el día, todos los días: maternidad, trabajo y espacios domésticos</title>
   <titleabbrev>Todos juntos, todo el día, todos los días:...</titleabbrev>
   <bibliomisc role="seccion-libro">a</bibliomisc>
   <bibliomisc role="orden-seccion">04</bibliomisc>
   <bibliomisc role="tipo-capitulo">capitulo</bibliomisc>
-  <bibliomisc role="csl-style">verona-modern</bibliomisc>
+  <bibliomisc role="estilo-cita">verona-modern</bibliomisc>
   <author>
     <personname>
       <firstname>Carolina</firstname>
@@ -49,7 +49,7 @@
     Por último, si en los hogares la experiencia se vinculó con las condiciones de habitabilidad y con los cuidados, una pieza que falta para dar cuenta de la convergencia de todo en un espacio es el trabajo. Las entrevistadas, como mencionamos, trabajaban antes de la pandemia pero tuvieron que hacer adaptaciones directas e indirectas para poder sostener su labor cotidiana. Salvia y Zurita <biblioref linkend="bib-4259-SALVIA2021" role="suppress"/> sostienen que la pandemia supuso un retroceso en materia de bienestar y, a la vez, un aumento de las desigualdades sociales. La pérdida o deterioro del empleo junto con la caída de ingresos laborales son las principales consecuencias directas de la pandemia asociadas, lógicamente, a problemáticas prexistentes en el país. Los segmentos más afectados por este deterioro son los trabajos informales y los no registrados que ya exhibían, según Jacovkis et al. <biblioref linkend="bib-4260-JACOVKIS2021" role="suppress"/>, fuertes problemas de inserción socio-productiva.
   </para>
   <para>
-    Desde otro ángulo, más vinculado con la adaptación de los trabajos durante el aislamiento, el CIPPEC <biblioref linkend="bib-4275-CIPPEC2021" role="suppress"/> presenta un análisis en el que concluyen que la pandemia representó una oportunidad para acelerar la tendencia del mercado de trabajo a moverse a entornos más flexibles con el teletrabajo como uno de los ejes principales del cambio. Si bien no todos los trabajos pueden adaptarse a la virtualidad veremos cómo, en las historias que siguen, encontraremos formas e intentos de adaptación de las modalidades y contenidos de las tareas laborales desde el completo aislamiento. El informe sostiene que el 30% de la masa de trabajadores estaba, antes de la pandemia, en condiciones de trabajar remotamente.
+    Desde otro ángulo, más vinculado con la adaptación de los trabajos durante el aislamiento, el CIPPEC <biblioref linkend="bib-4275-CIPPEC2021" role="suppress"/> presenta un análisis en el que concluyen que la pandemia representó una oportunidad para acelerar la tendencia del mercado de trabajo a moverse a entornos más flexibles con el teletrabajo como uno de los ejes principales del cambio. Si bien no todos los trabajos pueden adaptarse a la virtualidad veremos cómo, en las historias que siguen, encontraremos formas e intentos de adaptación de las modalidades y contenidos de las tareas laborales desde el completo aislamiento. El informe sostiene que el <phrase role="cantidad" remap="SI 30 percent">30 %</phrase> de la masa de trabajadores estaba, antes de la pandemia, en condiciones de trabajar remotamente.
   </para>
   <para>
     Tanto los informes citados que ven en los cambios laborales suscitados por la pandemia un aliciente a nuevas modalidades de trabajar como en los diagnósticos más estructurales sobre desigualdades, pobreza y mayor exclusión, lo que encontramos es que el mercado del trabajo sufrió cambios durante y por la pandemia y que los trabajadores también tuvieron un impacto fuerte no solo en las modalidades sino en los ingresos cuanti y cualitativamente.

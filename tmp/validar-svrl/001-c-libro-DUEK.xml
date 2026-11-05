@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svrl:schematron-output xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                        xmlns:ctrl="http://nwalsh.com/xmlns/schema-control/"
+                        xmlns:db="http://docbook.org/ns/docbook"
+                        xmlns:html="http://www.w3.org/1999/xhtml"
+                        xmlns:iso="http://purl.oclc.org/dsdl/schematron"
+                        xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                        xmlns:s="http://purl.oclc.org/dsdl/schematron"
+                        xmlns:saxon="http://saxon.sf.net/"
+                        xmlns:schold="http://www.ascc.net/xml/schematron"
+                        xmlns:svg="http://www.w3.org/2000/svg"
+                        xmlns:svrl="http://purl.oclc.org/dsdl/svrl"
+                        xmlns:trans="http://docbook.org/ns/transclusion"
+                        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                        xmlns:xlink="http://www.w3.org/1999/xlink"
+                        xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                        xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                        title=""
+                        schemaVersion=""><!--   
+		   
+		   
+		 -->
+   <svrl:ns-prefix-in-attribute-values uri="http://relaxng.org/ns/compatibility/annotations/1.0" prefix="a"/>
+   <svrl:ns-prefix-in-attribute-values uri="http://nwalsh.com/xmlns/schema-control/" prefix="ctrl"/>
+   <svrl:ns-prefix-in-attribute-values uri="http://docbook.org/ns/docbook" prefix="db"/>
+   <svrl:ns-prefix-in-attribute-values uri="http://www.w3.org/1999/xhtml" prefix="html"/>
+   <svrl:ns-prefix-in-attribute-values uri="http://www.w3.org/1998/Math/MathML" prefix="mml"/>
+   <svrl:ns-prefix-in-attribute-values uri="http://relaxng.org/ns/structure/1.0" prefix="rng"/>
+   <svrl:ns-prefix-in-attribute-values uri="http://purl.oclc.org/dsdl/schematron" prefix="s"/>
+   <svrl:ns-prefix-in-attribute-values uri="http://www.w3.org/2000/svg" prefix="svg"/>
+   <svrl:ns-prefix-in-attribute-values uri="http://docbook.org/ns/transclusion" prefix="trans"/>
+   <svrl:ns-prefix-in-attribute-values uri="http://www.w3.org/1999/xlink" prefix="xlink"/>
+   <svrl:active-pattern document="" name="Suffix fixup must be specified"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:fired-rule context="db:footnote"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Cardinality of segments and titles"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Footnote reference type constraint"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:fired-rule context="/db:book"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="XLink extended placement"/>
+   <svrl:active-pattern document="" name="XLink locator placement"/>
+   <svrl:active-pattern document="" name="XLink arc placement"/>
+   <svrl:active-pattern document="" name="XLink resource placement"/>
+   <svrl:active-pattern document="" name="XLink title placement"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Glosssary 'see' type constraint"/>
+   <svrl:active-pattern document="" name="Glossary 'seealso' type constraint"/>
+   <svrl:active-pattern document="" name="Glossary 'firstterm' type constraint"/>
+   <svrl:active-pattern document="" name="Glossary 'firstterm' type constraint"/>
+   <svrl:active-pattern document="" name="Glossary 'glossterm' type constraint"/>
+   <svrl:active-pattern document="" name="Glossary 'glossterm' type constraint"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Glossary term definition constraint"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Indexterm 'startref' type constraint"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Callout cross reference constraint"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Constraint cross reference constraint"/>
+   <svrl:active-pattern document="" name="Production recap cross reference constraint"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Synopsis fragment type constraint"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Element exclusion"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" name="Root must have version"/>
+   <svrl:active-pattern document="" id="gbp-ubicacion" name="gbp-ubicacion"/>
+   <svrl:fired-rule context="db:info[parent::db:chapter or parent::db:preface or parent::db:dedication or parent::db:acknowledgements or parent::db:appendix or parent::db:glossary or parent::db:colophon or parent::db:toc or parent::db:index][not(../parent::*) or ../parent::db:book]"
+                    id="gbp-ubicacion-info"/>
+   <svrl:fired-rule context="db:info[parent::db:chapter or parent::db:preface or parent::db:dedication or parent::db:acknowledgements or parent::db:appendix or parent::db:glossary or parent::db:colophon or parent::db:toc or parent::db:index][not(../parent::*) or ../parent::db:book]"
+                    id="gbp-ubicacion-info"/>
+   <svrl:fired-rule context="db:info[parent::db:chapter or parent::db:preface or parent::db:dedication or parent::db:acknowledgements or parent::db:appendix or parent::db:glossary or parent::db:colophon or parent::db:toc or parent::db:index][not(../parent::*) or ../parent::db:book]"
+                    id="gbp-ubicacion-info"/>
+   <svrl:fired-rule context="db:info[parent::db:chapter or parent::db:preface or parent::db:dedication or parent::db:acknowledgements or parent::db:appendix or parent::db:glossary or parent::db:colophon or parent::db:toc or parent::db:index][not(../parent::*) or ../parent::db:book]"
+                    id="gbp-ubicacion-info"/>
+   <svrl:fired-rule context="db:info[parent::db:chapter or parent::db:preface or parent::db:dedication or parent::db:acknowledgements or parent::db:appendix or parent::db:glossary or parent::db:colophon or parent::db:toc or parent::db:index][not(../parent::*) or ../parent::db:book]"
+                    id="gbp-ubicacion-info"/>
+   <svrl:fired-rule context="db:info[parent::db:chapter or parent::db:preface or parent::db:dedication or parent::db:acknowledgements or parent::db:appendix or parent::db:glossary or parent::db:colophon or parent::db:toc or parent::db:index][not(../parent::*) or ../parent::db:book]"
+                    id="gbp-ubicacion-info"/>
+   <svrl:fired-rule context="db:info[parent::db:chapter or parent::db:preface or parent::db:dedication or parent::db:acknowledgements or parent::db:appendix or parent::db:glossary or parent::db:colophon or parent::db:toc or parent::db:index][not(../parent::*) or ../parent::db:book]"
+                    id="gbp-ubicacion-info"/>
+   <svrl:fired-rule context="db:info[parent::db:chapter or parent::db:preface or parent::db:dedication or parent::db:acknowledgements or parent::db:appendix or parent::db:glossary or parent::db:colophon or parent::db:toc or parent::db:index][not(../parent::*) or ../parent::db:book]"
+                    id="gbp-ubicacion-info"/>
+   <svrl:fired-rule context="db:info[parent::db:chapter or parent::db:preface or parent::db:dedication or parent::db:acknowledgements or parent::db:appendix or parent::db:glossary or parent::db:colophon or parent::db:toc or parent::db:index][not(../parent::*) or ../parent::db:book]"
+                    id="gbp-ubicacion-info"/>
+   <svrl:active-pattern document="" id="gbp-estilo" name="gbp-estilo"/>
+   <svrl:fired-rule context="/db:book/db:info" id="gbp-estilo-libro"/>
+   <svrl:fired-rule context="/db:book/*/db:info" id="gbp-estilo-capitulo"/>
+   <svrl:fired-rule context="/db:book/*/db:info" id="gbp-estilo-capitulo"/>
+   <svrl:fired-rule context="/db:book/*/db:info" id="gbp-estilo-capitulo"/>
+   <svrl:fired-rule context="/db:book/*/db:info" id="gbp-estilo-capitulo"/>
+   <svrl:fired-rule context="/db:book/*/db:info" id="gbp-estilo-capitulo"/>
+   <svrl:fired-rule context="/db:book/*/db:info" id="gbp-estilo-capitulo"/>
+   <svrl:fired-rule context="/db:book/*/db:info" id="gbp-estilo-capitulo"/>
+   <svrl:fired-rule context="/db:book/*/db:info" id="gbp-estilo-capitulo"/>
+   <svrl:fired-rule context="/db:book/*/db:info" id="gbp-estilo-capitulo"/>
+   <svrl:active-pattern document="" id="gbp-pi" name="gbp-pi"/>
+   <svrl:fired-rule context="/" id="gbp-pi-documento"/>
+   <svrl:active-pattern document="" id="gbp-cita" name="gbp-cita"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:fired-rule context="db:biblioref[@linkend]" id="gbp-cita-destino"/>
+   <svrl:active-pattern document="" id="gbp-bib" name="gbp-bib"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:fired-rule context="/db:book//db:biblioentry[@xml:id]" id="gbp-bib-entrada"/>
+   <svrl:active-pattern document="" id="gbp-remision" name="gbp-remision"/>
+   <svrl:active-pattern document="" id="gbp-alt" name="gbp-alt"/>
+   <svrl:active-pattern document="" id="gbp-idioma" name="gbp-idioma"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:fired-rule context="/* | /db:book/*[self::db:chapter or self::db:preface or self::db:dedication or self::db:acknowledgements or self::db:appendix or self::db:glossary or self::db:colophon or self::db:toc or self::db:index]"
+                    id="gbp-idioma-pieza"/>
+   <svrl:active-pattern document="" id="gbp-ancho" name="gbp-ancho"/>
+</svrl:schematron-output>

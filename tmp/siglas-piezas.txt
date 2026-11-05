@@ -1,0 +1,9 @@
+pieza	jats/c-fm-10-INTRODUCCION.xml
+pieza	jats/c-a-01-CAP01.xml
+pieza	jats/c-a-02-CAP02.xml
+pieza	jats/c-a-03-CAP03.xml
+pieza	jats/c-a-04-CAP04.xml
+pieza	jats/c-a-05-CAP05.xml
+pieza	jats/c-a-06-CAP06.xml
+pieza	jats/c-bm-10-CODA.xml
+pieza	jats/c-bm-11-CV-AUTORES.xml
