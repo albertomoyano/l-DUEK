@@ -531,6 +531,11 @@ function highlightPanel(tipo, id) {
   );
   if (textoEl) textoEl.classList.add('selected');
 
+  // EN PANTALLAS ANGOSTAS EL PANEL ES UN CAJÓN CERRADO: SE ABRE, PORQUE SI NO
+  // EL CLIC NO MOSTRABA NADA
+  var panelDerecho = document.getElementById('rightPanel');
+  if (panelDerecho && getComputedStyle(panelDerecho).display === 'none') openDrawerPanel();
+
   // RESALTAR EN EL PANEL CON DELAY PARA ESPERAR DISPLAY
   switchTab(tipo);
   setTimeout(function() {
@@ -544,9 +549,40 @@ function highlightPanel(tipo, id) {
     }
     if (target) {
       target.classList.add('highlighted');
-      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      desplazarEnPanel(target);
     }
   }, 100);
+}
+
+// ============================================
+// LLEVAR UN ÍTEM AL TOPE DEL PANEL SIN MOVER LA PÁGINA
+// ============================================
+// scrollIntoView DESPLAZA TODOS LOS CONTENEDORES, LA VENTANA INCLUIDA: CON
+// EL PANEL FIJO, LA PÁGINA SALTABA Y EL TEXTO QUE SE ESTABA LEYENDO SE IBA.
+// - PANEL FIJO (sticky O CAJÓN fixed): SE DESPLAZA SOLO EL CONTENEDOR DEL
+//   PANEL QUE TIENE DESPLAZAMIENTO PROPIO; SI EL ÍTEM YA ESTÁ A LA VISTA
+//   (POCAS NOTAS), NO SE MUEVE NADA.
+// - PANEL EN EL FLUJO (TELÉFONO: VA DEBAJO DEL TEXTO): SE DESPLAZA LA
+//   PÁGINA HASTA EL ÍTEM, COMO ANTES.
+function desplazarEnPanel(target) {
+  var panel = document.getElementById('rightPanel');
+  if (!panel || getComputedStyle(panel).position === 'static') {
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return;
+  }
+  var c = target.parentElement;
+  while (c) {
+    var oy = getComputedStyle(c).overflowY;
+    if (oy === 'auto' || oy === 'scroll') {
+      c.scrollTo({
+        top: c.scrollTop + target.getBoundingClientRect().top - c.getBoundingClientRect().top,
+        behavior: 'smooth'
+      });
+      return;
+    }
+    if (c === panel) return;
+    c = c.parentElement;
+  }
 }
 
 // ============================================
@@ -629,6 +665,9 @@ function irAlTexto(arg1, arg2) {
 function togglePanel() {
   var layout = document.getElementById('mainLayout');
   var btn    = document.getElementById('panelToggle');
+  // EL HTML INTEGRADO AL PORTAL NO TIENE BOTÓN: SU PANEL SIEMPRE ESTÁ.
+  // SIN ESTA GUARDA, EL PRIMER CLIC EN UNA CITA FALLABA ACÁ Y NO ABRÍA NADA
+  if (!btn) return;
   panelVisible = !panelVisible;
   layout.classList.toggle('panel-hidden', !panelVisible);
   btn.textContent = panelVisible ? '\u2190 Ocultar panel' : '\u2192 Mostrar panel';
