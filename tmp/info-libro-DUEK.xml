@@ -57,12 +57,12 @@ Con una escritura sensible, sustentada en herramientas de la sociología y los e
 Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobre las maneras en que las personas intentaron sostener vínculos, rutinas, proyectos y sentidos en un mundo atravesado por la incertidumbre.</para>
   </abstract>
   <bibliomisc role="descripcion">Descripción del libro</bibliomisc>
-  <bibliomisc role="tipo-acceso">abierto</bibliomisc>
+  <bibliomisc role="tipo-acceso">mixto</bibliomisc>
   <legalnotice role="licencia">
     <para>CC BY-NC-ND 4.0</para>
     <para><link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</link></para>
   </legalnotice>
-  <bibliomisc role="url-libro">https://creativecommons.org/licenses/by-nc-nd/4.0/</bibliomisc>
+  <bibliomisc role="url-libro">https://albertomoyano.github.io/L-IMAGO/</bibliomisc>
   <bibliomisc role="repo-produccion-privado">yes</bibliomisc>
   <bibliomisc role="estilo-cita">verona-modern</bibliomisc>
   <mediaobject role="tapa">

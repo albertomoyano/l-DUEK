@@ -20,6 +20,7 @@
   --color-quote-bar:        #2d5a8e;
   --color-tabla-fila:       #eef2f6;   /* AZUL 8%: filas alternas de tabla */
   --color-tabla-header:     #d9e1eb;   /* AZUL 18%: header de tabla */
+  --color-tabla-filete:     #cccccc;   /* FILETE ENTRE CELDAS, EL DEL EPUB */
 
   --font-serif:  'Noto Serif', Georgia, serif;
   --font-sans:   'IBM Plex Sans', system-ui, sans-serif;
@@ -1366,9 +1367,10 @@ em em { font-style: normal; }
 /* ────────────────────────────────────────────────────────────────────
    TABLAS
    ────────────────────────────────────────────────────────────────────
-   Sin rayas horizontales ni bordes verticales. La separación de filas
-   se da por color de fondo alternado (una sí, una no). El header lleva
-   un azul más marcado que las filas. Ambos tonos derivan del azul default. */
+   EL MODELO DEL EPUB (decisión de Alberto, 22/10): UN FILETE ENTRE TODAS
+   LAS CELDAS, QUE ES LO QUE HACE LEGIBLES LAS CELDAS UNIDAS DE UN CUADRO
+   (SC-66), Y EL ENCABEZADO CON FONDO. EL FONDO ES EL GRIS AZULADO DE LA
+   CASA (--color-tabla-header), NO EL GRIS DEL EPUB. SIN FILAS ALTERNAS. */
 .tabla-wrapper {
   margin: 1.75rem 0;
   overflow-x: auto;   /* SCROLL HORIZONTAL EN TABLAS ANCHAS */
@@ -1391,17 +1393,26 @@ em em { font-style: normal; }
   background: var(--color-tabla-header);   /* AZUL 18% */
   font-weight: 600;
   text-align: left;
-  padding: 0.6rem 0.9rem;
-  border: none;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid var(--color-tabla-filete);
 }
 .tabla-datos td {
-  padding: 0.55rem 0.9rem;
-  border: none;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid var(--color-tabla-filete);
 }
-/* FILAS ALTERNAS: la PAR lleva fondo azul suave, la IMPAR queda limpia */
-.tabla-datos tbody tr:nth-child(even) td {
-  background: var(--color-tabla-fila);   /* AZUL 8% */
+/* CUADRO (SC-66): DEBAJO DE LA TABLA, COMO EN EL PDF, «Cuadro N» CON EL
+   TÍTULO Y LA NOTA */
+.cuadro-pie {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  margin: 0.5rem 0 0;
 }
+.cuadro-label { font-weight: 600; }
+.cuadro-nota {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+}
+.cuadro-nota p { margin: 0.25rem 0 0; }
 
 /* CÓDIGO (SC-42). LA PALETA ES Gruvbox, LA DEL TEMA DE LA APLICACIÓN
    (.hidden/themes/gruvbox.theme). LOS TOKENS SON LAS CLASES DE
@@ -1823,3 +1834,27 @@ dl.lista-definicion {
   column-gap: 1cm;
   margin: 1.5em 0;
 }
+
+/* LA LISTA DE SIGLAS DEL LIBRO (1.18.0): DOS COLUMNAS, LA SIGLA Y SU
+   DESARROLLO, COMO EN EL PDF. LA PRIMERA MIDE LO QUE LA SIGLA MÁS ANCHA
+   (max-content). UN LECTOR SIN GRID LA MUESTRA COMO UNA LISTA DE
+   DEFINICIONES COMÚN, CON EL DESARROLLO DEBAJO */
+dl.siglas {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 1.5em;
+  row-gap: 0.2em;
+  margin: 1em 0;
+}
+dl.siglas dt { grid-column: 1; margin: 0; font-weight: normal; }
+dl.siglas dd { grid-column: 2; margin: 0; }
+
+/* EL GLOSARIO DEL LIBRO (1.18.0): PÁRRAFO FRANCÉS, COMO EN EL PDF. EL
+   TÉRMINO (<dfn>) EN NEGRITA Y « – » ABREN EL PRIMER PÁRRAFO; LAS LÍNEAS SIGUIENTES
+   Y LOS DEMÁS PÁRRAFOS VAN SANGRADOS. UNA LETRA POR SECCIÓN */
+.glosario-letra-titulo { font-size: 1.2em; margin: 1.5em 0 0.5em 0; }
+.glosario-entrada { margin: 0 0 0.5em 0; }
+.glosario-entrada p { margin: 0; padding-left: 1.5em; text-indent: -1.5em; }
+.glosario-entrada p + p { text-indent: 0; }
+.glosario-entrada dfn { font-style: normal; font-weight: bold; }
+.glosario-entrada dfn em, .glosario-entrada dfn i { font-style: italic; }
