@@ -155,23 +155,33 @@ body.libro-integrado { font-family: var(--font-serif); }
 .pasos-pie .paso-siguiente { text-align: right; margin-left: auto; }
 .pasos-pie small { display: block; color: var(--color-text-muted); font-size: 0.8rem; }
 
-/* --- 8. LA PÁGINA DE ENTRADA: PORTADA Y CRÉDITOS ---
-   LAS CLASES SON LAS DE LAS PÁGINAS DEL EPUB (m_GenerarEpubLibro) */
+/* --- 8. LAS PRIMERAS: PORTADA, CRÉDITOS Y DEDICATORIA ---
+   UNA PÁGINA CADA UNA (DECISIÓN DE ALBERTO, 05/11/2026). LAS CLASES SON LAS
+   DE LAS PÁGINAS DEL EPUB (m_GenerarEpubLibro).
+   LOS LOGOS: EN EL DISEÑO SE ARMAN AL ANCHO DE LA CAJA, 11 cm (A 300 ppp,
+   1299 px: EL ANCHO DE logo-portada Y DE logo-coleccion). EN PANTALLA LA
+   CAJA ES LA COLUMNA DEL TEXTO, ASÍ QUE LOS DOS VAN AL 100 % DE ELLA:
+   600 px, EL MISMO ANCHO EN LA PORTADA Y EN LOS CRÉDITOS */
 .inicio-libro { font-family: var(--font-serif); }
-.portada-libro { text-align: center; padding: 3rem 0 4rem; border-bottom: 1px solid var(--color-border); }
+.portada-libro { text-align: center; padding: 3rem 0 2rem; }
 .portada-autores { font-size: 1.3rem; }
 .portada-leyenda { color: var(--color-text-muted); margin-top: 0.2rem; }
 .portada-titulo { font-size: 2.4rem; line-height: 1.2; margin: 3rem 0 0.5rem; }
 .portada-subtitulo { font-size: 1.3rem; color: var(--color-text-muted); }
 .portada-logo { margin-top: 4rem; }
-.portada-logo img { display: inline-block; max-height: 70px; width: auto; }
-.creditos-libro { padding: 2.5rem 0; font-size: 0.85rem; color: var(--color-text-muted); }
-.creditos-libro p { margin-bottom: 0.75rem; }
-.creditos-logo img { display: block; max-height: 80px; width: auto; margin-bottom: 1.5rem; }
-.creditos-titulo, .creditos-subtitulo, .creditos-autor { color: var(--color-text); }
-.creditos-titulo { font-size: 1.1rem; font-weight: 600; }
+.portada-logo img,
+.creditos-logo img { display: block; width: 100%; height: auto; }
+/* LOS CRÉDITOS, CON EL TEXTO DEL LIBRO: EL TAMAÑO, EL INTERLINEADO, EL COLOR
+   Y LA SEPARACIÓN ENTRE PÁRRAFOS DE .article-body (gbpublisher.css) */
+.creditos-libro {
+  padding: 3rem 0 2rem;
+  font-size: var(--text-base); line-height: 1.7; color: var(--color-text);
+}
+.creditos-libro p { margin-bottom: 1.25em; }
+.creditos-logo { margin-bottom: 2rem; }
+.creditos-titulo { font-size: var(--text-lg); font-weight: 600; }
 .creditos-datos { margin-top: 1rem; }
-.inicio-libro .dedicatoria { padding: 2rem 0; border-top: 1px solid var(--color-border); }
+.inicio-libro .dedicatoria { padding: 4rem 0 2rem; }
 
 /* --- 9. PANTALLAS ANGOSTAS: EL PANEL COMO CAJÓN ---
    gbpublisher.css PASA A CAJONES DEBAJO DE 1200 px Y OCULTA EL BOTÓN DEL
