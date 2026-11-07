@@ -1,28 +1,28 @@
 <header class="cabecera">
    <div class="contenedor">
       <div class="franja">
-         <a class="logo" href="https://albertomoyano.github.io/L-IMAGO/pt/">
+         <a class="logo" href="https://monumental-tapioca-7b0eaf.netlify.app/">
             <img src="../media/logo-portal-b6e5c4fa.png" alt="Ediciones Imago Mundi"/>
          </a>
          <nav class="menu">
             <ul>
                <li>
-                  <a href="https://albertomoyano.github.io/L-IMAGO/pt/index.html">Início</a>
+                  <a href="https://monumental-tapioca-7b0eaf.netlify.app/index.html">Inicio</a>
                </li>
                <li>
-                  <a href="https://albertomoyano.github.io/L-IMAGO/pt/catalogo/index.html">Catálogo</a>
+                  <a href="https://monumental-tapioca-7b0eaf.netlify.app/catalogo/index.html">Catálogo</a>
                </li>
                <li class="grupo">
-                  <span class="grupo-titulo" tabindex="0">Sobre</span>
+                  <span class="grupo-titulo" tabindex="0">Acerca de</span>
                   <ul class="submenu">
                      <li>
-                        <a href="https://albertomoyano.github.io/L-IMAGO/pt/sobre-la-editorial/index.html">Sobre a editora</a>
+                        <a href="https://monumental-tapioca-7b0eaf.netlify.app/sobre-la-editorial/index.html">Sobre la editorial</a>
                      </li>
                      <li>
-                        <a href="https://albertomoyano.github.io/L-IMAGO/pt/sobre-las-colecciones/index.html">Sobre as coleções</a>
+                        <a href="https://monumental-tapioca-7b0eaf.netlify.app/sobre-las-colecciones/index.html">Sobre las colecciones</a>
                      </li>
                      <li>
-                        <a href="https://albertomoyano.github.io/L-IMAGO/pt/contacto/index.html">Contato</a>
+                        <a href="https://monumental-tapioca-7b0eaf.netlify.app/contacto/index.html">Contacto</a>
                      </li>
                   </ul>
                </li>
@@ -32,17 +32,14 @@
       <div class="herramientas">
          <div class="buscar-compartir">
             <form class="buscar" role="search" onsubmit="return false">
-               <input type="search"
-                      name="q"
-                      placeholder="Pesquisar"
-                      aria-label="Pesquisar"/>
+               <input type="search" name="q" placeholder="Buscar" aria-label="Buscar"/>
             </form>
-            <nav class="compartir" aria-label="Compartilhar">
+            <nav class="compartir" aria-label="Compartir">
                <a href="https://www.facebook.com/sharer.php?u={u}&amp;t={t}"
                   target="_blank"
                   rel="noopener"
-                  aria-label="Compartilhar em Facebook"
-                  title="Compartilhar em Facebook">
+                  aria-label="Compartir en Facebook"
+                  title="Compartir en Facebook">
                   <svg xmlns="http://www.w3.org/2000/svg"
                        viewBox="0 0 640 640"
                        class="icono"
@@ -55,8 +52,8 @@
                <a href="https://twitter.com/intent/tweet?url={u}&amp;text={t}"
                   target="_blank"
                   rel="noopener"
-                  aria-label="Compartilhar em X"
-                  title="Compartilhar em X">
+                  aria-label="Compartir en X"
+                  title="Compartir en X">
                   <svg xmlns="http://www.w3.org/2000/svg"
                        viewBox="0 0 640 640"
                        class="icono"
@@ -69,8 +66,8 @@
                <a href="https://www.linkedin.com/sharing/share-offsite/?url={u}"
                   target="_blank"
                   rel="noopener"
-                  aria-label="Compartilhar em LinkedIn"
-                  title="Compartilhar em LinkedIn">
+                  aria-label="Compartir en LinkedIn"
+                  title="Compartir en LinkedIn">
                   <svg xmlns="http://www.w3.org/2000/svg"
                        viewBox="0 0 640 640"
                        class="icono"
@@ -83,8 +80,8 @@
                <a href="https://api.whatsapp.com/send/?text={t}%20{u}"
                   target="_blank"
                   rel="noopener"
-                  aria-label="Compartilhar em WhatsApp"
-                  title="Compartilhar em WhatsApp">
+                  aria-label="Compartir en WhatsApp"
+                  title="Compartir en WhatsApp">
                   <svg xmlns="http://www.w3.org/2000/svg"
                        viewBox="0 0 640 640"
                        class="icono"
@@ -97,8 +94,8 @@
                <a href="https://telegram.me/share/url?url={u}&amp;text={t}"
                   target="_blank"
                   rel="noopener"
-                  aria-label="Compartilhar em Telegram"
-                  title="Compartilhar em Telegram">
+                  aria-label="Compartir en Telegram"
+                  title="Compartir en Telegram">
                   <svg xmlns="http://www.w3.org/2000/svg"
                        viewBox="0 0 640 640"
                        class="icono"
@@ -111,8 +108,8 @@
                <a href="https://bsky.app/intent/compose?text={t}%20{u}"
                   target="_blank"
                   rel="noopener"
-                  aria-label="Compartilhar em Bluesky"
-                  title="Compartilhar em Bluesky">
+                  aria-label="Compartir en Bluesky"
+                  title="Compartir en Bluesky">
                   <svg xmlns="http://www.w3.org/2000/svg"
                        viewBox="0 0 640 640"
                        class="icono"
@@ -125,8 +122,8 @@
                <a href="https://www.reddit.com/submit?url={u}&amp;title={t}"
                   target="_blank"
                   rel="noopener"
-                  aria-label="Compartilhar em Reddit"
-                  title="Compartilhar em Reddit">
+                  aria-label="Compartir en Reddit"
+                  title="Compartir en Reddit">
                   <svg xmlns="http://www.w3.org/2000/svg"
                        viewBox="0 0 640 640"
                        class="icono"
@@ -139,8 +136,8 @@
                <a href="mailto:?subject={t}&amp;body={u}"
                   target="_blank"
                   rel="noopener"
-                  aria-label="Enviar por e-mail"
-                  title="Enviar por e-mail">
+                  aria-label="Enviar por correo"
+                  title="Enviar por correo">
                   <svg xmlns="http://www.w3.org/2000/svg"
                        viewBox="0 0 640 640"
                        class="icono"

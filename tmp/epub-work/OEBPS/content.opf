@@ -12,8 +12,9 @@
 <meta refines="#creador2" property="file-as">Duek, Carolina</meta>
 <dc:publisher>Ediciones Imago Mundi</dc:publisher>
 <dc:date>2026</dc:date>
+<dc:description>Descripción del libro</dc:description>
 <dc:rights>https://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
-<meta property="dcterms:modified">2026-10-29T09:23:20Z</meta>
+<meta property="dcterms:modified">2026-11-06T07:45:09Z</meta>
 <meta name="cover" content="cover-image"/>
 </metadata>
 <manifest>
@@ -23,14 +24,9 @@
 <item id="font-notoserif-bold" href="fonts/NotoSerif-Bold.ttf" media-type="font/ttf"/>
 <item id="font-notoserif-italic" href="fonts/NotoSerif-Italic.ttf" media-type="font/ttf"/>
 <item id="font-notoserif-bolditalic" href="fonts/NotoSerif-BoldItalic.ttf" media-type="font/ttf"/>
-<item id="img-logo-portada-png" href="images/logo-portada.png" media-type="image/png"/>
-<item id="img-logo-revista-png" href="images/logo-revista.png" media-type="image/png"/>
-<item id="img-logo-coleccion-png" href="images/logo-coleccion.png" media-type="image/png"/>
-<item id="img-desconocido-png" href="images/desconocido.png" media-type="image/png"/>
 <item id="cover-image" href="images/foto-tapa.png" media-type="image/png" properties="cover-image"/>
-<item id="img-logo-cabecera-png" href="images/logo-cabecera.png" media-type="image/png"/>
-<item id="img-1000422158-png" href="images/1000422158.png" media-type="image/png"/>
-<item id="img-falta-tapa-png" href="images/falta-tapa.png" media-type="image/png"/>
+<item id="img-logo-portada-png" href="images/logo-portada.png" media-type="image/png"/>
+<item id="img-logo-coleccion-png" href="images/logo-coleccion.png" media-type="image/png"/>
 <item id="tapa" href="chapters/front-tapa.xhtml" media-type="application/xhtml+xml"/>
 <item id="portada" href="chapters/front-portada.xhtml" media-type="application/xhtml+xml"/>
 <item id="creditos" href="chapters/front-creditos.xhtml" media-type="application/xhtml+xml"/>

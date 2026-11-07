@@ -1,58 +1,58 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'citas.blg'
-[47] biber:340> INFO - === jue nov  5, 2026, 22:43:48
-[58] Biber.pm:419> INFO - Reading 'citas.bcf'
-[100] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[100] Biber.pm:979> INFO - Found 17 citekeys in bib section 1
-[100] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[100] Biber.pm:979> INFO - Found 24 citekeys in bib section 2
-[100] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[101] Biber.pm:979> INFO - Found 22 citekeys in bib section 3
-[101] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[101] Biber.pm:979> INFO - Found 6 citekeys in bib section 4
-[101] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[101] Biber.pm:979> INFO - Found 17 citekeys in bib section 5
-[101] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[101] Biber.pm:979> INFO - Found 5 citekeys in bib section 6
-[101] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[102] Biber.pm:979> INFO - Found 22 citekeys in bib section 7
-[102] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[131] Biber.pm:4419> INFO - Processing section 1
-[136] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 1
-[139] bibtex.pm:1713> INFO - LaTeX decoding ...
-[190] bibtex.pm:1519> INFO - Found BibTeX data source 'ref-l-DUEK.bib'
-[264] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[264] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[264] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[273] Biber.pm:4419> INFO - Processing section 2
-[274] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 2
-[363] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[363] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[363] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[379] Biber.pm:4419> INFO - Processing section 3
-[379] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 3
-[462] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[462] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[462] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[476] Biber.pm:4419> INFO - Processing section 4
-[476] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 4
-[502] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[502] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[502] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[506] Biber.pm:4419> INFO - Processing section 5
-[506] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 5
-[563] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[563] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[563] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[573] Biber.pm:4419> INFO - Processing section 6
-[573] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 6
-[591] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[591] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[591] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[594] Biber.pm:4419> INFO - Processing section 7
-[594] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 7
-[673] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[673] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[673] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[685] bbl.pm:660> INFO - Writing 'citas.bbl' with encoding 'UTF-8'
-[709] bbl.pm:763> INFO - Output to citas.bbl
+[49] biber:340> INFO - === sáb nov  7, 2026, 13:02:45
+[59] Biber.pm:419> INFO - Reading 'citas.bcf'
+[104] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[104] Biber.pm:979> INFO - Found 17 citekeys in bib section 1
+[105] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[105] Biber.pm:979> INFO - Found 24 citekeys in bib section 2
+[105] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[105] Biber.pm:979> INFO - Found 22 citekeys in bib section 3
+[105] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[105] Biber.pm:979> INFO - Found 6 citekeys in bib section 4
+[106] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[106] Biber.pm:979> INFO - Found 17 citekeys in bib section 5
+[106] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[106] Biber.pm:979> INFO - Found 5 citekeys in bib section 6
+[106] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[106] Biber.pm:979> INFO - Found 22 citekeys in bib section 7
+[106] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[136] Biber.pm:4419> INFO - Processing section 1
+[142] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 1
+[145] bibtex.pm:1713> INFO - LaTeX decoding ...
+[199] bibtex.pm:1519> INFO - Found BibTeX data source 'ref-l-DUEK.bib'
+[277] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[277] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[277] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[286] Biber.pm:4419> INFO - Processing section 2
+[286] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 2
+[380] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[380] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[380] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[397] Biber.pm:4419> INFO - Processing section 3
+[397] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 3
+[486] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[486] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[486] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[501] Biber.pm:4419> INFO - Processing section 4
+[501] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 4
+[528] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[528] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[528] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[533] Biber.pm:4419> INFO - Processing section 5
+[533] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 5
+[593] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[593] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[593] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[603] Biber.pm:4419> INFO - Processing section 6
+[603] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 6
+[622] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[622] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[622] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[625] Biber.pm:4419> INFO - Processing section 7
+[625] Biber.pm:4610> INFO - Looking for bibtex file 'ref-l-DUEK.bib' for section 7
+[707] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[707] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[707] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[720] bbl.pm:660> INFO - Writing 'citas.bbl' with encoding 'UTF-8'
+[745] bbl.pm:763> INFO - Output to citas.bbl

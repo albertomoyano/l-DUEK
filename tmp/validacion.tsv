@@ -1,6 +1,20 @@
+jats/c-a-01-CAP01.xml	bien_formado	ok	bien formado
+jats/c-a-01-CAP01.xml	vigencia	ok	vigente respecto de sus archivos fuente (1 archivo(s) fuente sin cambios)
+jats/c-a-02-CAP02.xml	bien_formado	ok	bien formado
+jats/c-a-02-CAP02.xml	vigencia	ok	vigente respecto de sus archivos fuente (1 archivo(s) fuente sin cambios)
+jats/c-a-03-CAP03.xml	bien_formado	ok	bien formado
+jats/c-a-03-CAP03.xml	vigencia	ok	vigente respecto de sus archivos fuente (1 archivo(s) fuente sin cambios)
+jats/c-a-04-CAP04.xml	bien_formado	ok	bien formado
+jats/c-a-04-CAP04.xml	vigencia	ok	vigente respecto de sus archivos fuente (1 archivo(s) fuente sin cambios)
+jats/c-a-05-CAP05.xml	bien_formado	ok	bien formado
+jats/c-a-05-CAP05.xml	vigencia	ok	vigente respecto de sus archivos fuente (1 archivo(s) fuente sin cambios)
+jats/c-a-06-CAP06.xml	bien_formado	ok	bien formado
+jats/c-a-06-CAP06.xml	vigencia	ok	vigente respecto de sus archivos fuente (1 archivo(s) fuente sin cambios)
+jats/c-bm-10-CODA.xml	bien_formado	ok	bien formado
+jats/c-bm-10-CODA.xml	vigencia	ok	vigente respecto de sus archivos fuente (1 archivo(s) fuente sin cambios)
+jats/c-bm-11-CV-AUTORES.xml	bien_formado	ok	bien formado
+jats/c-bm-11-CV-AUTORES.xml	vigencia	ok	vigente respecto de sus archivos fuente (1 archivo(s) fuente sin cambios)
+jats/c-fm-10-INTRODUCCION.xml	bien_formado	ok	bien formado
+jats/c-fm-10-INTRODUCCION.xml	vigencia	ok	vigente respecto de sus archivos fuente (1 archivo(s) fuente sin cambios)
 jats/c-libro-DUEK.xml	bien_formado	ok	bien formado
 jats/c-libro-DUEK.xml	vigencia	ok	vigente respecto de sus archivos fuente (9 archivo(s) fuente sin cambios)
-jats/c-libro-DUEK.xml	recursos	ok	1 imagen(es) en media/
-jats/c-libro-DUEK.xml	docbook	ok	válido contra el RNG
-jats/c-libro-DUEK.xml	docbook	ok	cumple las reglas Schematron de DocBook
-jats/c-libro-DUEK.xml	proyecto	ok	cumple las reglas de gbpublisher

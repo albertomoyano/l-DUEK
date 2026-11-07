@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marco portal="L-IMAGO" url-base="https://albertomoyano.github.io/L-IMAGO/">
-  <archivo ruta="en/cabecera.html" sha256="f28180ba96dfdd38c9b5e6cad03861f34963f56f8041df5266c7caceaa2cc0c3"/>
-  <archivo ruta="en/pie.html" sha256="a55f9f254d9bdadbd0e07677a67a1c3266ed809206dc750962766248a88bb882"/>
-  <archivo ruta="es/cabecera.html" sha256="b2f78caa4d1a307988efa7f69fdb319421b9d6da087103c0b4d51667f994b89f"/>
-  <archivo ruta="es/pie.html" sha256="d4782cdb43608ad9ab8ee68588108b9ae2ae0c649361e9889e370dff1ae87080"/>
+<marco portal="L-IMAGO" url-base="https://monumental-tapioca-7b0eaf.netlify.app/">
+  <archivo ruta="en/cabecera.xml" sha256="da67a73451eafb3184cdd6e1a512198554b39493f088f786441324b049d0ca46"/>
+  <archivo ruta="en/pie.xml" sha256="a55f9f254d9bdadbd0e07677a67a1c3266ed809206dc750962766248a88bb882"/>
+  <archivo ruta="es/cabecera.xml" sha256="88b4a88b7b6d8003455cda3efa0cccf00ea9ebcb6cdc9478277b6c6757129584"/>
+  <archivo ruta="es/pie.xml" sha256="d4782cdb43608ad9ab8ee68588108b9ae2ae0c649361e9889e370dff1ae87080"/>
   <archivo ruta="fuentes/OFL.txt" sha256="cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"/>
   <archivo ruta="fuentes/noto-sans-mono-normal-400-latin-ext.woff2" sha256="d869ce4fb2175eae7eed8874d0a0f224d8d4456011d97d8e8770e3ea61ebee23"/>
   <archivo ruta="fuentes/noto-sans-mono-normal-400-latin.woff2" sha256="5e956f58e3778f7e98f61a6cb7925e156678242e55116701092a665f366ef28a"/>
@@ -23,6 +23,6 @@
   <archivo ruta="fuentes/noto-serif-normal-600-latin.woff2" sha256="0b141e18131c7721b08b9b9cf8dea115e7b758a4c0c645c1cd3fd5a62243a4c9"/>
   <archivo ruta="marco.css" sha256="47cd5d2e6df5d9377a14696900639268da631f9d59a7fdeb1da4fdeb25ff54ba"/>
   <archivo ruta="media/logo-portal-b6e5c4fa.png" sha256="b6e5c4fad1ae010b2372846dc628a9d3b1317eebaa49ff4c6928dcbb77947940"/>
-  <archivo ruta="pt/cabecera.html" sha256="c64315e467871253825a65ca22018a70f29f7f6537b3d854922a9b7a6a007d7a"/>
-  <archivo ruta="pt/pie.html" sha256="d4782cdb43608ad9ab8ee68588108b9ae2ae0c649361e9889e370dff1ae87080"/>
+  <archivo ruta="pt/cabecera.xml" sha256="5a715478ccc71ce95751530818525ebcd3e10a4f1db76147262055b67080303d"/>
+  <archivo ruta="pt/pie.xml" sha256="d4782cdb43608ad9ab8ee68588108b9ae2ae0c649361e9889e370dff1ae87080"/>
 </marco>
