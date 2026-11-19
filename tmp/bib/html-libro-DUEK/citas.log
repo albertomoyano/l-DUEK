@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=dvilualatex 2025.1.29)  7 NOV 2026 13:02
+This is LuaTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=dvilualatex 2025.1.29)  19 NOV 2026 00:58
  restricted system commands enabled.
 **\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
 de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
@@ -561,7 +561,7 @@ version 2020-10-17-13:53
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
 Package biblatex Info: Delimiter 'multinamedelim' in context '' already defined
-, overwriting on input line 69.
+, overwriting on input line 68.
 ) (./cita-cadenas-es.tex) (./cita-verona-modern-html.tex) (/usr/share/texlive/t
 exmf-dist/tex/generic/tex4ht/hyperref-hooks.4ht
 version 2023-09-17-08:01
@@ -1173,7 +1173,6 @@ Package biblatex Info: Setting label 'refsection:1' on input line 2.
 ] [2
 
 ]
-Package biblatex Info: Resetting trackers on input line 3.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
 .
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
@@ -1186,7 +1185,6 @@ Package biblatex Info: Reference section=0 on input line 23.
 Package biblatex Info: Reference section=2 on input line 2.
 Package biblatex Info: Setting label 'refsection:2' on input line 2.
 [4]
-Package biblatex Info: Resetting trackers on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1200,9 +1198,7 @@ Package biblatex Info: Reference section=0 on input line 33.
 \blx@sectionciteorder@3=\count428
 Package biblatex Info: Reference section=3 on input line 2.
 Package biblatex Info: Setting label 'refsection:3' on input line 2.
-[6]
-Package biblatex Info: Resetting trackers on input line 3.
-[7
+[6] [7
 
 ]
 Package biblatex Info: Reference section=0 on input line 32.
@@ -1212,7 +1208,6 @@ Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference section=4 on input line 2.
 Package biblatex Info: Setting label 'refsection:4' on input line 2.
 [8]
-Package biblatex Info: Resetting trackers on input line 3.
 Package biblatex Info: Reference section=0 on input line 16.
 ) (./c-a-04-CAP04.tex
 \blx@maxsegment@5=\count431
@@ -1223,9 +1218,7 @@ Package biblatex Info: Setting label 'refsection:5' on input line 2.
 
 ] [10
 
-]
-Package biblatex Info: Resetting trackers on input line 3.
-[11]
+] [11]
 Package biblatex Info: Reference section=0 on input line 22.
 ) (./c-a-05-CAP05.tex
 \blx@maxsegment@6=\count433
@@ -1233,7 +1226,6 @@ Package biblatex Info: Reference section=0 on input line 22.
 Package biblatex Info: Reference section=6 on input line 2.
 Package biblatex Info: Setting label 'refsection:6' on input line 2.
 [12]
-Package biblatex Info: Resetting trackers on input line 3.
 Package biblatex Info: Reference section=0 on input line 12.
 ) (./c-a-06-CAP06.tex
 \blx@maxsegment@7=\count435
@@ -1244,19 +1236,13 @@ Package biblatex Info: Setting label 'refsection:7' on input line 2.
 
 ] [14
 
-]
-Package biblatex Info: Resetting trackers on input line 3.
-[15]
+] [15]
 Package biblatex Info: Reference section=0 on input line 36.
-) (./c-bm-10-CODA.tex [16]
-Package biblatex Info: Resetting trackers on input line 1.
-) (./c-bm-11-CV-AUTORES.tex [17
+) (./c-bm-10-CODA.tex [16]) (./c-bm-11-CV-AUTORES.tex [17
 
 ] [18
 
-]
-Package biblatex Info: Resetting trackers on input line 1.
-) [19] (./citas.aux
+]) [19] (./citas.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -1275,14 +1261,14 @@ Package logreq Info: Writing requests to 'citas.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26168 strings out of 476548
- 125003,1977958 words of node,token memory allocated
+ 26167 strings out of 476548
+ 125007,1977958 words of node,token memory allocated
  533 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 9 attribute, 66 glue_spec,
  6 attribute_list, 1 write nodes
-   avail lists: 1:2,2:3470,3:2676,4:112,5:815,6:178,7:9922,8:111,9:288,10:102,11
+   avail lists: 1:4,2:3470,3:2676,4:112,5:815,6:177,7:9922,8:111,9:288,10:101,11
 :1035
- 47149 multiletter control sequences out of 65536+600000
+ 47148 multiletter control sequences out of 65536+600000
  36 fonts using 2399527 bytes
  83i,7n,105p,1144b,2691s stack positions out of 10000i,1000n,20000p,200000b,200000s
 Output written on citas.dvi (19 pages, 170408 bytes).
