@@ -98,19 +98,19 @@
     \endentry
     \entry{4176-AVERETT2021}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b39fd4b5fa20dafebc694ffd1bda8f44}{%
+        {{un=0,uniquepart=base,hash=81b0685be124ce503edd6f0a537b0eed}{%
            family={Averett},
            familyi={A\bibinitperiod},
-           given={Kate},
-           giveni={K\bibinitperiod},
+           given={Kate\bibnamedelima Henley},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
-      \strng{fullhash}{b39fd4b5fa20dafebc694ffd1bda8f44}
-      \strng{bibnamehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
-      \strng{authorbibnamehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
-      \strng{authornamehash}{b39fd4b5fa20dafebc694ffd1bda8f44}
-      \strng{authorfullhash}{b39fd4b5fa20dafebc694ffd1bda8f44}
+      \strng{namehash}{81b0685be124ce503edd6f0a537b0eed}
+      \strng{fullhash}{81b0685be124ce503edd6f0a537b0eed}
+      \strng{bibnamehash}{81b0685be124ce503edd6f0a537b0eed}
+      \strng{authorbibnamehash}{81b0685be124ce503edd6f0a537b0eed}
+      \strng{authornamehash}{81b0685be124ce503edd6f0a537b0eed}
+      \strng{authorfullhash}{81b0685be124ce503edd6f0a537b0eed}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2009,11 +2009,14 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{issn}{2618-4052}
       \field{journaltitle}{Revista IRICE}
       \field{langid}{spanish}
       \field{number}{40}
       \field{title}{Impactos de la pandemia en la universidad pública: la mirada de los estudiantes}
       \field{year}{2021}
+      \field{pages}{197\bibrangedash 225}
+      \range{pages}{29}
       \verb{doi}
       \verb 10.35305/revistairice.vi40.1391
       \endverb
@@ -2107,6 +2110,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{issn}{1695-6494}
       \field{journaltitle}{Papeles del CEIC}
       \field{langid}{spanish}
       \field{number}{246}

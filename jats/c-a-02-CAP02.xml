@@ -11,6 +11,8 @@
       <surname>Lemus</surname>
     </personname>
   </author>
+  <bibliomisc role="paginas">21-43</bibliomisc>
+  <bibliomisc role="numero-paginas">23</bibliomisc>
 </info>
 <section xml:id="cap-27.presentacion">
   <title>Presentación</title>
@@ -508,6 +510,7 @@
       <volumenum>1</volumenum>
       <issuenum>246</issuenum>
       <artpagenums>1-16</artpagenums>
+      <biblioid class="issn">1695-6494</biblioid>
       <biblioid class="doi">10.1387/pceic.21916</biblioid>
     </biblioentry>
     <biblioentry xml:id="bib-4249-DALLE2022" pubwork="chapter">
@@ -839,6 +842,8 @@
       <citetitle pubwork="journal">Revista IRICE</citetitle>
       <pubdate>2021</pubdate>
       <issuenum>40</issuenum>
+      <artpagenums>197-225</artpagenums>
+      <biblioid class="issn">2618-4052</biblioid>
       <biblioid class="doi">10.35305/revistairice.vi40.1391</biblioid>
     </biblioentry>
 </bibliography></chapter>

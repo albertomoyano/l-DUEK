@@ -18,6 +18,8 @@
     </personname>
     <uri type="orcid">https://orcid.org/0000-0002-8873-1136</uri>
   </author>
+  <bibliomisc role="paginas">IX-XXII</bibliomisc>
+  <bibliomisc role="numero-paginas">14</bibliomisc>
 </info>
 <para>
   La pandemia fue un acontecimiento disruptivo, que lo transformó todo durante un tiempo considerable y dejó huellas que aún no terminamos de vislumbrar. A seis años del comienzo de la crisis pandémica global y de las medidas de aislamiento en la Argentina, en este libro presentamos una reconstrucción de las experiencias de la vida cotidiana durante ese tiempo diferente. Nuestro objetivo fue visibilizar y dar cuenta de las distintas formas en que se atravesó la pandemia. Aunque fue un hecho social total, produjo una heterogeneidad de experiencias, en parte siguiendo los patrones conocidos de estructuración social como el género, la clase y la edad, pero también generando nuevas desigualdades.
@@ -309,7 +311,7 @@
       <author>
         <personname>
           <surname>Averett</surname>
-          <firstname>Kate</firstname>
+          <firstname>Kate Henley</firstname>
         </personname>
       </author>
       <title>Remote Learning, COVID-19, and Children With Disabilities</title>

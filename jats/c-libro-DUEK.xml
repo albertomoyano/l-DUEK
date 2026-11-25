@@ -2,7 +2,6 @@
   <title>Un tiempo diferente</title>
   <subtitle>Vida cotidiana y pandemia</subtitle>
   <biblioid class="isbn" role="print">978-950-793-487-2</biblioid>
-  <biblioid class="isbn" role="electronic">978-950-793-487-2</biblioid>
   <bibliomisc role="url-descarga-pdf">https://creativecommons.org/licenses/by-nc-nd/4.0/</bibliomisc>
   <bibliomisc role="url-descarga-epub">https://creativecommons.org/licenses/by-nc-nd/4.0/</bibliomisc>
   <editor role="compiler">
@@ -22,7 +21,7 @@
   <publisher>
     <publishername>Ediciones Imago Mundi</publishername>
     <address>
-      <city>Buenos Aires</city>
+      <city>Longchamps</city>
       <country>Argentina</country>
       <email>info@edicionesimagomundi.com</email>
     </address>
@@ -32,12 +31,12 @@
     <titleabbrev>BA</titleabbrev>
   </biblioset>
   <edition role="numeric">1</edition>
-  <bibliomisc role="numero-paginas">150</bibliomisc>
+  <bibliomisc role="numero-paginas">152</bibliomisc>
   <pubdate role="completa">2026-10-01</pubdate>
   <pubdate>2026</pubdate>
   <bibliomisc role="mes-publicacion">Octubre</bibliomisc>
   <bibliomisc role="tipo-libro">compilacion</bibliomisc>
-  <bibliomisc role="estado-publicacion">publicado</bibliomisc>
+  <bibliomisc role="estado-publicacion">en_preparacion</bibliomisc>
   <subjectset scheme="area-conocimiento">
     <subject><subjectterm>Ciencias sociales</subjectterm></subject>
   </subjectset>
@@ -57,7 +56,7 @@ Con una escritura sensible, sustentada en herramientas de la sociología y los e
 Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobre las maneras en que las personas intentaron sostener vínculos, rutinas, proyectos y sentidos en un mundo atravesado por la incertidumbre.</para>
   </abstract>
   <bibliomisc role="descripcion">Descripción del libro</bibliomisc>
-  <bibliomisc role="tipo-acceso">mixto</bibliomisc>
+  <bibliomisc role="tipo-acceso">abierto</bibliomisc>
   <legalnotice role="licencia">
     <para>CC BY-NC-ND 4.0</para>
     <para><link xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</link></para>
@@ -93,6 +92,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
     </personname>
     <uri type="orcid">https://orcid.org/0000-0002-8873-1136</uri>
   </author>
+  <bibliomisc role="paginas">IX-XXII</bibliomisc>
+  <bibliomisc role="numero-paginas">14</bibliomisc>
 <bibliomisc role="seccion-libro">fm</bibliomisc><bibliomisc role="orden-seccion">10</bibliomisc><bibliomisc role="tipo-capitulo">introduccion</bibliomisc></info>
 <para>
   La pandemia fue un acontecimiento disruptivo, que lo transformó todo durante un tiempo considerable y dejó huellas que aún no terminamos de vislumbrar. A seis años del comienzo de la crisis pandémica global y de las medidas de aislamiento en la Argentina, en este libro presentamos una reconstrucción de las experiencias de la vida cotidiana durante ese tiempo diferente. Nuestro objetivo fue visibilizar y dar cuenta de las distintas formas en que se atravesó la pandemia. Aunque fue un hecho social total, produjo una heterogeneidad de experiencias, en parte siguiendo los patrones conocidos de estructuración social como el género, la clase y la edad, pero también generando nuevas desigualdades.
@@ -384,7 +385,7 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
       <author>
         <personname>
           <surname>Averett</surname>
-          <firstname>Kate</firstname>
+          <firstname>Kate Henley</firstname>
         </personname>
       </author>
       <title>Remote Learning, COVID-19, and Children With Disabilities</title>
@@ -494,6 +495,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
       <surname>Lopresti</surname>
     </personname>
   </author>
+  <bibliomisc role="paginas">1-20</bibliomisc>
+  <bibliomisc role="numero-paginas">20</bibliomisc>
 <bibliomisc role="seccion-libro">a</bibliomisc><bibliomisc role="orden-seccion">01</bibliomisc><bibliomisc role="tipo-capitulo">capitulo</bibliomisc></info>
 <section xml:id="cap-26.introduccion">
   <title>Introducción</title>
@@ -1236,6 +1239,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
       <surname>Lemus</surname>
     </personname>
   </author>
+  <bibliomisc role="paginas">21-43</bibliomisc>
+  <bibliomisc role="numero-paginas">23</bibliomisc>
 <bibliomisc role="seccion-libro">a</bibliomisc><bibliomisc role="orden-seccion">02</bibliomisc><bibliomisc role="tipo-capitulo">capitulo</bibliomisc></info>
 <section xml:id="cap-27.presentacion">
   <title>Presentación</title>
@@ -1733,6 +1738,7 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
       <volumenum>1</volumenum>
       <issuenum>246</issuenum>
       <artpagenums>1-16</artpagenums>
+      <biblioid class="issn">1695-6494</biblioid>
       <biblioid class="doi">10.1387/pceic.21916</biblioid>
     </biblioentry>
     <biblioentry xml:id="cap-27-bib-4249-DALLE2022" pubwork="chapter">
@@ -2064,6 +2070,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
       <citetitle pubwork="journal">Revista IRICE</citetitle>
       <pubdate>2021</pubdate>
       <issuenum>40</issuenum>
+      <artpagenums>197-225</artpagenums>
+      <biblioid class="issn">2618-4052</biblioid>
       <biblioid class="doi">10.35305/revistairice.vi40.1391</biblioid>
     </biblioentry>
 </bibliography></chapter><chapter xml:lang="es" xml:id="cap-25"><info>
@@ -2079,6 +2087,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
       <surname>Benítez Larghi</surname>
     </personname>
   </author>
+  <bibliomisc role="paginas">45-60</bibliomisc>
+  <bibliomisc role="numero-paginas">16</bibliomisc>
 <bibliomisc role="seccion-libro">a</bibliomisc><bibliomisc role="orden-seccion">03</bibliomisc><bibliomisc role="tipo-capitulo">capitulo</bibliomisc></info>
 <section xml:id="cap-25.introduccion">
   <title>Introducción</title>
@@ -2489,6 +2499,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
     </personname>
     <uri type="orcid">https://orcid.org/0000-0002-3103-0363</uri>
   </author>
+  <bibliomisc role="paginas">61-79</bibliomisc>
+  <bibliomisc role="numero-paginas">19</bibliomisc>
 <bibliomisc role="seccion-libro">a</bibliomisc><bibliomisc role="orden-seccion">04</bibliomisc><bibliomisc role="tipo-capitulo">capitulo</bibliomisc></info>
 <section xml:id="cap-28.introduccion">
   <title>Introducción</title>
@@ -3049,6 +3061,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
     </personname>
     <uri type="orcid">https://orcid.org/0000-0002-8873-1136</uri>
   </author>
+  <bibliomisc role="paginas">81-95</bibliomisc>
+  <bibliomisc role="numero-paginas">15</bibliomisc>
 <bibliomisc role="seccion-libro">a</bibliomisc><bibliomisc role="orden-seccion">05</bibliomisc><bibliomisc role="tipo-capitulo">capitulo</bibliomisc></info>
 <section xml:id="cap-29.introduccion">
   <title>Introducción</title>
@@ -3351,6 +3365,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
       <surname>Guzzo</surname>
     </personname>
   </author>
+  <bibliomisc role="paginas">97-119</bibliomisc>
+  <bibliomisc role="numero-paginas">23</bibliomisc>
 <bibliomisc role="seccion-libro">a</bibliomisc><bibliomisc role="orden-seccion">06</bibliomisc><bibliomisc role="tipo-capitulo">capitulo</bibliomisc></info>
 <section xml:id="cap-30.introduccion">
   <title>Introducción</title>
@@ -4090,6 +4106,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
     </personname>
     <uri type="orcid">https://orcid.org/0000-0002-8873-1136</uri>
   </author>
+  <bibliomisc role="paginas">121-124</bibliomisc>
+  <bibliomisc role="numero-paginas">4</bibliomisc>
 <bibliomisc role="seccion-libro">bm</bibliomisc><bibliomisc role="orden-seccion">10</bibliomisc><bibliomisc role="tipo-capitulo">otro</bibliomisc></info>
 <para>
   Narrar la pandemia en primera persona es a la vez un desafío y una convicción. El desafío de documentar, organizar y relatar las experiencias de diferentes sujetos durante un período excepcional de encierro y restricciones. La presentación de historias singulares en cada uno de los capítulos en relación con su configuración familiar, con su situación de empleo, con su generación y con sus prácticas culturales (incluyendo en un lugar central el uso de tecnologías), nos permitió poner a prueba la hipótesis inicial de este libro. La pandemia fue experimentada de manera desigual según las condiciones habitacionales, laborales, económicas, el momento biográfico y los vínculos que intervinieron en la construcción de nuevas rutinas, intercambios y posibilidades. Esas desigualdades han quedado plasmadas en las historias, los recuerdos y los contrastes que se pueden tejer entre los relatos que componen este libro. Dijimos al comienzo que estas desigualdades no aparecieron con la pandemia sino que eran preexistentes y se profundizaron durante ese tiempo diferente y excepcional sin escuela, sin relevos, sin <emphasis>changas</emphasis> y con menos recursos para los sectores más vulnerables de la sociedad.
@@ -4124,6 +4142,8 @@ Más que una crónica de la pandemia, estas páginas ofrecen una reflexión sobr
   
   
   
+  <bibliomisc role="paginas">125-126</bibliomisc>
+  <bibliomisc role="numero-paginas">2</bibliomisc>
 <bibliomisc role="seccion-libro">bm</bibliomisc><bibliomisc role="orden-seccion">11</bibliomisc><bibliomisc role="tipo-capitulo">sobre_autores</bibliomisc></info>
 <para>
   <emphasis role="strong">Marina Moguillansky.</emphasis> Doctora en Ciencias Sociales (UBA) y Magíster en Sociología de la Cultura (UNSAM). Es investigadora independiente de CONICET con sede en la Escuela IDAES de la Universidad Nacional de San Martín, donde también es profesora titular de Sociología y dirige actualmente la Maestría en Sociología de la Cultura.
